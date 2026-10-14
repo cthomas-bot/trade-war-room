@@ -50,7 +50,7 @@ def sport_of(ticker):
 
 
 def game_name(rules, fallback):
-    m = re.search(r" the (.+?) (?:pro|college|professional) (?:football|basketball|baseball) game", rules or "", re.I)
+    m = re.search(r" the ((?:(?! the ).)+?) (?:pro|college|professional) (?:football|basketball|baseball) game", rules or "", re.I)
     return m.group(1) if m else fallback
 
 

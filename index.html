@@ -1272,7 +1272,7 @@ function boardPanel(k){
   const f=store.get('ksport')||'ALL',all=store.get('kall')==='1';
   const sports=['ALL',...new Set(k.markets.map(m=>m.sport).filter(Boolean))];
   const ms=k.markets.filter(m=>f==='ALL'||m.sport===f);
-  const G={};ms.forEach(m=>{const key=m.sport+'|'+(m.game||m.event)+'|'+String(m.expectedEnd||'').slice(0,10);(G[key]=G[key]||[]).push(m);});
+  const G={};ms.forEach(m=>{const key=m.sport+'|'+(String(m.event||'').split('-')[1]||m.game);(G[key]=G[key]||[]).push(m);});
   const games=Object.values(G).filter(l=>l.some(m=>m.kind==='GAME'));
   const shown=all?games:games.slice(0,10);
   const row=m=>'<div class="km"><span>'+esc(m.kind==='GAME'?(m.yes||m.title):(m.yes||m.title))+'</span><span class="q"><small>YES</small>'+(m.yesAsk!=null?Math.round(m.yesAsk*100)+'¢':'—')+'</span><span class="q"><small>NO</small>'+(m.noAsk!=null?Math.round(m.noAsk*100)+'¢':'—')+'</span></div>';
