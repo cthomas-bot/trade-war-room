@@ -438,14 +438,14 @@
       "auto": true
     },
     {
-      "auto": true,
-      "dynastyAdj": 1.0,
-      "name": "Jalen Coker",
-      "note": "Sleeper now lists him questionable (quadriceps) as of 12:49 AM PT Oct 14. Earlier: Canales said Oct 12 that Coker (quad) is 'on track' for Week 6 at Philadelphia, and said Oct 13 that he 'looked great' in practice. His status is still TBD after he missed Week 4 and Carolina had a Week 5 bye.",
-      "redraftAdj": 0.98,
       "sleeperId": "11646",
-      "status": "Questionable",
-      "tag": "injury"
+      "name": "Jalen Coker",
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 1:43 PM PT Oct 14.",
+      "tag": "injury",
+      "redraftAdj": 1.0,
+      "dynastyAdj": 1.0,
+      "status": null,
+      "auto": true
     },
     {
       "auto": true,
@@ -736,7 +736,37 @@
       "dynastyAdj": 1.0,
       "status": "Questionable",
       "auto": true
+    },
+    {
+      "sleeperId": "2505",
+      "name": "Darren Waller",
+      "note": "Sleeper now lists him questionable (toe) as of 1:43 PM PT Oct 14.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
+      "status": "Questionable",
+      "auto": true
+    },
+    {
+      "sleeperId": "8144",
+      "name": "Chris Olave",
+      "note": "Sleeper now lists him questionable (illness) as of 1:43 PM PT Oct 14.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
+      "status": "Questionable",
+      "auto": true
+    },
+    {
+      "sleeperId": "9508",
+      "name": "Tyjae Spears",
+      "note": "Sleeper now lists him questionable (knee) as of 1:43 PM PT Oct 14.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
+      "status": "Questionable",
+      "auto": true
     }
   ],
-  "statusChecked": "11:53 AM PT Oct 14"
+  "statusChecked": "1:43 PM PT Oct 14"
 }
