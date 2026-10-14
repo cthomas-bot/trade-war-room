@@ -22,11 +22,12 @@
     {
       "sleeperId": "11559",
       "name": "Michael Penix",
-      "note": "Left the Oct 11 OT loss to BAL with a rib injury, and Tua Tagovailoa played overtime. Oct 12 reports say the injury is not serious and Penix expects to face CHI in Week 6, pending practice participation.",
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 2:43 PM PT Oct 14. Earlier: Left the Oct 11 OT loss to BAL with a rib injury, and Tua Tagovailoa played overtime. Oct 12 reports say the injury is not serious and Penix expects to face CHI in Week 6, pending practice participation.",
       "tag": "injury",
-      "redraftAdj": 0.9,
+      "redraftAdj": 1.0,
       "dynastyAdj": 1.0,
-      "status": "Questionable"
+      "status": null,
+      "auto": true
     },
     {
       "sleeperId": "4892",
@@ -104,11 +105,12 @@
     {
       "sleeperId": "12529",
       "name": "TreVeyon Henderson",
-      "note": "Left the Oct 11 win over Las Vegas with a right ankle injury, his second ankle injury this season, and had an MRI on Oct 12. No diagnosis or timeline has been reported, and his Week 6 status vs. the Jets is uncertain.",
+      "note": "Sleeper now lists him questionable (ankle) as of 2:43 PM PT Oct 14. Earlier: Left the Oct 11 win over Las Vegas with a right ankle injury, his second ankle injury this season, and had an MRI on Oct 12. No diagnosis or timeline has been reported, and his Week 6 status vs. the Jets is uncertain.",
       "tag": "injury",
-      "redraftAdj": 0.8,
-      "dynastyAdj": 0.97,
-      "status": "Doubtful"
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
+      "status": "Questionable",
+      "auto": true
     },
     {
       "sleeperId": "7611",
@@ -338,11 +340,11 @@
     {
       "sleeperId": "1479",
       "name": "Keenan Allen",
-      "note": "Sleeper now lists him questionable (groin) as of 11:53 AM PT Oct 14. Earlier: Returned from a groin injury on Oct 11 vs PIT and led IND in targets (5 catches, 45 yards on 9 targets), though he played only 32 of 71 snaps.",
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 2:43 PM PT Oct 14.",
       "tag": "injury",
-      "redraftAdj": 0.98,
+      "redraftAdj": 1.0,
       "dynastyAdj": 1.0,
-      "status": "Questionable",
+      "status": null,
       "auto": true
     },
     {
@@ -528,14 +530,14 @@
       "tag": "injury"
     },
     {
-      "auto": true,
-      "dynastyAdj": 1.0,
-      "name": "Jeremiyah Love",
-      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 8:27 PM PT Oct 13.",
-      "redraftAdj": 1.0,
       "sleeperId": "13287",
-      "status": null,
-      "tag": "injury"
+      "name": "Jeremiyah Love",
+      "note": "Sleeper now lists him questionable (ankle) as of 2:43 PM PT Oct 14.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
+      "status": "Questionable",
+      "auto": true
     },
     {
       "auto": true,
@@ -648,14 +650,14 @@
       "tag": "injury"
     },
     {
-      "auto": true,
-      "dynastyAdj": 0.98,
-      "name": "CeeDee Lamb",
-      "note": "Sleeper now lists him questionable (quadriceps) as of 8:27 PM PT Oct 13. Earlier: Left the Week 5 loss to Tampa Bay late on Oct 11 with a quad bruise that took a second hit in that game. Rapoport reported it is not believed to be serious, but he is questionable for Week 6 at Green Bay on Oct 18 (Forbes and other outlets, Oct 13).",
-      "redraftAdj": 0.9,
       "sleeperId": "6786",
-      "status": "Questionable",
-      "tag": "injury"
+      "name": "CeeDee Lamb",
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 2:43 PM PT Oct 14.",
+      "tag": "injury",
+      "redraftAdj": 1.0,
+      "dynastyAdj": 0.98,
+      "status": null,
+      "auto": true
     },
     {
       "auto": true,
@@ -730,11 +732,11 @@
     {
       "sleeperId": "5967",
       "name": "Tony Pollard",
-      "note": "Sleeper now lists him questionable (foot) as of 10:44 AM PT Oct 14.",
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 2:43 PM PT Oct 14.",
       "tag": "injury",
-      "redraftAdj": 0.98,
+      "redraftAdj": 1.0,
       "dynastyAdj": 1.0,
-      "status": "Questionable",
+      "status": null,
       "auto": true
     },
     {
@@ -766,7 +768,17 @@
       "dynastyAdj": 1.0,
       "status": "Questionable",
       "auto": true
+    },
+    {
+      "sleeperId": "9500",
+      "name": "Josh Downs",
+      "note": "Sleeper now lists him questionable (hamstring) as of 2:43 PM PT Oct 14.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
+      "status": "Questionable",
+      "auto": true
     }
   ],
-  "statusChecked": "1:43 PM PT Oct 14"
+  "statusChecked": "2:43 PM PT Oct 14"
 }
