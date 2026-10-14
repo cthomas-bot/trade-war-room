@@ -36,7 +36,9 @@ jobs:
           git config user.email "game-data@users.noreply.github.com"
           git commit -m "Game data $(TZ=America/Los_Angeles date '+%Y-%m-%d %H:%M PT')"
           for i in 1 2 3; do
-            git pull --rebase origin main && git push origin HEAD:main && exit 0
+            # generated files: on a conflict keep this run's fresh copy
+            git pull --rebase -X theirs origin main && git push origin HEAD:main && exit 0
+            git rebase --abort 2>/dev/null || true
             sleep 5
           done
           exit 1
