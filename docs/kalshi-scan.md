@@ -1,57 +1,45 @@
-# Kalshi Sports Scan — rules for the daily scan (condensed from the user's framework)
+# Daily bet scan — rules and output (Bets tab)
 
-Research, not a trading bot. It never places orders. No method guarantees profit; any stake can be lost.
+Research only: this never places orders. No method guarantees profit.
 
-## Nonnegotiables
-- Sports only: MLB, NFL, college football, NBA, when actually scheduled (verify the schedule). No political or nonsports markets.
-- **No Seattle Seahawks exposure of any kind** (their games, team or player props, bets against them, entries containing them).
-- Straight, clearly understood contracts by default. Never add legs to raise a payout. Avoid correlated exposure (same game/player/outcome).
-- **PASS is a successful result.** Never force a pick, chase losses or a moving price, or bet on popularity/streaks/"a chance of a comeback".
-- Stakes: **$5 default, $10 ceiling, including fees**, only for unusually well-supported opportunities within the user's budget. If no bankroll and daily cap are set, the scan is research-only: conditional candidates, no funded direction. Never invent limits.
-- PrizePicks (NFL Sunday only, when requested) uses a separate bankroll and ledger.
+## User's rules
+- Sports: MLB, NFL, college football, NBA when actually scheduled (verify). No political/nonsports markets.
+- No Seattle Seahawks picks (the user never bets them) — show a Seahawks game only as "SKIP".
+- Bankroll: **$50 per week, $5–10 per day**. Default stake $5; $10 only for the strongest YES.
+- No chasing losses, no bigger stakes after a loss.
+- Straight bets by default. Parlays are for fun only: 2–4 legs that are each likely (e.g. anytime TDs for heavy-usage players, a solid favorite), total around +400 or shorter. Never +1000 longshots.
+- Use correct, current data: verify schedule, lines from at least two books, injuries, lineups/probable pitchers, weather. Never invent prices, injuries or stats. If a trend the user mentions isn't real, say so plainly.
 
-## Workflow
-1. Identify the event (date, teams, venue, start time PT, ticker) and verify it is scheduled.
-2. Read the exact contract: purchased side, threshold, settlement source, OT/ties/postponement rules. NO is the complement of the defined event.
-3. Capture executable terms: bid/ask, quantity, quote timestamp, fees. The snapshot in `kalshi.json` is a research snapshot, not a fresh executable quote — candidates are conditional on rechecking it.
-4. Evidence: official lineups/injury reports, probable pitchers, weather, named beat reporters, transparent models, multiple sportsbooks (de-vig: r1/(r1+r2); American +A → 100/(A+100), −A → A/(A+100)). Label confirmed facts vs reported expectations vs model estimates vs inference. Never invent prices, injuries, sources or probabilities.
-5. Build a defensible probability range for the purchased side (state the basis; a judgment range is not a confidence interval).
-6. Price after costs, conservative end of the range.
+## How to call each game
+For every game on today's slate give ONE pick — the best of moneyline side, spread, or game total (over/under) — and a call:
+- **YES** — bet it. Our probability beats the price after fees by a real margin (aim for ≥3 points at the conservative end). Green on the site.
+- **LEAN** — we like the side but the price is about fair; small/optional.
+- **WAIT** — could become a YES; give the exact trigger (price, injury news) and when to recheck.
+- **PASS** — no clear side (shows as "NO CLEAR SIDE").
+Compare Kalshi prices (kalshi.json snapshot; recheck live before betting) with de-vigged sportsbook odds: American +A → 100/(A+100), −A → A/(A+100); de-vig two sides r1/(r1+r2). Kalshi taker fee ≈ ceil(0.07 × contracts × p × (1−p)) to the cent.
 
-## Math ($1/$0 binary held to settlement)
-- C = n·q + F; break-even p_BE = q + F/n; edge pp = 100·(p − p_BE); EV = n·p − C; win nets n − C; loss is −C.
-- Kalshi general taker fee (verify against the official schedule / order preview): ceil(0.07 × n × q × (1 − q)) to the cent.
-- Screening buffer: **≥ 3 pp of edge at the LOW end of the range after costs**, plus strong evidence and no unresolved material facts. q_max = p_low − 0.03 − F/n (fixed fees).
-- Unknown fees, stale quotes, ambiguous settlement, unresolved lineup/injury news, or an edge that vanishes under conservative assumptions → WATCH or PASS.
+**Keep text short:** each "why" is one sentence (~15 words max). No essays.
 
-## Verdicts
-- **PASS** — fails the screen, weak evidence, excluded, or essential info missing. $0.
-- **WATCH** — a specific price or confirmation could change it. $0 now; state the trigger and recheck time.
-- **QUALIFIED CANDIDATE** — clears the guardrails at a verified price; up to $5 (≤ $10 under budget rules); recheck before entry.
-At most three candidates. Zero is fine. A "lean" never overrides PASS.
+## Extra sections
+- **Primetime** (on days with an upcoming TNF/SNF/MNF this week): one card per game with line, pick, call, 1–2 solid props, recheck. TNF: also report the season's real TNF underdog record (straight up / ATS) with a source.
+- **Sunday props** (NFL Sundays): best props split into Morning (10 AM PT), Afternoon (1 PM PT) and Late (SNF) slates, 2–4 per slate, realistic lines with odds.
+- **Fun parlay** (optional): 2–4 likely legs, ≤ about +400.
 
-## Output: `bets.json` (read by the site's Bets tab)
+## Output: `bets.json` at the repo root
 ```json
 {
- "date": "YYYY-MM-DD", "scanned": "YYYY-MM-DD h:mm AM PT", "dataCutoff": "h:mm AM PT",
- "verdict": "No qualifying bets | N conditional candidates",
- "budget": "Research-only: no bankroll or daily cap set",
- "limitations": "what could not be verified (or empty)",
- "candidates": [{
-   "sport": "MLB", "event": "Away @ Home", "startPT": "Wed 5:08 PM PT", "contract": "Team wins (YES)",
-   "ticker": "KX...", "ask": 0.55, "askTime": "9:37 PM PT snapshot", "contracts": 8, "fees": 0.14,
-   "pLow": 0.58, "pMid": 0.60, "pHigh": 0.62, "breakEven": 0.5675, "edgeLow": 1.3, "edgeHigh": 5.3,
-   "evLow": 0.10, "evHigh": 0.42, "maxPrice": 0.53, "maxStake": "$0 (research-only)",
-   "verdict": "PASS | WATCH | QUALIFIED CANDIDATE",
-   "yesMeans": "...", "noMeans": "...",
-   "evidence": [{"text": "claim (source, time)", "url": "https://..."}],
-   "against": "evidence against / uncertainty", "reason": "why this verdict", "recheck": "trigger + time"
- }],
- "watchlist": [{"event": "...", "trigger": "...", "recheck": "..."}],
- "passes": [{"market": "...", "reason": "..."}],
- "prizepicks": null,
- "sources": [{"title": "...", "url": "https://...", "time": "..."}],
- "gaps": ["missing facts / stale data"]
+ "date": "Wed Oct 14", "scanned": "Oct 14, 7:50 AM PT",
+ "slate": [{"sport": "MLB", "game": "Brewers @ Dodgers · NLCS G3", "time": "5:00 PM PT",
+            "pick": "Dodgers ML", "price": "62¢", "call": "YES|LEAN|WAIT|PASS",
+            "why": "one short sentence", "recheck": "short trigger + time, or empty"}],
+ "upcoming": [ same shape — notable games in the next few days, usually WAIT ],
+ "primetime": {"tnf": {"game": "...", "kickoff": "Thu 5:15 PM PT · Prime", "trend": "...", "note": "...", "call": "SKIP|YES|LEAN|PASS"},
+               "games": [{"slot": "SNF", "game": "...", "kickoff": "...", "line": "GB -1.5 · O/U 52.5",
+                          "pick": "...", "price": "...", "call": "...", "why": "...",
+                          "props": [{"pick": "...", "odds": "-150", "why": "..."}], "recheck": "..."}]},
+ "props": [{"slate": "Morning · 10 AM PT", "picks": [{"pick": "...", "odds": "...", "why": "...", "call": "YES|LEAN"}]}],
+ "parlay": {"legs": [{"leg": "...", "odds": "-150"}], "odds": "+300", "why": "...", "call": "FUN"},
+ "sources": [{"title": "...", "url": "https://..."}]
 }
 ```
-Probabilities are 0–1; edges in percentage points; money in dollars.
+Omit "primetime"/"props"/"parlay" (or use null/[]) when there's nothing for them.
