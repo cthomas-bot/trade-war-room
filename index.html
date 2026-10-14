@@ -1217,11 +1217,12 @@ function renderBets(){
   const cnt=v=>cands.filter(c=>c.verdict===v).length;
   const research=!(+bk.kBank>0&&+bk.kCap>0);
   const hero='<section class="hero"><div class="av">◎</div><div style="position:relative;z-index:1;min-width:0"><h1>Kalshi <em>Sports Scan</em></h1><div class="sub">MLB · NFL · College football · NBA — PASS is a successful result. No Seahawks, no politics.</div></div>'+
-    '<div class="pills">'+[[cnt('QUALIFIED CANDIDATE')+cnt('QUALIFIED'),'Qualified'],[cnt('WATCH'),'Watch'],[((b&&b.passes)||[]).length+cnt('PASS'),'Pass'],[research?'—':'$'+(+bk.kBank).toFixed(0),'Bankroll'],[money(ks.stakedToday),'Today']].map(([v,l])=>'<div class="pill"><b>'+esc(v)+'</b><small>'+esc(l)+'</small></div>').join('')+'</div></section>';
+    '<div class="pills">'+[[cnt('QUALIFIED CANDIDATE')+cnt('QUALIFIED'),'Qualified'],[cnt('WATCH')+((b&&b.watchlist)||[]).length,'Watch'],[((b&&b.passes)||[]).length+cnt('PASS'),'Pass'],[research?'—':'$'+(+bk.kBank).toFixed(0),'Bankroll'],[money(ks.stakedToday),'Today']].map(([v,l])=>'<div class="pill"><b>'+esc(v)+'</b><small>'+esc(l)+'</small></div>').join('')+'</div></section>';
   return hero+'<div class="grid"><div class="col colA">'+bankPanel(bk,ks,ps,research)+rulesPanel()+'</div><div class="col colB">'+scanPanel(b)+boardPanel(k)+'</div><div class="col colC">'+calcPanel()+parlayPanel()+'</div></div>';
 }
 function scanPanel(b){
   if(!b)return panel('Today’s Scan','◎','<p class="muted">No scan published yet. The scan runs every morning at 7:43 AM PT and lands here.</p>',{glow:true});
+  const cands=b.candidates||[];
   const vClass=v=>/QUALIFIED/.test(v)?'QUALIFIED':v==='WATCH'?'WATCH':'PASS';
   const link=(t,u)=>u?'<a href="'+esc(u)+'" target="_blank" rel="noopener">'+esc(t)+'</a>':esc(t);
   const card=(c,i)=>{
@@ -1409,7 +1410,7 @@ document.addEventListener('click',e=>{
 });
 $('scrim').onclick=closeProfile;
 document.addEventListener('keydown',e=>{if(e.key==='Escape')closeProfile();});
-document.querySelectorAll('.modes button').forEach(b=>b.onclick=()=>{if(MODE===b.dataset.mode)return;MODE=b.dataset.mode;store.set('mode',MODE);closeProfile();show();});
+document.querySelectorAll('.modes button').forEach(b=>b.onclick=()=>{if(MODE===b.dataset.mode)return;MODE=b.dataset.mode;store.set('mode',MODE);closeProfile();if(SH&&SH.partial&&MODE!=='bets'){SH=null;boot();}else show();});
 $('refresh').onclick=()=>{for(const k in CACHE)delete CACHE[k];SH=null;BETS.loaded=false;boot();};
 function msg(t,err){$('msg').innerHTML=t?'<div class="msg'+(err?' err':'')+'">'+esc(t)+'</div>':'';}
 function ensure(mode){if(!CACHE[mode])CACHE[mode]=loadMode(mode).then(D=>CACHE[mode]=D,e=>{delete CACHE[mode];throw e;});return Promise.resolve(CACHE[mode]);}
@@ -1423,8 +1424,9 @@ async function show(){
 async function boot(){
   $('refresh').disabled=true;
   $('view').innerHTML='<div class="loading"><div class="spin"></div>Loading rosters, values, Vegas lines and projections…</div>';
-  try{SH=await loadShared();await show();
-    ['dynasty','redraft'].filter(m=>m!==MODE).forEach((m,i)=>setTimeout(()=>ensure(m).catch(()=>{}),400+i*300));}
+  try{try{SH=await loadShared();}catch(e){if(MODE!=='bets')throw e;SH={games:{games:[],proj:{},src:{games:'none',proj:'none'}},stats:{weeks:[],data:[]},PL:{},week:0,partial:true};}
+    await show();
+    if(!SH.partial)['dynasty','redraft'].filter(m=>m!==MODE).forEach((m,i)=>setTimeout(()=>ensure(m).catch(()=>{}),400+i*300));}
   catch(e){msg(e.message,true);$('view').innerHTML='';}
   $('refresh').disabled=false;
 }
