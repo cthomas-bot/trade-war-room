@@ -65,18 +65,18 @@
    "t": "ATL"
   },
   "11560": {
-   "changed": "2026-10-14T03:27:13.405269+00:00",
+   "changed": "2026-10-14T07:49:46.658762+00:00",
    "entry": {
     "auto": true,
-    "dynastyAdj": 1.05,
+    "dynastyAdj": 1.0,
     "name": "Caleb Williams",
-    "note": "Sleeper's depth chart now has him as CHI's starting QB as of 8:27 PM PT Oct 13.",
-    "redraftAdj": 1.2,
+    "note": "Sleeper now lists him questionable (hamstring) as of 12:49 AM PT Oct 14.",
+    "redraftAdj": 0.98,
     "sleeperId": "11560",
     "status": "Questionable",
-    "tag": "role_up"
+    "tag": "injury"
    },
-   "i": "Out",
+   "i": "Questionable",
    "qb1": true,
    "t": "CHI"
   },
@@ -125,18 +125,18 @@
    "t": "NYJ"
   },
   "11577": {
-   "changed": "2026-10-14T03:27:13.405269+00:00",
+   "changed": "2026-10-14T07:49:46.658762+00:00",
    "entry": {
     "auto": true,
-    "dynastyAdj": 0.88,
+    "dynastyAdj": 1.0,
     "name": "Will Shipley",
-    "note": "Sleeper now lists him out (foot) as of 8:27 PM PT Oct 13. Earlier: Left the Week 5 London loss to Jacksonville on Oct 11 with a foot injury. Schefter reported a partial plantar fascia tear that could keep him out multiple weeks (FantasyPros Week 6 report, Oct 12-13).",
-    "redraftAdj": 0.5,
+    "note": "Sleeper now lists him doubtful (foot) as of 12:49 AM PT Oct 14.",
+    "redraftAdj": 0.93,
     "sleeperId": "11577",
     "status": "Out",
     "tag": "injury"
    },
-   "i": "Out",
+   "i": "Doubtful",
    "qb1": null,
    "t": "PHI"
   },
@@ -211,34 +211,34 @@
    "t": "KC"
   },
   "11625": {
-   "changed": "2026-10-14T03:27:13.405269+00:00",
+   "changed": "2026-10-14T07:49:46.658762+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 1.0,
     "name": "Adonai Mitchell",
-    "note": "Sleeper now lists him out (finger) as of 8:27 PM PT Oct 13.",
-    "redraftAdj": 0.9,
+    "note": "Sleeper now lists him questionable (finger) as of 12:49 AM PT Oct 14.",
+    "redraftAdj": 0.98,
     "sleeperId": "11625",
-    "status": "Out",
+    "status": "Questionable",
     "tag": "injury"
    },
-   "i": "Out",
+   "i": "Questionable",
    "qb1": null,
    "t": "NYJ"
   },
   "11628": {
-   "changed": "2026-10-14T03:27:13.405269+00:00",
+   "changed": "2026-10-14T07:49:46.658762+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 1.0,
     "name": "Marvin Harrison",
-    "note": "Sleeper now lists him out (coach's decision) as of 8:27 PM PT Oct 13. Earlier: Houston acquired Harrison from Arizona on Oct 11, 2026 for 2027 2nd- and 6th-round picks, which reunites him with his Ohio State teammate C.J. Stroud. He had 5 catches for 85 yards through 4 games in Arizona and was inactive in Week 5 while the trade was being worked out.",
-    "redraftAdj": 0.9,
+    "note": "Cleared: no longer on Sleeper's injury report (was out) as of 12:49 AM PT Oct 14.",
+    "redraftAdj": 0.98,
     "sleeperId": "11628",
-    "status": "Out",
+    "status": null,
     "tag": "injury"
    },
-   "i": "Out",
+   "i": null,
    "qb1": null,
    "t": "HOU"
   },
@@ -300,8 +300,18 @@
    "t": "MIA"
   },
   "11646": {
-   "changed": "2026-10-05T00:54:05.128657+00:00",
-   "i": "Out",
+   "changed": "2026-10-14T07:49:46.658762+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Jalen Coker",
+    "note": "Sleeper now lists him questionable (quadriceps) as of 12:49 AM PT Oct 14. Earlier: Canales said Oct 12 that Coker (quad) is 'on track' for Week 6 at Philadelphia, and said Oct 13 that he 'looked great' in practice. His status is still TBD after he missed Week 4 and Carolina had a Week 5 bye.",
+    "redraftAdj": 0.98,
+    "sleeperId": "11646",
+    "status": "Questionable",
+    "tag": "injury"
+   },
+   "i": "Questionable",
    "qb1": null,
    "t": "CAR"
   },
@@ -456,34 +466,34 @@
    "t": "NYG"
   },
   "12509": {
-   "changed": "2026-10-14T03:27:13.405269+00:00",
+   "changed": "2026-10-14T07:49:46.658762+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 0.97,
     "name": "Tre' Harris",
-    "note": "Sleeper now lists him questionable (hamstring) as of 8:27 PM PT Oct 13. Earlier: Harris left the Oct 11, 2026 game vs. Denver with a hamstring injury after catching 2 of 4 targets for 16 yards. He was questionable to return, which hurts what was supposed to be a lead role with McConkey and Johnston hurt.",
+    "note": "Sleeper now lists him doubtful (hamstring) as of 12:49 AM PT Oct 14.",
     "redraftAdj": 0.85,
     "sleeperId": "12509",
-    "status": "Questionable",
+    "status": "Out",
     "tag": "injury"
    },
-   "i": "Questionable",
+   "i": "Doubtful",
    "qb1": null,
    "t": "LAC"
   },
   "12510": {
-   "changed": "2026-10-14T03:27:13.405269+00:00",
+   "changed": "2026-10-14T07:49:46.658762+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 1.0,
     "name": "Jalen Milroe",
-    "note": "Sleeper now lists him out (coach's decision) as of 8:27 PM PT Oct 13.",
-    "redraftAdj": 0.9,
+    "note": "Cleared: no longer on Sleeper's injury report (was out) as of 12:49 AM PT Oct 14.",
+    "redraftAdj": 0.98,
     "sleeperId": "12510",
-    "status": "Out",
+    "status": null,
     "tag": "injury"
    },
-   "i": "Out",
+   "i": null,
    "qb1": false,
    "t": "SEA"
   },
@@ -560,18 +570,18 @@
    "t": "LV"
   },
   "12529": {
-   "changed": "2026-10-14T03:27:13.405269+00:00",
+   "changed": "2026-10-14T07:49:46.658762+00:00",
    "entry": {
     "auto": true,
-    "dynastyAdj": 0.9,
+    "dynastyAdj": 1.0,
     "name": "TreVeyon Henderson",
-    "note": "Sleeper now lists him out (ankle) as of 8:27 PM PT Oct 13. Earlier: Left the Week 5 win over the Raiders on Oct 11 with an ankle injury. Yahoo and ESPN (Oct 12-13) describe it as a high-ankle sprain that will keep him out multiple weeks. It is his second ankle injury of 2026.",
-    "redraftAdj": 0.6,
+    "note": "Sleeper now lists him doubtful (ankle) as of 12:49 AM PT Oct 14.",
+    "redraftAdj": 0.93,
     "sleeperId": "12529",
     "status": "Out",
     "tag": "injury"
    },
-   "i": "Out",
+   "i": "Doubtful",
    "qb1": null,
    "t": "NE"
   },
@@ -583,18 +593,18 @@
    "t": "WAS"
   },
   "12534": {
-   "changed": "2026-10-14T03:27:13.405269+00:00",
+   "changed": "2026-10-14T07:49:46.658762+00:00",
    "entry": {
     "auto": true,
-    "dynastyAdj": 0.92,
+    "dynastyAdj": 1.0,
     "name": "Kyle Monangai",
-    "note": "Sleeper now lists him out (toe) as of 8:27 PM PT Oct 13. Earlier: Missed Week 5 with turf toe after being ruled out on Oct 9. Bears HC Ben Johnson called it a 'bigger deal than we initially anticipated', and the Week 6 reports (Oct 12-13) list him week-to-week and say it may hamper him for the rest of the season.",
-    "redraftAdj": 0.65,
+    "note": "Sleeper now lists him questionable (toe) as of 12:49 AM PT Oct 14.",
+    "redraftAdj": 0.98,
     "sleeperId": "12534",
-    "status": "Out",
+    "status": "Questionable",
     "tag": "injury"
    },
-   "i": "Out",
+   "i": "Questionable",
    "qb1": null,
    "t": "CHI"
   },
@@ -613,18 +623,18 @@
    "t": "CIN"
   },
   "13268": {
-   "changed": "2026-10-14T03:27:13.405269+00:00",
+   "changed": "2026-10-14T07:49:46.658762+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 1.0,
     "name": "Elijah Sarratt",
-    "note": "Sleeper now lists him out (coach's decision) as of 8:27 PM PT Oct 13.",
-    "redraftAdj": 0.9,
+    "note": "Cleared: no longer on Sleeper's injury report (was out) as of 12:49 AM PT Oct 14.",
+    "redraftAdj": 0.98,
     "sleeperId": "13268",
-    "status": "Out",
+    "status": null,
     "tag": "injury"
    },
-   "i": "Out",
+   "i": null,
    "qb1": null,
    "t": "BAL"
   },
@@ -636,18 +646,18 @@
    "t": "LV"
   },
   "13272": {
-   "changed": "2026-10-14T03:27:13.405269+00:00",
+   "changed": "2026-10-14T07:49:46.658762+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 1.0,
     "name": "Carson Beck",
-    "note": "Sleeper now lists him out (coach's decision) as of 8:27 PM PT Oct 13.",
-    "redraftAdj": 0.9,
+    "note": "Cleared: no longer on Sleeper's injury report (was out) as of 12:49 AM PT Oct 14.",
+    "redraftAdj": 0.98,
     "sleeperId": "13272",
-    "status": "Out",
+    "status": null,
     "tag": "injury"
    },
-   "i": "Out",
+   "i": null,
    "qb1": false,
    "t": "ARI"
   },
@@ -659,18 +669,18 @@
    "t": "PIT"
   },
   "13275": {
-   "changed": "2026-10-14T03:27:13.405269+00:00",
+   "changed": "2026-10-14T07:49:46.658762+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 1.0,
     "name": "Ty Simpson",
-    "note": "Sleeper now lists him out (coach's decision) as of 8:27 PM PT Oct 13.",
-    "redraftAdj": 0.9,
+    "note": "Cleared: no longer on Sleeper's injury report (was out) as of 12:49 AM PT Oct 14.",
+    "redraftAdj": 0.98,
     "sleeperId": "13275",
-    "status": "Out",
+    "status": null,
     "tag": "injury"
    },
-   "i": "Out",
+   "i": null,
    "qb1": false,
    "t": "LAR"
   },
@@ -682,18 +692,18 @@
    "t": "NYJ"
   },
   "13278": {
-   "changed": "2026-10-14T03:27:13.405269+00:00",
+   "changed": "2026-10-14T07:49:46.658762+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 1.0,
     "name": "Max Klare",
-    "note": "Sleeper now lists him out (coach's decision) as of 8:27 PM PT Oct 13.",
-    "redraftAdj": 0.9,
+    "note": "Cleared: no longer on Sleeper's injury report (was out) as of 12:49 AM PT Oct 14.",
+    "redraftAdj": 0.98,
     "sleeperId": "13278",
-    "status": "Out",
+    "status": null,
     "tag": "injury"
    },
-   "i": "Out",
+   "i": null,
    "qb1": null,
    "t": "LAR"
   },
@@ -742,34 +752,34 @@
    "t": "ARI"
   },
   "13288": {
-   "changed": "2026-10-14T03:27:13.405269+00:00",
+   "changed": "2026-10-14T07:49:46.658762+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 1.0,
     "name": "Nicholas Singleton",
-    "note": "Sleeper now lists him out (coach's decision) as of 8:27 PM PT Oct 13.",
-    "redraftAdj": 0.9,
+    "note": "Cleared: no longer on Sleeper's injury report (was out) as of 12:49 AM PT Oct 14.",
+    "redraftAdj": 0.98,
     "sleeperId": "13288",
-    "status": "Out",
+    "status": null,
     "tag": "injury"
    },
-   "i": "Out",
+   "i": null,
    "qb1": null,
    "t": "TEN"
   },
   "13289": {
-   "changed": "2026-10-14T03:27:13.405269+00:00",
+   "changed": "2026-10-14T07:49:46.658762+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 1.0,
     "name": "Drew Allar",
-    "note": "Sleeper now lists him out (coach's decision) as of 8:27 PM PT Oct 13.",
-    "redraftAdj": 0.9,
+    "note": "Cleared: no longer on Sleeper's injury report (was out) as of 12:49 AM PT Oct 14.",
+    "redraftAdj": 0.98,
     "sleeperId": "13289",
-    "status": "Out",
+    "status": null,
     "tag": "injury"
    },
-   "i": "Out",
+   "i": null,
    "qb1": false,
    "t": "PIT"
   },
@@ -788,18 +798,18 @@
    "t": "PHI"
   },
   "13298": {
-   "changed": "2026-10-14T03:27:13.405269+00:00",
+   "changed": "2026-10-14T07:49:46.658762+00:00",
    "entry": {
     "auto": true,
-    "dynastyAdj": 0.97,
+    "dynastyAdj": 1.0,
     "name": "KC Concepcion",
-    "note": "Sleeper now lists him out (concussion) as of 8:27 PM PT Oct 13. Earlier: Concepcion was ruled out of the Oct 11, 2026 loss to the Jets after a first-quarter helmet-to-helmet hit from Minkah Fitzpatrick. A report citing ESPN says he entered the concussion protocol, and no return timeline has been given.",
-    "redraftAdj": 0.75,
+    "note": "Sleeper now lists him questionable (concussion) as of 12:49 AM PT Oct 14.",
+    "redraftAdj": 0.98,
     "sleeperId": "13298",
-    "status": "Out",
+    "status": "Questionable",
     "tag": "injury"
    },
-   "i": "Out",
+   "i": "Questionable",
    "qb1": null,
    "t": "CLE"
   },
@@ -832,18 +842,18 @@
    "t": "LV"
   },
   "13306": {
-   "changed": "2026-10-14T03:27:13.405269+00:00",
+   "changed": "2026-10-14T07:49:46.658762+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 1.0,
     "name": "Taylen Green",
-    "note": "Sleeper now lists him out (coach's decision) as of 8:27 PM PT Oct 13.",
-    "redraftAdj": 0.9,
+    "note": "Cleared: no longer on Sleeper's injury report (was out) as of 12:49 AM PT Oct 14.",
+    "redraftAdj": 0.98,
     "sleeperId": "13306",
-    "status": "Out",
+    "status": null,
     "tag": "injury"
    },
-   "i": "Out",
+   "i": null,
    "qb1": false,
    "t": "CLE"
   },
@@ -869,34 +879,34 @@
    "t": "ATL"
   },
   "13324": {
-   "changed": "2026-10-14T03:27:13.405269+00:00",
+   "changed": "2026-10-14T07:49:46.658762+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 0.99,
     "name": "Matt Hibner",
-    "note": "Sleeper now lists him questionable (hand) as of 8:27 PM PT Oct 13. Earlier: Hibner hurt his hand in the Oct 11 Week 5 game vs. Atlanta and was listed questionable to return. Rotowire says he came back in the third quarter, but he finished with 0 targets on about 30 snaps.",
-    "redraftAdj": 0.95,
+    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 12:49 AM PT Oct 14.",
+    "redraftAdj": 1.0,
     "sleeperId": "13324",
-    "status": "Questionable",
+    "status": null,
     "tag": "injury"
    },
-   "i": "Questionable",
+   "i": null,
    "qb1": null,
    "t": "BAL"
   },
   "13330": {
-   "changed": "2026-10-14T03:27:13.405269+00:00",
+   "changed": "2026-10-14T07:49:46.658762+00:00",
    "entry": {
     "auto": true,
-    "dynastyAdj": 0.97,
+    "dynastyAdj": 1.0,
     "name": "Kenyon Sadiq",
-    "note": "Sleeper now lists him out (concussion) as of 8:27 PM PT Oct 13. Earlier: The Jets ruled Sadiq out early in the fourth quarter of their Oct 11 win over Cleveland with a concussion, and Aaron Glenn confirmed he is in the protocol. He had only 2 catches for 2 yards before leaving, after getting no targets in Week 4.",
-    "redraftAdj": 0.85,
+    "note": "Sleeper now lists him questionable (concussion) as of 12:49 AM PT Oct 14.",
+    "redraftAdj": 0.98,
     "sleeperId": "13330",
-    "status": "Out",
+    "status": "Questionable",
     "tag": "injury"
    },
-   "i": "Out",
+   "i": "Questionable",
    "qb1": null,
    "t": "NYJ"
   },
@@ -950,18 +960,18 @@
    "t": "PHI"
   },
   "13380": {
-   "changed": "2026-10-14T03:27:13.405269+00:00",
+   "changed": "2026-10-14T07:49:46.658762+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 1.0,
     "name": "Brenen Thompson",
-    "note": "Sleeper now lists him out (quadriceps) as of 8:27 PM PT Oct 13.",
-    "redraftAdj": 0.9,
+    "note": "Sleeper now lists him questionable (quadriceps) as of 12:49 AM PT Oct 14.",
+    "redraftAdj": 0.98,
     "sleeperId": "13380",
-    "status": "Out",
+    "status": "Questionable",
     "tag": "injury"
    },
-   "i": "Out",
+   "i": "Questionable",
    "qb1": null,
    "t": "LAC"
   },
@@ -1023,18 +1033,18 @@
    "t": "NO"
   },
   "13602": {
-   "changed": "2026-10-14T03:27:13.405269+00:00",
+   "changed": "2026-10-14T07:49:46.658762+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 1.0,
     "name": "Jack Strand",
-    "note": "Sleeper now lists him out (coach's decision) as of 8:27 PM PT Oct 13.",
-    "redraftAdj": 0.9,
+    "note": "Cleared: no longer on Sleeper's injury report (was out) as of 12:49 AM PT Oct 14.",
+    "redraftAdj": 0.98,
     "sleeperId": "13602",
-    "status": "Out",
+    "status": null,
     "tag": "injury"
    },
-   "i": "Out",
+   "i": null,
    "qb1": false,
    "t": "ATL"
   },
@@ -1089,18 +1099,18 @@
    "t": "NYG"
   },
   "2449": {
-   "changed": "2026-10-14T03:27:13.405269+00:00",
+   "changed": "2026-10-14T07:49:46.658762+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 1.0,
     "name": "Stefon Diggs",
-    "note": "Sleeper now lists him out (hamstring) as of 8:27 PM PT Oct 13.",
-    "redraftAdj": 0.9,
+    "note": "Sleeper now lists him questionable (hamstring) as of 12:49 AM PT Oct 14.",
+    "redraftAdj": 0.98,
     "sleeperId": "2449",
-    "status": "Out",
+    "status": "Questionable",
     "tag": "injury"
    },
-   "i": "Out",
+   "i": "Questionable",
    "qb1": null,
    "t": "WAS"
   },
@@ -1147,18 +1157,18 @@
    "t": "DAL"
   },
   "3321": {
-   "changed": "2026-10-14T03:27:13.405269+00:00",
+   "changed": "2026-10-14T07:49:46.658762+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 1.0,
     "name": "Tyreek Hill",
-    "note": "Cleared: no longer on Sleeper's injury report (was out) as of 8:27 PM PT Oct 13.",
-    "redraftAdj": 0.98,
+    "note": "Sleeper now lists him out (knee - acl) as of 12:49 AM PT Oct 14.",
+    "redraftAdj": 0.9,
     "sleeperId": "3321",
-    "status": null,
+    "status": "Out",
     "tag": "injury"
    },
-   "i": null,
+   "i": "Out",
    "qb1": null,
    "t": null
   },
@@ -1203,6 +1213,11 @@
    "qb1": true,
    "t": "KC"
   },
+  "4147": {
+   "i": null,
+   "qb1": null,
+   "t": "CIN"
+  },
   "4199": {
    "changed": "2026-10-14T03:27:13.405269+00:00",
    "entry": {
@@ -1234,34 +1249,34 @@
    "t": "SF"
   },
   "4866": {
-   "changed": "2026-10-14T03:27:13.405269+00:00",
+   "changed": "2026-10-14T07:49:46.658762+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 1.0,
     "name": "Saquon Barkley",
-    "note": "Sleeper now lists him out (hamstring) as of 8:27 PM PT Oct 13.",
-    "redraftAdj": 0.9,
+    "note": "Sleeper now lists him questionable (hamstring) as of 12:49 AM PT Oct 14.",
+    "redraftAdj": 0.98,
     "sleeperId": "4866",
-    "status": "Out",
+    "status": "Questionable",
     "tag": "injury"
    },
-   "i": "Out",
+   "i": "Questionable",
    "qb1": null,
    "t": "PHI"
   },
   "4881": {
-   "changed": "2026-10-14T03:27:13.405269+00:00",
+   "changed": "2026-10-14T07:49:46.658762+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 1.0,
     "name": "Lamar Jackson",
-    "note": "Sleeper now lists him out (ankle) as of 8:27 PM PT Oct 13. Earlier: Jackson missed Week 5 with a sprained left ankle. On Oct 12 coach Jesse Minter said the ankle is improving, and Rapoport reported the Ravens are hopeful he plays Week 6 vs CLE; Wednesday's practice is the next checkpoint.",
-    "redraftAdj": 0.9,
+    "note": "Sleeper now lists him questionable (ankle) as of 12:49 AM PT Oct 14.",
+    "redraftAdj": 0.98,
     "sleeperId": "4881",
-    "status": "Out",
+    "status": "Questionable",
     "tag": "injury"
    },
-   "i": "Out",
+   "i": "Questionable",
    "qb1": true,
    "t": "BAL"
   },
@@ -1280,18 +1295,18 @@
    "t": "SEA"
   },
   "4983": {
-   "changed": "2026-10-14T03:27:13.405269+00:00",
+   "changed": "2026-10-14T07:49:46.658762+00:00",
    "entry": {
     "auto": true,
-    "dynastyAdj": 0.97,
+    "dynastyAdj": 1.0,
     "name": "DJ Moore",
-    "note": "Sleeper now lists him out (shoulder - ac joint) as of 8:27 PM PT Oct 13. Earlier: Ruled out about 90 minutes before the Oct 12 MNF game vs. the Rams after aggravating the AC sprain in his left shoulder that has bothered him since Week 2. Week 6 is a short week at Las Vegas with a bye after it, so his return is uncertain (Oct 13).",
-    "redraftAdj": 0.85,
+    "note": "Sleeper now lists him questionable (shoulder - ac joint) as of 12:49 AM PT Oct 14.",
+    "redraftAdj": 0.98,
     "sleeperId": "4983",
-    "status": "Out",
+    "status": "Questionable",
     "tag": "injury"
    },
-   "i": "Out",
+   "i": "Questionable",
    "qb1": null,
    "t": "BUF"
   },
@@ -1308,13 +1323,6 @@
    "i": null,
    "qb1": null,
    "t": "CIN"
-  },
-  "5001": {
-   "changed": null,
-   "entry": null,
-   "i": null,
-   "qb1": null,
-   "t": "HOU"
   },
   "5012": {
    "changed": null,
@@ -1405,18 +1413,18 @@
    "t": "SF"
   },
   "5892": {
-   "changed": "2026-10-14T03:27:13.405269+00:00",
+   "changed": "2026-10-14T07:49:46.658762+00:00",
    "entry": {
     "auto": true,
-    "dynastyAdj": 0.92,
+    "dynastyAdj": 1.0,
     "name": "David Montgomery",
-    "note": "Sleeper now lists him out (groin) as of 8:27 PM PT Oct 13. Earlier: Left the Week 5 win over Tennessee on Oct 11 with a groin injury and did not return. On Oct 12-13 HC DeMeco Ryans called him week-to-week, so he is unlikely to play in Week 6 against Jacksonville in London.",
-    "redraftAdj": 0.75,
+    "note": "Sleeper now lists him doubtful (groin) as of 12:49 AM PT Oct 14.",
+    "redraftAdj": 0.93,
     "sleeperId": "5892",
     "status": "Out",
     "tag": "injury"
    },
-   "i": "Out",
+   "i": "Doubtful",
    "qb1": null,
    "t": "HOU"
   },
@@ -1578,18 +1586,18 @@
    "t": "NO"
   },
   "7021": {
-   "changed": "2026-10-14T03:27:13.405269+00:00",
+   "changed": "2026-10-14T07:49:46.658762+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 1.0,
     "name": "Rico Dowdle",
-    "note": "Sleeper now lists him out (toe) as of 8:27 PM PT Oct 13.",
-    "redraftAdj": 0.9,
+    "note": "Sleeper now lists him questionable (toe) as of 12:49 AM PT Oct 14.",
+    "redraftAdj": 0.98,
     "sleeperId": "7021",
-    "status": "Out",
+    "status": "Questionable",
     "tag": "injury"
    },
-   "i": "Out",
+   "i": "Questionable",
    "qb1": null,
    "t": "PIT"
   },
@@ -1608,18 +1616,18 @@
    "t": "JAX"
   },
   "7525": {
-   "changed": "2026-10-14T03:27:13.405269+00:00",
+   "changed": "2026-10-14T07:49:46.658762+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 1.0,
     "name": "DeVonta Smith",
-    "note": "Sleeper now lists him out (hamstring) as of 8:27 PM PT Oct 13. Earlier: Missed his second straight game (hamstring) in Week 5. On Oct 12 Sirianni said he is 'hopeful' Smith returns for Week 6 vs. Carolina, and Garafolo reported he has 'a shot', but he had not practiced yet.",
-    "redraftAdj": 0.9,
+    "note": "Sleeper now lists him questionable (hamstring) as of 12:49 AM PT Oct 14.",
+    "redraftAdj": 0.98,
     "sleeperId": "7525",
-    "status": "Out",
+    "status": "Questionable",
     "tag": "injury"
    },
-   "i": "Out",
+   "i": "Questionable",
    "qb1": null,
    "t": "PHI"
   },
@@ -1709,6 +1717,11 @@
    "qb1": null,
    "t": "CAR"
   },
+  "7600": {
+   "i": null,
+   "qb1": null,
+   "t": "PIT"
+  },
   "7611": {
    "changed": null,
    "entry": null,
@@ -1743,6 +1756,11 @@
    "i": null,
    "qb1": null,
    "t": "TEN"
+  },
+  "8129": {
+   "i": null,
+   "qb1": null,
+   "t": "PHI"
   },
   "8130": {
    "changed": null,
@@ -1852,18 +1870,18 @@
    "t": "ATL"
   },
   "8155": {
-   "changed": "2026-10-14T03:27:13.405269+00:00",
+   "changed": "2026-10-14T07:49:46.658762+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 1.0,
     "name": "Breece Hall",
-    "note": "Sleeper now lists him out (quadriceps) as of 8:27 PM PT Oct 13.",
-    "redraftAdj": 0.9,
+    "note": "Sleeper now lists him questionable (quadriceps) as of 12:49 AM PT Oct 14.",
+    "redraftAdj": 0.98,
     "sleeperId": "8155",
-    "status": "Out",
+    "status": "Questionable",
     "tag": "injury"
    },
-   "i": "Out",
+   "i": "Questionable",
    "qb1": null,
    "t": "NYJ"
   },
@@ -1942,6 +1960,11 @@
    "i": null,
    "qb1": true,
    "t": "CAR"
+  },
+  "9480": {
+   "i": null,
+   "qb1": null,
+   "t": "JAX"
   },
   "9482": {
    "changed": null,
@@ -2050,18 +2073,18 @@
    "t": "SEA"
   },
   "9754": {
-   "changed": "2026-10-14T03:27:13.405269+00:00",
+   "changed": "2026-10-14T07:49:46.658762+00:00",
    "entry": {
     "auto": true,
-    "dynastyAdj": 0.97,
+    "dynastyAdj": 1.0,
     "name": "Quentin Johnston",
-    "note": "Sleeper now lists him out (chest) as of 8:27 PM PT Oct 13. Earlier: Johnston was inactive for Week 5 vs. Denver (Oct 11, 2026) with a chest injury and is reported as trending down for Week 6 at Kansas City. He has 7 catches on 19 targets for 108 yards through four games.",
-    "redraftAdj": 0.8,
+    "note": "Sleeper now lists him questionable (chest) as of 12:49 AM PT Oct 14.",
+    "redraftAdj": 0.98,
     "sleeperId": "9754",
-    "status": "Out",
+    "status": "Questionable",
     "tag": "injury"
    },
-   "i": "Out",
+   "i": "Questionable",
    "qb1": null,
    "t": "LAC"
   },
