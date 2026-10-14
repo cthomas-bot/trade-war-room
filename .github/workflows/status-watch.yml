@@ -1,0 +1,40 @@
+name: Hourly status watch
+
+on:
+  schedule:
+    - cron: "17 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: status-watch
+  cancel-in-progress: false
+
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Check Sleeper for status changes
+        run: python3 scripts/status_watch.py
+      - name: Commit changes
+        run: |
+          git add news.json status_snapshot.json
+          if git diff --cached --quiet; then
+            echo "No changes."
+            exit 0
+          fi
+          git config user.name "status-watch"
+          git config user.email "status-watch@users.noreply.github.com"
+          git commit -m "Status watch $(TZ=America/Los_Angeles date '+%Y-%m-%d %H:%M PT')"
+          for i in 1 2 3; do
+            git pull --rebase origin main && git push origin HEAD:main && exit 0
+            sleep 5
+          done
+          exit 1
