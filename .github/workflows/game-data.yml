@@ -1,0 +1,40 @@
+name: Vegas lines and projections
+
+on:
+  schedule:
+    - cron: "47 */3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: game-data
+  cancel-in-progress: false
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Fetch lines and projections
+        run: python3 scripts/game_data.py
+      - name: Commit changes
+        run: |
+          git add games.json
+          if git diff --cached --quiet; then
+            echo "No changes."
+            exit 0
+          fi
+          git config user.name "game-data"
+          git config user.email "game-data@users.noreply.github.com"
+          git commit -m "Game data $(TZ=America/Los_Angeles date '+%Y-%m-%d %H:%M PT')"
+          for i in 1 2 3; do
+            git pull --rebase origin main && git push origin HEAD:main && exit 0
+            sleep 5
+          done
+          exit 1
