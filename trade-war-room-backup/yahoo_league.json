@@ -1,0 +1,925 @@
+{
+ "updated": "2026-10-03",
+ "myTeam": "The Questionables",
+ "leagueId": "847213",
+ "teams": [
+  {
+   "name": "Bailz Mary",
+   "players": [
+    {
+     "name": "Jalen Hurts",
+     "pos": "QB",
+     "team": "PHI",
+     "sleeperId": "6904"
+    },
+    {
+     "name": "Kyren Williams",
+     "pos": "RB",
+     "team": "LAR",
+     "sleeperId": "8150"
+    },
+    {
+     "name": "RJ Harvey",
+     "pos": "RB",
+     "team": "DEN",
+     "sleeperId": "12489"
+    },
+    {
+     "name": "CeeDee Lamb",
+     "pos": "WR",
+     "team": "DAL",
+     "sleeperId": "6786"
+    },
+    {
+     "name": "Tetairoa McMillan",
+     "pos": "WR",
+     "team": "CAR",
+     "sleeperId": "12526"
+    },
+    {
+     "name": "Brock Bowers",
+     "pos": "TE",
+     "team": "LV",
+     "sleeperId": "11604"
+    },
+    {
+     "name": "Courtland Sutton",
+     "pos": "WR",
+     "team": "DEN",
+     "sleeperId": "5045"
+    },
+    {
+     "name": "Rachaad White",
+     "pos": "RB",
+     "team": "WAS",
+     "sleeperId": "8136"
+    },
+    {
+     "name": "Brian Thomas Jr.",
+     "pos": "WR",
+     "team": "JAC",
+     "sleeperId": "11631"
+    },
+    {
+     "name": "Devaughn Vele",
+     "pos": "WR",
+     "team": "NO",
+     "sleeperId": "11834"
+    },
+    {
+     "name": "Juwan Johnson",
+     "pos": "TE",
+     "team": "NO",
+     "sleeperId": "7002"
+    },
+    {
+     "name": "Dallas Goedert",
+     "pos": "TE",
+     "team": "PHI",
+     "sleeperId": "5022"
+    }
+   ]
+  },
+  {
+   "name": "BDON",
+   "players": [
+    {
+     "name": "Josh Allen",
+     "pos": "QB",
+     "team": "BUF",
+     "sleeperId": "4984"
+    },
+    {
+     "name": "Jonathan Taylor",
+     "pos": "RB",
+     "team": "IND",
+     "sleeperId": "6813"
+    },
+    {
+     "name": "Travis Etienne Jr.",
+     "pos": "RB",
+     "team": "NO",
+     "sleeperId": "7543"
+    },
+    {
+     "name": "Parker Washington",
+     "pos": "WR",
+     "team": "JAC",
+     "sleeperId": "9487"
+    },
+    {
+     "name": "Christian Watson",
+     "pos": "WR",
+     "team": "GB",
+     "sleeperId": "8167"
+    },
+    {
+     "name": "Tyler Warren",
+     "pos": "TE",
+     "team": "IND",
+     "sleeperId": "12518"
+    },
+    {
+     "name": "Matthew Golden",
+     "pos": "WR",
+     "team": "GB",
+     "sleeperId": "12501"
+    },
+    {
+     "name": "Alvin Kamara",
+     "pos": "RB",
+     "team": "NO",
+     "sleeperId": "4035"
+    },
+    {
+     "name": "Jonah Coleman",
+     "pos": "RB",
+     "team": "DEN",
+     "sleeperId": "13345"
+    },
+    {
+     "name": "Jaylen Wright",
+     "pos": "RB",
+     "team": "MIA",
+     "sleeperId": "11643"
+    },
+    {
+     "name": "Jordan Mason",
+     "pos": "RB",
+     "team": "MIN",
+     "sleeperId": "8408"
+    },
+    {
+     "name": "Deebo Samuel Sr.",
+     "pos": "WR",
+     "team": "SF",
+     "sleeperId": "5872"
+    }
+   ]
+  },
+  {
+   "name": "Lightskins",
+   "players": [
+    {
+     "name": "Jayden Daniels",
+     "pos": "QB",
+     "team": "WAS",
+     "sleeperId": "11566"
+    },
+    {
+     "name": "Javonte Williams",
+     "pos": "RB",
+     "team": "DAL",
+     "sleeperId": "7588"
+    },
+    {
+     "name": "Cam Skattebo",
+     "pos": "RB",
+     "team": "NYG",
+     "sleeperId": "12481"
+    },
+    {
+     "name": "Amon-Ra St. Brown",
+     "pos": "WR",
+     "team": "DET",
+     "sleeperId": "7547"
+    },
+    {
+     "name": "DeVonta Smith",
+     "pos": "WR",
+     "team": "PHI",
+     "sleeperId": "7525"
+    },
+    {
+     "name": "Isaiah Likely",
+     "pos": "TE",
+     "team": "NYG",
+     "sleeperId": "8131"
+    },
+    {
+     "name": "Quinshon Judkins",
+     "pos": "RB",
+     "team": "CLE",
+     "sleeperId": "12512"
+    },
+    {
+     "name": "Sam Darnold",
+     "pos": "QB",
+     "team": "SEA",
+     "sleeperId": "4943"
+    },
+    {
+     "name": "Michael Wilson",
+     "pos": "WR",
+     "team": "ARI",
+     "sleeperId": "10232"
+    },
+    {
+     "name": "Josh Downs",
+     "pos": "WR",
+     "team": "IND",
+     "sleeperId": "9500"
+    },
+    {
+     "name": "DK Metcalf",
+     "pos": "WR",
+     "team": "PIT",
+     "sleeperId": "5846"
+    },
+    {
+     "name": "Tyreek Hill",
+     "pos": "WR",
+     "team": "FA",
+     "sleeperId": "3321"
+    }
+   ]
+  },
+  {
+   "name": "AHH We'll Get Em Next Year",
+   "players": [
+    {
+     "name": "Patrick Mahomes II",
+     "pos": "QB",
+     "team": "KC",
+     "sleeperId": "4046"
+    },
+    {
+     "name": "Omarion Hampton",
+     "pos": "RB",
+     "team": "LAC",
+     "sleeperId": "12507"
+    },
+    {
+     "name": "Blake Corum",
+     "pos": "RB",
+     "team": "LAR",
+     "sleeperId": "11586"
+    },
+    {
+     "name": "Justin Jefferson",
+     "pos": "WR",
+     "team": "MIN",
+     "sleeperId": "6794"
+    },
+    {
+     "name": "DJ Moore",
+     "pos": "WR",
+     "team": "BUF",
+     "sleeperId": "4983"
+    },
+    {
+     "name": "Colston Loveland",
+     "pos": "TE",
+     "team": "CHI",
+     "sleeperId": "12517"
+    },
+    {
+     "name": "Ladd McConkey",
+     "pos": "WR",
+     "team": "LAC",
+     "sleeperId": "11635"
+    },
+    {
+     "name": "Jared Goff",
+     "pos": "QB",
+     "team": "DET",
+     "sleeperId": "3163"
+    },
+    {
+     "name": "Aaron Jones Sr.",
+     "pos": "RB",
+     "team": "MIN",
+     "sleeperId": "4199"
+    },
+    {
+     "name": "J.K. Dobbins",
+     "pos": "RB",
+     "team": "DEN",
+     "sleeperId": "6806"
+    },
+    {
+     "name": "Keaton Mitchell",
+     "pos": "RB",
+     "team": "LAC",
+     "sleeperId": "9511"
+    },
+    {
+     "name": "Denzel Boston",
+     "pos": "WR",
+     "team": "CLE",
+     "sleeperId": "13346"
+    }
+   ]
+  },
+  {
+   "name": "Jeantyfied The Naberhood",
+   "players": [
+    {
+     "name": "Caleb Williams",
+     "pos": "QB",
+     "team": "CHI",
+     "sleeperId": "11560"
+    },
+    {
+     "name": "Bijan Robinson",
+     "pos": "RB",
+     "team": "ATL",
+     "sleeperId": "9509"
+    },
+    {
+     "name": "Ashton Jeanty",
+     "pos": "RB",
+     "team": "LV",
+     "sleeperId": "12527"
+    },
+    {
+     "name": "Malik Nabers",
+     "pos": "WR",
+     "team": "NYG",
+     "sleeperId": "11632"
+    },
+    {
+     "name": "Jaylen Waddle",
+     "pos": "WR",
+     "team": "DEN",
+     "sleeperId": "7526"
+    },
+    {
+     "name": "Travis Kelce",
+     "pos": "TE",
+     "team": "KC",
+     "sleeperId": "1466"
+    },
+    {
+     "name": "KC Concepcion Jr.",
+     "pos": "WR",
+     "team": "CLE",
+     "sleeperId": "13298"
+    },
+    {
+     "name": "Tyler Shough",
+     "pos": "QB",
+     "team": "NO",
+     "sleeperId": "12545"
+    },
+    {
+     "name": "Brian Robinson Jr.",
+     "pos": "RB",
+     "team": "ATL",
+     "sleeperId": "8154"
+    },
+    {
+     "name": "Zach Charbonnet",
+     "pos": "RB",
+     "team": "SEA",
+     "sleeperId": "9753"
+    },
+    {
+     "name": "Jordan Addison",
+     "pos": "WR",
+     "team": "MIN",
+     "sleeperId": "9756"
+    },
+    {
+     "name": "Keenan Allen",
+     "pos": "WR",
+     "team": "IND",
+     "sleeperId": "1479"
+    }
+   ]
+  },
+  {
+   "name": "K9-Unit",
+   "players": [
+    {
+     "name": "Joe Burrow",
+     "pos": "QB",
+     "team": "CIN",
+     "sleeperId": "6770"
+    },
+    {
+     "name": "Kenneth Walker III",
+     "pos": "RB",
+     "team": "KC",
+     "sleeperId": "8151"
+    },
+    {
+     "name": "Christian McCaffrey",
+     "pos": "RB",
+     "team": "SF",
+     "sleeperId": "4034"
+    },
+    {
+     "name": "Garrett Wilson",
+     "pos": "WR",
+     "team": "NYJ",
+     "sleeperId": "8146"
+    },
+    {
+     "name": "Jameson Williams",
+     "pos": "WR",
+     "team": "DET",
+     "sleeperId": "8148"
+    },
+    {
+     "name": "Harold Fannin Jr.",
+     "pos": "TE",
+     "team": "CLE",
+     "sleeperId": "12506"
+    },
+    {
+     "name": "Rhamondre Stevenson",
+     "pos": "RB",
+     "team": "NE",
+     "sleeperId": "7611"
+    },
+    {
+     "name": "Bryce Young",
+     "pos": "QB",
+     "team": "CAR",
+     "sleeperId": "9228"
+    },
+    {
+     "name": "Jacory Croskey-Merritt",
+     "pos": "RB",
+     "team": "WAS",
+     "sleeperId": "12533"
+    },
+    {
+     "name": "Carnell Tate",
+     "pos": "WR",
+     "team": "TEN",
+     "sleeperId": "13279"
+    },
+    {
+     "name": "Dontayvion Wicks",
+     "pos": "WR",
+     "team": "PHI",
+     "sleeperId": "9486"
+    },
+    {
+     "name": "Jordyn Tyson",
+     "pos": "WR",
+     "team": "NO",
+     "sleeperId": "13281"
+    }
+   ]
+  },
+  {
+   "name": "HIEU",
+   "players": [
+    {
+     "name": "Trevor Lawrence",
+     "pos": "QB",
+     "team": "JAC",
+     "sleeperId": "7523"
+    },
+    {
+     "name": "Jahmyr Gibbs",
+     "pos": "RB",
+     "team": "DET",
+     "sleeperId": "9221"
+    },
+    {
+     "name": "Jaylen Warren",
+     "pos": "RB",
+     "team": "PIT",
+     "sleeperId": "8228"
+    },
+    {
+     "name": "Chris Olave",
+     "pos": "WR",
+     "team": "NO",
+     "sleeperId": "8144"
+    },
+    {
+     "name": "Tee Higgins",
+     "pos": "WR",
+     "team": "CIN",
+     "sleeperId": "6801"
+    },
+    {
+     "name": "Tucker Kraft",
+     "pos": "TE",
+     "team": "GB",
+     "sleeperId": "9484"
+    },
+    {
+     "name": "Rashee Rice",
+     "pos": "WR",
+     "team": "KC",
+     "sleeperId": "10229"
+    },
+    {
+     "name": "Matthew Stafford",
+     "pos": "QB",
+     "team": "LAR",
+     "sleeperId": "421"
+    },
+    {
+     "name": "Woody Marks",
+     "pos": "RB",
+     "team": "HOU",
+     "sleeperId": "12474"
+    },
+    {
+     "name": "Jalen Coker",
+     "pos": "WR",
+     "team": "CAR",
+     "sleeperId": "11646"
+    },
+    {
+     "name": "Chris Godwin Jr.",
+     "pos": "WR",
+     "team": "TB",
+     "sleeperId": "4037"
+    }
+   ]
+  },
+  {
+   "name": "The Questionables",
+   "players": [
+    {
+     "name": "Brock Purdy",
+     "pos": "QB",
+     "team": "SF",
+     "sleeperId": "8183"
+    },
+    {
+     "name": "Jeremiyah Love",
+     "pos": "RB",
+     "team": "ARI",
+     "sleeperId": "13287"
+    },
+    {
+     "name": "Breece Hall",
+     "pos": "RB",
+     "team": "NYJ",
+     "sleeperId": "8155"
+    },
+    {
+     "name": "Ja'Marr Chase",
+     "pos": "WR",
+     "team": "CIN",
+     "sleeperId": "7564"
+    },
+    {
+     "name": "Drake London",
+     "pos": "WR",
+     "team": "ATL",
+     "sleeperId": "8112"
+    },
+    {
+     "name": "Kenyon Sadiq",
+     "pos": "TE",
+     "team": "NYJ",
+     "sleeperId": "13330"
+    },
+    {
+     "name": "Emeka Egbuka",
+     "pos": "WR",
+     "team": "TB",
+     "sleeperId": "12514"
+    },
+    {
+     "name": "Braelon Allen",
+     "pos": "RB",
+     "team": "NYJ",
+     "sleeperId": "11576"
+    },
+    {
+     "name": "George Holani",
+     "pos": "RB",
+     "team": "SEA",
+     "sleeperId": "12048"
+    },
+    {
+     "name": "Rome Odunze",
+     "pos": "WR",
+     "team": "CHI",
+     "sleeperId": "11620"
+    },
+    {
+     "name": "Makai Lemon",
+     "pos": "WR",
+     "team": "PHI",
+     "sleeperId": "13294"
+    }
+   ]
+  },
+  {
+   "name": "MickDingo",
+   "players": [
+    {
+     "name": "Lamar Jackson",
+     "pos": "QB",
+     "team": "BAL",
+     "sleeperId": "4881"
+    },
+    {
+     "name": "Derrick Henry",
+     "pos": "RB",
+     "team": "BAL",
+     "sleeperId": "3198"
+    },
+    {
+     "name": "Chase Brown",
+     "pos": "RB",
+     "team": "CIN",
+     "sleeperId": "9224"
+    },
+    {
+     "name": "Nico Collins",
+     "pos": "WR",
+     "team": "HOU",
+     "sleeperId": "7569"
+    },
+    {
+     "name": "Stefon Diggs",
+     "pos": "WR",
+     "team": "WAS",
+     "sleeperId": "2449"
+    },
+    {
+     "name": "Dalton Kincaid",
+     "pos": "TE",
+     "team": "BUF",
+     "sleeperId": "10236"
+    },
+    {
+     "name": "Jadarian Price",
+     "pos": "RB",
+     "team": "SEA",
+     "sleeperId": "13286"
+    },
+    {
+     "name": "Emanuel Wilson",
+     "pos": "RB",
+     "team": "SEA",
+     "sleeperId": "11435"
+    },
+    {
+     "name": "Tony Pollard",
+     "pos": "RB",
+     "team": "TEN",
+     "sleeperId": "5967"
+    },
+    {
+     "name": "Josh Jacobs",
+     "pos": "RB",
+     "team": "GB",
+     "sleeperId": "5850"
+    },
+    {
+     "name": "Kalif Raymond",
+     "pos": "WR",
+     "team": "CHI",
+     "sleeperId": "3634"
+    },
+    {
+     "name": "Romeo Doubs",
+     "pos": "WR",
+     "team": "NE",
+     "sleeperId": "8121"
+    }
+   ]
+  },
+  {
+   "name": "D'Andre Nickatina",
+   "players": [
+    {
+     "name": "Justin Herbert",
+     "pos": "QB",
+     "team": "LAC",
+     "sleeperId": "6797"
+    },
+    {
+     "name": "James Cook III",
+     "pos": "RB",
+     "team": "BUF",
+     "sleeperId": "8138"
+    },
+    {
+     "name": "David Montgomery",
+     "pos": "RB",
+     "team": "HOU",
+     "sleeperId": "5892"
+    },
+    {
+     "name": "Jaxon Smith-Njigba",
+     "pos": "WR",
+     "team": "SEA",
+     "sleeperId": "9488"
+    },
+    {
+     "name": "Luther Burden III",
+     "pos": "WR",
+     "team": "CHI",
+     "sleeperId": "12519"
+    },
+    {
+     "name": "Sam LaPorta",
+     "pos": "TE",
+     "team": "DET",
+     "sleeperId": "10859"
+    },
+    {
+     "name": "Mike Evans",
+     "pos": "WR",
+     "team": "SF",
+     "sleeperId": "2216"
+    },
+    {
+     "name": "MarShawn Lloyd",
+     "pos": "RB",
+     "team": "GB",
+     "sleeperId": "11581"
+    },
+    {
+     "name": "Najee Harris",
+     "pos": "RB",
+     "team": "NYG",
+     "sleeperId": "7528"
+    },
+    {
+     "name": "Ollie Gordon II",
+     "pos": "RB",
+     "team": "MIA",
+     "sleeperId": "12495"
+    },
+    {
+     "name": "Tre Tucker",
+     "pos": "WR",
+     "team": "LV",
+     "sleeperId": "10213"
+    },
+    {
+     "name": "Ja'Kobi Lane",
+     "pos": "WR",
+     "team": "BAL",
+     "sleeperId": "13293"
+    }
+   ]
+  },
+  {
+   "name": "Coke-Ach",
+   "players": [
+    {
+     "name": "Dak Prescott",
+     "pos": "QB",
+     "team": "DAL",
+     "sleeperId": "3294"
+    },
+    {
+     "name": "Bucky Irving",
+     "pos": "RB",
+     "team": "TB",
+     "sleeperId": "11584"
+    },
+    {
+     "name": "Bhayshul Tuten",
+     "pos": "RB",
+     "team": "JAC",
+     "sleeperId": "12490"
+    },
+    {
+     "name": "Puka Nacua",
+     "pos": "WR",
+     "team": "LAR",
+     "sleeperId": "9493"
+    },
+    {
+     "name": "Zay Flowers",
+     "pos": "WR",
+     "team": "BAL",
+     "sleeperId": "9997"
+    },
+    {
+     "name": "Trey McBride",
+     "pos": "TE",
+     "team": "ARI",
+     "sleeperId": "8130"
+    },
+    {
+     "name": "George Pickens",
+     "pos": "WR",
+     "team": "DAL",
+     "sleeperId": "8137"
+    },
+    {
+     "name": "Emmett Johnson",
+     "pos": "RB",
+     "team": "KC",
+     "sleeperId": "13337"
+    },
+    {
+     "name": "Kaelon Black",
+     "pos": "RB",
+     "team": "SF",
+     "sleeperId": "13414"
+    },
+    {
+     "name": "Chris Rodriguez Jr.",
+     "pos": "RB",
+     "team": "JAC",
+     "sleeperId": "10219"
+    },
+    {
+     "name": "Rashod Bateman",
+     "pos": "WR",
+     "team": "BAL",
+     "sleeperId": "7571"
+    },
+    {
+     "name": "Alec Pierce",
+     "pos": "WR",
+     "team": "IND",
+     "sleeperId": "8142"
+    },
+    {
+     "name": "George Kittle",
+     "pos": "TE",
+     "team": "SF",
+     "sleeperId": "4217"
+    }
+   ]
+  },
+  {
+   "name": "Out For The Season",
+   "players": [
+    {
+     "name": "Drake Maye",
+     "pos": "QB",
+     "team": "NE",
+     "sleeperId": "11564"
+    },
+    {
+     "name": "Saquon Barkley",
+     "pos": "RB",
+     "team": "PHI",
+     "sleeperId": "4866"
+    },
+    {
+     "name": "D'Andre Swift",
+     "pos": "RB",
+     "team": "CHI",
+     "sleeperId": "6790"
+    },
+    {
+     "name": "Davante Adams",
+     "pos": "WR",
+     "team": "LAR",
+     "sleeperId": "2133"
+    },
+    {
+     "name": "A.J. Brown",
+     "pos": "WR",
+     "team": "NE",
+     "sleeperId": "5859"
+    },
+    {
+     "name": "Jake Ferguson",
+     "pos": "TE",
+     "team": "DAL",
+     "sleeperId": "8110"
+    },
+    {
+     "name": "Chuba Hubbard",
+     "pos": "RB",
+     "team": "CAR",
+     "sleeperId": "7594"
+    },
+    {
+     "name": "C.J. Stroud",
+     "pos": "QB",
+     "team": "HOU",
+     "sleeperId": "9758"
+    },
+    {
+     "name": "TreVeyon Henderson",
+     "pos": "RB",
+     "team": "NE",
+     "sleeperId": "12529"
+    },
+    {
+     "name": "Kyle Monangai",
+     "pos": "RB",
+     "team": "CHI",
+     "sleeperId": "12534"
+    },
+    {
+     "name": "Jakobi Meyers",
+     "pos": "WR",
+     "team": "JAC",
+     "sleeperId": "5947"
+    },
+    {
+     "name": "Terry McLaurin",
+     "pos": "WR",
+     "team": "WAS",
+     "sleeperId": "5927"
+    }
+   ]
+  }
+ ]
+}
