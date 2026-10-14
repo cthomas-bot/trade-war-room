@@ -1142,13 +1142,6 @@
    "qb1": true,
    "t": "ARI"
   },
-  "3271": {
-   "changed": null,
-   "entry": null,
-   "i": null,
-   "qb1": null,
-   "t": "LAR"
-  },
   "3294": {
    "changed": null,
    "entry": null,
@@ -1290,9 +1283,18 @@
    "t": "BAL"
   },
   "4892": {
-   "changed": null,
-   "entry": null,
-   "i": "Out",
+   "changed": "2026-10-14T14:45:54.064166+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Baker Mayfield",
+    "note": "Sleeper now lists him doubtful (thumb) as of 7:45 AM PT Oct 14. Earlier: Dislocated thumb (Week 3), now in a smaller splint and not yet gripping the ball. As of Oct 9, Todd Bowles planned to start UDFA Jalon Daniels in Week 6 vs PIT; Mayfield is pushing to play, but a return looks more likely for Week 7-8.",
+    "redraftAdj": 0.93,
+    "sleeperId": "4892",
+    "status": "Out",
+    "tag": "injury"
+   },
+   "i": "Doubtful",
    "qb1": false,
    "t": "TB"
   },
@@ -1355,13 +1357,6 @@
    "i": null,
    "qb1": null,
    "t": "DEN"
-  },
-  "5844": {
-   "changed": null,
-   "entry": null,
-   "i": "Out",
-   "qb1": null,
-   "t": "MIN"
   },
   "5846": {
    "changed": null,
