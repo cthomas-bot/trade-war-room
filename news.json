@@ -614,11 +614,11 @@
     {
       "sleeperId": "3321",
       "name": "Tyreek Hill",
-      "note": "Sleeper now lists him out (knee - acl) as of 12:49 AM PT Oct 14.",
+      "note": "Cleared: no longer on Sleeper's injury report (was out) as of 2:45 AM PT Oct 14.",
       "tag": "injury",
-      "redraftAdj": 0.9,
+      "redraftAdj": 0.98,
       "dynastyAdj": 1.0,
-      "status": "Out",
+      "status": null,
       "auto": true
     },
     {
@@ -702,5 +702,5 @@
       "auto": true
     }
   ],
-  "statusChecked": "12:49 AM PT Oct 14"
+  "statusChecked": "2:45 AM PT Oct 14"
 }
