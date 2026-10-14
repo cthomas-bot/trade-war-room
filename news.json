@@ -707,14 +707,14 @@
       "tag": "injury"
     },
     {
-      "auto": true,
-      "dynastyAdj": 1.0,
-      "name": "Breece Hall",
-      "note": "Sleeper now lists him questionable (quadriceps) as of 12:49 AM PT Oct 14.",
-      "redraftAdj": 0.98,
       "sleeperId": "8155",
-      "status": "Questionable",
-      "tag": "injury"
+      "name": "Breece Hall",
+      "note": "Sleeper now lists him doubtful (quadriceps) as of 10:44 AM PT Oct 14.",
+      "tag": "injury",
+      "redraftAdj": 0.93,
+      "dynastyAdj": 1.0,
+      "status": "Out",
+      "auto": true
     },
     {
       "auto": true,
@@ -725,7 +725,17 @@
       "sleeperId": "9488",
       "status": "Questionable",
       "tag": "injury"
+    },
+    {
+      "sleeperId": "5967",
+      "name": "Tony Pollard",
+      "note": "Sleeper now lists him questionable (foot) as of 10:44 AM PT Oct 14.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
+      "status": "Questionable",
+      "auto": true
     }
   ],
-  "statusChecked": "9:47 AM PT Oct 14"
+  "statusChecked": "10:44 AM PT Oct 14"
 }

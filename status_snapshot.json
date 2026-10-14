@@ -1449,9 +1449,18 @@
    "t": "JAX"
   },
   "5967": {
-   "changed": null,
-   "entry": null,
-   "i": null,
+   "changed": "2026-10-14T17:44:19.850082+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Tony Pollard",
+    "note": "Sleeper now lists him questionable (foot) as of 10:44 AM PT Oct 14.",
+    "redraftAdj": 0.98,
+    "sleeperId": "5967",
+    "status": "Questionable",
+    "tag": "injury"
+   },
+   "i": "Questionable",
    "qb1": null,
    "t": "TEN"
   },
@@ -1871,18 +1880,18 @@
    "t": "ATL"
   },
   "8155": {
-   "changed": "2026-10-14T07:49:46.658762+00:00",
+   "changed": "2026-10-14T17:44:19.850082+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 1.0,
     "name": "Breece Hall",
-    "note": "Sleeper now lists him questionable (quadriceps) as of 12:49 AM PT Oct 14.",
-    "redraftAdj": 0.98,
+    "note": "Sleeper now lists him doubtful (quadriceps) as of 10:44 AM PT Oct 14.",
+    "redraftAdj": 0.93,
     "sleeperId": "8155",
-    "status": "Questionable",
+    "status": "Out",
     "tag": "injury"
    },
-   "i": "Questionable",
+   "i": "Doubtful",
    "qb1": null,
    "t": "NYJ"
   },
