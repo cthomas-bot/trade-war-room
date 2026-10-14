@@ -879,18 +879,18 @@
    "t": "ATL"
   },
   "13324": {
-   "changed": "2026-10-14T07:49:46.658762+00:00",
+   "changed": "2026-10-14T22:42:43.205682+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 0.99,
     "name": "Matt Hibner",
-    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 12:49 AM PT Oct 14.",
-    "redraftAdj": 1.0,
+    "note": "Sleeper now lists him questionable (hand) as of 3:42 PM PT Oct 14.",
+    "redraftAdj": 0.98,
     "sleeperId": "13324",
-    "status": null,
+    "status": "Questionable",
     "tag": "injury"
    },
-   "i": null,
+   "i": "Questionable",
    "qb1": null,
    "t": "BAL"
   },
@@ -939,9 +939,18 @@
    "t": "DEN"
   },
   "13346": {
-   "changed": null,
-   "entry": null,
-   "i": null,
+   "changed": "2026-10-14T22:42:43.205682+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Denzel Boston",
+    "note": "Sleeper now lists him questionable (foot) as of 3:42 PM PT Oct 14. Earlier: Browns rookie WR KC Concepcion suffered a concussion on Oct 11 against the Jets and is highly questionable for Week 6 against Baltimore. That should put more on Boston and the other Cleveland receivers.",
+    "redraftAdj": 0.98,
+    "sleeperId": "13346",
+    "status": "Questionable",
+    "tag": "injury"
+   },
+   "i": "Questionable",
    "qb1": null,
    "t": "CLE"
   },
@@ -1196,8 +1205,18 @@
    "t": "SF"
   },
   "4035": {
-   "changed": "2026-10-07T08:36:37.043387+00:00",
-   "i": null,
+   "changed": "2026-10-14T22:42:43.205682+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Alvin Kamara",
+    "note": "Sleeper now lists him questionable (back) as of 3:42 PM PT Oct 14.",
+    "redraftAdj": 0.98,
+    "sleeperId": "4035",
+    "status": "Questionable",
+    "tag": "injury"
+   },
+   "i": "Questionable",
    "qb1": null,
    "t": "NO"
   },
@@ -1712,9 +1731,18 @@
    "t": "HOU"
   },
   "7571": {
-   "changed": null,
-   "entry": null,
-   "i": null,
+   "changed": "2026-10-14T22:42:43.205682+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Rashod Bateman",
+    "note": "Sleeper now lists him questionable (shoulder) as of 3:42 PM PT Oct 14.",
+    "redraftAdj": 0.98,
+    "sleeperId": "7571",
+    "status": "Questionable",
+    "tag": "injury"
+   },
+   "i": "Questionable",
    "qb1": null,
    "t": "BAL"
   },

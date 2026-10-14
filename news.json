@@ -205,11 +205,12 @@
     {
       "sleeperId": "13346",
       "name": "Denzel Boston",
-      "note": "Browns rookie WR KC Concepcion suffered a concussion on Oct 11 against the Jets and is highly questionable for Week 6 against Baltimore. That should put more on Boston and the other Cleveland receivers.",
-      "tag": "role_up",
-      "redraftAdj": 1.08,
+      "note": "Sleeper now lists him questionable (foot) as of 3:42 PM PT Oct 14. Earlier: Browns rookie WR KC Concepcion suffered a concussion on Oct 11 against the Jets and is highly questionable for Week 6 against Baltimore. That should put more on Boston and the other Cleveland receivers.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
       "dynastyAdj": 1.0,
-      "status": ""
+      "status": "Questionable",
+      "auto": true
     },
     {
       "sleeperId": "6783",
@@ -570,14 +571,14 @@
       "tag": "injury"
     },
     {
-      "auto": true,
-      "dynastyAdj": 0.99,
-      "name": "Matt Hibner",
-      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 12:49 AM PT Oct 14.",
-      "redraftAdj": 1.0,
       "sleeperId": "13324",
-      "status": null,
-      "tag": "injury"
+      "name": "Matt Hibner",
+      "note": "Sleeper now lists him questionable (hand) as of 3:42 PM PT Oct 14.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
+      "dynastyAdj": 0.99,
+      "status": "Questionable",
+      "auto": true
     },
     {
       "auto": true,
@@ -778,7 +779,27 @@
       "dynastyAdj": 1.0,
       "status": "Questionable",
       "auto": true
+    },
+    {
+      "sleeperId": "4035",
+      "name": "Alvin Kamara",
+      "note": "Sleeper now lists him questionable (back) as of 3:42 PM PT Oct 14.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
+      "status": "Questionable",
+      "auto": true
+    },
+    {
+      "sleeperId": "7571",
+      "name": "Rashod Bateman",
+      "note": "Sleeper now lists him questionable (shoulder) as of 3:42 PM PT Oct 14.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
+      "status": "Questionable",
+      "auto": true
     }
   ],
-  "statusChecked": "2:43 PM PT Oct 14"
+  "statusChecked": "3:42 PM PT Oct 14"
 }
