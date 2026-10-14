@@ -59,7 +59,7 @@ a{color:inherit}
 .btn:hover{border-color:var(--acc)}
 .btn.pri{background:linear-gradient(135deg,var(--acc),var(--acc2));color:#071021;border:0;text-decoration:none;display:inline-block}
 .stamp{font-size:12px;color:var(--dim);white-space:nowrap}
-@media (max-width:1100px){.modes button{min-width:0;padding:7px 12px}}
+@media (max-width:1100px){.modes button{min-width:0;padding:7px 12px}.modes button small{display:none}}
 @media (max-width:760px){#refresh{font-size:0;padding:7px 10px}#refresh::before{content:'↻';font-size:16px}.brand .mark{width:30px;height:30px}.modes{padding:3px;gap:2px}.modes button{padding:6px 8px!important}.modes button b{font-size:13px!important;letter-spacing:.04em!important}}
 @media (max-width:760px){.brand span{display:none}.modes button{min-width:0;padding:6px 10px}.modes button b{font-size:14px}.modes button small{display:none}.stamp{display:none}.top-in{padding:8px 12px;gap:8px}}
 /* ---------- page ---------- */
@@ -239,7 +239,8 @@ details.more li.risk{color:var(--warn)}
 .mu{display:grid;grid-template-columns:minmax(0,1fr) auto minmax(0,1fr);align-items:center;gap:12px}
 .mu .side{display:flex;align-items:center;gap:12px;min-width:0}
 .mu .side.r{flex-direction:row-reverse;text-align:right}
-.mu .side b{display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;font-family:var(--disp);font-size:clamp(13px,1.25vw,18px);line-height:1.1;text-transform:uppercase;letter-spacing:.03em;overflow:hidden;overflow-wrap:anywhere}
+.mu .side b{display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;font-family:var(--disp);font-size:clamp(13px,1.25vw,18px);line-height:1.1;text-transform:uppercase;letter-spacing:.03em;overflow:hidden;overflow-wrap:normal}
+.mu .side b.long{font-size:clamp(11px,1vw,15px);letter-spacing:.01em}
 .mu .side small{color:var(--dim);font-size:12px}
 .mu .pts{font-family:var(--disp);font-size:clamp(30px,4vw,46px);line-height:1}
 .mu .vs{font-family:var(--disp);color:var(--dim);font-size:14px;letter-spacing:.2em;text-align:center}
@@ -249,6 +250,8 @@ details.more li.risk{color:var(--warn)}
 .wp .lbls{display:flex;justify-content:space-between;font-size:12px;color:var(--dim);margin-top:6px}
 .wp .lbls b{color:var(--text)}
 @media (max-width:560px){.mu .side b{font-size:15px}.mu .side .hs{--s:40px!important}}
+.pn.glow{container-type:inline-size}
+@container (max-width:560px){.mu{grid-template-columns:minmax(0,1fr) minmax(0,1fr);row-gap:14px}.mu>div:nth-child(2){grid-column:1/-1;grid-row:2}.mu .side b,.mu .side b.long{font-size:15px}}
 /* lineup cards */
 .lineup{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:10px}
 .lc{position:relative;display:flex;gap:12px;padding:12px;border-radius:16px;border:1px solid var(--line2);background:linear-gradient(150deg,color-mix(in srgb,var(--pc) 14%,transparent),rgba(6,13,26,.55) 55%);cursor:pointer;text-align:left;width:100%;min-width:0;overflow:hidden}
@@ -325,6 +328,24 @@ tr.me td{background:rgba(var(--acc-rgb),.10)}
 .ledger td,.ledger th{padding:5px 4px;font-size:12px}
 .xbtn{color:var(--dim);font-size:14px;padding:2px 6px}
 .banner{padding:10px 12px;border-radius:12px;font-size:13px;border:1px solid rgba(255,194,71,.4);background:rgba(255,194,71,.08);margin-bottom:10px}
+.call{display:inline-block;font-family:var(--disp);font-size:12px;letter-spacing:.08em;padding:3px 9px;border-radius:7px;font-weight:600;white-space:nowrap;margin-left:auto}
+.c-yes{background:var(--good);color:#04210f;box-shadow:0 0 14px rgba(62,232,143,.45)}
+.c-lean{background:rgba(25,211,255,.14);color:#6fe3ff;box-shadow:inset 0 0 0 1px rgba(25,211,255,.5)}
+.c-wait{background:rgba(255,194,71,.14);color:var(--warn);box-shadow:inset 0 0 0 1px rgba(255,194,71,.5)}
+.c-pass{background:rgba(255,255,255,.05);color:var(--dim);box-shadow:inset 0 0 0 1px var(--line2)}
+.c-fun{background:rgba(185,140,255,.18);color:#d4bcff;box-shadow:inset 0 0 0 1px rgba(185,140,255,.55)}
+.sl,.pt{padding:10px 4px}.sl+.sl,.pt+.pt{border-top:1px solid var(--line)}
+.sl-top{display:flex;align-items:center;gap:8px;flex-wrap:wrap}.sl-top b{font-size:14px}.sl-top .muted{font-size:12px}
+.sl-pick{font-size:13px;margin-top:4px;color:var(--dim)}.sl-pick b{color:var(--text)}
+.sl-re{font-size:12px;color:var(--warn);margin-top:3px}
+.pt.tnf{background:rgba(255,194,71,.06);border-radius:12px;padding:10px}
+.slot3{font-family:var(--disp);font-size:12px;letter-spacing:.1em;padding:2px 7px;border-radius:6px;background:linear-gradient(135deg,var(--acc),var(--acc2));color:#071021}
+.props{display:flex;flex-wrap:wrap;gap:6px;margin-top:6px}
+.prop{font-size:12px;padding:5px 9px;border-radius:9px;background:rgba(255,255,255,.05);border:1px solid var(--line2)}
+.prop small{display:block;color:var(--dim);font-size:11px}
+.offer{font-size:12px;margin:4px 0 2px;padding:6px 9px;border-radius:9px;background:rgba(var(--acc-rgb),.08);border:1px solid rgba(var(--acc-rgb),.3)}
+.why+.offer{margin-left:56px}
+.wx{display:inline-flex;align-items:center;gap:2px;font-size:14px;min-width:34px}.wx small{font-size:10px;color:var(--dim)}
 /* profile drawer */
 .scrim{position:fixed;inset:0;z-index:40;background:rgba(2,6,14,.6);backdrop-filter:blur(4px);-webkit-backdrop-filter:blur(4px);opacity:0;pointer-events:none;transition:opacity .25s}
 .scrim.on{opacity:1;pointer-events:auto}
@@ -357,7 +378,7 @@ tr.me td{background:rgba(var(--acc-rgb),.10)}
   <nav class="modes" aria-label="League">
     <button type="button" data-mode="redraft" aria-pressed="false"><b>⚡ Redraft</b><small>Weekend Warriors</small></button>
     <button type="button" data-mode="dynasty" aria-pressed="true"><b>∞ Dynasty</b><small>The Franchise League</small></button>
-    <button type="button" data-mode="bets" aria-pressed="false"><b>◎ Bets</b><small>Kalshi scan · parlays</small></button>
+    <button type="button" data-mode="bets" aria-pressed="false"><b>◎ Bets</b><small>Picks · props · record</small></button>
   </nav>
   <div class="tools"><span class="stamp" id="stamp"></span><button class="btn" id="refresh" type="button">↻ Refresh</button></div>
 </div></header>
@@ -922,11 +943,14 @@ async function loadMode(mode){
   D.userBy={};users.forEach(u=>D.userBy[u.user_id]=u);
   D.idx={};M.teams.forEach(t=>t.players.forEach(p=>D.idx[p.id]={p,t}));
   D.rostered=new Set(rosters.flatMap(r=>[...(r.players||[]),...(r.reserve||[]),...(r.taxi||[])]));
-  D.trades=genTrades(D);
+  D.trades=genTrades(D);D.plans=genPlans(D);
   return D;
 }
 function tradeOpts(D){return {mode:D.mode==='dynasty'?(store.get('dir')||'auto'):'contend',aggr:store.get('aggr_'+D.mode)||'aggressive',locked:locks(D.lid)};}
 function genTrades(D){REDRAFT=D.M.redraft;return generateTrades(D.M,tradeOpts(D)).slice(0,4);}
+function genPlans(D){REDRAFT=D.M.redraft;try{return targetPlans(D.M,tradeOpts(D));}catch(e){return [];}}
+function offerFor(D,p){const x=(D.plans||[]).find(x=>x.target.p===p);return x&&x.trade?x.trade:null;}
+function offerLine(tr){return tr?'<div class="offer">💬 <b>Offer:</b> '+esc(tr.give.map(a=>a.name).join(' + '))+(tr.get.length>1?' <span class="muted">for</span> '+esc(tr.get.map(a=>a.name).join(' + ')):'')+' <span class="muted">· '+tr.accept+'% accept</span></div>':'<div class="offer muted">No fair offer from your roster right now.</div>';}
 function locks(lid){try{return new Set(JSON.parse(store.get('locks_'+lid)||'[]'))}catch(e){return new Set()}}
 function toggleLock(lid,id){const s=locks(lid);s.has(id)?s.delete(id):s.add(id);store.set('locks_'+lid,JSON.stringify([...s]));}
 
@@ -956,6 +980,12 @@ function gameOf(team){
   const line=g.fav?(g.fav===team?-g.spread:g.spread):g.details?0:null;
   return {g,home,opp,line,total:g.total,implied:g[home?'homeImplied':'awayImplied']};
 }
+function wx(w){if(!w)return '<span class="wx"></span>';
+  if(w.roof==='dome')return '<span class="wx" title="Indoor">🏟️</span>';
+  if(w.roof==='retract')return '<span class="wx" title="Retractable roof'+(w.temp!=null?' · '+Math.round(w.temp)+'°F outside':'')+'">🏟️</span>';
+  const c=w.code,ic=c==null?(w.roof==='retract'?'🏟️':'·'):c>=95?'⛈️':c>=71&&c<=77||c===85||c===86?'❄️':c>=51?'🌧️':c>=45?'🌫️':c>=3?'☁️':c>=2?(w.night?'☁️':'⛅'):(w.night?'🌙':'☀️');
+  const tip=(w.roof==='retract'?'Retractable roof · ':'Outdoor · ')+(w.temp!=null?Math.round(w.temp)+'°F':'')+(w.precip!=null?' · '+w.precip+'% precip':'')+(w.wind!=null?' · wind '+Math.round(w.wind)+' mph':'');
+  return '<span class="wx" title="'+esc(tip)+'">'+ic+(w.temp!=null?'<small>'+Math.round(w.temp)+'°</small>':'')+'</span>';}
 const sgn=x=>x==null?'':x===0?'PK':(x>0?'+':'')+x;
 function lineTxt(team){const x=gameOf(team);if(!x)return '';if(x.bye)return 'BYE';
   return (x.home?'vs ':'@ ')+x.opp+(x.line!=null?' · '+sgn(x.line):'')+(x.total?' · O/U '+x.total:'');}
@@ -1004,7 +1034,7 @@ function tradePanel(D){
 function buysSells(D,title){
   const B=D.M.boards;
   const it=(p,kind,why,sub)=>prow(p.id,{s:40,sub,right:fmt(p.value),rsub:p.trendPct?'<span class="'+(p.trendPct>0?'up':'down')+'">'+(p.trendPct>0?'▲':'▼')+Math.abs(Math.round(p.trendPct*100))+'%</span>':''})+'<div class="why"><b class="t-acc">'+esc(kind)+':</b> '+esc(why)+'</div>';
-  const buys=B.targets.slice(0,5).map(x=>it(x.p,x.kind,x.why,posTag(x.p.pos)+logo(x.p.team)+' '+esc(x.owner.name))).join('')||'<p class="muted">No clear buys this week.</p>';
+  const buys=B.targets.slice(0,5).map(x=>it(x.p,x.kind,x.why,posTag(x.p.pos)+logo(x.p.team)+' '+esc(x.owner.name))+(offerFor(D,x.p)?offerLine(offerFor(D,x.p)):'')).join('')||'<p class="muted">No clear buys this week.</p>';
   const sells=[...B.sells,...B.offload].slice(0,5).map(x=>it(x.p,x.kind,x.why)).join('')||'<p class="muted">Nobody to move right now.</p>';
   return panel(title||'Buys & Sells','$','<div class="bs"><div><h3 class="t-good">▲ Buy</h3>'+buys+'</div><div><h3 class="t-bad">▼ Sell</h3>'+sells+'</div></div>');
 }
@@ -1054,13 +1084,13 @@ function renderDynasty(D){
   const lu=panel('Starting Lineup','☰','<div class="plist">'+S.list.map(x=>{const p=pinfo(x.id);return prow(x.id,{slot:x.slot,s:38,right:fmt(p.value),rsub:'value'});}).join('')+'</div>',{right:'<small>Week '+SH.week+'</small>'});
   // priorities
   const B=M.boards,pri=[];
-  me.needs.forEach(p=>{const t=B.targets.find(x=>x.p.pos===p);pri.push(['🎯','Upgrade '+p,'You rank '+ord(me['pr_'+p])+' of '+n+(t?'. Target: '+t.p.name+' ('+t.owner.name+')':'')+'.']);});
+  me.needs.forEach(p=>{const t=B.targets.find(x=>x.p.pos===p);pri.push(['🎯','Upgrade '+p,'You rank '+ord(me['pr_'+p])+' of '+n+(t?'. Target: '+t.p.name+' ('+t.owner.name+')':'')+'.',t?offerLine(offerFor(D,t.p)):'']);});
   if(B.sells[0])pri.push(['💰','Sell '+B.sells[0].p.name,B.sells[0].kind+': '+B.sells[0].why]);
   if(myAge&&myAge>=26.8)pri.push(['⏳','Get younger','Value-weighted age is '+myAge.toFixed(1)+' — swap a vet past the cliff for a 24-and-under piece.']);
   if(me.mode==='rebuild')pri.push(['🏗️','Stockpile '+(+D.league.season+1)+' 1sts','You’re rebuilding — trade vets for picks while they still have value.']);
   else if(share.PICK>.12)pri.push(['🚀','Turn picks into points','Picks are '+pct(share.PICK)+' of your value. Package them for a starter at a weak spot.']);
   if(B.offload.length)pri.push(['🧹','Clear dead weight',B.offload.slice(0,3).map(x=>x.p.name).join(', ')+' — use as throw-ins.']);
-  const pr=panel('Top Priorities','!','<div>'+pri.slice(0,4).map(([i,b,s])=>'<div class="prio"><div class="ic">'+i+'</div><div><b>'+esc(b)+'</b><small>'+esc(s)+'</small></div></div>').join('')+'</div>');
+  const pr=panel('Top Priorities','!','<div>'+pri.slice(0,4).map(([i,b,s,o])=>'<div class="prio"><div class="ic">'+i+'</div><div><b>'+esc(b)+'</b><small>'+esc(s)+'</small>'+(o||'')+'</div></div>').join('')+'</div>');
   // KPIs
   const sumV=T.reduce((s,t)=>s+t.total,0)||1,sumF=T.reduce((s,t)=>s+t.fpts,0)||1,fpR=rankBy(T,t=>t.fpts).get(me);
   const firsts=me.picks.filter(p=>p.round===1).length,seconds=me.picks.filter(p=>p.round===2).length;
@@ -1120,9 +1150,9 @@ function renderRedraft(D){
   const erf=x=>{const t=1/(1+.3275911*Math.abs(x));const y=1-(((((1.061405429*t-1.453152027)*t)+1.421413741)*t-.284496736)*t+.254829592)*t*Math.exp(-x*x);return x>=0?y:-y;};
   const wp=oppT?.5*(1+erf((myProj-oppProj)/(22*Math.SQRT2))):null;
   const live=mine&&(mine.points>0||(opp&&opp.points>0));
-  const muBody=oppT?'<div class="mu"><div class="side">'+teamAv(me,56)+'<div style="min-width:0"><b>'+esc(me.name)+'</b><small>'+me.wins+'-'+me.losses+' · you</small></div></div>'+
+  const muBody=oppT?'<div class="mu"><div class="side">'+teamAv(me,56)+'<div style="min-width:0"><b'+(/\S{9,}/.test(me.name)?' class="long"':'')+'>'+esc(me.name)+'</b><small>'+me.wins+'-'+me.losses+' · you</small></div></div>'+
     '<div style="text-align:center"><div class="pts num">'+myProj.toFixed(1)+' <span class="muted" style="font-size:.5em">vs</span> '+oppProj.toFixed(1)+'</div><div class="vs">Projected'+(live?' · live '+(mine.points||0).toFixed(1)+'–'+(opp.points||0).toFixed(1):'')+'</div></div>'+
-    '<div class="side r">'+teamAv(oppT,56)+'<div style="min-width:0"><b>'+esc(oppT.name)+'</b><small>'+oppT.wins+'-'+oppT.losses+' · '+ord(oppT.starterRank)+' lineup</small></div></div></div>'+
+    '<div class="side r">'+teamAv(oppT,56)+'<div style="min-width:0"><b'+(/\S{9,}/.test(oppT.name)?' class="long"':'')+'>'+esc(oppT.name)+'</b><small>'+oppT.wins+'-'+oppT.losses+' · '+ord(oppT.starterRank)+' lineup</small></div></div></div>'+
     '<div class="wp"><div class="bar"><i style="width:'+Math.round(wp*100)+'%"></i></div><div class="lbls"><span>Win probability <b>'+pct(wp)+'</b></span><span>'+esc(oppT.name)+' <b>'+pct(1-wp)+'</b></span></div></div>'
     :'<p class="muted">No matchup found for week '+SH.week+'.</p>';
   const matchup=panel('Week '+SH.week+' Matchup','⚔',muBody,{glow:true,right:SH.games.src.proj==='none'?'<small>projections unavailable</small>':'<small>Sleeper projections</small>'});
@@ -1155,7 +1185,7 @@ function renderRedraft(D){
   const myTeams=new Set(me.players.map(p=>p.team));
   const vg=[...SH.games.games].sort((a,b)=>(b.total||0)-(a.total||0)).map(g=>{const cnt=me.players.filter(p=>p.team===g.home||p.team===g.away).length;
     const tl=(t,imp)=>'<span class="tm">'+logo(t)+'<b>'+esc(t)+'</b>'+(g.fav===t?'<span class="t-acc" style="font-size:11px">−'+g.spread+'</span>':'')+(imp?'<span class="muted" style="font-size:11px">'+imp+'</span>':'')+'</span>';
-    return '<div class="g'+(cnt?' mine':'')+'"><span class="tm" style="gap:10px">'+tl(g.away,g.awayImplied)+'<span class="muted">@</span>'+tl(g.home,g.homeImplied)+'</span><span class="ln">'+(g.total?'O/U <b>'+g.total+'</b>':'—')+(g.total>=48?' 🔥':'')+'</span><span class="kick">'+esc(kick(g.kickoff))+(g.tv?' · '+esc(g.tv):'')+(cnt?' · <span class="t-acc">'+cnt+' of your players</span>':'')+'</span></div>';}).join('');
+    return '<div class="g'+(cnt?' mine':'')+'"><span class="tm" style="gap:10px">'+wx(g.weather)+tl(g.away,g.awayImplied)+'<span class="muted">@</span>'+tl(g.home,g.homeImplied)+'</span><span class="ln">'+(g.total?'O/U <b>'+g.total+'</b>':'—')+(g.total>=48?' 🔥':'')+'</span><span class="kick">'+esc(kick(g.kickoff))+(g.tv?' · '+esc(g.tv):'')+(g.weather&&g.weather.wind>=15?' · <span class="t-warn">wind '+Math.round(g.weather.wind)+' mph</span>':'')+(g.weather&&g.weather.precip>=50?' · <span class="t-warn">'+g.weather.precip+'% rain/snow</span>':'')+(cnt?' · <span class="t-acc">'+cnt+' of your players</span>':'')+'</span></div>';}).join('');
   const vegas=panel('Vegas Board','$',vg||'<p class="muted">Lines aren’t posted yet.</p>',{right:'<small>implied team totals · sorted by O/U</small>'});
   // standings
   const st=[...T].sort((a,b)=>b.wins-a.wins||b.fpts-a.fpts);
@@ -1168,193 +1198,125 @@ function renderRedraft(D){
   return hero+'<div class="grid"><div class="col colA">'+alertP+gradesPanel(D)+benchP+newsPanel(D,5)+'</div><div class="col colB">'+matchup+kpis+lineup+buysSells(D,'Buy Lows & Sell Highs')+tradePanel(D)+'</div><div class="col colC">'+vegas+waiver+stand+'</div></div>';
 }
 
-/* ================= BETS (Kalshi scan framework) ================= */
+/* ================= BETS ================= */
 const BETS={loaded:false};
-const SEAHAWKS=/seahawks|\bseattle\b(?!\s+mariners)|\bSEA\b/i;
 const jget=(k,d)=>{try{return JSON.parse(store.get(k)||'')||d}catch(e){return d}};
 const jset=(k,v)=>store.set(k,JSON.stringify(v));
 const money=x=>(x<0?'−$':'$')+Math.abs(x).toFixed(2);
-const pp=x=>(x>=0?'+':'')+x.toFixed(1);
 async function ensureBets(){if(!BETS.loaded){const [k,b]=await Promise.all([local('kalshi.json'),local('bets.json')]);BETS.k=k;BETS.b=b;BETS.loaded=true;}}
-function bank(){return jget('bank',{kBank:'',kCap:'',pBank:'',pCap:'',ledger:[]});}
+function bank(){const b=jget('bank',{});return {week:b.week??'50',day:b.day??'10',ledger:b.ledger||[]};}
 function saveBank(b){jset('bank',b);}
 const today=()=>new Date().toLocaleDateString('en-CA',{timeZone:'America/Los_Angeles'});
-function ledgerStats(b,plat){
-  const L=b.ledger.filter(x=>!plat||x.plat===plat),t=today();
-  const pl=x=>x.res==='W'?x.pay-x.stake:x.res==='L'?-x.stake:0;
-  return {openToday:L.filter(x=>x.d===t&&x.res==='open').reduce((s,x)=>s+x.stake,0),
-    stakedToday:L.filter(x=>x.d===t).reduce((s,x)=>s+x.stake,0),
-    plToday:L.filter(x=>x.d===t).reduce((s,x)=>s+pl(x),0),
-    pl:L.reduce((s,x)=>s+pl(x),0),w:L.filter(x=>x.res==='W').length,l:L.filter(x=>x.res==='L').length,
-    open:L.filter(x=>x.res==='open').reduce((s,x)=>s+x.stake,0),settled:L.filter(x=>x.res==='W'||x.res==='L')};
+function weekStart(){const d=new Date(today()+'T12:00:00');d.setDate(d.getDate()-((d.getDay()+6)%7));return d.toLocaleDateString('en-CA');}
+function ledgerStats(b){
+  const t=today(),w=weekStart(),pl=x=>x.res==='W'?x.pay-x.stake:x.res==='L'?-x.stake:0;
+  const wk=b.ledger.filter(x=>x.d>=w),td=b.ledger.filter(x=>x.d===t);
+  return {wkStake:wk.reduce((s,x)=>s+x.stake,0),wkPL:wk.reduce((s,x)=>s+pl(x),0),tdStake:td.reduce((s,x)=>s+x.stake,0),tdPL:td.reduce((s,x)=>s+pl(x),0),
+    pl:b.ledger.reduce((s,x)=>s+pl(x),0),w:b.ledger.filter(x=>x.res==='W').length,l:b.ledger.filter(x=>x.res==='L').length,open:b.ledger.filter(x=>x.res==='open').length};
 }
-/* the framework's binary-contract arithmetic */
-function evalBinary(c){
-  const q=+c.ask,n=Math.floor(+c.n),F=+c.fee||0,lo=c.lo/100,hi=c.hi/100,mid=c.mid===''?(lo+hi)/2:c.mid/100,budget=Math.min(10,+c.budget||5),buf=+c.buf||3;
-  if(c.ask===''||c.lo===''||c.hi==='')return {err:'Tap a Kalshi price or a scan candidate to load it, or enter an ask, contract count, fees and your probability range.'};
-  if(!(q>0&&q<1)||!(n>=1)||!(lo>=0&&lo<=mid&&mid<=hi&&hi<=1))return {err:'Enter an ask between $0.01 and $0.99, whole contracts, and ordered probabilities (low ≤ mid ≤ high).'};
-  const cost=n*q+F,be=cost/n;
-  const edges=[lo,mid,hi].map(p=>100*(p-be)),ev=[lo,mid,hi].map(p=>n*p-cost);
-  const excluded=SEAHAWKS.test(c.label||'');
-  const over=cost>budget;
-  const clears=!excluded&&!over&&edges[0]>=buf;
-  return {cost,be,edges,ev,win:n-cost,loss:-cost,maxAsk:lo-buf/100-F/n,clears,over,excluded,budget,buf,n,q};
-}
-const kalshiFee=(n,q)=>Math.ceil(0.07*n*q*(1-q)*100-1e-9)/100; // general taker schedule, estimate only
-function calcState(){return jget('calc',{label:'',ask:'',n:'',fee:'',lo:'',mid:'',hi:'',budget:'5',buf:'3'});}
-
-const NFL_ABBR={cardinals:'ARI',arizona:'ARI',falcons:'ATL',atlanta:'ATL',ravens:'BAL',baltimore:'BAL',bills:'BUF',buffalo:'BUF',panthers:'CAR',carolina:'CAR',bears:'CHI',chicago:'CHI',bengals:'CIN',cincinnati:'CIN',browns:'CLE',cleveland:'CLE',cowboys:'DAL',dallas:'DAL',broncos:'DEN',denver:'DEN',lions:'DET',detroit:'DET',packers:'GB','green bay':'GB',texans:'HOU',houston:'HOU',colts:'IND',indianapolis:'IND',jaguars:'JAX',jacksonville:'JAX',chiefs:'KC','kansas city':'KC',raiders:'LV','las vegas':'LV',chargers:'LAC','los angeles c':'LAC',rams:'LAR','los angeles r':'LAR',dolphins:'MIA',miami:'MIA',vikings:'MIN',minnesota:'MIN',patriots:'NE','new england':'NE',saints:'NO','new orleans':'NO',giants:'NYG','new york g':'NYG',jets:'NYJ','new york j':'NYJ',eagles:'PHI',philadelphia:'PHI',steelers:'PIT',pittsburgh:'PIT','49ers':'SF','san francisco':'SF',buccaneers:'TB','tampa bay':'TB',titans:'TEN',tennessee:'TEN',commanders:'WAS',washington:'WAS'};
-function nflAbbr(s){s=String(s||'').toLowerCase();for(const k of Object.keys(NFL_ABBR).sort((a,b)=>b.length-a.length))if(s.includes(k))return NFL_ABBR[k];return null;}
-function vegasWinProb(abbr){ // approximate: spread → win probability with a normal model (sd 13.5)
-  const g=gameOf(abbr);if(!g||g.bye||g.line==null)return null;
-  const x=-g.line/13.5,t=1/(1+.2316419*Math.abs(x)),d=.3989423*Math.exp(-x*x/2);
-  const p=d*t*(.3193815+t*(-.3565638+t*(1.781478+t*(-1.821256+t*1.330274))));return x>0?1-p:p;
-}
+// payout from a Kalshi price (0.62) or American odds (-150 / +120)
+function payout(stake,price){price=String(price||'').trim();const v=parseFloat(price.replace(/[^\d.+-]/g,''));
+  if(!(stake>0)||!isFinite(v))return null;
+  if(/^\$?0?\.\d+$/.test(price.replace('$',''))||(v>0&&v<1))return stake/v;
+  if(Math.abs(v)>=100)return stake*(1+(v>0?v/100:100/Math.abs(v)));
+  return null;}
+const CALL={YES:['YES','c-yes'],LEAN:['LEAN','c-lean'],WAIT:['WAIT','c-wait'],WATCH:['WAIT','c-wait'],PASS:['NO CLEAR SIDE','c-pass'],FUN:['FUN','c-fun']};
+const call=c=>{const x=CALL[String(c||'PASS').toUpperCase()]||CALL.PASS;return '<span class="call '+x[1]+'">'+x[0]+'</span>';};
+const sportTag=s=>'<span class="pos" style="--pc:var(--PICK)">'+esc(s||'')+'</span>';
 
 function renderBets(){
-  const b=BETS.b,k=BETS.k,bk=bank(),ks=ledgerStats(bk,'Kalshi'),ps=ledgerStats(bk,'PrizePicks');
-  const cands=(b&&b.candidates)||[];
-  const cnt=v=>cands.filter(c=>c.verdict===v).length;
-  const research=!(+bk.kBank>0&&+bk.kCap>0);
-  const hero='<section class="hero"><div class="av">◎</div><div style="position:relative;z-index:1;min-width:0"><h1>Kalshi <em>Sports Scan</em></h1><div class="sub">MLB · NFL · College football · NBA — PASS is a successful result. No Seahawks, no politics.</div></div>'+
-    '<div class="pills">'+[[cnt('QUALIFIED CANDIDATE')+cnt('QUALIFIED'),'Qualified'],[cnt('WATCH')+((b&&b.watchlist)||[]).length,'Watch'],[((b&&b.passes)||[]).length+cnt('PASS'),'Pass'],[research?'—':'$'+(+bk.kBank).toFixed(0),'Bankroll'],[money(ks.stakedToday),'Today']].map(([v,l])=>'<div class="pill"><b>'+esc(v)+'</b><small>'+esc(l)+'</small></div>').join('')+'</div></section>';
-  return hero+'<div class="grid"><div class="col colA">'+bankPanel(bk,ks,ps,research)+rulesPanel()+'</div><div class="col colB">'+scanPanel(b)+boardPanel(k)+'</div><div class="col colC">'+calcPanel()+parlayPanel()+'</div></div>';
+  const b=BETS.b||{},bk=bank(),st=ledgerStats(bk),slate=b.slate||[];
+  const yes=slate.filter(x=>x.call==='YES').length+((b.primetime&&b.primetime.games)||[]).filter(x=>x.call==='YES').length;
+  const hero='<section class="hero"><div class="av">◎</div><div style="position:relative;z-index:1;min-width:0"><h1>Bet <em>Desk</em></h1><div class="sub">Today’s calls, primetime picks and props — green YES means bet it.</div></div>'+
+    '<div class="pills">'+[[yes,'YES calls'],[slate.length,'Games'],['$'+fmt(+bk.week||0),'Week'],[money(+bk.week-st.wkStake),'Left'],[(st.w||st.l)?st.w+'-'+st.l:'—','Record']].map(([v,l])=>'<div class="pill"><b>'+esc(v)+'</b><small>'+esc(l)+'</small></div>').join('')+'</div></section>';
+  return hero+'<div class="grid"><div class="col colA">'+bankPanel(bk,st)+rulesPanel()+'</div><div class="col colB">'+slatePanel(b)+primePanel(b)+propsPanel(b)+parlayPanel(b)+'</div><div class="col colC">'+boardPanel(BETS.k)+sourcesPanel(b)+'</div></div>';
 }
-function scanPanel(b){
-  if(!b)return panel('Today’s Scan','◎','<p class="muted">No scan published yet. The scan runs every morning at 7:43 AM PT and lands here.</p>',{glow:true});
-  const cands=b.candidates||[];
-  const vClass=v=>/QUALIFIED/.test(v)?'QUALIFIED':v==='WATCH'?'WATCH':'PASS';
-  const link=(t,u)=>u?'<a href="'+esc(u)+'" target="_blank" rel="noopener">'+esc(t)+'</a>':esc(t);
-  const card=(c,i)=>{
-    const lo=c.pLow*100,hi=c.pHigh*100,mid=(c.pMid??(c.pLow+c.pHigh)/2)*100,be=c.breakEven!=null?c.breakEven*100:null;
-    const a=Math.max(0,Math.min(lo,be??lo)-8),z=Math.min(100,Math.max(hi,be??hi)+8),X=v=>((v-a)/(z-a)*100).toFixed(1);
-    return '<article class="bet"><h3><span class="vd '+vClass(c.verdict)+'">'+esc(c.verdict)+'</span>'+esc(c.event)+'</h3>'+
-      '<div class="meta">'+esc([c.sport,c.startPT,c.contract].filter(Boolean).join(' · '))+(c.ticker?' · <code>'+esc(c.ticker)+'</code>':'')+'</div>'+
-      (c.pLow!=null?'<div class="pbar" title="Your probability range vs all-in break-even"><span class="rng" style="left:'+X(lo)+'%;width:'+(X(hi)-X(lo))+'%"></span><span class="mid" style="left:'+X(mid)+'%"></span>'+(be!=null?'<span class="be" style="left:'+X(be)+'%" data-l="break-even '+be.toFixed(1)+'%"></span>':'')+'</div>'+
-        '<div class="muted" style="font-size:11px;display:flex;justify-content:space-between"><span>'+a.toFixed(0)+'%</span><span>probability range '+lo.toFixed(0)+'–'+hi.toFixed(0)+'%</span><span>'+z.toFixed(0)+'%</span></div>':'')+
-      '<div class="nums"><div><small>Ask</small><b>'+(c.ask!=null?'$'+(+c.ask).toFixed(2):'—')+'</b><small>'+esc(c.askTime||'')+'</small></div><div><small>Break-even</small><b>'+(be!=null?be.toFixed(1)+'%':'—')+'</b></div>'+
-      '<div><small>Edge (pp)</small><b class="'+(c.edgeLow>=3?'up':c.edgeLow<0?'down':'')+'">'+(c.edgeLow!=null?pp(c.edgeLow)+' to '+pp(c.edgeHigh):'—')+'</b></div><div><small>EV</small><b>'+(c.evLow!=null?money(c.evLow)+' / '+money(c.evHigh):'—')+'</b></div>'+
-      '<div><small>Max price</small><b>'+(c.maxPrice!=null?'$'+(+c.maxPrice).toFixed(2):'—')+'</b></div><div><small>Max stake</small><b>'+esc(c.maxStake||'$0')+'</b></div></div>'+
-      '<ul>'+(c.yesMeans?'<li><b>YES means:</b> '+esc(c.yesMeans)+'</li>':'')+(c.noMeans?'<li><b>NO means:</b> '+esc(c.noMeans)+'</li>':'')+
-      (c.evidence||[]).map(e=>'<li>'+link(e.text,e.url)+'</li>').join('')+(c.against?'<li class="t-warn"><b>Against:</b> '+esc(c.against)+'</li>':'')+
-      (c.reason?'<li><b>Verdict:</b> '+esc(c.reason)+'</li>':'')+(c.recheck?'<li><b>Recheck:</b> '+esc(c.recheck)+'</li>':'')+'</ul>'+
-      (c.ask!=null&&c.pLow!=null?'<div style="margin-top:10px"><button class="btn" type="button" data-loadc="'+i+'">Load into calculator</button></div>':'')+'</article>';};
-  const watch=(b.watchlist||[]).map(w=>'<li><b>'+esc(w.event)+'</b> — '+esc(w.trigger)+(w.recheck?' <span class="muted">(recheck '+esc(w.recheck)+')</span>':'')+'</li>').join('');
-  const passes=(b.passes||[]).map(p=>'<li><b>'+esc(p.market)+'</b> — '+esc(p.reason)+'</li>').join('');
-  const pr=b.prizepicks;
-  const body='<div class="meta muted" style="font-size:12px">Scan completed '+esc(b.scanned||'?')+(b.dataCutoff?' · data cutoff '+esc(b.dataCutoff):'')+'</div>'+
-    '<div class="nums"><div><small>Overall</small><b style="font-size:15px">'+esc(b.verdict||'—')+'</b></div><div><small>Budget context</small><b style="font-size:13px;font-family:var(--font)">'+esc(b.budget||'unknown')+'</b></div></div>'+
-    (b.limitations?'<div class="banner" style="margin-top:10px">Access limits: '+esc(b.limitations)+'</div>':'')+
-    cands.map(card).join('')+
-    (watch?'<div class="ev-h">👁 WATCHLIST · $0 committed</div><ul class="rules">'+watch+'</ul>':'')+
-    (passes?'<div class="ev-h">✕ TEMPTING MARKETS TO PASS</div><ul class="rules">'+passes+'</ul>':'')+
-    (pr?'<div class="ev-h">🏈 NFL SUNDAY PRIZEPICKS · separate bankroll</div><div class="bet"><h3><span class="vd '+vClass(pr.verdict||'PASS')+'">'+esc(pr.verdict||'PASS')+'</span>'+esc(pr.title||'PrizePicks')+'</h3><p style="font-size:13px;margin:8px 0 0">'+esc(pr.summary||'')+'</p>'+((pr.legs||[]).length?'<ul>'+pr.legs.map(l=>'<li>'+esc(l)+'</li>').join('')+'</ul>':'')+'</div>':'')+
-    ((b.sources||[]).length?'<details class="more" style="margin-top:12px"><summary>Sources ('+b.sources.length+')</summary><ul>'+b.sources.map(s=>'<li>'+link(s.title,s.url)+(s.time?' <span class="muted">'+esc(s.time)+'</span>':'')+'</li>').join('')+'</ul></details>':'')+
-    ((b.gaps||[]).length?'<details class="more"><summary>Data gaps</summary><ul>'+b.gaps.map(g=>'<li>'+esc(g)+'</li>').join('')+'</ul></details>':'')+
-    '<p class="muted" style="font-size:12px;margin:12px 0 0">No guaranteed profit. No qualifying edge means no bet. Research only — it doesn’t place orders.</p>';
-  return panel('Today’s Scan · '+(b.date||''),'◎',body,{glow:true});
+function slatePanel(b){
+  const s=b.slate||[];
+  const rows=s.map(x=>'<div class="sl"><div class="sl-top">'+sportTag(x.sport)+'<b>'+esc(x.game)+'</b><span class="muted">'+esc(x.time||'')+'</span>'+call(x.call)+'</div>'+
+    '<div class="sl-pick">'+(x.pick?'<b>'+esc(x.pick)+'</b>'+(x.price?' <span class="muted">'+esc(x.price)+'</span>':''):'')+(x.why?' — '+esc(x.why):'')+'</div>'+
+    (x.recheck?'<div class="sl-re">⏰ '+esc(x.recheck)+'</div>':'')+'</div>').join('');
+  const up=(b.upcoming||[]).map(x=>'<div class="sl"><div class="sl-top">'+sportTag(x.sport)+'<b>'+esc(x.game)+'</b><span class="muted">'+esc(x.time||'')+'</span>'+call(x.call)+'</div>'+
+    '<div class="sl-pick">'+(x.pick?'<b>'+esc(x.pick)+'</b>'+(x.price?' <span class="muted">'+esc(x.price)+'</span>':''):'')+(x.why?' — '+esc(x.why):'')+'</div>'+(x.recheck?'<div class="sl-re">⏰ '+esc(x.recheck)+'</div>':'')+'</div>').join('');
+  return panel('Today’s Slate'+(b.date?' · '+b.date:''),'◎',(rows+(up?'<div class="ev-h" style="margin-top:12px">COMING UP</div>'+up:''))||'<p class="muted">The daily scan posts today’s calls at 7:43 AM PT.</p>',{glow:true,right:b.scanned?'<small>updated '+esc(b.scanned)+'</small>':''});
+}
+function primePanel(b){
+  const p=b.primetime;if(!p)return '';
+  const t=p.tnf;
+  const g=(p.games||[]).map(x=>'<div class="pt"><div class="sl-top"><span class="slot3">'+esc(x.slot||'')+'</span><b>'+esc(x.game)+'</b><span class="muted">'+esc(x.kickoff||'')+'</span>'+call(x.call)+'</div>'+
+    (x.line?'<div class="muted" style="font-size:12px;margin-top:2px">'+esc(x.line)+'</div>':'')+
+    '<div class="sl-pick"><b>'+esc(x.pick||'')+'</b>'+(x.price?' <span class="muted">'+esc(x.price)+'</span>':'')+(x.why?' — '+esc(x.why):'')+'</div>'+
+    ((x.props||[]).length?'<div class="props">'+x.props.map(pp=>'<span class="prop"><b>'+esc(pp.pick)+'</b>'+(pp.odds?' '+esc(pp.odds):'')+(pp.why?'<small>'+esc(pp.why)+'</small>':'')+'</span>').join('')+'</div>':'')+
+    (x.recheck?'<div class="sl-re">⏰ '+esc(x.recheck)+'</div>':'')+'</div>').join('');
+  const tn=t?'<div class="pt tnf"><div class="sl-top"><span class="slot3">TNF</span><b>'+esc(t.game)+'</b><span class="muted">'+esc(t.kickoff||'')+'</span>'+(t.call?call(t.call):'<span class="call c-pass">SKIP</span>')+'</div>'+
+    (t.trend?'<div class="sl-pick">📈 '+esc(t.trend)+'</div>':'')+(t.note?'<div class="muted" style="font-size:12px">'+esc(t.note)+'</div>':'')+'</div>':'';
+  return panel('Primetime','★',tn+g,{right:'<small>TNF · SNF · MNF</small>'});
+}
+function propsPanel(b){
+  const p=b.props||[];
+  const body=p.length?p.map(s=>'<div class="ev-h">'+esc(s.slate)+'</div>'+(s.picks||[]).map(x=>'<div class="km" style="grid-template-columns:minmax(0,1fr) auto"><span><b>'+esc(x.pick)+'</b>'+(x.odds?' <span class="muted">'+esc(x.odds)+'</span>':'')+(x.why?'<br><small class="muted">'+esc(x.why)+'</small>':'')+'</span>'+call(x.call||'LEAN')+'</div>').join('')).join('')
+    :'<p class="muted" style="font-size:13px">Best props for the morning, afternoon and late slates post Sunday morning.</p>';
+  return panel('Sunday Props','✚',body);
+}
+function parlayPanel(b){
+  const p=b.parlay;if(!p||!(p.legs||[]).length)return '';
+  return panel('Fun Parlay','⛓','<div class="plist">'+p.legs.map((l,i)=>'<div class="km" style="grid-template-columns:24px minmax(0,1fr) auto"><span class="muted">'+(i+1)+'</span><span><b>'+esc(l.leg)+'</b></span><span class="num">'+esc(l.odds||'')+'</span></div>').join('')+'</div>'+
+    '<div class="sl-pick" style="margin-top:8px">'+call(p.call||'FUN')+' <b>'+esc(p.odds||'')+'</b>'+(p.why?' — '+esc(p.why):'')+'</div><p class="muted" style="font-size:11px;margin:6px 0 0">For fun: $5 max, only likely legs, no longshots.</p>',{right:'<small>'+p.legs.length+' legs</small>'});
+}
+function sourcesPanel(b){
+  const s=b.sources||[];if(!s.length)return '';
+  return '<section class="pn"><details class="more" style="border:0"><summary>Sources ('+s.length+')</summary><ul>'+s.map(x=>'<li><a href="'+esc(x.url)+'" target="_blank" rel="noopener" style="color:var(--acc)">'+esc(x.title)+'</a></li>').join('')+'</ul></details></section>';
 }
 function boardPanel(k){
-  if(!k||!(k.markets||[]).length)return panel('Kalshi Board','$','<p class="muted">No Kalshi market snapshot yet. It refreshes every 3 hours from Kalshi’s public market data.</p>');
+  if(!k||!(k.markets||[]).length)return panel('Kalshi Board','$','<p class="muted">Kalshi prices refresh every 3 hours.</p>');
   const f=store.get('ksport')||'ALL',all=store.get('kall')==='1';
   const sports=['ALL',...new Set(k.markets.map(m=>m.sport).filter(Boolean))];
   const ms=k.markets.filter(m=>f==='ALL'||m.sport===f);
   const G={};ms.forEach(m=>{const key=m.sport+'|'+(m.game||m.event)+'|'+String(m.expectedEnd||'').slice(0,10);(G[key]=G[key]||[]).push(m);});
-  const games=Object.values(G).filter(l=>l.some(m=>m.kind==='GAME'||!m.kind));
-  const shown=all?games:games.slice(0,12);
-  const q=(m,side)=>{const a=side==='YES'?m.yesAsk:m.noAsk;return a!=null&&a>0&&a<1?'<button type="button" class="q" data-kq="'+esc(m.ticker)+'" data-side="'+side+'"><small>'+side+'</small>$'+a.toFixed(2)+'</button>':'<span class="q" style="opacity:.4"><small>'+side+'</small>—</span>';};
-  const row=m=>{const ab=m.sport==='NFL'&&m.kind==='GAME'?nflAbbr(m.yes):null,vp=ab?vegasWinProb(ab):null;
-    return '<div class="km"><span>'+esc(m.kind==='GAME'?(m.yes||m.title)+' wins':(m.yes||m.title))+'<br><small class="muted">'+(m.yesAsk!=null?'implied '+Math.round(m.yesAsk*100)+'%':'')+(vp!=null?' · Vegas spread ≈ '+Math.round(vp*100)+'%':'')+'</small></span>'+q(m,'YES')+q(m,'NO')+'</div>';};
+  const games=Object.values(G).filter(l=>l.some(m=>m.kind==='GAME'));
+  const shown=all?games:games.slice(0,10);
+  const row=m=>'<div class="km"><span>'+esc(m.kind==='GAME'?(m.yes||m.title):(m.yes||m.title))+'</span><span class="q"><small>YES</small>'+(m.yesAsk!=null?Math.round(m.yesAsk*100)+'¢':'—')+'</span><span class="q"><small>NO</small>'+(m.noAsk!=null?Math.round(m.noAsk*100)+'¢':'—')+'</span></div>';
   const body='<div class="ctrls" style="margin-bottom:6px"><div class="seg" data-kseg>'+sports.map(s=>'<button type="button" data-v="'+s+'" aria-pressed="'+(s===f)+'">'+s+'</button>').join('')+'</div></div>'+
-    shown.map(list=>{const m0=list.find(m=>m.kind==='GAME')||list[0];const when=m0.expectedEnd?new Date(m0.expectedEnd):null;
-      const win=list.filter(m=>m.kind==='GAME'),lines=list.filter(m=>m.kind&&m.kind!=='GAME');
-      return '<div class="ev-h"><span class="pos" style="--pc:var(--PICK)">'+esc(m0.sport||'')+'</span><span style="color:var(--text)">'+esc(m0.game||m0.title||m0.event)+'</span>'+(when?' <span style="font-weight:500">· ends ~'+esc(when.toLocaleString([], {weekday:'short',hour:'numeric',minute:'2-digit'}))+'</span>':'')+'</div>'+
-        win.map(row).join('')+(lines.length?'<details class="more"><summary>Spreads & totals ('+lines.length+')</summary>'+lines.map(row).join('')+'</details>':'');}).join('')+
-    (games.length>12?'<div style="margin-top:10px"><button class="btn" type="button" id="kAll">'+(all?'Show fewer':'Show all '+games.length+' games')+'</button></div>':'')+
-    '<p class="muted" style="font-size:11px;margin:10px 0 0">Snapshot '+esc(k.updated)+' — quotes go stale fast; confirm in Kalshi’s order preview. Tap a price to load it into the calculator. Vegas % is a rough spread conversion, a benchmark only.'+(k.excludedSeahawks?' '+k.excludedSeahawks+' Seahawks markets hidden.':'')+'</p>';
-  return panel('Kalshi Board','$',body,{right:'<small>'+games.length+' games · '+ms.length+' markets</small>'});
+    shown.map(list=>{const m0=list.find(m=>m.kind==='GAME')||list[0],lines=list.filter(m=>m.kind!=='GAME');
+      return '<div class="ev-h">'+sportTag(m0.sport)+'<span style="color:var(--text)">'+esc(m0.game||m0.title)+'</span></div>'+list.filter(m=>m.kind==='GAME').map(row).join('')+
+        (lines.length?'<details class="more"><summary>Spreads & totals ('+lines.length+')</summary>'+lines.map(row).join('')+'</details>':'');}).join('')+
+    (games.length>10?'<div style="margin-top:10px"><button class="btn" type="button" id="kAll">'+(all?'Show fewer':'Show all '+games.length+' games')+'</button></div>':'')+
+    '<p class="muted" style="font-size:11px;margin:10px 0 0">Prices as of '+esc(k.updated)+' — check the live price in Kalshi before betting.</p>';
+  return panel('Kalshi Board','$',body,{right:'<small>'+games.length+' games</small>'});
 }
-function calcPanel(){
-  const c=calcState(),r=evalBinary(c);
-  const f=(k,l,step,cls)=>'<label class="'+(cls||'')+'">'+l+'<input data-calc="'+k+'" inputmode="decimal" value="'+esc(c[k])+'"'+(step?' step="'+step+'"':'')+'></label>';
-  let out;
-  if(r.err)out='<div class="out muted">'+esc(r.err)+'</div>';
-  else{
-    const v=r.excluded?['PASS','Excluded market (Seahawks)']:r.over?['PASS','Cost '+money(r.cost)+' is over your $'+r.budget.toFixed(2)+' stake limit']:r.clears?['QUALIFIED','Arithmetic clears the '+r.buf+'-pt buffer — still needs evidence, settlement rules and a fresh quote']:['PASS','Low-end edge '+pp(r.edges[0])+' pp is below the '+r.buf+'-pt buffer'];
-    out='<div class="out"><div class="big"><span class="vd '+v[0]+'">'+(v[0]==='QUALIFIED'?'Clears screen':'PASS')+'</span><b class="num" style="font-family:var(--disp);font-size:22px">'+money(r.cost)+'</b></div><div style="font-size:12px;color:var(--dim)">'+esc(v[1])+'</div>'+
-      '<div class="nums"><div><small>Break-even</small><b>'+(r.be*100).toFixed(1)+'%</b></div><div><small>Edge low/mid/high</small><b style="font-size:14px">'+r.edges.map(pp).join(' / ')+'</b></div>'+
-      '<div><small>EV low/mid/high</small><b style="font-size:14px">'+r.ev.map(money).join(' / ')+'</b></div><div><small>Net if win</small><b class="up">'+money(r.win)+'</b></div><div><small>Net if loss</small><b class="down">'+money(r.loss)+'</b></div><div><small>Max ask (fixed fees)</small><b>'+(r.maxAsk>0?'$'+r.maxAsk.toFixed(3):'—')+'</b></div></div>'+
-      '<div style="display:flex;gap:8px;margin-top:10px;flex-wrap:wrap"><button class="btn" type="button" id="feeEst">Estimate Kalshi fee</button><button class="btn'+(v[0]==='QUALIFIED'?' pri':'')+'" type="button" id="logCalc"'+(r.over||r.excluded?' disabled':'')+'>Log to ledger</button></div></div>';
-  }
-  return panel('Bet Calculator','∑','<div class="form">'+f('label','Market / side','','wide')+f('ask','Ask ($ per contract)')+f('n','Contracts')+f('fee','Total fees ($)')+f('budget','Max stake ($, ≤10)')+f('lo','Prob low %')+f('mid','Prob mid %')+f('hi','Prob high %')+f('buf','Edge buffer (pp)')+'</div>'+out+
-    '<p class="muted" style="font-size:11px;margin:8px 0 0">$1/$0 binary held to settlement. Fee estimate uses Kalshi’s general taker formula (7% × C × P × (1−P), rounded up) — always use the actual order preview.</p>',{right:'<small>framework math</small>'});
-}
-function parlayState(){return jget('parlay',{plat:'PrizePicks',M:'3',stake:'5',legs:[{t:'',p:'',g:''},{t:'',p:'',g:''}]});}
-function parlayPanel(){
-  const s=parlayState();
-  const legs=s.legs.map((l,i)=>'<div class="leg"><input data-leg="'+i+'" data-k="t" placeholder="Leg (player, line, more/less)" value="'+esc(l.t)+'"><input data-leg="'+i+'" data-k="p" inputmode="decimal" placeholder="Prob %" value="'+esc(l.p)+'"><input data-leg="'+i+'" data-k="g" placeholder="Game" value="'+esc(l.g)+'"><button class="xbtn" type="button" data-rmleg="'+i+'" aria-label="Remove leg">✕</button></div>').join('');
-  const ok=s.legs.filter(l=>l.t.trim()||l.p);
-  const M=+s.M,stake=Math.min(10,+s.stake||0);
-  let out='';
-  if(ok.length>=2&&M>1&&ok.every(l=>+l.p>0&&+l.p<100)){
-    const pJ=ok.reduce((x,l)=>x*l.p/100,1),be=1/M,edge=100*(pJ-be),ev=stake*(M*pJ-1);
-    const games=ok.map(l=>l.g.trim().toLowerCase()).filter(Boolean),corr=games.length!==new Set(games).size;
-    const sea=ok.some(l=>SEAHAWKS.test(l.t+' '+l.g));
-    const v=sea?['PASS','Contains Seahawks exposure — excluded by rule.']:corr?['PASS','Two or more legs share a game. Multiplying their probabilities is invalid — you’d need a joint model of the game script.']:edge<3?['PASS','Joint estimate '+(pJ*100).toFixed(1)+'% vs '+(be*100).toFixed(1)+'% break-even: '+pp(edge)+' pp, below the 3-pt buffer.']:['WATCH','Arithmetic clears only if the legs are truly independent and each probability is calibrated. Verify payout tiers, void rules and the entry screen first.'];
-    out='<div class="out"><div class="big"><span class="vd '+v[0]+'">'+v[0]+'</span><b class="num" style="font-family:var(--disp);font-size:22px">'+(pJ*100).toFixed(1)+'%</b></div><div style="font-size:12px;color:var(--dim)">'+esc(v[1])+'</div>'+
-      '<div class="nums"><div><small>Break-even 1/M</small><b>'+(be*100).toFixed(1)+'%</b></div><div><small>Edge</small><b class="'+(edge>=3?'up':'down')+'">'+pp(edge)+' pp</b></div><div><small>EV on $'+stake.toFixed(2)+'</small><b>'+money(ev)+'</b></div><div><small>Win pays</small><b>'+money(stake*M-stake)+'</b></div></div>'+
-      '<div style="margin-top:10px"><button class="btn" type="button" id="logParlay"'+(sea||!(stake>0)?' disabled':'')+'>Log entry ('+esc(s.plat)+')</button></div></div>';
-  }else out='<div class="out muted" style="font-size:13px">Add at least two legs with your probability estimates and the multiplier from the entry screen.</div>';
-  return panel('Parlay / PrizePicks Check','⛓','<div class="form"><label>Platform<select data-par="plat">'+['PrizePicks','Kalshi combo','Other'].map(p=>'<option'+(p===s.plat?' selected':'')+'>'+p+'</option>').join('')+'</select></label><label>Total-return multiplier (M)<input data-par="M" inputmode="decimal" value="'+esc(s.M)+'"></label><label class="wide">Entry stake ($, ≤10 — the whole entry, not per leg)<input data-par="stake" inputmode="decimal" value="'+esc(s.stake)+'"></label></div>'+
-    legs+'<div style="margin-top:8px"><button class="btn" type="button" id="addLeg">+ Add leg</button></div>'+out+
-    '<p class="muted" style="font-size:11px;margin:8px 0 0">All-or-nothing math only (break-even = 1/M). Flex/partial payouts need every payout tier. Don’t add legs just to raise the payout — straight bets are the default.</p>');
-}
-function bankPanel(bk,ks,ps,research){
-  const f=(k,l)=>'<label>'+l+'<input data-bank="'+k+'" inputmode="decimal" placeholder="not set" value="'+esc(bk[k])+'"></label>';
+function bankPanel(bk,st){
   const warn=[];
-  if(research)warn.push('No Kalshi bankroll or daily cap set — the panel is research-only. Set your own limits; nothing here sets them for you.');
-  if(ks.plToday<0||ps.plToday<0)warn.push('You’re down '+money(Math.min(0,ks.plToday)+Math.min(0,ps.plToday))+' today. Stakes don’t go up to win it back.');
-  if(+bk.kCap>0&&ks.stakedToday>+bk.kCap)warn.push('Kalshi exposure today ('+money(ks.stakedToday)+') is over your daily cap.');
-  if(+bk.pCap>0&&ps.stakedToday>+bk.pCap)warn.push('PrizePicks exposure today is over its separate cap.');
-  const rows=bk.ledger.slice(-12).reverse().map(x=>'<tr><td>'+esc(x.d.slice(5))+'</td><td style="max-width:120px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap" title="'+esc(x.ev)+'">'+esc(x.plat==='Kalshi'?'K':'PP')+' · '+esc(x.ev)+'</td><td class="n">'+money(x.stake)+'</td><td>'+
+  if(st.tdPL<0)warn.push('Down '+money(st.tdPL)+' today — stakes stay the same. No chasing.');
+  if(+bk.day>0&&st.tdStake>+bk.day)warn.push('Over today’s $'+bk.day+' limit.');
+  if(+bk.week>0&&st.wkStake>+bk.week)warn.push('Over this week’s $'+bk.week+' bankroll.');
+  const rows=bk.ledger.slice(-10).reverse().map(x=>'<tr><td>'+esc(x.d.slice(5))+'</td><td style="max-width:130px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap" title="'+esc(x.ev)+'">'+esc(x.ev)+'</td><td class="n">'+money(x.stake)+'</td><td>'+
     (x.res==='open'?'<button class="xbtn" data-res="W" data-id="'+x.id+'">W</button><button class="xbtn" data-res="L" data-id="'+x.id+'">L</button><button class="xbtn" data-res="V" data-id="'+x.id+'">V</button>':'<b class="'+(x.res==='W'?'up':x.res==='L'?'down':'')+'">'+x.res+'</b>')+'</td><td><button class="xbtn" data-del="'+x.id+'" aria-label="Delete">✕</button></td></tr>').join('');
   const body=warn.map(w=>'<div class="banner">'+esc(w)+'</div>').join('')+
-    '<div class="form">'+f('kBank','Kalshi bankroll $')+f('kCap','Kalshi daily cap $')+f('pBank','PrizePicks bankroll $')+f('pCap','PrizePicks daily cap $')+'</div>'+
-    '<div class="nums"><div><small>Kalshi P/L</small><b class="'+(ks.pl>=0?'up':'down')+'">'+money(ks.pl)+'</b><small>'+ks.w+'-'+ks.l+' · open '+money(ks.open)+'</small></div><div><small>PrizePicks P/L</small><b class="'+(ps.pl>=0?'up':'down')+'">'+money(ps.pl)+'</b><small>'+ps.w+'-'+ps.l+' · open '+money(ps.open)+'</small></div></div>'+
-    (rows?'<table class="ledger" style="margin-top:10px"><thead><tr><th>Date</th><th>Bet</th><th class="n">Stake</th><th>Result</th><th></th></tr></thead><tbody>'+rows+'</tbody></table>':'<p class="muted" style="font-size:12px">No bets logged. Log from the calculator or parlay check.</p>')+
-    '<div style="display:flex;gap:8px;margin-top:10px"><button class="btn" type="button" id="exportLedger">Export</button><button class="btn" type="button" id="importLedger">Import</button></div>'+
-    '<p class="muted" style="font-size:11px;margin:8px 0 0">Saved on this device only. Kalshi and PrizePicks are tracked separately — never move money between them to justify more risk.</p>';
-  return panel('Bankroll & Ledger','⛁',body);
+    '<div class="nums" style="margin-top:0"><div><small>This week</small><b>'+money(st.wkStake)+'</b><small>of $'+esc(bk.week)+' · P/L <span class="'+(st.wkPL>=0?'up':'down')+'">'+money(st.wkPL)+'</span></small></div><div><small>Today</small><b>'+money(st.tdStake)+'</b><small>of $'+esc(bk.day)+' max</small></div><div><small>All-time</small><b class="'+(st.pl>=0?'up':'down')+'">'+money(st.pl)+'</b><small>'+st.w+'-'+st.l+(st.open?' · '+st.open+' open':'')+'</small></div></div>'+
+    '<div class="ev-h">LOG A BET</div><div class="form"><label class="wide">Pick<input id="lgPick" placeholder="Dodgers ML, Over 47.5…"></label><label>Stake $<input id="lgStake" inputmode="decimal" value="5"></label><label>Price<input id="lgPrice" placeholder="0.62 or -150"></label>'+
+    '<label>Where<select id="lgPlat"><option>Kalshi</option><option>PrizePicks</option><option>Sportsbook</option></select></label><label style="justify-content:flex-end"><button class="btn pri" type="button" id="lgAdd">+ Log bet</button></label></div>'+
+    (rows?'<table class="ledger" style="margin-top:10px"><tbody>'+rows+'</tbody></table>':'<p class="muted" style="font-size:12px">No bets logged yet.</p>')+
+    '<details class="more" style="margin-top:8px"><summary>Bankroll settings & backup</summary><div class="form" style="padding:4px 2px 10px"><label>Weekly bankroll $<input data-bank="week" inputmode="decimal" value="'+esc(bk.week)+'"></label><label>Daily max $<input data-bank="day" inputmode="decimal" value="'+esc(bk.day)+'"></label></div>'+
+    '<div style="display:flex;gap:8px;padding:0 2px 10px"><button class="btn" type="button" id="exportLedger">Export</button><button class="btn" type="button" id="importLedger">Import</button></div><p class="muted" style="font-size:11px;margin:0 2px 8px">Saved on this device — use Export/Import to move it between iPad and computer.</p></details>';
+  return panel('Bankroll & Record','⛁',body);
 }
 function rulesPanel(){
-  return panel('House Rules','⚖','<ul class="rules" style="padding-left:18px;margin:0">'+['PASS is a win. Never force a daily pick.','$5 default stake, $10 ceiling — including fees.','No Seattle Seahawks bets of any kind. No political markets.','No chasing losses, no bigger stakes after a loss.','Straight bets by default; no legs just to juice the payout.','Count correlated positions together — they can lose together.','Recheck the live quote, fees and injuries before any entry.'].map(r=>'<li>'+esc(r)+'</li>').join('')+'</ul>');
+  return panel('House Rules','⚖','<ul class="rules" style="padding-left:18px;margin:0">'+['Bet the green YES calls. No clear side = skip it.','$50 a week, $5–10 a day.','No chasing losses — no bigger stakes after a loss.','Straight bets by default. Parlays are for fun: likely legs only, never +1000 longshots.','Check the live price and injuries right before you bet.'].map(r=>'<li>'+esc(r)+'</li>').join('')+'</ul>');
 }
 function bindBets(){
   const rerender=()=>{const y=scrollY;render();scrollTo(0,y);};
-  document.querySelectorAll('[data-calc]').forEach(i=>i.onchange=()=>{const c=calcState();c[i.dataset.calc]=i.value;jset('calc',c);rerender();});
-  document.querySelectorAll('[data-par]').forEach(i=>i.onchange=()=>{const s=parlayState();s[i.dataset.par]=i.value;jset('parlay',s);rerender();});
-  document.querySelectorAll('[data-leg]').forEach(i=>i.onchange=()=>{const s=parlayState();s.legs[+i.dataset.leg][i.dataset.k]=i.value;jset('parlay',s);rerender();});
-  document.querySelectorAll('[data-rmleg]').forEach(b=>b.onclick=()=>{const s=parlayState();s.legs.splice(+b.dataset.rmleg,1);jset('parlay',s);rerender();});
   document.querySelectorAll('[data-bank]').forEach(i=>i.onchange=()=>{const b=bank();b[i.dataset.bank]=i.value.replace(/[^\d.]/g,'');saveBank(b);rerender();});
   document.querySelectorAll('[data-res]').forEach(x=>x.onclick=()=>{const b=bank(),e=b.ledger.find(l=>l.id===x.dataset.id);if(e)e.res=x.dataset.res;saveBank(b);rerender();});
-  document.querySelectorAll('[data-del]').forEach(x=>x.onclick=()=>{if(!confirm('Delete this ledger entry?'))return;const b=bank();b.ledger=b.ledger.filter(l=>l.id!==x.dataset.del);saveBank(b);rerender();});
+  document.querySelectorAll('[data-del]').forEach(x=>x.onclick=()=>{if(!confirm('Delete this bet?'))return;const b=bank();b.ledger=b.ledger.filter(l=>l.id!==x.dataset.del);saveBank(b);rerender();});
   document.querySelectorAll('[data-kseg] button').forEach(x=>x.onclick=()=>{store.set('ksport',x.dataset.v);rerender();});
-  document.querySelectorAll('[data-kq]').forEach(x=>x.onclick=()=>{const m=BETS.k.markets.find(m=>m.ticker===x.dataset.kq),yes=x.dataset.side==='YES',ask=yes?m.yesAsk:m.noAsk,c=calcState();
-    const n=Math.max(1,Math.floor(Math.min(10,+c.budget||5)/(ask+.02)));
-    Object.assign(c,{label:(m.title||m.event)+' — '+(yes?'YES '+(m.yes||''):'NO '+(m.no||m.yes||'')),ask:ask.toFixed(2),n:String(n),fee:kalshiFee(n,ask).toFixed(2)});jset('calc',c);rerender();
-    document.querySelector('[data-calc=lo]')?.scrollIntoView({behavior:'smooth',block:'center'});});
-  document.querySelectorAll('[data-loadc]').forEach(x=>x.onclick=()=>{const cd=BETS.b.candidates[+x.dataset.loadc],c=calcState();
-    Object.assign(c,{label:cd.event+' — '+cd.contract,ask:String(cd.ask),lo:String(+(cd.pLow*100).toFixed(1)),mid:String(+((cd.pMid??(cd.pLow+cd.pHigh)/2)*100).toFixed(1)),hi:String(+(cd.pHigh*100).toFixed(1))});
-    if(cd.contracts)c.n=String(cd.contracts);if(cd.fees!=null)c.fee=String(cd.fees);jset('calc',c);rerender();document.querySelector('[data-calc=lo]')?.scrollIntoView({behavior:'smooth',block:'center'});});
   const ka=$('kAll');if(ka)ka.onclick=()=>{store.set('kall',store.get('kall')==='1'?'0':'1');rerender();};
-  const fe=$('feeEst');if(fe)fe.onclick=()=>{const c=calcState();c.fee=kalshiFee(Math.floor(+c.n),+c.ask).toFixed(2);jset('calc',c);rerender();};
-  const lc=$('logCalc');if(lc)lc.onclick=()=>{const c=calcState(),r=evalBinary(c);if(r.err||r.over||r.excluded)return;const b=bank();
-    b.ledger.push({id:Date.now().toString(36),d:today(),plat:'Kalshi',ev:c.label||'Kalshi contract',stake:+r.cost.toFixed(2),pay:r.n,p:+c.mid/100,res:'open'});saveBank(b);rerender();};
-  const lp=$('logParlay');if(lp)lp.onclick=()=>{const s=parlayState(),b=bank(),stake=Math.min(10,+s.stake);
-    b.ledger.push({id:Date.now().toString(36),d:today(),plat:s.plat==='PrizePicks'?'PrizePicks':'Kalshi',ev:s.legs.filter(l=>l.t).map(l=>l.t).join(' + ')||'Parlay',stake,pay:+(stake*s.M).toFixed(2),res:'open'});saveBank(b);rerender();};
-  const al=$('addLeg');if(al)al.onclick=()=>{const s=parlayState();s.legs.push({t:'',p:'',g:''});jset('parlay',s);rerender();};
-  const ex=$('exportLedger');if(ex)ex.onclick=()=>{const t=JSON.stringify(bank());navigator.clipboard.writeText(t).then(()=>{ex.textContent='Copied ✓';},()=>prompt('Copy your ledger:',t));};
-  const im=$('importLedger');if(im)im.onclick=()=>{const t=prompt('Paste a ledger you exported:');if(!t)return;try{const b=JSON.parse(t);if(!Array.isArray(b.ledger))throw 0;saveBank(b);rerender();}catch(e){alert('That doesn’t look like an exported ledger.');}};
+  const add=$('lgAdd');if(add)add.onclick=()=>{const pick=$('lgPick').value.trim(),stake=+$('lgStake').value,price=$('lgPrice').value,pay=payout(stake,price);
+    if(!pick||!(stake>0))return alert('Enter the pick and a stake.');
+    if(stake>10)return alert('Stakes top out at $10.');
+    if(pay==null)return alert('Enter the price as a Kalshi price (0.62) or American odds (-150 / +120).');
+    const b=bank();b.ledger.push({id:Date.now().toString(36),d:today(),plat:$('lgPlat').value,ev:pick,stake,price,pay:+pay.toFixed(2),res:'open'});saveBank(b);rerender();};
+  const ex=$('exportLedger');if(ex)ex.onclick=()=>{const t=JSON.stringify(bank());navigator.clipboard.writeText(t).then(()=>{ex.textContent='Copied ✓';},()=>prompt('Copy your record:',t));};
+  const im=$('importLedger');if(im)im.onclick=()=>{const t=prompt('Paste a record you exported:');if(!t)return;try{const b=JSON.parse(t);if(!Array.isArray(b.ledger))throw 0;saveBank(b);rerender();}catch(e){alert('That doesn’t look like an exported record.');}};
 }
 
 /* ================= PROFILE ================= */
@@ -1379,7 +1341,7 @@ function openProfile(id){
     '<div class="pf-sec"><a class="btn" href="https://sleeper.com/players/nfl/'+esc(id)+'" target="_blank" rel="noopener">Open on Sleeper ↗</a></div>';
   $('drawer').classList.add('on');$('scrim').classList.add('on');$('drawer').setAttribute('aria-hidden','false');
   $('pfX').onclick=closeProfile;$('pfX').focus();
-  if($('pfLock'))$('pfLock').onclick=()=>{toggleLock(D.lid,id);D.trades=genTrades(D);render();openProfile(id);};
+  if($('pfLock'))$('pfLock').onclick=()=>{toggleLock(D.lid,id);D.trades=genTrades(D);D.plans=genPlans(D);render();openProfile(id);};
 }
 function closeProfile(){$('drawer').classList.remove('on');$('scrim').classList.remove('on');$('drawer').setAttribute('aria-hidden','true');}
 
@@ -1405,7 +1367,7 @@ document.addEventListener('click',e=>{
   const c=e.target.closest('[data-copy]');
   if(c){const tr=CUR.trades[+c.dataset.copy];navigator.clipboard.writeText(tradeMsg(tr)).then(()=>{c.textContent='Copied ✓';},()=>prompt('Copy this message:',tradeMsg(tr)));return;}
   const s=e.target.closest('[data-seg] button');
-  if(s){const k=s.parentElement.dataset.seg;store.set(k==='aggr'?'aggr_'+MODE:k,s.dataset.v);CUR.trades=genTrades(CUR);render();return;}
+  if(s){const k=s.parentElement.dataset.seg;store.set(k==='aggr'?'aggr_'+MODE:k,s.dataset.v);CUR.trades=genTrades(CUR);CUR.plans=genPlans(CUR);render();return;}
   const p=e.target.closest('[data-pid]');if(p&&!e.target.closest('a')){openProfile(p.dataset.pid);return;}
 });
 $('scrim').onclick=closeProfile;
