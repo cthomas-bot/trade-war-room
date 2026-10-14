@@ -22,6 +22,7 @@
   color-scheme:dark;
 }
 body[data-mode=redraft]{--acc:#19d3ff;--acc2:#8cff5a;--acc-rgb:25,211,255}
+body[data-mode=bets]{--acc:#b98cff;--acc2:#ffd36b;--acc-rgb:185,140,255}
 *{box-sizing:border-box}
 html{-webkit-text-size-adjust:100%}
 html,body{margin:0;min-height:100%;background:var(--bg);color:var(--text);font-family:var(--font);font-size:15px;line-height:1.4;-webkit-font-smoothing:antialiased}
@@ -58,7 +59,9 @@ a{color:inherit}
 .btn:hover{border-color:var(--acc)}
 .btn.pri{background:linear-gradient(135deg,var(--acc),var(--acc2));color:#071021;border:0;text-decoration:none;display:inline-block}
 .stamp{font-size:12px;color:var(--dim);white-space:nowrap}
-@media (max-width:760px){.brand span{display:none}.modes button{min-width:0;padding:6px 12px}.modes button small{display:none}.stamp{display:none}.top-in{padding:8px 12px;gap:8px}}
+@media (max-width:1100px){.modes button{min-width:0;padding:7px 12px}}
+@media (max-width:760px){#refresh{font-size:0;padding:7px 10px}#refresh::before{content:'↻';font-size:16px}.brand .mark{width:30px;height:30px}.modes{padding:3px;gap:2px}.modes button{padding:6px 8px!important}.modes button b{font-size:13px!important;letter-spacing:.04em!important}}
+@media (max-width:760px){.brand span{display:none}.modes button{min-width:0;padding:6px 10px}.modes button b{font-size:14px}.modes button small{display:none}.stamp{display:none}.top-in{padding:8px 12px;gap:8px}}
 /* ---------- page ---------- */
 .wrap{max-width:1560px;margin:0 auto;padding:18px 20px 60px}
 @media (max-width:760px){.wrap{padding:14px 12px 50px}}
@@ -285,6 +288,43 @@ th{font-size:10px;letter-spacing:.1em;text-transform:uppercase;color:var(--dim);
 td{padding:7px 6px;border-top:1px solid var(--line)}
 td.n,th.n{text-align:right;font-variant-numeric:tabular-nums}
 tr.me td{background:rgba(var(--acc-rgb),.10)}
+/* ---------- bets ---------- */
+.vd{display:inline-block;font-family:var(--disp);font-size:13px;letter-spacing:.1em;padding:3px 10px;border-radius:8px;text-transform:uppercase;font-weight:600}
+.vd.QUALIFIED{background:rgba(62,232,143,.16);color:var(--good);box-shadow:inset 0 0 0 1px rgba(62,232,143,.55)}
+.vd.WATCH{background:rgba(255,194,71,.14);color:var(--warn);box-shadow:inset 0 0 0 1px rgba(255,194,71,.5)}
+.vd.PASS{background:rgba(255,84,104,.12);color:#ff8b99;box-shadow:inset 0 0 0 1px rgba(255,84,104,.45)}
+.bet{border-radius:16px;border:1px solid var(--line2);background:rgba(6,13,26,.5);padding:14px;margin-top:12px}
+.bet h3{margin:0;font-size:16px;display:flex;gap:8px;align-items:center;flex-wrap:wrap}
+.bet .meta{font-size:12px;color:var(--dim);margin-top:4px}
+.pbar{position:relative;height:26px;margin:14px 0 6px;border-radius:8px;background:repeating-linear-gradient(90deg,rgba(255,255,255,.05) 0 1px,transparent 1px 10%),rgba(255,255,255,.04)}
+.pbar .rng{position:absolute;top:5px;bottom:5px;border-radius:6px;background:linear-gradient(90deg,var(--acc),var(--acc2));box-shadow:0 0 14px rgba(var(--acc-rgb),.5)}
+.pbar .be{position:absolute;top:-4px;bottom:-4px;width:2px;background:#fff}
+.pbar .be::after{content:attr(data-l);position:absolute;top:-16px;left:50%;transform:translateX(-50%);font-size:10px;white-space:nowrap;color:#fff}
+.pbar .mid{position:absolute;top:2px;bottom:2px;width:2px;background:#071021}
+.nums{display:grid;grid-template-columns:repeat(auto-fit,minmax(110px,1fr));gap:8px;margin-top:10px}
+.nums div{padding:8px 10px;border-radius:10px;background:rgba(255,255,255,.04);border:1px solid var(--line)}
+.nums small{display:block;font-size:10px;letter-spacing:.1em;text-transform:uppercase;color:var(--dim)}
+.nums b{font-family:var(--disp);font-size:18px}
+.bet ul{margin:8px 0 0;padding-left:18px;font-size:13px}.bet li{margin:3px 0}
+.bet a{color:var(--acc)}
+.form{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:8px}
+.form label{display:flex;flex-direction:column;gap:4px;font-size:10px;font-weight:700;letter-spacing:.1em;text-transform:uppercase;color:var(--dim)}
+.form input,.form select{width:100%;min-width:0;padding:9px 10px;border-radius:10px;border:1px solid var(--line2);background:rgba(6,13,26,.7);font-size:15px;font-weight:600;letter-spacing:0;text-transform:none;color:var(--text)}
+.form .wide{grid-column:1/-1}
+.out{margin-top:12px;padding:12px;border-radius:14px;border:1px solid var(--line2);background:rgba(6,13,26,.5)}
+.out .big{display:flex;align-items:center;justify-content:space-between;gap:10px;margin-bottom:8px}
+.km{display:grid;grid-template-columns:minmax(0,1fr) auto auto;min-width:0;gap:6px 10px;align-items:center;padding:8px 4px;font-size:13px}
+.km+.km{border-top:1px solid var(--line)}
+.km .q{font-variant-numeric:tabular-nums;text-align:right;padding:4px 8px;border-radius:8px;background:rgba(255,255,255,.05);cursor:pointer;border:1px solid var(--line2);font-weight:600;font-size:12px}
+.km .q:hover{border-color:var(--acc)}
+.km .q small{display:block;font-size:9px;color:var(--dim);font-weight:700;letter-spacing:.08em}
+.ev-h{margin:14px 0 4px;font-size:12px;font-weight:700;color:var(--dim);display:flex;gap:8px;align-items:center}
+.leg{display:grid;grid-template-columns:minmax(0,1fr) 70px 60px 30px;gap:6px;margin-top:6px}
+.leg input{padding:8px;border-radius:9px;border:1px solid var(--line2);background:rgba(6,13,26,.7);min-width:0;font-size:13px}
+.rules li{margin:5px 0;font-size:13px}
+.ledger td,.ledger th{padding:5px 4px;font-size:12px}
+.xbtn{color:var(--dim);font-size:14px;padding:2px 6px}
+.banner{padding:10px 12px;border-radius:12px;font-size:13px;border:1px solid rgba(255,194,71,.4);background:rgba(255,194,71,.08);margin-bottom:10px}
 /* profile drawer */
 .scrim{position:fixed;inset:0;z-index:40;background:rgba(2,6,14,.6);backdrop-filter:blur(4px);-webkit-backdrop-filter:blur(4px);opacity:0;pointer-events:none;transition:opacity .25s}
 .scrim.on{opacity:1;pointer-events:auto}
@@ -317,6 +357,7 @@ tr.me td{background:rgba(var(--acc-rgb),.10)}
   <nav class="modes" aria-label="League">
     <button type="button" data-mode="redraft" aria-pressed="false"><b>⚡ Redraft</b><small>Weekend Warriors</small></button>
     <button type="button" data-mode="dynasty" aria-pressed="true"><b>∞ Dynasty</b><small>The Franchise League</small></button>
+    <button type="button" data-mode="bets" aria-pressed="false"><b>◎ Bets</b><small>Kalshi scan · parlays</small></button>
   </nav>
   <div class="tools"><span class="stamp" id="stamp"></span><button class="btn" id="refresh" type="button">↻ Refresh</button></div>
 </div></header>
@@ -805,7 +846,7 @@ const fmt=n=>Math.round(n||0).toLocaleString();
 const pct=(x,d)=>(x*100).toFixed(d??0)+'%';
 let SH=null;            // shared data: state, players, news, games, rookies, stats
 const CACHE={};         // per-mode league data
-let MODE=store.get('mode')==='redraft'?'redraft':'dynasty';
+let MODE=['redraft','bets'].includes(store.get('mode'))?store.get('mode'):'dynasty';
 let CUR=null;
 
 async function j(url,ms){
@@ -1127,6 +1168,194 @@ function renderRedraft(D){
   return hero+'<div class="grid"><div class="col colA">'+alertP+gradesPanel(D)+benchP+newsPanel(D,5)+'</div><div class="col colB">'+matchup+kpis+lineup+buysSells(D,'Buy Lows & Sell Highs')+tradePanel(D)+'</div><div class="col colC">'+vegas+waiver+stand+'</div></div>';
 }
 
+/* ================= BETS (Kalshi scan framework) ================= */
+const BETS={loaded:false};
+const SEAHAWKS=/seahawks|\bseattle\b(?!\s+mariners)|\bSEA\b/i;
+const jget=(k,d)=>{try{return JSON.parse(store.get(k)||'')||d}catch(e){return d}};
+const jset=(k,v)=>store.set(k,JSON.stringify(v));
+const money=x=>(x<0?'−$':'$')+Math.abs(x).toFixed(2);
+const pp=x=>(x>=0?'+':'')+x.toFixed(1);
+async function ensureBets(){if(!BETS.loaded){const [k,b]=await Promise.all([local('kalshi.json'),local('bets.json')]);BETS.k=k;BETS.b=b;BETS.loaded=true;}}
+function bank(){return jget('bank',{kBank:'',kCap:'',pBank:'',pCap:'',ledger:[]});}
+function saveBank(b){jset('bank',b);}
+const today=()=>new Date().toLocaleDateString('en-CA',{timeZone:'America/Los_Angeles'});
+function ledgerStats(b,plat){
+  const L=b.ledger.filter(x=>!plat||x.plat===plat),t=today();
+  const pl=x=>x.res==='W'?x.pay-x.stake:x.res==='L'?-x.stake:0;
+  return {openToday:L.filter(x=>x.d===t&&x.res==='open').reduce((s,x)=>s+x.stake,0),
+    stakedToday:L.filter(x=>x.d===t).reduce((s,x)=>s+x.stake,0),
+    plToday:L.filter(x=>x.d===t).reduce((s,x)=>s+pl(x),0),
+    pl:L.reduce((s,x)=>s+pl(x),0),w:L.filter(x=>x.res==='W').length,l:L.filter(x=>x.res==='L').length,
+    open:L.filter(x=>x.res==='open').reduce((s,x)=>s+x.stake,0),settled:L.filter(x=>x.res==='W'||x.res==='L')};
+}
+/* the framework's binary-contract arithmetic */
+function evalBinary(c){
+  const q=+c.ask,n=Math.floor(+c.n),F=+c.fee||0,lo=c.lo/100,hi=c.hi/100,mid=c.mid===''?(lo+hi)/2:c.mid/100,budget=Math.min(10,+c.budget||5),buf=+c.buf||3;
+  if(c.ask===''||c.lo===''||c.hi==='')return {err:'Tap a Kalshi price or a scan candidate to load it, or enter an ask, contract count, fees and your probability range.'};
+  if(!(q>0&&q<1)||!(n>=1)||!(lo>=0&&lo<=mid&&mid<=hi&&hi<=1))return {err:'Enter an ask between $0.01 and $0.99, whole contracts, and ordered probabilities (low ≤ mid ≤ high).'};
+  const cost=n*q+F,be=cost/n;
+  const edges=[lo,mid,hi].map(p=>100*(p-be)),ev=[lo,mid,hi].map(p=>n*p-cost);
+  const excluded=SEAHAWKS.test(c.label||'');
+  const over=cost>budget;
+  const clears=!excluded&&!over&&edges[0]>=buf;
+  return {cost,be,edges,ev,win:n-cost,loss:-cost,maxAsk:lo-buf/100-F/n,clears,over,excluded,budget,buf,n,q};
+}
+const kalshiFee=(n,q)=>Math.ceil(0.07*n*q*(1-q)*100-1e-9)/100; // general taker schedule, estimate only
+function calcState(){return jget('calc',{label:'',ask:'',n:'',fee:'',lo:'',mid:'',hi:'',budget:'5',buf:'3'});}
+
+const NFL_ABBR={cardinals:'ARI',arizona:'ARI',falcons:'ATL',atlanta:'ATL',ravens:'BAL',baltimore:'BAL',bills:'BUF',buffalo:'BUF',panthers:'CAR',carolina:'CAR',bears:'CHI',chicago:'CHI',bengals:'CIN',cincinnati:'CIN',browns:'CLE',cleveland:'CLE',cowboys:'DAL',dallas:'DAL',broncos:'DEN',denver:'DEN',lions:'DET',detroit:'DET',packers:'GB','green bay':'GB',texans:'HOU',houston:'HOU',colts:'IND',indianapolis:'IND',jaguars:'JAX',jacksonville:'JAX',chiefs:'KC','kansas city':'KC',raiders:'LV','las vegas':'LV',chargers:'LAC','los angeles c':'LAC',rams:'LAR','los angeles r':'LAR',dolphins:'MIA',miami:'MIA',vikings:'MIN',minnesota:'MIN',patriots:'NE','new england':'NE',saints:'NO','new orleans':'NO',giants:'NYG','new york g':'NYG',jets:'NYJ','new york j':'NYJ',eagles:'PHI',philadelphia:'PHI',steelers:'PIT',pittsburgh:'PIT','49ers':'SF','san francisco':'SF',buccaneers:'TB','tampa bay':'TB',titans:'TEN',tennessee:'TEN',commanders:'WAS',washington:'WAS'};
+function nflAbbr(s){s=String(s||'').toLowerCase();for(const k of Object.keys(NFL_ABBR).sort((a,b)=>b.length-a.length))if(s.includes(k))return NFL_ABBR[k];return null;}
+function vegasWinProb(abbr){ // approximate: spread → win probability with a normal model (sd 13.5)
+  const g=gameOf(abbr);if(!g||g.bye||g.line==null)return null;
+  const x=-g.line/13.5,t=1/(1+.2316419*Math.abs(x)),d=.3989423*Math.exp(-x*x/2);
+  const p=d*t*(.3193815+t*(-.3565638+t*(1.781478+t*(-1.821256+t*1.330274))));return x>0?1-p:p;
+}
+
+function renderBets(){
+  const b=BETS.b,k=BETS.k,bk=bank(),ks=ledgerStats(bk,'Kalshi'),ps=ledgerStats(bk,'PrizePicks');
+  const cands=(b&&b.candidates)||[];
+  const cnt=v=>cands.filter(c=>c.verdict===v).length;
+  const research=!(+bk.kBank>0&&+bk.kCap>0);
+  const hero='<section class="hero"><div class="av">◎</div><div style="position:relative;z-index:1;min-width:0"><h1>Kalshi <em>Sports Scan</em></h1><div class="sub">MLB · NFL · College football · NBA — PASS is a successful result. No Seahawks, no politics.</div></div>'+
+    '<div class="pills">'+[[cnt('QUALIFIED CANDIDATE')+cnt('QUALIFIED'),'Qualified'],[cnt('WATCH'),'Watch'],[((b&&b.passes)||[]).length+cnt('PASS'),'Pass'],[research?'—':'$'+(+bk.kBank).toFixed(0),'Bankroll'],[money(ks.stakedToday),'Today']].map(([v,l])=>'<div class="pill"><b>'+esc(v)+'</b><small>'+esc(l)+'</small></div>').join('')+'</div></section>';
+  return hero+'<div class="grid"><div class="col colA">'+bankPanel(bk,ks,ps,research)+rulesPanel()+'</div><div class="col colB">'+scanPanel(b)+boardPanel(k)+'</div><div class="col colC">'+calcPanel()+parlayPanel()+'</div></div>';
+}
+function scanPanel(b){
+  if(!b)return panel('Today’s Scan','◎','<p class="muted">No scan published yet. The scan runs every morning at 7:43 AM PT and lands here.</p>',{glow:true});
+  const vClass=v=>/QUALIFIED/.test(v)?'QUALIFIED':v==='WATCH'?'WATCH':'PASS';
+  const link=(t,u)=>u?'<a href="'+esc(u)+'" target="_blank" rel="noopener">'+esc(t)+'</a>':esc(t);
+  const card=(c,i)=>{
+    const lo=c.pLow*100,hi=c.pHigh*100,mid=(c.pMid??(c.pLow+c.pHigh)/2)*100,be=c.breakEven!=null?c.breakEven*100:null;
+    const a=Math.max(0,Math.min(lo,be??lo)-8),z=Math.min(100,Math.max(hi,be??hi)+8),X=v=>((v-a)/(z-a)*100).toFixed(1);
+    return '<article class="bet"><h3><span class="vd '+vClass(c.verdict)+'">'+esc(c.verdict)+'</span>'+esc(c.event)+'</h3>'+
+      '<div class="meta">'+esc([c.sport,c.startPT,c.contract].filter(Boolean).join(' · '))+(c.ticker?' · <code>'+esc(c.ticker)+'</code>':'')+'</div>'+
+      (c.pLow!=null?'<div class="pbar" title="Your probability range vs all-in break-even"><span class="rng" style="left:'+X(lo)+'%;width:'+(X(hi)-X(lo))+'%"></span><span class="mid" style="left:'+X(mid)+'%"></span>'+(be!=null?'<span class="be" style="left:'+X(be)+'%" data-l="break-even '+be.toFixed(1)+'%"></span>':'')+'</div>'+
+        '<div class="muted" style="font-size:11px;display:flex;justify-content:space-between"><span>'+a.toFixed(0)+'%</span><span>probability range '+lo.toFixed(0)+'–'+hi.toFixed(0)+'%</span><span>'+z.toFixed(0)+'%</span></div>':'')+
+      '<div class="nums"><div><small>Ask</small><b>'+(c.ask!=null?'$'+(+c.ask).toFixed(2):'—')+'</b><small>'+esc(c.askTime||'')+'</small></div><div><small>Break-even</small><b>'+(be!=null?be.toFixed(1)+'%':'—')+'</b></div>'+
+      '<div><small>Edge (pp)</small><b class="'+(c.edgeLow>=3?'up':c.edgeLow<0?'down':'')+'">'+(c.edgeLow!=null?pp(c.edgeLow)+' to '+pp(c.edgeHigh):'—')+'</b></div><div><small>EV</small><b>'+(c.evLow!=null?money(c.evLow)+' / '+money(c.evHigh):'—')+'</b></div>'+
+      '<div><small>Max price</small><b>'+(c.maxPrice!=null?'$'+(+c.maxPrice).toFixed(2):'—')+'</b></div><div><small>Max stake</small><b>'+esc(c.maxStake||'$0')+'</b></div></div>'+
+      '<ul>'+(c.yesMeans?'<li><b>YES means:</b> '+esc(c.yesMeans)+'</li>':'')+(c.noMeans?'<li><b>NO means:</b> '+esc(c.noMeans)+'</li>':'')+
+      (c.evidence||[]).map(e=>'<li>'+link(e.text,e.url)+'</li>').join('')+(c.against?'<li class="t-warn"><b>Against:</b> '+esc(c.against)+'</li>':'')+
+      (c.reason?'<li><b>Verdict:</b> '+esc(c.reason)+'</li>':'')+(c.recheck?'<li><b>Recheck:</b> '+esc(c.recheck)+'</li>':'')+'</ul>'+
+      (c.ask!=null&&c.pLow!=null?'<div style="margin-top:10px"><button class="btn" type="button" data-loadc="'+i+'">Load into calculator</button></div>':'')+'</article>';};
+  const watch=(b.watchlist||[]).map(w=>'<li><b>'+esc(w.event)+'</b> — '+esc(w.trigger)+(w.recheck?' <span class="muted">(recheck '+esc(w.recheck)+')</span>':'')+'</li>').join('');
+  const passes=(b.passes||[]).map(p=>'<li><b>'+esc(p.market)+'</b> — '+esc(p.reason)+'</li>').join('');
+  const pr=b.prizepicks;
+  const body='<div class="meta muted" style="font-size:12px">Scan completed '+esc(b.scanned||'?')+(b.dataCutoff?' · data cutoff '+esc(b.dataCutoff):'')+'</div>'+
+    '<div class="nums"><div><small>Overall</small><b style="font-size:15px">'+esc(b.verdict||'—')+'</b></div><div><small>Budget context</small><b style="font-size:13px;font-family:var(--font)">'+esc(b.budget||'unknown')+'</b></div></div>'+
+    (b.limitations?'<div class="banner" style="margin-top:10px">Access limits: '+esc(b.limitations)+'</div>':'')+
+    cands.map(card).join('')+
+    (watch?'<div class="ev-h">👁 WATCHLIST · $0 committed</div><ul class="rules">'+watch+'</ul>':'')+
+    (passes?'<div class="ev-h">✕ TEMPTING MARKETS TO PASS</div><ul class="rules">'+passes+'</ul>':'')+
+    (pr?'<div class="ev-h">🏈 NFL SUNDAY PRIZEPICKS · separate bankroll</div><div class="bet"><h3><span class="vd '+vClass(pr.verdict||'PASS')+'">'+esc(pr.verdict||'PASS')+'</span>'+esc(pr.title||'PrizePicks')+'</h3><p style="font-size:13px;margin:8px 0 0">'+esc(pr.summary||'')+'</p>'+((pr.legs||[]).length?'<ul>'+pr.legs.map(l=>'<li>'+esc(l)+'</li>').join('')+'</ul>':'')+'</div>':'')+
+    ((b.sources||[]).length?'<details class="more" style="margin-top:12px"><summary>Sources ('+b.sources.length+')</summary><ul>'+b.sources.map(s=>'<li>'+link(s.title,s.url)+(s.time?' <span class="muted">'+esc(s.time)+'</span>':'')+'</li>').join('')+'</ul></details>':'')+
+    ((b.gaps||[]).length?'<details class="more"><summary>Data gaps</summary><ul>'+b.gaps.map(g=>'<li>'+esc(g)+'</li>').join('')+'</ul></details>':'')+
+    '<p class="muted" style="font-size:12px;margin:12px 0 0">No guaranteed profit. No qualifying edge means no bet. Research only — it doesn’t place orders.</p>';
+  return panel('Today’s Scan · '+(b.date||''),'◎',body,{glow:true});
+}
+function boardPanel(k){
+  if(!k||!(k.markets||[]).length)return panel('Kalshi Board','$','<p class="muted">No Kalshi market snapshot yet. It refreshes every 3 hours from Kalshi’s public market data.</p>');
+  const f=store.get('ksport')||'ALL',all=store.get('kall')==='1';
+  const sports=['ALL',...new Set(k.markets.map(m=>m.sport).filter(Boolean))];
+  const ms=k.markets.filter(m=>f==='ALL'||m.sport===f);
+  const G={};ms.forEach(m=>{const key=m.sport+'|'+(m.game||m.event)+'|'+String(m.expectedEnd||'').slice(0,10);(G[key]=G[key]||[]).push(m);});
+  const games=Object.values(G).filter(l=>l.some(m=>m.kind==='GAME'||!m.kind));
+  const shown=all?games:games.slice(0,12);
+  const q=(m,side)=>{const a=side==='YES'?m.yesAsk:m.noAsk;return a!=null&&a>0&&a<1?'<button type="button" class="q" data-kq="'+esc(m.ticker)+'" data-side="'+side+'"><small>'+side+'</small>$'+a.toFixed(2)+'</button>':'<span class="q" style="opacity:.4"><small>'+side+'</small>—</span>';};
+  const row=m=>{const ab=m.sport==='NFL'&&m.kind==='GAME'?nflAbbr(m.yes):null,vp=ab?vegasWinProb(ab):null;
+    return '<div class="km"><span>'+esc(m.kind==='GAME'?(m.yes||m.title)+' wins':(m.yes||m.title))+'<br><small class="muted">'+(m.yesAsk!=null?'implied '+Math.round(m.yesAsk*100)+'%':'')+(vp!=null?' · Vegas spread ≈ '+Math.round(vp*100)+'%':'')+'</small></span>'+q(m,'YES')+q(m,'NO')+'</div>';};
+  const body='<div class="ctrls" style="margin-bottom:6px"><div class="seg" data-kseg>'+sports.map(s=>'<button type="button" data-v="'+s+'" aria-pressed="'+(s===f)+'">'+s+'</button>').join('')+'</div></div>'+
+    shown.map(list=>{const m0=list.find(m=>m.kind==='GAME')||list[0];const when=m0.expectedEnd?new Date(m0.expectedEnd):null;
+      const win=list.filter(m=>m.kind==='GAME'),lines=list.filter(m=>m.kind&&m.kind!=='GAME');
+      return '<div class="ev-h"><span class="pos" style="--pc:var(--PICK)">'+esc(m0.sport||'')+'</span><span style="color:var(--text)">'+esc(m0.game||m0.title||m0.event)+'</span>'+(when?' <span style="font-weight:500">· ends ~'+esc(when.toLocaleString([], {weekday:'short',hour:'numeric',minute:'2-digit'}))+'</span>':'')+'</div>'+
+        win.map(row).join('')+(lines.length?'<details class="more"><summary>Spreads & totals ('+lines.length+')</summary>'+lines.map(row).join('')+'</details>':'');}).join('')+
+    (games.length>12?'<div style="margin-top:10px"><button class="btn" type="button" id="kAll">'+(all?'Show fewer':'Show all '+games.length+' games')+'</button></div>':'')+
+    '<p class="muted" style="font-size:11px;margin:10px 0 0">Snapshot '+esc(k.updated)+' — quotes go stale fast; confirm in Kalshi’s order preview. Tap a price to load it into the calculator. Vegas % is a rough spread conversion, a benchmark only.'+(k.excludedSeahawks?' '+k.excludedSeahawks+' Seahawks markets hidden.':'')+'</p>';
+  return panel('Kalshi Board','$',body,{right:'<small>'+games.length+' games · '+ms.length+' markets</small>'});
+}
+function calcPanel(){
+  const c=calcState(),r=evalBinary(c);
+  const f=(k,l,step,cls)=>'<label class="'+(cls||'')+'">'+l+'<input data-calc="'+k+'" inputmode="decimal" value="'+esc(c[k])+'"'+(step?' step="'+step+'"':'')+'></label>';
+  let out;
+  if(r.err)out='<div class="out muted">'+esc(r.err)+'</div>';
+  else{
+    const v=r.excluded?['PASS','Excluded market (Seahawks)']:r.over?['PASS','Cost '+money(r.cost)+' is over your $'+r.budget.toFixed(2)+' stake limit']:r.clears?['QUALIFIED','Arithmetic clears the '+r.buf+'-pt buffer — still needs evidence, settlement rules and a fresh quote']:['PASS','Low-end edge '+pp(r.edges[0])+' pp is below the '+r.buf+'-pt buffer'];
+    out='<div class="out"><div class="big"><span class="vd '+v[0]+'">'+(v[0]==='QUALIFIED'?'Clears screen':'PASS')+'</span><b class="num" style="font-family:var(--disp);font-size:22px">'+money(r.cost)+'</b></div><div style="font-size:12px;color:var(--dim)">'+esc(v[1])+'</div>'+
+      '<div class="nums"><div><small>Break-even</small><b>'+(r.be*100).toFixed(1)+'%</b></div><div><small>Edge low/mid/high</small><b style="font-size:14px">'+r.edges.map(pp).join(' / ')+'</b></div>'+
+      '<div><small>EV low/mid/high</small><b style="font-size:14px">'+r.ev.map(money).join(' / ')+'</b></div><div><small>Net if win</small><b class="up">'+money(r.win)+'</b></div><div><small>Net if loss</small><b class="down">'+money(r.loss)+'</b></div><div><small>Max ask (fixed fees)</small><b>'+(r.maxAsk>0?'$'+r.maxAsk.toFixed(3):'—')+'</b></div></div>'+
+      '<div style="display:flex;gap:8px;margin-top:10px;flex-wrap:wrap"><button class="btn" type="button" id="feeEst">Estimate Kalshi fee</button><button class="btn'+(v[0]==='QUALIFIED'?' pri':'')+'" type="button" id="logCalc"'+(r.over||r.excluded?' disabled':'')+'>Log to ledger</button></div></div>';
+  }
+  return panel('Bet Calculator','∑','<div class="form">'+f('label','Market / side','','wide')+f('ask','Ask ($ per contract)')+f('n','Contracts')+f('fee','Total fees ($)')+f('budget','Max stake ($, ≤10)')+f('lo','Prob low %')+f('mid','Prob mid %')+f('hi','Prob high %')+f('buf','Edge buffer (pp)')+'</div>'+out+
+    '<p class="muted" style="font-size:11px;margin:8px 0 0">$1/$0 binary held to settlement. Fee estimate uses Kalshi’s general taker formula (7% × C × P × (1−P), rounded up) — always use the actual order preview.</p>',{right:'<small>framework math</small>'});
+}
+function parlayState(){return jget('parlay',{plat:'PrizePicks',M:'3',stake:'5',legs:[{t:'',p:'',g:''},{t:'',p:'',g:''}]});}
+function parlayPanel(){
+  const s=parlayState();
+  const legs=s.legs.map((l,i)=>'<div class="leg"><input data-leg="'+i+'" data-k="t" placeholder="Leg (player, line, more/less)" value="'+esc(l.t)+'"><input data-leg="'+i+'" data-k="p" inputmode="decimal" placeholder="Prob %" value="'+esc(l.p)+'"><input data-leg="'+i+'" data-k="g" placeholder="Game" value="'+esc(l.g)+'"><button class="xbtn" type="button" data-rmleg="'+i+'" aria-label="Remove leg">✕</button></div>').join('');
+  const ok=s.legs.filter(l=>l.t.trim()||l.p);
+  const M=+s.M,stake=Math.min(10,+s.stake||0);
+  let out='';
+  if(ok.length>=2&&M>1&&ok.every(l=>+l.p>0&&+l.p<100)){
+    const pJ=ok.reduce((x,l)=>x*l.p/100,1),be=1/M,edge=100*(pJ-be),ev=stake*(M*pJ-1);
+    const games=ok.map(l=>l.g.trim().toLowerCase()).filter(Boolean),corr=games.length!==new Set(games).size;
+    const sea=ok.some(l=>SEAHAWKS.test(l.t+' '+l.g));
+    const v=sea?['PASS','Contains Seahawks exposure — excluded by rule.']:corr?['PASS','Two or more legs share a game. Multiplying their probabilities is invalid — you’d need a joint model of the game script.']:edge<3?['PASS','Joint estimate '+(pJ*100).toFixed(1)+'% vs '+(be*100).toFixed(1)+'% break-even: '+pp(edge)+' pp, below the 3-pt buffer.']:['WATCH','Arithmetic clears only if the legs are truly independent and each probability is calibrated. Verify payout tiers, void rules and the entry screen first.'];
+    out='<div class="out"><div class="big"><span class="vd '+v[0]+'">'+v[0]+'</span><b class="num" style="font-family:var(--disp);font-size:22px">'+(pJ*100).toFixed(1)+'%</b></div><div style="font-size:12px;color:var(--dim)">'+esc(v[1])+'</div>'+
+      '<div class="nums"><div><small>Break-even 1/M</small><b>'+(be*100).toFixed(1)+'%</b></div><div><small>Edge</small><b class="'+(edge>=3?'up':'down')+'">'+pp(edge)+' pp</b></div><div><small>EV on $'+stake.toFixed(2)+'</small><b>'+money(ev)+'</b></div><div><small>Win pays</small><b>'+money(stake*M-stake)+'</b></div></div>'+
+      '<div style="margin-top:10px"><button class="btn" type="button" id="logParlay"'+(sea||!(stake>0)?' disabled':'')+'>Log entry ('+esc(s.plat)+')</button></div></div>';
+  }else out='<div class="out muted" style="font-size:13px">Add at least two legs with your probability estimates and the multiplier from the entry screen.</div>';
+  return panel('Parlay / PrizePicks Check','⛓','<div class="form"><label>Platform<select data-par="plat">'+['PrizePicks','Kalshi combo','Other'].map(p=>'<option'+(p===s.plat?' selected':'')+'>'+p+'</option>').join('')+'</select></label><label>Total-return multiplier (M)<input data-par="M" inputmode="decimal" value="'+esc(s.M)+'"></label><label class="wide">Entry stake ($, ≤10 — the whole entry, not per leg)<input data-par="stake" inputmode="decimal" value="'+esc(s.stake)+'"></label></div>'+
+    legs+'<div style="margin-top:8px"><button class="btn" type="button" id="addLeg">+ Add leg</button></div>'+out+
+    '<p class="muted" style="font-size:11px;margin:8px 0 0">All-or-nothing math only (break-even = 1/M). Flex/partial payouts need every payout tier. Don’t add legs just to raise the payout — straight bets are the default.</p>');
+}
+function bankPanel(bk,ks,ps,research){
+  const f=(k,l)=>'<label>'+l+'<input data-bank="'+k+'" inputmode="decimal" placeholder="not set" value="'+esc(bk[k])+'"></label>';
+  const warn=[];
+  if(research)warn.push('No Kalshi bankroll or daily cap set — the panel is research-only. Set your own limits; nothing here sets them for you.');
+  if(ks.plToday<0||ps.plToday<0)warn.push('You’re down '+money(Math.min(0,ks.plToday)+Math.min(0,ps.plToday))+' today. Stakes don’t go up to win it back.');
+  if(+bk.kCap>0&&ks.stakedToday>+bk.kCap)warn.push('Kalshi exposure today ('+money(ks.stakedToday)+') is over your daily cap.');
+  if(+bk.pCap>0&&ps.stakedToday>+bk.pCap)warn.push('PrizePicks exposure today is over its separate cap.');
+  const rows=bk.ledger.slice(-12).reverse().map(x=>'<tr><td>'+esc(x.d.slice(5))+'</td><td style="max-width:120px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap" title="'+esc(x.ev)+'">'+esc(x.plat==='Kalshi'?'K':'PP')+' · '+esc(x.ev)+'</td><td class="n">'+money(x.stake)+'</td><td>'+
+    (x.res==='open'?'<button class="xbtn" data-res="W" data-id="'+x.id+'">W</button><button class="xbtn" data-res="L" data-id="'+x.id+'">L</button><button class="xbtn" data-res="V" data-id="'+x.id+'">V</button>':'<b class="'+(x.res==='W'?'up':x.res==='L'?'down':'')+'">'+x.res+'</b>')+'</td><td><button class="xbtn" data-del="'+x.id+'" aria-label="Delete">✕</button></td></tr>').join('');
+  const body=warn.map(w=>'<div class="banner">'+esc(w)+'</div>').join('')+
+    '<div class="form">'+f('kBank','Kalshi bankroll $')+f('kCap','Kalshi daily cap $')+f('pBank','PrizePicks bankroll $')+f('pCap','PrizePicks daily cap $')+'</div>'+
+    '<div class="nums"><div><small>Kalshi P/L</small><b class="'+(ks.pl>=0?'up':'down')+'">'+money(ks.pl)+'</b><small>'+ks.w+'-'+ks.l+' · open '+money(ks.open)+'</small></div><div><small>PrizePicks P/L</small><b class="'+(ps.pl>=0?'up':'down')+'">'+money(ps.pl)+'</b><small>'+ps.w+'-'+ps.l+' · open '+money(ps.open)+'</small></div></div>'+
+    (rows?'<table class="ledger" style="margin-top:10px"><thead><tr><th>Date</th><th>Bet</th><th class="n">Stake</th><th>Result</th><th></th></tr></thead><tbody>'+rows+'</tbody></table>':'<p class="muted" style="font-size:12px">No bets logged. Log from the calculator or parlay check.</p>')+
+    '<div style="display:flex;gap:8px;margin-top:10px"><button class="btn" type="button" id="exportLedger">Export</button><button class="btn" type="button" id="importLedger">Import</button></div>'+
+    '<p class="muted" style="font-size:11px;margin:8px 0 0">Saved on this device only. Kalshi and PrizePicks are tracked separately — never move money between them to justify more risk.</p>';
+  return panel('Bankroll & Ledger','⛁',body);
+}
+function rulesPanel(){
+  return panel('House Rules','⚖','<ul class="rules" style="padding-left:18px;margin:0">'+['PASS is a win. Never force a daily pick.','$5 default stake, $10 ceiling — including fees.','No Seattle Seahawks bets of any kind. No political markets.','No chasing losses, no bigger stakes after a loss.','Straight bets by default; no legs just to juice the payout.','Count correlated positions together — they can lose together.','Recheck the live quote, fees and injuries before any entry.'].map(r=>'<li>'+esc(r)+'</li>').join('')+'</ul>');
+}
+function bindBets(){
+  const rerender=()=>{const y=scrollY;render();scrollTo(0,y);};
+  document.querySelectorAll('[data-calc]').forEach(i=>i.onchange=()=>{const c=calcState();c[i.dataset.calc]=i.value;jset('calc',c);rerender();});
+  document.querySelectorAll('[data-par]').forEach(i=>i.onchange=()=>{const s=parlayState();s[i.dataset.par]=i.value;jset('parlay',s);rerender();});
+  document.querySelectorAll('[data-leg]').forEach(i=>i.onchange=()=>{const s=parlayState();s.legs[+i.dataset.leg][i.dataset.k]=i.value;jset('parlay',s);rerender();});
+  document.querySelectorAll('[data-rmleg]').forEach(b=>b.onclick=()=>{const s=parlayState();s.legs.splice(+b.dataset.rmleg,1);jset('parlay',s);rerender();});
+  document.querySelectorAll('[data-bank]').forEach(i=>i.onchange=()=>{const b=bank();b[i.dataset.bank]=i.value.replace(/[^\d.]/g,'');saveBank(b);rerender();});
+  document.querySelectorAll('[data-res]').forEach(x=>x.onclick=()=>{const b=bank(),e=b.ledger.find(l=>l.id===x.dataset.id);if(e)e.res=x.dataset.res;saveBank(b);rerender();});
+  document.querySelectorAll('[data-del]').forEach(x=>x.onclick=()=>{if(!confirm('Delete this ledger entry?'))return;const b=bank();b.ledger=b.ledger.filter(l=>l.id!==x.dataset.del);saveBank(b);rerender();});
+  document.querySelectorAll('[data-kseg] button').forEach(x=>x.onclick=()=>{store.set('ksport',x.dataset.v);rerender();});
+  document.querySelectorAll('[data-kq]').forEach(x=>x.onclick=()=>{const m=BETS.k.markets.find(m=>m.ticker===x.dataset.kq),yes=x.dataset.side==='YES',ask=yes?m.yesAsk:m.noAsk,c=calcState();
+    const n=Math.max(1,Math.floor(Math.min(10,+c.budget||5)/(ask+.02)));
+    Object.assign(c,{label:(m.title||m.event)+' — '+(yes?'YES '+(m.yes||''):'NO '+(m.no||m.yes||'')),ask:ask.toFixed(2),n:String(n),fee:kalshiFee(n,ask).toFixed(2)});jset('calc',c);rerender();
+    document.querySelector('[data-calc=lo]')?.scrollIntoView({behavior:'smooth',block:'center'});});
+  document.querySelectorAll('[data-loadc]').forEach(x=>x.onclick=()=>{const cd=BETS.b.candidates[+x.dataset.loadc],c=calcState();
+    Object.assign(c,{label:cd.event+' — '+cd.contract,ask:String(cd.ask),lo:String(+(cd.pLow*100).toFixed(1)),mid:String(+((cd.pMid??(cd.pLow+cd.pHigh)/2)*100).toFixed(1)),hi:String(+(cd.pHigh*100).toFixed(1))});
+    if(cd.contracts)c.n=String(cd.contracts);if(cd.fees!=null)c.fee=String(cd.fees);jset('calc',c);rerender();document.querySelector('[data-calc=lo]')?.scrollIntoView({behavior:'smooth',block:'center'});});
+  const ka=$('kAll');if(ka)ka.onclick=()=>{store.set('kall',store.get('kall')==='1'?'0':'1');rerender();};
+  const fe=$('feeEst');if(fe)fe.onclick=()=>{const c=calcState();c.fee=kalshiFee(Math.floor(+c.n),+c.ask).toFixed(2);jset('calc',c);rerender();};
+  const lc=$('logCalc');if(lc)lc.onclick=()=>{const c=calcState(),r=evalBinary(c);if(r.err||r.over||r.excluded)return;const b=bank();
+    b.ledger.push({id:Date.now().toString(36),d:today(),plat:'Kalshi',ev:c.label||'Kalshi contract',stake:+r.cost.toFixed(2),pay:r.n,p:+c.mid/100,res:'open'});saveBank(b);rerender();};
+  const lp=$('logParlay');if(lp)lp.onclick=()=>{const s=parlayState(),b=bank(),stake=Math.min(10,+s.stake);
+    b.ledger.push({id:Date.now().toString(36),d:today(),plat:s.plat==='PrizePicks'?'PrizePicks':'Kalshi',ev:s.legs.filter(l=>l.t).map(l=>l.t).join(' + ')||'Parlay',stake,pay:+(stake*s.M).toFixed(2),res:'open'});saveBank(b);rerender();};
+  const al=$('addLeg');if(al)al.onclick=()=>{const s=parlayState();s.legs.push({t:'',p:'',g:''});jset('parlay',s);rerender();};
+  const ex=$('exportLedger');if(ex)ex.onclick=()=>{const t=JSON.stringify(bank());navigator.clipboard.writeText(t).then(()=>{ex.textContent='Copied ✓';},()=>prompt('Copy your ledger:',t));};
+  const im=$('importLedger');if(im)im.onclick=()=>{const t=prompt('Paste a ledger you exported:');if(!t)return;try{const b=JSON.parse(t);if(!Array.isArray(b.ledger))throw 0;saveBank(b);rerender();}catch(e){alert('That doesn’t look like an exported ledger.');}};
+}
+
 /* ================= PROFILE ================= */
 function openProfile(id){
   const p=pinfo(id),pl=p.pl||{},gm=gameOf(p.team),pj=projOf(id),D=CUR;
@@ -1161,6 +1390,9 @@ function tradeMsg(tr){
   return 'Hey '+o.owner+', would you do '+g+' for '+r+'?'+pitch+' Sending it on Sleeper now.';
 }
 function render(){
+  if(MODE==='bets'){document.body.dataset.mode=MODE;$('view').innerHTML=renderBets();bindBets();
+    document.querySelectorAll('.modes button').forEach(b=>b.setAttribute('aria-pressed',b.dataset.mode===MODE));
+    $('foot').textContent='Kalshi quotes: public market data snapshot'+(BETS.k?' ('+BETS.k.updated+')':'')+' · Scan: '+(BETS.b?BETS.b.scanned:'none yet')+' · Research only — no orders are placed from this page.';return;}
   const D=CACHE[MODE];if(!D||D instanceof Promise)return;
   CUR=D;document.body.dataset.mode=MODE;
   $('view').innerHTML=MODE==='dynasty'?renderDynasty(D):renderRedraft(D);
@@ -1178,11 +1410,12 @@ document.addEventListener('click',e=>{
 $('scrim').onclick=closeProfile;
 document.addEventListener('keydown',e=>{if(e.key==='Escape')closeProfile();});
 document.querySelectorAll('.modes button').forEach(b=>b.onclick=()=>{if(MODE===b.dataset.mode)return;MODE=b.dataset.mode;store.set('mode',MODE);closeProfile();show();});
-$('refresh').onclick=()=>{for(const k in CACHE)delete CACHE[k];SH=null;boot();};
+$('refresh').onclick=()=>{for(const k in CACHE)delete CACHE[k];SH=null;BETS.loaded=false;boot();};
 function msg(t,err){$('msg').innerHTML=t?'<div class="msg'+(err?' err':'')+'">'+esc(t)+'</div>':'';}
 function ensure(mode){if(!CACHE[mode])CACHE[mode]=loadMode(mode).then(D=>CACHE[mode]=D,e=>{delete CACHE[mode];throw e;});return Promise.resolve(CACHE[mode]);}
 async function show(){
   document.body.dataset.mode=MODE;document.querySelectorAll('.modes button').forEach(b=>b.setAttribute('aria-pressed',b.dataset.mode===MODE));
+  if(MODE==='bets'){try{msg('');await ensureBets();render();}catch(e){msg(e.message,true);}return;}
   if(CACHE[MODE] instanceof Promise||!CACHE[MODE])$('view').innerHTML='<div class="loading"><div class="spin"></div>Building your '+(MODE==='dynasty'?'dynasty blueprint':'week '+(SH?SH.week:'')+' game plan')+'…</div>';
   try{msg('');await ensure(MODE);render();$('stamp').textContent='Updated '+new Date().toLocaleTimeString([], {hour:'numeric',minute:'2-digit'});}
   catch(e){msg(e.message,true);$('view').innerHTML='';}
@@ -1191,7 +1424,7 @@ async function boot(){
   $('refresh').disabled=true;
   $('view').innerHTML='<div class="loading"><div class="spin"></div>Loading rosters, values, Vegas lines and projections…</div>';
   try{SH=await loadShared();await show();
-    const other=MODE==='dynasty'?'redraft':'dynasty';setTimeout(()=>ensure(other).catch(()=>{}),400);}
+    ['dynasty','redraft'].filter(m=>m!==MODE).forEach((m,i)=>setTimeout(()=>ensure(m).catch(()=>{}),400+i*300));}
   catch(e){msg(e.message,true);$('view').innerHTML='';}
   $('refresh').disabled=false;
 }
