@@ -1,7 +1,7 @@
 {
  "season": "2026",
  "week": 6,
- "updated": "2026-10-13 10:18 PM PT",
+ "updated": "2026-10-14 12:24 AM PT",
  "games": [
   {
    "id": "401872995",
@@ -23,7 +23,7 @@
    "awayImplied": 21.5,
    "weather": {
     "roof": "open",
-    "temp": 49.0,
+    "temp": 49.4,
     "precip": 39,
     "code": 2,
     "wind": 9.6,
@@ -77,10 +77,10 @@
    "awayImplied": 26.2,
    "weather": {
     "roof": "retract",
-    "temp": 64.8,
+    "temp": 63.8,
     "precip": 0,
     "code": 0,
-    "wind": 12.2,
+    "wind": 12.6,
     "night": false
    }
   },
@@ -107,7 +107,7 @@
     "temp": 59.1,
     "precip": 0,
     "code": 0,
-    "wind": 10.2,
+    "wind": 11.1,
     "night": false
    }
   },
@@ -131,10 +131,10 @@
    "awayImplied": 18.8,
    "weather": {
     "roof": "retract",
-    "temp": 61.4,
+    "temp": 61.2,
     "precip": 0,
     "code": 0,
-    "wind": 7.6,
+    "wind": 7.8,
     "night": false
    }
   },
@@ -158,10 +158,10 @@
    "awayImplied": 18.0,
    "weather": {
     "roof": "open",
-    "temp": 56.0,
+    "temp": 56.2,
     "precip": 0,
     "code": 0,
-    "wind": 11.1,
+    "wind": 9.7,
     "night": false
    }
   },
@@ -185,10 +185,10 @@
    "awayImplied": 23.5,
    "weather": {
     "roof": "open",
-    "temp": 61.1,
+    "temp": 60.6,
     "precip": 0,
     "code": 0,
-    "wind": 10.2,
+    "wind": 8.3,
     "night": false
    }
   },
@@ -212,10 +212,10 @@
    "awayImplied": 19.5,
    "weather": {
     "roof": "open",
-    "temp": 60.4,
+    "temp": 60.2,
     "precip": 0,
     "code": 0,
-    "wind": 9.0,
+    "wind": 7.2,
     "night": false
    }
   },
@@ -239,10 +239,10 @@
    "awayImplied": 21.0,
    "weather": {
     "roof": "open",
-    "temp": 78.0,
+    "temp": 80.5,
     "precip": 3,
-    "code": 3,
-    "wind": 19.2,
+    "code": 51,
+    "wind": 21.3,
     "night": false
    }
   },
@@ -288,10 +288,10 @@
    "awayImplied": 17.0,
    "weather": {
     "roof": "open",
-    "temp": 64.7,
+    "temp": 63.3,
     "precip": 2,
     "code": 3,
-    "wind": 13.6,
+    "wind": 14.4,
     "night": false
    }
   },
@@ -334,15 +334,7 @@
    "homeML": null,
    "awayML": null,
    "homeImplied": 27.0,
-   "awayImplied": 25.5,
-   "weather": {
-    "roof": "open",
-    "temp": 56.3,
-    "precip": 1,
-    "code": 2,
-    "wind": 16.5,
-    "night": true
-   }
+   "awayImplied": 25.5
   },
   {
    "id": "401873008",
@@ -364,10 +356,10 @@
    "awayImplied": 21.5,
    "weather": {
     "roof": "open",
-    "temp": 68.3,
+    "temp": 67.2,
     "precip": 3,
     "code": 0,
-    "wind": 10.5,
+    "wind": 9.7,
     "night": false
    }
   }
@@ -2131,5 +2123,8 @@
    "std": 1.21,
    "opp": "WAS"
   }
- }
+ },
+ "errors": [
+  "weather GB: <urlopen error _ssl.c:993: The handshake operation timed out>"
+ ]
 }
