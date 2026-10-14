@@ -7,6 +7,7 @@ snapshot for research only: always recheck the live order preview before
 acting. Seattle Seahawks markets are excluded by rule. Standard library only.
 """
 import json
+import time
 import re
 import urllib.parse
 import urllib.request
@@ -17,10 +18,10 @@ OUT = "kalshi.json"
 API = "https://api.elections.kalshi.com/trade-api/v2"
 PT = ZoneInfo("America/Los_Angeles")
 UA = {"User-Agent": "trade-war-room-kalshi-snapshot", "Accept": "application/json"}
-SPORTS = {"NFL": "NFL", "NCAAF": "CFB", "CFB": "CFB", "MLB": "MLB", "NBA": "NBA"}
+SPORTS = {"NFL": "NFL", "NCAAF": "CFB", "MLB": "MLB", "NBA": "NBA"}
 KINDS = ("GAME", "SPREAD", "TOTAL")
-FALLBACK_SERIES = ["KXNFLGAME", "KXNCAAFGAME", "KXMLBGAME", "KXNBAGAME",
-                   "KXNFLSPREAD", "KXNFLTOTAL", "KXNCAAFSPREAD", "KXNCAAFTOTAL"]
+SERIES = [f"KX{sp}{k}" for sp in SPORTS for k in KINDS]
+PER_EVENT = 3  # spread/total lines kept per game: the ones priced closest to 50/50
 HORIZON = timedelta(days=4)
 EXCLUDE = re.compile(r"seahawks|\bseattle\b(?!\s+mariners)|\bSEA\b", re.I)
 
@@ -44,22 +45,13 @@ def dollars(m, key):
 
 
 def sport_of(ticker):
-    t = ticker.upper()
-    for k, v in SPORTS.items():
-        if k in t:
-            return v
-    return None
+    m = re.match(r"KX(NFL|NCAAF|MLB|NBA)(GAME|SPREAD|TOTAL)\b", ticker.upper())
+    return SPORTS[m.group(1)] if m else None
 
 
-def discover():
-    try:
-        series = get("/series", category="Sports").get("series") or []
-    except Exception as e:
-        print("series discovery failed:", e)
-        return FALLBACK_SERIES
-    found = [s["ticker"] for s in series
-             if s.get("ticker") and sport_of(s["ticker"]) and any(k in s["ticker"].upper() for k in KINDS)]
-    return sorted(set(found)) or FALLBACK_SERIES
+def game_name(rules, fallback):
+    m = re.search(r" the (.+?) (?:Pro |College |Professional )?(?:Football|Basketball|Baseball) game", rules or "")
+    return m.group(1) if m else fallback
 
 
 def markets_for(series):
@@ -79,7 +71,8 @@ def markets_for(series):
 def main():
     now = datetime.now(timezone.utc)
     rows, used, errors, excluded = [], [], [], 0
-    for s in discover():
+    for s in SERIES:
+        time.sleep(0.4)  # stay well under the public rate limit
         try:
             ms = markets_for(s)
         except Exception as e:
@@ -102,6 +95,9 @@ def main():
                 excluded += 1
                 continue
             exp = m.get("expected_expiration_time") or close
+            ask = dollars(m, "yes_ask")
+            if s.endswith(("SPREAD", "TOTAL")) and not (ask and 0.12 <= ask <= 0.88):
+                continue  # far-off alternate lines
             rows.append({
                 "ticker": m.get("ticker"), "event": m.get("event_ticker"), "series": s, "sport": sport,
                 "title": m.get("title"), "yes": m.get("yes_sub_title") or m.get("subtitle"), "no": m.get("no_sub_title"),
@@ -109,6 +105,8 @@ def main():
                 "noBid": dollars(m, "no_bid"), "noAsk": dollars(m, "no_ask"), "last": dollars(m, "last_price"),
                 "volume": m.get("volume"), "openInterest": m.get("open_interest"),
                 "close": close, "expectedEnd": exp,
+                "game": game_name(m.get("rules_primary"), m.get("title")),
+                "kind": s[len("KX"):].replace("NCAAF", "").replace("NFL", "").replace("MLB", "").replace("NBA", ""),
                 "rules": (m.get("rules_primary") or "")[:500],
             })
     # keep markets whose game resolves soon (expected expiration within the horizon)
@@ -117,7 +115,23 @@ def main():
             return datetime.fromisoformat(r["expectedEnd"].replace("Z", "+00:00")) - now <= HORIZON
         except (AttributeError, ValueError):
             return True
-    rows = [r for r in rows if soon(r)]
+    def started(r):  # expected expiration is ~3h after kickoff for football, less for others
+        try:
+            end = datetime.fromisoformat(r["expectedEnd"].replace("Z", "+00:00"))
+        except (AttributeError, ValueError):
+            return False
+        return end - now < timedelta(hours=3 if r["sport"] in ("NFL", "CFB") else 2.5)
+    rows = [r for r in rows if soon(r) and not started(r)]
+    # trim alternate spread/total lines to the few closest to a coin flip per game
+    keep, groups = [], {}
+    for r in rows:
+        if r["kind"] == "GAME":
+            keep.append(r)
+        else:
+            groups.setdefault((r["event"], r["kind"]), []).append(r)
+    for g in groups.values():
+        keep += sorted(g, key=lambda r: abs((r["yesAsk"] or 0) - 0.5))[:PER_EVENT]
+    rows = keep
     rows.sort(key=lambda r: (r["expectedEnd"] or "", r["event"] or "", r["ticker"] or ""))
     doc = {"updated": now.astimezone(PT).strftime("%Y-%m-%d %-I:%M %p PT"), "quotedAt": now.isoformat(),
            "series": used, "excludedSeahawks": excluded, "markets": rows}
