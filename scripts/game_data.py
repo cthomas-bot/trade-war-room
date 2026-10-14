@@ -8,12 +8,29 @@ Standard library only.
 """
 import json
 import urllib.request
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from zoneinfo import ZoneInfo
 
 OUT = "games.json"
 PT = ZoneInfo("America/Los_Angeles")
 UA = {"User-Agent": "trade-war-room-game-data"}
+# home stadiums: (lat, lon, roof) — roof "dome" (fixed/usually closed), "retract" (retractable), "open"
+STADIUM = {
+    "ARI": (33.5276, -112.2626, "retract"), "ATL": (33.7554, -84.4008, "retract"), "BAL": (39.2780, -76.6227, "open"),
+    "BUF": (42.7738, -78.7870, "open"), "CAR": (35.2258, -80.8528, "open"), "CHI": (41.8623, -87.6167, "open"),
+    "CIN": (39.0955, -84.5161, "open"), "CLE": (41.5061, -81.6995, "open"), "DAL": (32.7473, -97.0945, "retract"),
+    "DEN": (39.7439, -105.0201, "open"), "DET": (42.3400, -83.0456, "dome"), "GB": (44.5013, -88.0622, "open"),
+    "HOU": (29.6847, -95.4107, "retract"), "IND": (39.7601, -86.1639, "retract"), "JAX": (30.3239, -81.6373, "open"),
+    "KC": (39.0489, -94.4839, "open"), "LV": (36.0909, -115.1833, "dome"), "LAC": (33.9535, -118.3392, "dome"),
+    "LAR": (33.9535, -118.3392, "dome"), "MIA": (25.9580, -80.2389, "open"), "MIN": (44.9737, -93.2577, "dome"),
+    "NE": (42.0909, -71.2643, "open"), "NO": (29.9511, -90.0812, "dome"), "NYG": (40.8135, -74.0745, "open"),
+    "NYJ": (40.8135, -74.0745, "open"), "PHI": (39.9008, -75.1675, "open"), "PIT": (40.4468, -80.0158, "open"),
+    "SF": (37.4030, -121.9700, "open"), "SEA": (47.5952, -122.3316, "open"), "TB": (27.9759, -82.5033, "open"),
+    "TEN": (36.1665, -86.7713, "open"), "WAS": (38.9076, -76.8645, "open"),
+}
+NEUTRAL = {"wembley": (51.5560, -0.2795, "open"), "tottenham": (51.6043, -0.0664, "open"),
+           "allianz": (48.2188, 11.6247, "open"), "bernab": (40.4531, -3.6883, "retract"),
+           "maracan": (-22.9122, -43.2302, "open"), "croke": (53.3607, -6.2511, "open")}
 # ESPN abbreviations that differ from Sleeper's
 ESPN_TO_SLEEPER = {"WSH": "WAS", "JAC": "JAX", "LA": "LAR"}
 
@@ -72,6 +89,33 @@ def games(season, week):
     return out
 
 
+def weather(g):
+    """Roof + kickoff-hour forecast from Open-Meteo (free, no key) for open-air stadiums."""
+    venue = (g.get("venue") or "").lower()
+    spot = next((v for k, v in NEUTRAL.items() if k in venue), None) or STADIUM.get(g.get("home"))
+    if not spot or not g.get("kickoff"):
+        return None
+    lat, lon, roof = spot
+    if roof == "dome":
+        return {"roof": "dome"}
+    ko = datetime.fromisoformat(g["kickoff"].replace("Z", "+00:00"))
+    if ko - datetime.now(timezone.utc) > timedelta(days=15):
+        return {"roof": roof}
+    day = ko.strftime("%Y-%m-%d")
+    data = get("https://api.open-meteo.com/v1/forecast?latitude=%s&longitude=%s&hourly=temperature_2m,"
+               "precipitation_probability,weather_code,wind_speed_10m&temperature_unit=fahrenheit"
+               "&wind_speed_unit=mph&timezone=UTC&start_date=%s&end_date=%s" % (lat, lon, day, day))
+    h = data.get("hourly") or {}
+    times = h.get("time") or []
+    key = ko.strftime("%Y-%m-%dT%H:00")
+    if key not in times:
+        return {"roof": roof}
+    i = times.index(key)
+    pick = lambda k: (h.get(k) or [None] * len(times))[i]
+    return {"roof": roof, "temp": pick("temperature_2m"), "precip": pick("precipitation_probability"),
+            "code": pick("weather_code"), "wind": pick("wind_speed_10m"), "night": not 6 <= (ko.hour + lon / 15) % 24 < 18}  # solar local time at the stadium
+
+
 def projections(season, week):
     pos = "&".join(f"position[]={p}" for p in ("QB", "RB", "WR", "TE"))
     rows = get(f"https://api.sleeper.com/projections/nfl/{season}/{week}?season_type=regular&{pos}")
@@ -96,6 +140,13 @@ def main():
     except Exception as e:  # keep going: projections alone are still useful
         errors.append(f"games: {e}")
         doc["games"] = []
+    for g in doc["games"]:
+        try:
+            w = weather(g)
+            if w:
+                g["weather"] = w
+        except Exception as e:
+            errors.append(f"weather {g.get('home')}: {e}")
     try:
         doc["projections"] = projections(season, week)
     except Exception as e:
