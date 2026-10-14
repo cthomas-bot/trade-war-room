@@ -1063,18 +1063,18 @@
    "t": "KC"
   },
   "1479": {
-   "changed": "2026-10-14T03:27:13.405269+00:00",
+   "changed": "2026-10-14T18:53:35.353259+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 1.0,
     "name": "Keenan Allen",
-    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 8:27 PM PT Oct 13.",
-    "redraftAdj": 1.0,
+    "note": "Sleeper now lists him questionable (groin) as of 11:53 AM PT Oct 14. Earlier: Returned from a groin injury on Oct 11 vs PIT and led IND in targets (5 catches, 45 yards on 9 targets), though he played only 32 of 71 snaps.",
+    "redraftAdj": 0.98,
     "sleeperId": "1479",
-    "status": null,
+    "status": "Questionable",
     "tag": "injury"
    },
-   "i": null,
+   "i": "Questionable",
    "qb1": null,
    "t": "IND"
   },

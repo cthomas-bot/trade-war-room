@@ -338,11 +338,12 @@
     {
       "sleeperId": "1479",
       "name": "Keenan Allen",
-      "note": "Returned from a groin injury on Oct 11 vs PIT and led IND in targets (5 catches, 45 yards on 9 targets), though he played only 32 of 71 snaps.",
-      "tag": "return",
-      "redraftAdj": 1.05,
+      "note": "Sleeper now lists him questionable (groin) as of 11:53 AM PT Oct 14. Earlier: Returned from a groin injury on Oct 11 vs PIT and led IND in targets (5 catches, 45 yards on 9 targets), though he played only 32 of 71 snaps.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
       "dynastyAdj": 1.0,
-      "status": ""
+      "status": "Questionable",
+      "auto": true
     },
     {
       "sleeperId": "9487",
@@ -737,5 +738,5 @@
       "auto": true
     }
   ],
-  "statusChecked": "10:44 AM PT Oct 14"
+  "statusChecked": "11:53 AM PT Oct 14"
 }
