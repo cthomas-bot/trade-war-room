@@ -74,7 +74,7 @@ def rostered_ids():
 
 
 def current_state(p):
-    inj = p.get("injury_status")
+    inj = p.get("injury_status") or None  # Sleeper sometimes sends "" for healthy
     return {
         "i": inj if inj in INJURY else (inj and "Out"),
         "t": p.get("team"),
