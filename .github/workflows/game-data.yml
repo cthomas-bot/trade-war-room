@@ -1,4 +1,4 @@
-name: Vegas lines and projections
+name: Vegas lines, projections and Kalshi markets
 
 on:
   schedule:
@@ -23,9 +23,11 @@ jobs:
           python-version: "3.12"
       - name: Fetch lines and projections
         run: python3 scripts/game_data.py
+      - name: Fetch Kalshi sports markets
+        run: python3 scripts/kalshi_data.py || echo "Kalshi snapshot failed; keeping the last one"
       - name: Commit changes
         run: |
-          git add games.json
+          git add games.json kalshi.json
           if git diff --cached --quiet; then
             echo "No changes."
             exit 0
