@@ -721,14 +721,14 @@
       "auto": true
     },
     {
-      "auto": true,
-      "dynastyAdj": 0.99,
-      "name": "Jaxon Smith-Njigba",
-      "note": "Sleeper now lists him questionable (ankle) as of 8:27 PM PT Oct 13. Earlier: Hurt his ankle in the Oct 11 loss to the 49ers and was listed as limited on the estimated injury reports for Oct 12 and Oct 13. Analysts still expect him to play Thursday (Oct 15) at Denver.",
-      "redraftAdj": 0.95,
       "sleeperId": "9488",
-      "status": "Questionable",
-      "tag": "injury"
+      "name": "Jaxon Smith-Njigba",
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 4:38 PM PT Oct 14.",
+      "tag": "injury",
+      "redraftAdj": 1.0,
+      "dynastyAdj": 0.99,
+      "status": null,
+      "auto": true
     },
     {
       "sleeperId": "5967",
@@ -799,7 +799,17 @@
       "dynastyAdj": 1.0,
       "status": "Questionable",
       "auto": true
+    },
+    {
+      "sleeperId": "9486",
+      "name": "Dontayvion Wicks",
+      "note": "Sleeper now lists him questionable (hamstring) as of 4:38 PM PT Oct 14.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
+      "status": "Questionable",
+      "auto": true
     }
   ],
-  "statusChecked": "3:42 PM PT Oct 14"
+  "statusChecked": "4:38 PM PT Oct 14"
 }

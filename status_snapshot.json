@@ -2039,9 +2039,18 @@
    "t": "GB"
   },
   "9486": {
-   "changed": null,
-   "entry": null,
-   "i": null,
+   "changed": "2026-10-14T23:38:38.292011+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Dontayvion Wicks",
+    "note": "Sleeper now lists him questionable (hamstring) as of 4:38 PM PT Oct 14.",
+    "redraftAdj": 0.98,
+    "sleeperId": "9486",
+    "status": "Questionable",
+    "tag": "injury"
+   },
+   "i": "Questionable",
    "qb1": null,
    "t": "PHI"
   },
@@ -2053,18 +2062,18 @@
    "t": "JAX"
   },
   "9488": {
-   "changed": "2026-10-14T03:27:13.405269+00:00",
+   "changed": "2026-10-14T23:38:38.292011+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 0.99,
     "name": "Jaxon Smith-Njigba",
-    "note": "Sleeper now lists him questionable (ankle) as of 8:27 PM PT Oct 13. Earlier: Hurt his ankle in the Oct 11 loss to the 49ers and was listed as limited on the estimated injury reports for Oct 12 and Oct 13. Analysts still expect him to play Thursday (Oct 15) at Denver.",
-    "redraftAdj": 0.95,
+    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 4:38 PM PT Oct 14.",
+    "redraftAdj": 1.0,
     "sleeperId": "9488",
-    "status": "Questionable",
+    "status": null,
     "tag": "injury"
    },
-   "i": "Questionable",
+   "i": null,
    "qb1": null,
    "t": "SEA"
   },
