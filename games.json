@@ -1,7 +1,7 @@
 {
  "season": "2026",
  "week": 6,
- "updated": "2026-10-14 3:13 AM PT",
+ "updated": "2026-10-14 6:19 AM PT",
  "games": [
   {
    "id": "401872995",
@@ -77,10 +77,10 @@
    "awayImplied": 26.2,
    "weather": {
     "roof": "retract",
-    "temp": 63.8,
+    "temp": 62.9,
     "precip": 0,
     "code": 0,
-    "wind": 12.6,
+    "wind": 12.3,
     "night": false
    }
   },
@@ -107,7 +107,7 @@
     "temp": 59.1,
     "precip": 0,
     "code": 0,
-    "wind": 11.1,
+    "wind": 11.3,
     "night": false
    }
   },
@@ -131,10 +131,10 @@
    "awayImplied": 18.8,
    "weather": {
     "roof": "retract",
-    "temp": 61.2,
+    "temp": 60.8,
     "precip": 0,
     "code": 0,
-    "wind": 7.8,
+    "wind": 7.4,
     "night": false
    }
   },
@@ -158,9 +158,9 @@
    "awayImplied": 18.0,
    "weather": {
     "roof": "open",
-    "temp": 56.2,
+    "temp": 57.3,
     "precip": 0,
-    "code": 0,
+    "code": 2,
     "wind": 9.7,
     "night": false
    }
@@ -185,10 +185,10 @@
    "awayImplied": 23.5,
    "weather": {
     "roof": "open",
-    "temp": 60.6,
+    "temp": 59.7,
     "precip": 0,
-    "code": 0,
-    "wind": 8.3,
+    "code": 1,
+    "wind": 7.4,
     "night": false
    }
   },
@@ -212,10 +212,10 @@
    "awayImplied": 19.5,
    "weather": {
     "roof": "open",
-    "temp": 60.2,
+    "temp": 59.1,
     "precip": 0,
     "code": 0,
-    "wind": 7.2,
+    "wind": 6.1,
     "night": false
    }
   },
@@ -230,19 +230,19 @@
    "venue": "Raymond James Stadium",
    "tv": "CBS",
    "details": "PIT -2.5",
-   "total": 39.5,
+   "total": 40.5,
    "fav": "PIT",
    "spread": 2.5,
    "homeML": null,
    "awayML": null,
-   "homeImplied": 18.5,
-   "awayImplied": 21.0,
+   "homeImplied": 19.0,
+   "awayImplied": 21.5,
    "weather": {
     "roof": "open",
-    "temp": 80.5,
+    "temp": 80.2,
     "precip": 7,
-    "code": 51,
-    "wind": 21.3,
+    "code": 3,
+    "wind": 20.8,
     "night": false
    }
   },
@@ -288,10 +288,10 @@
    "awayImplied": 17.0,
    "weather": {
     "roof": "open",
-    "temp": 63.3,
+    "temp": 65.9,
     "precip": 0,
-    "code": 3,
-    "wind": 14.4,
+    "code": 0,
+    "wind": 15.3,
     "night": false
    }
   },
@@ -339,8 +339,8 @@
     "roof": "open",
     "temp": 56.3,
     "precip": 0,
-    "code": 1,
-    "wind": 17.6,
+    "code": 0,
+    "wind": 17.5,
     "night": true
    }
   },
@@ -364,10 +364,10 @@
    "awayImplied": 21.5,
    "weather": {
     "roof": "open",
-    "temp": 67.2,
+    "temp": 66.1,
     "precip": 3,
-    "code": 0,
-    "wind": 9.7,
+    "code": 3,
+    "wind": 10.5,
     "night": false
    }
   }
