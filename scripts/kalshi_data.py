@@ -22,7 +22,7 @@ SPORTS = {"NFL": "NFL", "NCAAF": "CFB", "MLB": "MLB", "NBA": "NBA"}
 KINDS = ("GAME", "SPREAD", "TOTAL")
 SERIES = [f"KX{sp}{k}" for sp in SPORTS for k in KINDS]
 PER_EVENT = 3  # spread/total lines kept per game: the ones priced closest to 50/50
-HORIZON = timedelta(days=4)
+HORIZON = timedelta(days=6)  # covers NFL Sunday from midweek
 EXCLUDE = re.compile(r"seahawks|\bseattle\b(?!\s+mariners)|\bSEA\b", re.I)
 
 
@@ -50,7 +50,7 @@ def sport_of(ticker):
 
 
 def game_name(rules, fallback):
-    m = re.search(r" the (.+?) (?:Pro |College |Professional )?(?:Football|Basketball|Baseball) game", rules or "")
+    m = re.search(r" the (.+?) (?:pro|college|professional) (?:football|basketball|baseball) game", rules or "", re.I)
     return m.group(1) if m else fallback
 
 
