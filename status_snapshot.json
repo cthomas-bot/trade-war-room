@@ -586,9 +586,18 @@
    "t": "NE"
   },
   "12533": {
-   "changed": null,
-   "entry": null,
-   "i": null,
+   "changed": "2026-10-15T22:42:49.214069+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Jacory Croskey-Merritt",
+    "note": "Sleeper now lists him questionable (groin) as of 3:42 PM PT Oct 15.",
+    "redraftAdj": 0.98,
+    "sleeperId": "12533",
+    "status": "Questionable",
+    "tag": "injury"
+   },
+   "i": "Questionable",
    "qb1": null,
    "t": "WAS"
   },
@@ -1288,13 +1297,6 @@
    "qb1": null,
    "t": "SF"
   },
-  "4454": {
-   "changed": null,
-   "entry": null,
-   "i": null,
-   "qb1": null,
-   "t": "ARI"
-  },
   "4866": {
    "changed": "2026-10-14T07:49:46.658762+00:00",
    "entry": {
@@ -1455,34 +1457,34 @@
    "t": "SF"
   },
   "5892": {
-   "changed": "2026-10-14T07:49:46.658762+00:00",
+   "changed": "2026-10-15T22:42:49.214069+00:00",
    "entry": {
     "auto": true,
-    "dynastyAdj": 1.0,
+    "dynastyAdj": 0.96,
     "name": "David Montgomery",
-    "note": "Sleeper now lists him doubtful (groin) as of 12:49 AM PT Oct 14.",
-    "redraftAdj": 0.93,
+    "note": "Sleeper now lists him out (groin) as of 3:42 PM PT Oct 15. Earlier: DeMeco Ryans called Montgomery's groin injury from the Week 5 win over Tennessee 'week-to-week' (reported Oct 12). He is very likely to miss Week 6 at Jacksonville, and with Houston's bye in Week 8 he may also sit Week 7.",
+    "redraftAdj": 0.55,
     "sleeperId": "5892",
     "status": "Out",
     "tag": "injury"
    },
-   "i": "Doubtful",
+   "i": "Out",
    "qb1": null,
    "t": "HOU"
   },
   "5927": {
-   "changed": "2026-10-14T03:27:13.405269+00:00",
+   "changed": "2026-10-15T22:42:49.214069+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 1.0,
     "name": "Terry McLaurin",
-    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 8:27 PM PT Oct 13.",
-    "redraftAdj": 1.0,
+    "note": "Sleeper now lists him questionable (hamstring) as of 3:42 PM PT Oct 15.",
+    "redraftAdj": 0.98,
     "sleeperId": "5927",
-    "status": null,
+    "status": "Questionable",
     "tag": "injury"
    },
-   "i": null,
+   "i": "Questionable",
    "qb1": null,
    "t": "WAS"
   },

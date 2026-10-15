@@ -40,11 +40,12 @@
     {
       "sleeperId": "5892",
       "name": "David Montgomery",
-      "note": "DeMeco Ryans called Montgomery's groin injury from the Week 5 win over Tennessee 'week-to-week' (reported Oct 12). He is very likely to miss Week 6 at Jacksonville, and with Houston's bye in Week 8 he may also sit Week 7.",
+      "note": "Sleeper now lists him out (groin) as of 3:42 PM PT Oct 15. Earlier: DeMeco Ryans called Montgomery's groin injury from the Week 5 win over Tennessee 'week-to-week' (reported Oct 12). He is very likely to miss Week 6 at Jacksonville, and with Houston's bye in Week 8 he may also sit Week 7.",
       "tag": "injury",
       "redraftAdj": 0.55,
       "dynastyAdj": 0.96,
-      "status": "Doubtful"
+      "status": "Out",
+      "auto": true
     },
     {
       "sleeperId": "12474",
@@ -624,14 +625,14 @@
       "tag": "injury"
     },
     {
-      "auto": true,
-      "dynastyAdj": 1.0,
-      "name": "Terry McLaurin",
-      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 8:27 PM PT Oct 13.",
-      "redraftAdj": 1.0,
       "sleeperId": "5927",
-      "status": null,
-      "tag": "injury"
+      "name": "Terry McLaurin",
+      "note": "Sleeper now lists him questionable (hamstring) as of 3:42 PM PT Oct 15.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
+      "status": "Questionable",
+      "auto": true
     },
     {
       "auto": true,
@@ -772,7 +773,17 @@
       "dynastyAdj": 1.0,
       "status": "Questionable",
       "auto": true
+    },
+    {
+      "sleeperId": "12533",
+      "name": "Jacory Croskey-Merritt",
+      "note": "Sleeper now lists him questionable (groin) as of 3:42 PM PT Oct 15.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
+      "status": "Questionable",
+      "auto": true
     }
   ],
-  "statusChecked": "2:44 PM PT Oct 15"
+  "statusChecked": "3:42 PM PT Oct 15"
 }
