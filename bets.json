@@ -1,26 +1,16 @@
 {
  "date": "Thu Oct 15",
- "scanned": "Oct 15, 8:05 AM PT",
+ "scanned": "Oct 15, 2:58 PM PT · recheck",
  "slate": [
-  {
-   "sport": "MLB",
-   "game": "Rays @ Guardians · ALCS G3",
-   "time": "3:00 PM PT",
-   "pick": "Rays ML",
-   "price": "46¢",
-   "call": "WAIT",
-   "why": "Series 1-1; book line ~47% Rays, so no edge after fees.",
-   "recheck": "After starters post (~12 PM PT): YES only at 42¢ or lower."
-  },
   {
    "sport": "MLB",
    "game": "Brewers @ Dodgers · NLCS G4",
    "time": "5:00 PM PT",
    "pick": "Dodgers ML",
    "price": "59¢",
-   "call": "WAIT",
-   "why": "MIL leads 3-0; no G4 starters or book lines posted yet.",
-   "recheck": "2 PM PT: YES only if books have LAD ≥64% and Kalshi ≤59¢."
+   "call": "PASS",
+   "why": "Glasnow vs MIL bullpen game; books de-vig LAD ~58-61%, price is fair.",
+   "recheck": ""
   },
   {
    "sport": "CFB",
@@ -37,7 +27,7 @@
    "game": "Georgia Southern @ Old Dominion",
    "time": "4:30 PM PT",
    "pick": "Georgia Southern ML",
-   "price": "61¢",
+   "price": "59¢",
    "call": "PASS",
    "why": "FanDuel de-vigs to ~62%; no edge after fees.",
    "recheck": "Only at 57¢ or lower before 4 PM PT."
@@ -178,6 +168,18 @@
   {
    "title": "When does the 2026-27 NBA season start (Fox Sports)",
    "url": "https://www.foxsports.com/stories/nba/when-does-2026-27-nba-season-start-opening-night-schedule"
+  },
+  {
+   "title": "ESPN: ALCS, NLCS odds (Oct 15)",
+   "url": "https://www.espn.com/espn/betting/story/_/id/50132233/2026-mlb-playoffs-alcs-nlcs-betting-odds-spreads"
+  },
+  {
+   "title": "MLB.com: Brewers-Dodgers NLCS Game 4 lineups and pitching matchup",
+   "url": "https://www.mlb.com/news/brewers-dodgers-nl-championship-series-game-4-starting-lineups-and-pitching-matchup"
+  },
+  {
+   "title": "DK Network: Opening odds for NLCS Game 4",
+   "url": "https://dknetwork.draftkings.com/2026/10/14/opening-odds-for-game-4-of-brewers-vs-dodgers-in-2026-nlcs/"
   }
  ]
 }
