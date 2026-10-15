@@ -415,14 +415,14 @@
       "tag": "injury"
     },
     {
-      "auto": true,
-      "dynastyAdj": 1.0,
-      "name": "Jalen Milroe",
-      "note": "Cleared: no longer on Sleeper's injury report (was out) as of 12:49 AM PT Oct 14.",
-      "redraftAdj": 0.98,
       "sleeperId": "12510",
-      "status": null,
-      "tag": "injury"
+      "name": "Jalen Milroe",
+      "note": "Sleeper now lists him out (coach's decision) as of 4:38 PM PT Oct 15.",
+      "tag": "injury",
+      "redraftAdj": 0.9,
+      "dynastyAdj": 1.0,
+      "status": "Out",
+      "auto": true
     },
     {
       "auto": true,
@@ -785,5 +785,5 @@
       "auto": true
     }
   ],
-  "statusChecked": "3:42 PM PT Oct 15"
+  "statusChecked": "4:38 PM PT Oct 15"
 }
