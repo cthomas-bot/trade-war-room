@@ -25,6 +25,10 @@ Compare Kalshi prices (kalshi.json snapshot; recheck live before betting) with d
 - **Sunday props** (NFL Sundays): best props split into Morning (10 AM PT), Afternoon (1 PM PT) and Late (SNF) slates, 2–4 per slate, realistic lines with odds.
 - **Fun parlay** (optional): 2–4 likely legs, ≤ about +400.
 
+## Schedule
+- **Morning scan** (~7:50 AM PT daily): full scan, written fresh.
+- **Recheck** (~2:50 PM PT daily, plus ~12:20 PM PT Sundays): light update of the existing bets.json, with no rewrite. Recheck only games that haven't started, mainly WAIT/LEAN calls and anything hit by new injuries, lineups or starters, or line moves. Upgrade or downgrade calls, update price and recheck, and drop finished games. Set `"scanned"` to e.g. "Oct 15, 2:52 PM PT · recheck". On Sundays, also refresh the Afternoon/Late props for NFL inactives. If nothing changed, update only `scanned`. If no games are left today, make no commit.
+
 ## Output: `bets.json` at the repo root
 ```json
 {

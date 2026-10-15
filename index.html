@@ -1253,7 +1253,7 @@ function slatePanel(b){
     (x.recheck?'<div class="sl-re">⏰ '+esc(x.recheck)+'</div>':'')+'</div>').join('');
   const up=(b.upcoming||[]).map(x=>'<div class="sl"><div class="sl-top">'+sportTag(x.sport)+'<b>'+esc(x.game)+'</b><span class="muted">'+esc(x.time||'')+'</span>'+call(x.call)+'</div>'+
     '<div class="sl-pick">'+(x.pick?'<b>'+esc(x.pick)+'</b>'+(x.price?' <span class="muted">'+esc(x.price)+'</span>':''):'')+(x.why?' — '+esc(x.why):'')+'</div>'+(x.recheck?'<div class="sl-re">⏰ '+esc(x.recheck)+'</div>':'')+'</div>').join('');
-  return panel('Today’s Slate'+(b.date?' · '+b.date:''),'◎',(rows+(up?'<div class="ev-h" style="margin-top:12px">COMING UP</div>'+up:''))||'<p class="muted">The daily scan posts today’s calls at 7:43 AM PT.</p>',{glow:true,right:b.scanned?'<small>updated '+esc(b.scanned)+'</small>':''});
+  return panel('Today’s Slate'+(b.date?' · '+b.date:''),'◎',(rows+(up?'<div class="ev-h" style="margin-top:12px">COMING UP</div>'+up:''))||'<p class="muted">Calls post around 8 AM PT and are rechecked around 3 PM PT (plus 12:30 PM on Sundays).</p>',{glow:true,right:b.scanned?'<small>updated '+esc(b.scanned)+'</small>':''});
 }
 function primePanel(b){
   const p=b.primetime;if(!p)return '';
