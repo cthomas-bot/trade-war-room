@@ -48,6 +48,11 @@
    "qb1": null,
    "t": "SEA"
   },
+  "11439": {
+   "i": null,
+   "qb1": null,
+   "t": "CLE"
+  },
   "11559": {
    "changed": "2026-10-14T21:43:53.279007+00:00",
    "entry": {
@@ -1599,9 +1604,18 @@
    "t": "PIT"
   },
   "6904": {
-   "changed": null,
-   "entry": null,
-   "i": null,
+   "changed": "2026-10-15T17:42:22.838980+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Jalen Hurts",
+    "note": "Sleeper now lists him out (calf) as of 10:42 AM PT Oct 15.",
+    "redraftAdj": 0.9,
+    "sleeperId": "6904",
+    "status": "Out",
+    "tag": "injury"
+   },
+   "i": "Out",
    "qb1": true,
    "t": "PHI"
   },
