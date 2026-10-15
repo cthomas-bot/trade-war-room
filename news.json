@@ -112,11 +112,12 @@
     {
       "sleeperId": "7021",
       "name": "Rico Dowdle",
-      "note": "OC Brian Angelichio said Monday (Oct 12) that he expects Dowdle (dislocated toe, missed 3 games) back in Week 6 against Tampa Bay. With Warren now named the featured back, Dowdle will likely play limited snaps as a backup.",
-      "tag": "role_down",
-      "redraftAdj": 0.85,
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 1:44 PM PT Oct 15. Earlier: OC Brian Angelichio said Monday (Oct 12) that he expects Dowdle (dislocated toe, missed 3 games) back in Week 6 against Tampa Bay. With Warren now named the featured back, Dowdle will likely play limited snaps as a backup.",
+      "tag": "injury",
+      "redraftAdj": 1.0,
       "dynastyAdj": 0.95,
-      "status": "Questionable"
+      "status": null,
+      "auto": true
     },
     {
       "sleeperId": "4035",
@@ -319,11 +320,12 @@
     {
       "sleeperId": "2216",
       "name": "Mike Evans",
-      "note": "On Oct 12 Shanahan said Deebo Samuel (hamstring) will 'miss some time', likely through the Week 8 bye. Evans (7-113-1 in Week 5) is SF's clear top WR, with Cooks next up.",
-      "tag": "role_up",
-      "redraftAdj": 1.1,
-      "dynastyAdj": 1.02,
-      "status": ""
+      "note": "Sleeper now lists him questionable (ribs) as of 1:44 PM PT Oct 15. Earlier: On Oct 12 Shanahan said Deebo Samuel (hamstring) will 'miss some time', likely through the Week 8 bye. Evans (7-113-1 in Week 5) is SF's clear top WR, with Cooks next up.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
+      "status": "Questionable",
+      "auto": true
     },
     {
       "sleeperId": "13298",
@@ -732,14 +734,14 @@
       "tag": "injury"
     },
     {
-      "auto": true,
-      "dynastyAdj": 1.0,
-      "name": "Josh Downs",
-      "note": "Sleeper now lists him questionable (hamstring) as of 2:43 PM PT Oct 14.",
-      "redraftAdj": 0.98,
       "sleeperId": "9500",
-      "status": "Questionable",
-      "tag": "injury"
+      "name": "Josh Downs",
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 1:44 PM PT Oct 15.",
+      "tag": "injury",
+      "redraftAdj": 1.0,
+      "dynastyAdj": 1.0,
+      "status": null,
+      "auto": true
     },
     {
       "auto": true,
@@ -762,5 +764,5 @@
       "auto": true
     }
   ],
-  "statusChecked": "10:42 AM PT Oct 15"
+  "statusChecked": "1:44 PM PT Oct 15"
 }
