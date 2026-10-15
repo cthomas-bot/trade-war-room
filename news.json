@@ -1,825 +1,365 @@
 {
-  "updated": "2026-10-14 6:02 AM PT",
-  "players": [
-    {
-      "sleeperId": "4881",
-      "name": "Lamar Jackson",
-      "note": "Ankle injury from Week 4 kept him out of Week 5, when Tyler Huntley started in a 30-23 OT win over ATL. On Oct 12 Ian Rapoport said he is 'closer than people realize' and has a real chance to return in Week 6 vs CLE; not confirmed yet.",
-      "tag": "return",
-      "redraftAdj": 1.1,
-      "dynastyAdj": 1.0,
-      "status": "Questionable"
-    },
-    {
-      "sleeperId": "11560",
-      "name": "Caleb Williams",
-      "note": "Grade 2 hamstring strain; inactive in Week 5. Per Oct 12 reports, 'all signs point' to a Week 6 return at ATL, but HC Ben Johnson would not commit and the Bears have not named a starter (Keenum/Bagent are the fallbacks).",
-      "tag": "return",
-      "redraftAdj": 1.1,
-      "dynastyAdj": 1.0,
-      "status": "Questionable"
-    },
-    {
-      "sleeperId": "11559",
-      "name": "Michael Penix",
-      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 2:43 PM PT Oct 14. Earlier: Left the Oct 11 OT loss to BAL with a rib injury, and Tua Tagovailoa played overtime. Oct 12 reports say the injury is not serious and Penix expects to face CHI in Week 6, pending practice participation.",
-      "tag": "injury",
-      "redraftAdj": 1.0,
-      "dynastyAdj": 1.0,
-      "status": null,
-      "auto": true
-    },
-    {
-      "sleeperId": "4892",
-      "name": "Baker Mayfield",
-      "note": "Sleeper now lists him doubtful (thumb) as of 7:45 AM PT Oct 14. Earlier: Dislocated thumb (Week 3), now in a smaller splint and not yet gripping the ball. As of Oct 9, Todd Bowles planned to start UDFA Jalon Daniels in Week 6 vs PIT; Mayfield is pushing to play, but a return looks more likely for Week 7-8.",
-      "tag": "injury",
-      "redraftAdj": 0.93,
-      "dynastyAdj": 1.0,
-      "status": "Out",
-      "auto": true
-    },
-    {
-      "sleeperId": "1166",
-      "name": "Kirk Cousins",
-      "note": "Pulled with 6:06 left in the Oct 11 45-17 loss to NE in favor of rookie Fernando Mendoza. HC Klint Kubiak said it was only for exposure and that Cousins remains the starter vs BUF, but his leash is shorter.",
-      "tag": "role_down",
-      "redraftAdj": 0.93,
-      "dynastyAdj": 0.95,
-      "status": ""
-    },
-    {
-      "sleeperId": "13269",
-      "name": "Fernando Mendoza",
-      "note": "Made his NFL debut Oct 11 in mop-up duty vs NE, going 6/8 for 48 yards. Kubiak says Cousins remains the starter, but Mendoza is the clear next man up if the Raiders keep losing.",
-      "tag": "role_up",
-      "redraftAdj": 1.05,
-      "dynastyAdj": 1.03,
-      "status": ""
-    },
-    {
-      "sleeperId": "5892",
-      "name": "David Montgomery",
-      "note": "Left the Week 5 win over Tennessee (Oct 11) with a groin injury and did not return. DeMeco Ryans calls him week-to-week, and reports say he is likely to miss Week 6 in London vs. Jacksonville, with the Week 8 bye possibly keeping him out of Week 7 too.",
-      "tag": "injury",
-      "redraftAdj": 0.75,
-      "dynastyAdj": 0.97,
-      "status": "Doubtful"
-    },
-    {
-      "sleeperId": "12474",
-      "name": "Woody Marks",
-      "note": "Took over Houston's starting duties after Montgomery's Week 5 groin injury, going 15-62 on the ground plus 4-4-23 receiving on Oct 11. He is expected to handle most of the backfield work in Week 6 vs. Jacksonville.",
-      "tag": "role_up",
-      "redraftAdj": 1.3,
-      "dynastyAdj": 1.08,
-      "status": ""
-    },
-    {
-      "sleeperId": "11577",
-      "name": "Will Shipley",
-      "note": "Diagnosed with a partial tear of the plantar fascia after the Week 5 loss to Jacksonville (reported Oct 12). Per Schefter he could miss multiple weeks, and he is likely out at least for Week 6 vs. Carolina.",
-      "tag": "injury",
-      "redraftAdj": 0.6,
-      "dynastyAdj": 0.95,
-      "status": "Out"
-    },
-    {
-      "sleeperId": "4866",
-      "name": "Saquon Barkley",
-      "note": "Missed Week 5 with a hamstring injury. On Oct 12 Nick Sirianni said he is 'hopeful' Barkley will be cleared for Week 6 vs. Carolina, though he was estimated as a non-participant in Monday's practice.",
-      "tag": "return",
-      "redraftAdj": 1.05,
-      "dynastyAdj": 1.0,
-      "status": "Questionable"
-    },
-    {
-      "sleeperId": "8129",
-      "name": "Dameon Pierce",
-      "note": "With Shipley out (plantar fascia, Oct 12) and Tank Bigsby on IR, Pierce and Carson Steele are Philadelphia's only healthy backs if Barkley's hamstring keeps him out of Week 6.",
-      "tag": "role_up",
-      "redraftAdj": 1.15,
-      "dynastyAdj": 1.02,
-      "status": ""
-    },
-    {
-      "sleeperId": "12529",
-      "name": "TreVeyon Henderson",
-      "note": "Sleeper now lists him questionable (ankle) as of 2:43 PM PT Oct 14. Earlier: Left the Oct 11 win over Las Vegas with a right ankle injury, his second ankle injury this season, and had an MRI on Oct 12. No diagnosis or timeline has been reported, and his Week 6 status vs. the Jets is uncertain.",
-      "tag": "injury",
-      "redraftAdj": 0.98,
-      "dynastyAdj": 1.0,
-      "status": "Questionable",
-      "auto": true
-    },
-    {
-      "sleeperId": "7611",
-      "name": "Rhamondre Stevenson",
-      "note": "Expected to take on most of New England's backfield work while Henderson is out with the ankle injury from Oct 11. Stevenson scored a 5-yard touchdown in that game.",
-      "tag": "role_up",
-      "redraftAdj": 1.15,
-      "dynastyAdj": 1.03,
-      "status": ""
-    },
-    {
-      "sleeperId": "12512",
-      "name": "Quinshon Judkins",
-      "note": "Was seen in a walking boot on his right foot after the Week 5 loss to the Jets (Oct 11). Todd Monken calls him day-to-day with an ankle 'tweak', and Raheim Sanders would lead the backfield if he sits Week 6 vs. Baltimore.",
-      "tag": "injury",
-      "redraftAdj": 0.88,
-      "dynastyAdj": 0.99,
-      "status": "Questionable"
-    },
-    {
-      "sleeperId": "12527",
-      "name": "Ashton Jeanty",
-      "note": "Played through ankle and foot injuries in the Oct 11 loss at New England but managed a season-low 10-27 rushing, plus 3-50 receiving. A teammate got the goal-line touchdown, and Jeanty still has no rushing TD this season.",
-      "tag": "injury",
-      "redraftAdj": 0.95,
-      "dynastyAdj": 1.0,
-      "status": ""
-    },
-    {
-      "sleeperId": "5872",
-      "name": "Deebo Samuel",
-      "note": "Left the Oct 11 win over Seattle with a right hamstring injury and was ruled out right away. On Oct 12 Shanahan said he is 'going to miss some time', at least a couple of weeks, and analysts say an IR stint is possible.",
-      "tag": "injury",
-      "redraftAdj": 0.65,
-      "dynastyAdj": 0.95,
-      "status": "Out"
-    },
-    {
-      "sleeperId": "13274",
-      "name": "Germie Bernard",
-      "note": "Led the Steelers in targets with career highs of 6 catches for 80 yards in the Oct 11 win over the Colts. Roman Wilson (finger) is out for Week 6 and expected to miss multiple weeks, which makes Bernard the likely WR2 behind DK Metcalf.",
-      "tag": "role_up",
-      "redraftAdj": 1.3,
-      "dynastyAdj": 1.1,
-      "status": ""
-    },
-    {
-      "sleeperId": "5859",
-      "name": "A.J. Brown",
-      "note": "Became eligible to come off IR (high-ankle sprain) after the Oct 11 game. Vrabel said there's 'a chance' he returns this week, and reports say he is pushing to play Week 6 against the Jets.",
-      "tag": "return",
-      "redraftAdj": 1.15,
-      "dynastyAdj": 1.0,
-      "status": "IR"
-    },
-    {
-      "sleeperId": "7525",
-      "name": "DeVonta Smith",
-      "note": "Missed Weeks 4-5 with a hamstring injury. On Oct 12 Sirianni said he is 'hopeful' Smith can play Week 6 against Carolina, though it is early in the week.",
-      "tag": "return",
-      "redraftAdj": 1.1,
-      "dynastyAdj": 1.0,
-      "status": "Questionable"
-    },
-    {
-      "sleeperId": "13150",
-      "name": "Darius Cooper",
-      "note": "Has gone 5-104-3 on 10 targets over the last two games with DeVonta Smith out, including 2-71-1 on Oct 11 against Jacksonville. His role could shrink if Smith returns in Week 6.",
-      "tag": "role_up",
-      "redraftAdj": 1.1,
-      "dynastyAdj": 1.05,
-      "status": ""
-    },
-    {
-      "sleeperId": "9756",
-      "name": "Jordan Addison",
-      "note": "Was inactive for the Week 5 game against the Saints on Oct 11 with a hamstring injury that had been described as minor. Reports suggest he should return to full practice after the bye.",
-      "tag": "injury",
-      "redraftAdj": 0.9,
-      "dynastyAdj": 1.0,
-      "status": "Out"
-    },
-    {
-      "sleeperId": "13301",
-      "name": "Antonio Williams",
-      "note": "Stefon Diggs (hamstring) was ruled out for Week 5 and Terry McLaurin (hamstring) was also hurt. The rookie, who drew 8 targets the week before, is being picked up on waivers as Washington's next target in line while Diggs is out.",
-      "tag": "role_up",
-      "redraftAdj": 1.15,
-      "dynastyAdj": 1.05,
-      "status": ""
-    },
-    {
-      "sleeperId": "13346",
-      "name": "Denzel Boston",
-      "note": "Sleeper now lists him questionable (foot) as of 3:42 PM PT Oct 14. Earlier: Browns rookie WR KC Concepcion suffered a concussion on Oct 11 against the Jets and is highly questionable for Week 6 against Baltimore. That should put more on Boston and the other Cleveland receivers.",
-      "tag": "injury",
-      "redraftAdj": 0.98,
-      "dynastyAdj": 1.0,
-      "status": "Questionable",
-      "auto": true
-    },
-    {
-      "sleeperId": "6783",
-      "name": "Jerry Jeudy",
-      "note": "KC Concepcion's concussion (Oct 11) leaves him uncertain for Week 6, and analysts expect more routes and targets to go to Jeudy if he sits.",
-      "tag": "role_up",
-      "redraftAdj": 1.07,
-      "dynastyAdj": 1.0,
-      "status": ""
-    },
-    {
-      "sleeperId": "13298",
-      "name": "KC Concepcion",
-      "note": "Took an illegal helmet-to-helmet hit from Minkah Fitzpatrick on Oct 11 vs NYJ and entered the concussion protocol Oct 12. His Week 6 game vs BAL is in doubt.",
-      "tag": "injury",
-      "redraftAdj": 0.85,
-      "dynastyAdj": 0.99,
-      "status": "Questionable"
-    },
-    {
-      "sleeperId": "11635",
-      "name": "Ladd McConkey",
-      "note": "Foot injury: he was active for Week 5 (Oct 11) only for an emergency and played no snaps. On Oct 13 Harbaugh called a return 'possible'. LAC has its bye in Week 7, so if he sits this week he may not be back until Week 8.",
-      "tag": "injury",
-      "redraftAdj": 0.85,
-      "dynastyAdj": 0.98,
-      "status": "Questionable"
-    },
-    {
-      "sleeperId": "12509",
-      "name": "Tre' Harris",
-      "note": "Hurt his hamstring in the Oct 11 loss to DEN, and Harbaugh called him week-to-week on Oct 13. He is expected to sit Week 6 vs KC, with Week 8 after the bye as the target.",
-      "tag": "injury",
-      "redraftAdj": 0.7,
-      "dynastyAdj": 0.97,
-      "status": "Doubtful"
-    },
-    {
-      "sleeperId": "9754",
-      "name": "Quentin Johnston",
-      "note": "Missed the Oct 11 game with a chest injury, and Harbaugh said he will 'probably be limited' this week. With McConkey and Harris both hurt, he would lead a thin LAC receiver room if he plays.",
-      "tag": "injury",
-      "redraftAdj": 0.95,
-      "dynastyAdj": 1.0,
-      "status": "Questionable"
-    },
-    {
-      "sleeperId": "2449",
-      "name": "Stefon Diggs",
-      "note": "Missed the Oct 11 tie with the Giants because of the hamstring injury he suffered in Week 4. No Week 6 status has been reported yet.",
-      "tag": "injury",
-      "redraftAdj": 0.85,
-      "dynastyAdj": 0.99,
-      "status": "Questionable"
-    },
-    {
-      "sleeperId": "11630",
-      "name": "Roman Wilson",
-      "note": "Injured his finger in the Oct 11 win over IND. ESPN reports he will miss multiple weeks (he is seeking a second opinion), and McCarthy ruled him out of the next game vs TB.",
-      "tag": "injury",
-      "redraftAdj": 0.6,
-      "dynastyAdj": 0.97,
-      "status": "Out"
-    },
-    {
-      "sleeperId": "6819",
-      "name": "Michael Pittman",
-      "note": "Placed on IR around Oct 10 after aggravating his left foot (plantar fasciitis). The earliest he can return is Week 10 (Nov 15).",
-      "tag": "injury",
-      "redraftAdj": 0.6,
-      "dynastyAdj": 0.97,
-      "status": "IR"
-    },
-    {
-      "sleeperId": "11628",
-      "name": "Marvin Harrison",
-      "note": "Traded from ARI to HOU on Oct 11 (Houston gives up a 2027 2nd-round pick), pending a physical. He joins Nico Collins as an outside receiver with C.J. Stroud.",
-      "tag": "trade",
-      "redraftAdj": 1.0,
-      "dynastyAdj": 1.03,
-      "status": ""
-    },
-    {
-      "sleeperId": "10232",
-      "name": "Michael Wilson",
-      "note": "The Oct 11-12 trade of Marvin Harrison Jr. leaves Wilson as Arizona's clear WR1. He had 4 catches for 30 yards on 7 targets in the Oct 11 loss to DET and led ARI receivers in snaps.",
-      "tag": "role_up",
-      "redraftAdj": 1.1,
-      "dynastyAdj": 1.05,
-      "status": ""
-    },
-    {
-      "sleeperId": "4454",
-      "name": "Kendrick Bourne",
-      "note": "With Harrison traded on Oct 11-12, Bourne moves up to ARI's No. 2 receiver in a near full-time role. He caught 5 of 8 targets for 70 yards vs DET on Oct 11.",
-      "tag": "role_up",
-      "redraftAdj": 1.2,
-      "dynastyAdj": 1.05,
-      "status": ""
-    },
-    {
-      "sleeperId": "7569",
-      "name": "Nico Collins",
-      "note": "Houston traded for Marvin Harrison Jr. on Oct 11, which adds a high-end target competitor.",
-      "tag": "role_down",
-      "redraftAdj": 0.95,
-      "dynastyAdj": 0.96,
-      "status": ""
-    },
-    {
-      "sleeperId": "9504",
-      "name": "Kayshon Boutte",
-      "note": "Houston's Oct 11 trade for Marvin Harrison Jr. likely pushes Boutte down the depth chart.",
-      "tag": "role_down",
-      "redraftAdj": 0.8,
-      "dynastyAdj": 0.9,
-      "status": ""
-    },
-    {
-      "sleeperId": "11632",
-      "name": "Malik Nabers",
-      "note": "Played through knee soreness on Oct 11 and caught 11 of 20 targets for 121 yards and a TD in the 27-27 tie with WAS. He has gone over 100 yards with a TD in each of his last two games.",
-      "tag": "return",
-      "redraftAdj": 1.05,
-      "dynastyAdj": 1.0,
-      "status": ""
-    },
-    {
-      "sleeperId": "1479",
-      "name": "Keenan Allen",
-      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 2:43 PM PT Oct 14.",
-      "tag": "injury",
-      "redraftAdj": 1.0,
-      "dynastyAdj": 1.0,
-      "status": null,
-      "auto": true
-    },
-    {
-      "sleeperId": "9487",
-      "name": "Parker Washington",
-      "note": "Caught 6 passes for 124 yards and 2 TDs in the Oct 11 London win over PHI, including the go-ahead 4th-down score. Reports call him Jacksonville's clear WR1 (22 catches, 352 yards, 4 TDs this season).",
-      "tag": "role_up",
-      "redraftAdj": 1.1,
-      "dynastyAdj": 1.05,
-      "status": ""
-    },
-    {
-      "sleeperId": "8121",
-      "name": "Romeo Doubs",
-      "note": "Caught 1 pass for 16 yards on Oct 11 even with A.J. Brown out. Brown is eligible to come off IR for next week's game vs NYJ, which would cut into Doubs' role.",
-      "tag": "role_down",
-      "redraftAdj": 0.9,
-      "dynastyAdj": 0.97,
-      "status": ""
-    },
-    {
-      "sleeperId": "13276",
-      "name": "Omar Cooper",
-      "note": "Has been on IR with an ankle sprain since Sep 19 and is now eligible to be activated for Week 6 at NE. The Jets have not confirmed a return.",
-      "tag": "return",
-      "redraftAdj": 1.05,
-      "dynastyAdj": 1.0,
-      "status": "IR"
-    },
-    {
-      "sleeperId": "3321",
-      "name": "Tyreek Hill",
-      "note": "Still unsigned. Recent reports say KC and other teams may pass on him over a possible suspension tied to a civil trial, and one GM said his club won't sign him this fall. He was already targeting a November comeback from his 2025 knee injury.",
-      "tag": "role_down",
-      "redraftAdj": 0.85,
-      "dynastyAdj": 0.95,
-      "status": ""
-    },
-    {
-      "sleeperId": "5844",
-      "name": "T.J. Hockenson",
-      "note": "Hockenson suffered a concussion on the second play of the Week 5 win at New Orleans on Oct 11 and entered the concussion protocol. Minnesota has its bye in Week 6, so his next possible game is Week 7 vs. the Colts on Oct 25, and the bye gives him time to clear protocol.",
-      "tag": "injury",
-      "redraftAdj": 0.85,
-      "dynastyAdj": 0.98,
-      "status": "Out"
-    },
-    {
-      "sleeperId": "13330",
-      "name": "Kenyon Sadiq",
-      "note": "Sadiq was confirmed with a concussion after taking a third-quarter hit in the Oct 11 win over Cleveland; he appeared to lose consciousness. He had played only 13 snaps to Mason Taylor's 41, and Taylor is expected to take the TE1 role against the Patriots in Week 6 if Sadiq isn't cleared.",
-      "tag": "injury",
-      "redraftAdj": 0.7,
-      "dynastyAdj": 0.95,
-      "status": "Questionable"
-    },
-    {
-      "sleeperId": "7600",
-      "name": "Pat Freiermuth",
-      "note": "Freiermuth scored two touchdowns on Sunday, Oct 11, giving him four in five weeks. RotoBaller named him the top Week 6 TE waiver pickup, and Pittsburgh's receiver injuries (including Roman Wilson) should keep his target share up.",
-      "tag": "role_up",
-      "redraftAdj": 1.2,
-      "dynastyAdj": 1.05,
-      "status": ""
-    },
-    {
-      "sleeperId": "3271",
-      "name": "Tyler Higbee",
-      "note": "With Terrance Ferguson on IR (ankle), Higbee keeps a featured role. He caught five passes for 83 yards in the Rams' 37-34 overtime loss to Buffalo on Monday, Oct 12.",
-      "tag": "role_up",
-      "redraftAdj": 1.1,
-      "dynastyAdj": 1.02,
-      "status": ""
-    },
-    {
-      "auto": true,
-      "dynastyAdj": 1.0,
-      "name": "Jayden Daniels",
-      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 8:27 PM PT Oct 13.",
-      "redraftAdj": 1.0,
-      "sleeperId": "11566",
-      "status": null,
-      "tag": "injury"
-    },
-    {
-      "sleeperId": "11625",
-      "name": "Adonai Mitchell",
-      "note": "Sleeper now lists him doubtful (finger) as of 9:47 AM PT Oct 14.",
-      "tag": "injury",
-      "redraftAdj": 0.93,
-      "dynastyAdj": 1.0,
-      "status": "Out",
-      "auto": true
-    },
-    {
-      "sleeperId": "11646",
-      "name": "Jalen Coker",
-      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 1:43 PM PT Oct 14.",
-      "tag": "injury",
-      "redraftAdj": 1.0,
-      "dynastyAdj": 1.0,
-      "status": null,
-      "auto": true
-    },
-    {
-      "auto": true,
-      "dynastyAdj": 0.97,
-      "name": "Pat Bryant",
-      "note": "Sleeper now lists him on injured reserve (ankle) as of 8:27 PM PT Oct 13.",
-      "redraftAdj": 0.7,
-      "sleeperId": "12492",
-      "status": "IR",
-      "tag": "injury"
-    },
-    {
-      "auto": true,
-      "dynastyAdj": 0.98,
-      "name": "Ollie Gordon",
-      "note": "Sleeper now lists him questionable (undisclosed) as of 8:27 PM PT Oct 13. Earlier: Went to the medical tent with an undisclosed injury during the Oct 11 game against Cincinnati after 17 carries as Miami's clear lead back, and reportedly returned to the game shortly after. Miami has its Week 6 bye.",
-      "redraftAdj": 0.92,
-      "sleeperId": "12495",
-      "status": "Questionable",
-      "tag": "injury"
-    },
-    {
-      "auto": true,
-      "dynastyAdj": 1.0,
-      "name": "Jalen Milroe",
-      "note": "Cleared: no longer on Sleeper's injury report (was out) as of 12:49 AM PT Oct 14.",
-      "redraftAdj": 0.98,
-      "sleeperId": "12510",
-      "status": null,
-      "tag": "injury"
-    },
-    {
-      "auto": true,
-      "dynastyAdj": 1.0,
-      "name": "Kyle Monangai",
-      "note": "Sleeper now lists him questionable (toe) as of 12:49 AM PT Oct 14.",
-      "redraftAdj": 0.98,
-      "sleeperId": "12534",
-      "status": "Questionable",
-      "tag": "injury"
-    },
-    {
-      "auto": true,
-      "dynastyAdj": 1.0,
-      "name": "Elijah Sarratt",
-      "note": "Cleared: no longer on Sleeper's injury report (was out) as of 12:49 AM PT Oct 14.",
-      "redraftAdj": 0.98,
-      "sleeperId": "13268",
-      "status": null,
-      "tag": "injury"
-    },
-    {
-      "auto": true,
-      "dynastyAdj": 1.0,
-      "name": "Carson Beck",
-      "note": "Cleared: no longer on Sleeper's injury report (was out) as of 12:49 AM PT Oct 14.",
-      "redraftAdj": 0.98,
-      "sleeperId": "13272",
-      "status": null,
-      "tag": "injury"
-    },
-    {
-      "auto": true,
-      "dynastyAdj": 1.0,
-      "name": "Ty Simpson",
-      "note": "Cleared: no longer on Sleeper's injury report (was out) as of 12:49 AM PT Oct 14.",
-      "redraftAdj": 0.98,
-      "sleeperId": "13275",
-      "status": null,
-      "tag": "injury"
-    },
-    {
-      "auto": true,
-      "dynastyAdj": 1.0,
-      "name": "Max Klare",
-      "note": "Cleared: no longer on Sleeper's injury report (was out) as of 12:49 AM PT Oct 14.",
-      "redraftAdj": 0.98,
-      "sleeperId": "13278",
-      "status": null,
-      "tag": "injury"
-    },
-    {
-      "sleeperId": "13287",
-      "name": "Jeremiyah Love",
-      "note": "Sleeper now lists him questionable (ankle) as of 2:43 PM PT Oct 14.",
-      "tag": "injury",
-      "redraftAdj": 0.98,
-      "dynastyAdj": 1.0,
-      "status": "Questionable",
-      "auto": true
-    },
-    {
-      "auto": true,
-      "dynastyAdj": 1.0,
-      "name": "Nicholas Singleton",
-      "note": "Cleared: no longer on Sleeper's injury report (was out) as of 12:49 AM PT Oct 14.",
-      "redraftAdj": 0.98,
-      "sleeperId": "13288",
-      "status": null,
-      "tag": "injury"
-    },
-    {
-      "auto": true,
-      "dynastyAdj": 1.0,
-      "name": "Drew Allar",
-      "note": "Cleared: no longer on Sleeper's injury report (was out) as of 12:49 AM PT Oct 14.",
-      "redraftAdj": 0.98,
-      "sleeperId": "13289",
-      "status": null,
-      "tag": "injury"
-    },
-    {
-      "auto": true,
-      "dynastyAdj": 1.0,
-      "name": "Taylen Green",
-      "note": "Cleared: no longer on Sleeper's injury report (was out) as of 12:49 AM PT Oct 14.",
-      "redraftAdj": 0.98,
-      "sleeperId": "13306",
-      "status": null,
-      "tag": "injury"
-    },
-    {
-      "sleeperId": "13324",
-      "name": "Matt Hibner",
-      "note": "Sleeper now lists him questionable (hand) as of 3:42 PM PT Oct 14.",
-      "tag": "injury",
-      "redraftAdj": 0.98,
-      "dynastyAdj": 0.99,
-      "status": "Questionable",
-      "auto": true
-    },
-    {
-      "auto": true,
-      "dynastyAdj": 1.0,
-      "name": "Brenen Thompson",
-      "note": "Sleeper now lists him questionable (quadriceps) as of 12:49 AM PT Oct 14.",
-      "redraftAdj": 0.98,
-      "sleeperId": "13380",
-      "status": "Questionable",
-      "tag": "injury"
-    },
-    {
-      "auto": true,
-      "dynastyAdj": 1.0,
-      "name": "Kaytron Allen",
-      "note": "Sleeper now lists him out (coach's decision) as of 8:27 PM PT Oct 13.",
-      "redraftAdj": 0.9,
-      "sleeperId": "13405",
-      "status": "Out",
-      "tag": "injury"
-    },
-    {
-      "auto": true,
-      "dynastyAdj": 1.0,
-      "name": "Jack Strand",
-      "note": "Cleared: no longer on Sleeper's injury report (was out) as of 12:49 AM PT Oct 14.",
-      "redraftAdj": 0.98,
-      "sleeperId": "13602",
-      "status": null,
-      "tag": "injury"
-    },
-    {
-      "auto": true,
-      "dynastyAdj": 1.0,
-      "name": "Aaron Jones",
-      "note": "Sleeper now lists him questionable (leg) as of 8:27 PM PT Oct 13.",
-      "redraftAdj": 0.98,
-      "sleeperId": "4199",
-      "status": "Questionable",
-      "tag": "injury"
-    },
-    {
-      "auto": true,
-      "dynastyAdj": 1.0,
-      "name": "DJ Moore",
-      "note": "Sleeper now lists him questionable (shoulder - ac joint) as of 12:49 AM PT Oct 14.",
-      "redraftAdj": 0.98,
-      "sleeperId": "4983",
-      "status": "Questionable",
-      "tag": "injury"
-    },
-    {
-      "auto": true,
-      "dynastyAdj": 1.03,
-      "name": "Dallas Goedert",
-      "note": "Cleared: no longer on Sleeper's injury report (was doubtful) as of 8:27 PM PT Oct 13. Earlier: Goedert came back from a two-game MCL sprain absence in the Oct 11 Week 5 loss to Jacksonville and led the Eagles with 6 catches on 9 targets for 38 yards. DeVonta Smith and Saquon Barkley were both out, so he looks like Hurts' top short-term target heading into Week 6 vs. Carolina.",
-      "redraftAdj": 1.0,
-      "sleeperId": "5022",
-      "status": null,
-      "tag": "injury"
-    },
-    {
-      "auto": true,
-      "dynastyAdj": 1.0,
-      "name": "Terry McLaurin",
-      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 8:27 PM PT Oct 13.",
-      "redraftAdj": 1.0,
-      "sleeperId": "5927",
-      "status": null,
-      "tag": "injury"
-    },
-    {
-      "sleeperId": "6786",
-      "name": "CeeDee Lamb",
-      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 2:43 PM PT Oct 14.",
-      "tag": "injury",
-      "redraftAdj": 1.0,
-      "dynastyAdj": 0.98,
-      "status": null,
-      "auto": true
-    },
-    {
-      "auto": true,
-      "dynastyAdj": 1.01,
-      "name": "Justin Jefferson",
-      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 8:27 PM PT Oct 13. Earlier: ESPN reported on Oct 11, 2026 that Jefferson was expected to return from an ankle injury and play Week 5 at New Orleans after missing Week 4. He had been limited in practice all week.",
-      "redraftAdj": 1.0,
-      "sleeperId": "6794",
-      "status": null,
-      "tag": "injury"
-    },
-    {
-      "auto": true,
-      "dynastyAdj": 1.0,
-      "name": "Tee Higgins",
-      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 8:27 PM PT Oct 13.",
-      "redraftAdj": 1.0,
-      "sleeperId": "6801",
-      "status": null,
-      "tag": "injury"
-    },
-    {
-      "auto": true,
-      "dynastyAdj": 1.0,
-      "name": "Rico Dowdle",
-      "note": "Sleeper now lists him questionable (toe) as of 12:49 AM PT Oct 14.",
-      "redraftAdj": 0.98,
-      "sleeperId": "7021",
-      "status": "Questionable",
-      "tag": "injury"
-    },
-    {
-      "auto": true,
-      "dynastyAdj": 1.0,
-      "name": "Ja'Marr Chase",
-      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 8:27 PM PT Oct 13. Earlier: Cleared the concussion protocol and played Week 5 at Miami on Oct 11, catching 6 of 10 targets for 77 yards and a TD. One CBS Week 6 tracker lists him as questionable with an illness, which is unconfirmed.",
-      "redraftAdj": 1.0,
-      "sleeperId": "7564",
-      "status": null,
-      "tag": "injury"
-    },
-    {
-      "auto": true,
-      "dynastyAdj": 1.0,
-      "name": "Rachaad White",
-      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 8:27 PM PT Oct 13.",
-      "redraftAdj": 1.0,
-      "sleeperId": "8136",
-      "status": null,
-      "tag": "injury"
-    },
-    {
-      "sleeperId": "8155",
-      "name": "Breece Hall",
-      "note": "Sleeper now lists him doubtful (quadriceps) as of 10:44 AM PT Oct 14.",
-      "tag": "injury",
-      "redraftAdj": 0.93,
-      "dynastyAdj": 1.0,
-      "status": "Out",
-      "auto": true
-    },
-    {
-      "sleeperId": "9488",
-      "name": "Jaxon Smith-Njigba",
-      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 4:38 PM PT Oct 14.",
-      "tag": "injury",
-      "redraftAdj": 1.0,
-      "dynastyAdj": 0.99,
-      "status": null,
-      "auto": true
-    },
-    {
-      "sleeperId": "5967",
-      "name": "Tony Pollard",
-      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 2:43 PM PT Oct 14.",
-      "tag": "injury",
-      "redraftAdj": 1.0,
-      "dynastyAdj": 1.0,
-      "status": null,
-      "auto": true
-    },
-    {
-      "sleeperId": "2505",
-      "name": "Darren Waller",
-      "note": "Sleeper now lists him questionable (toe) as of 1:43 PM PT Oct 14.",
-      "tag": "injury",
-      "redraftAdj": 0.98,
-      "dynastyAdj": 1.0,
-      "status": "Questionable",
-      "auto": true
-    },
-    {
-      "sleeperId": "8144",
-      "name": "Chris Olave",
-      "note": "Sleeper now lists him questionable (illness) as of 1:43 PM PT Oct 14.",
-      "tag": "injury",
-      "redraftAdj": 0.98,
-      "dynastyAdj": 1.0,
-      "status": "Questionable",
-      "auto": true
-    },
-    {
-      "sleeperId": "9508",
-      "name": "Tyjae Spears",
-      "note": "Sleeper now lists him questionable (knee) as of 1:43 PM PT Oct 14.",
-      "tag": "injury",
-      "redraftAdj": 0.98,
-      "dynastyAdj": 1.0,
-      "status": "Questionable",
-      "auto": true
-    },
-    {
-      "sleeperId": "9500",
-      "name": "Josh Downs",
-      "note": "Sleeper now lists him questionable (hamstring) as of 2:43 PM PT Oct 14.",
-      "tag": "injury",
-      "redraftAdj": 0.98,
-      "dynastyAdj": 1.0,
-      "status": "Questionable",
-      "auto": true
-    },
-    {
-      "sleeperId": "4035",
-      "name": "Alvin Kamara",
-      "note": "Sleeper now lists him questionable (back) as of 3:42 PM PT Oct 14.",
-      "tag": "injury",
-      "redraftAdj": 0.98,
-      "dynastyAdj": 1.0,
-      "status": "Questionable",
-      "auto": true
-    },
-    {
-      "sleeperId": "7571",
-      "name": "Rashod Bateman",
-      "note": "Sleeper now lists him questionable (shoulder) as of 3:42 PM PT Oct 14.",
-      "tag": "injury",
-      "redraftAdj": 0.98,
-      "dynastyAdj": 1.0,
-      "status": "Questionable",
-      "auto": true
-    },
-    {
-      "sleeperId": "9486",
-      "name": "Dontayvion Wicks",
-      "note": "Sleeper now lists him questionable (hamstring) as of 4:38 PM PT Oct 14.",
-      "tag": "injury",
-      "redraftAdj": 0.98,
-      "dynastyAdj": 1.0,
-      "status": "Questionable",
-      "auto": true
-    },
-    {
-      "sleeperId": "11604",
-      "name": "Brock Bowers",
-      "note": "Sleeper now lists him questionable (knee) as of 5:53 PM PT Oct 14.",
-      "tag": "injury",
-      "redraftAdj": 0.98,
-      "dynastyAdj": 1.0,
-      "status": "Questionable",
-      "auto": true
-    }
-  ],
-  "statusChecked": "5:53 PM PT Oct 14"
+ "updated": "2026-10-15 6:02 AM PT",
+ "players": [
+  {
+   "sleeperId": "4881",
+   "name": "Lamar Jackson",
+   "note": "Jackson (left ankle) did not practice Wednesday, Oct 14. Coach Jesse Minter called him day-to-day, and Schefter reported a realistic chance he plays Sunday vs. CLE, though Tyler Huntley could start again if Baltimore stays cautious.",
+   "tag": "injury",
+   "redraftAdj": 0.8,
+   "dynastyAdj": 0.99,
+   "status": "Questionable"
+  },
+  {
+   "sleeperId": "11560",
+   "name": "Caleb Williams",
+   "note": "Williams (hamstring, out since Week 2) practiced in full Wednesday, Oct 14. Ian Rapoport said on Oct 12 that 'all signs point' to him returning in Week 6 vs. ATL.",
+   "tag": "return",
+   "redraftAdj": 1.25,
+   "dynastyAdj": 1.03,
+   "status": "Questionable"
+  },
+  {
+   "sleeperId": "4892",
+   "name": "Baker Mayfield",
+   "note": "Mayfield is still in a splint for his dislocated right thumb. Coach Todd Bowles said this week the plan is to start Jalon Daniels vs. PIT, and Rotowire estimates Mayfield's return around Oct 25.",
+   "tag": "injury",
+   "redraftAdj": 0.4,
+   "dynastyAdj": 0.97,
+   "status": "Doubtful"
+  },
+  {
+   "sleeperId": "11559",
+   "name": "Michael Penix",
+   "note": "Penix hurt his ribs in Week 5 and was reported Oct 12 to have avoided a serious injury. He practiced in full Wednesday, Oct 14, and says he expects to play vs. CHI. Tua Tagovailoa starts if he can't.",
+   "tag": "injury",
+   "redraftAdj": 0.95,
+   "dynastyAdj": 1.0,
+   "status": ""
+  },
+  {
+   "sleeperId": "5892",
+   "name": "David Montgomery",
+   "note": "DeMeco Ryans called Montgomery's groin injury from the Week 5 win over Tennessee 'week-to-week' (reported Oct 12). He is very likely to miss Week 6 at Jacksonville, and with Houston's bye in Week 8 he may also sit Week 7.",
+   "tag": "injury",
+   "redraftAdj": 0.55,
+   "dynastyAdj": 0.96,
+   "status": "Doubtful"
+  },
+  {
+   "sleeperId": "12474",
+   "name": "Woody Marks",
+   "note": "With Montgomery week-to-week (groin), Marks should lead the Texans' backfield against the Jaguars in Week 6. In Week 5 he had a season-high 15 carries for 62 yards and caught all 4 targets for 23 yards (Oct 12).",
+   "tag": "role_up",
+   "redraftAdj": 1.3,
+   "dynastyAdj": 1.05,
+   "status": ""
+  },
+  {
+   "sleeperId": "4866",
+   "name": "Saquon Barkley",
+   "note": "Barkley missed Week 5 with a right hamstring injury. NFL Network's Mike Garafolo reported Oct 12 that he could return in Week 6 against Carolina, and Sirianni was 'hopeful' but cautious. No practice report from this week confirms it, so his Week 6 status is unsettled.",
+   "tag": "injury",
+   "redraftAdj": 0.85,
+   "dynastyAdj": 0.99,
+   "status": "Questionable"
+  },
+  {
+   "sleeperId": "12529",
+   "name": "TreVeyon Henderson",
+   "note": "Henderson suffered a right high-ankle sprain in the Week 5 win over the Raiders. Schefter reported Oct 13-14 that he is expected to miss multiple weeks without needing surgery, and one outlet projects he misses the Jets and Bears games.",
+   "tag": "injury",
+   "redraftAdj": 0.5,
+   "dynastyAdj": 0.96,
+   "status": "Out"
+  },
+  {
+   "sleeperId": "7611",
+   "name": "Rhamondre Stevenson",
+   "note": "With Henderson out multiple weeks with a high-ankle sprain (Oct 13-14), Stevenson is expected to take a heavier load starting Sunday against the Jets. Corey Kiner is in line for a change-of-pace role.",
+   "tag": "role_up",
+   "redraftAdj": 1.25,
+   "dynastyAdj": 1.03,
+   "status": ""
+  },
+  {
+   "sleeperId": "12512",
+   "name": "Quinshon Judkins",
+   "note": "Judkins was seen in a walking boot after the Week 5 loss to the Jets. Monken called it an ankle 'tweak' on Oct 12, said he is day-to-day and did not rule him out against Baltimore. It is the same ankle he had surgery on as a rookie.",
+   "tag": "injury",
+   "redraftAdj": 0.85,
+   "dynastyAdj": 0.98,
+   "status": "Questionable"
+  },
+  {
+   "sleeperId": "12469",
+   "name": "Dylan Sampson",
+   "note": "Monken said Oct 12 that Sampson's 21-day IR practice window could open this week after he missed 4 games with a knee injury. Judkins is day-to-day and Raheim Sanders (hip) is reportedly headed for IR, so the Browns are thin at running back.",
+   "tag": "return",
+   "redraftAdj": 1.15,
+   "dynastyAdj": 1.02,
+   "status": "IR"
+  },
+  {
+   "sleeperId": "8228",
+   "name": "Jaylen Warren",
+   "note": "Mike McCarthy has called Warren the featured back, dropping the earlier 'one-two punch' plan with Dowdle. In the Week 5 win over the Colts, Warren had 15 carries for 101 yards and a TD, plus 6 catches for 87 yards and a TD (reported Oct 12-13).",
+   "tag": "role_up",
+   "redraftAdj": 1.15,
+   "dynastyAdj": 1.05,
+   "status": ""
+  },
+  {
+   "sleeperId": "7021",
+   "name": "Rico Dowdle",
+   "note": "OC Brian Angelichio said Monday (Oct 12) that he expects Dowdle (dislocated toe, missed 3 games) back in Week 6 against Tampa Bay. With Warren now named the featured back, Dowdle will likely play limited snaps as a backup.",
+   "tag": "role_down",
+   "redraftAdj": 0.85,
+   "dynastyAdj": 0.95,
+   "status": "Questionable"
+  },
+  {
+   "sleeperId": "4035",
+   "name": "Alvin Kamara",
+   "note": "Kamara played a season-low 12 snaps in the Week 5 loss to Minnesota after a back issue limited his practices, and Kendre Miller scored the Saints' only offensive TD.",
+   "tag": "role_down",
+   "redraftAdj": 0.8,
+   "dynastyAdj": 0.95,
+   "status": "Questionable"
+  },
+  {
+   "sleeperId": "9757",
+   "name": "Kendre Miller",
+   "note": "With Kamara limited to a season-low 12 snaps by a back issue in the Week 5 loss to Minnesota, Miller ran 10 times for 30 yards and scored the Saints' only offensive TD. Etienne is still about 2 weeks from being eligible to come off IR.",
+   "tag": "role_up",
+   "redraftAdj": 1.15,
+   "dynastyAdj": 1.02,
+   "status": ""
+  },
+  {
+   "sleeperId": "9488",
+   "name": "Jaxon Smith-Njigba",
+   "note": "Practiced fully Wednesday (Oct 14) after limited sessions Mon-Tue with the ankle he hurt in Week 5, and has no game status on Seattle's final report, so he is good to go for TNF at Denver tonight. That full session was a light walkthrough on a short week, so he may not be completely over the ankle.",
+   "tag": "injury",
+   "redraftAdj": 1.0,
+   "dynastyAdj": 1.0,
+   "status": ""
+  },
+  {
+   "sleeperId": "5872",
+   "name": "Deebo Samuel",
+   "note": "Strained his hamstring in the Oct 11 game against Seattle and was ruled out right away. Shanahan said Monday (Oct 12) he will miss 'at least a couple of weeks', and other reports say several weeks.",
+   "tag": "injury",
+   "redraftAdj": 0.55,
+   "dynastyAdj": 0.95,
+   "status": "Out"
+  },
+  {
+   "sleeperId": "5859",
+   "name": "A.J. Brown",
+   "note": "Returned to practice as a limited participant Wednesday (Oct 14), which opens his 21-day window to come off IR (ankle, hurt in Week 1). He is eligible for Sunday vs. the Jets, but reports disagree on whether he will play this week.",
+   "tag": "return",
+   "redraftAdj": 1.2,
+   "dynastyAdj": 1.03,
+   "status": "IR"
+  },
+  {
+   "sleeperId": "13293",
+   "name": "Ja'Kobi Lane",
+   "note": "Was designated to return from IR and practiced fully Wednesday (Oct 14), four weeks after wrist surgery. Coach Jesse Minter said he has a chance to play Sunday at Cleveland.",
+   "tag": "return",
+   "redraftAdj": 1.2,
+   "dynastyAdj": 1.03,
+   "status": "IR"
+  },
+  {
+   "sleeperId": "7525",
+   "name": "DeVonta Smith",
+   "note": "Did not practice Wednesday (Oct 14) with hamstring and toe issues and only worked on the JUGS machine, after missing the last two games. Sirianni is 'hopeful' he plays Sunday vs. Carolina, but he needs to practice first.",
+   "tag": "injury",
+   "redraftAdj": 0.75,
+   "dynastyAdj": 0.98,
+   "status": "Questionable"
+  },
+  {
+   "sleeperId": "9486",
+   "name": "Dontayvion Wicks",
+   "note": "Was limited Wednesday (Oct 14) with a hamstring issue but is expected to play Sunday vs. Carolina. If DeVonta Smith misses a third straight game, Wicks stays a top Eagles receiver and is flex-worthy.",
+   "tag": "role_up",
+   "redraftAdj": 1.1,
+   "dynastyAdj": 1.01,
+   "status": "Questionable"
+  },
+  {
+   "sleeperId": "4983",
+   "name": "DJ Moore",
+   "note": "Did not practice Wednesday (Oct 14), though that was an estimate because Buffalo only held a walkthrough. He missed Week 5 with the shoulder injury and needs at least a limited practice before he can be trusted for Week 6.",
+   "tag": "injury",
+   "redraftAdj": 0.75,
+   "dynastyAdj": 0.98,
+   "status": "Questionable"
+  },
+  {
+   "sleeperId": "11625",
+   "name": "Adonai Mitchell",
+   "note": "Coach Aaron Glenn revealed on Oct 14 that Mitchell had a procedure on his injured finger, and he is now week-to-week. He did not practice Wednesday and looks unlikely to play this week.",
+   "tag": "injury",
+   "redraftAdj": 0.65,
+   "dynastyAdj": 0.98,
+   "status": "Doubtful"
+  },
+  {
+   "sleeperId": "9756",
+   "name": "Jordan Addison",
+   "note": "Missed Week 5 with a hamstring injury. Reports during Minnesota's Week 6 bye (around Oct 12-14) say he is expected back for Week 7.",
+   "tag": "return",
+   "redraftAdj": 1.05,
+   "dynastyAdj": 1.0,
+   "status": ""
+  },
+  {
+   "sleeperId": "11628",
+   "name": "Marvin Harrison",
+   "note": "The Cardinals traded Harrison to the Texans (made official Oct 12, pending a physical), reuniting him with C.J. Stroud. He had only 5 catches in 4 games in Arizona, and his Week 6 debut in London is uncertain because of the quick turnaround.",
+   "tag": "trade",
+   "redraftAdj": 1.05,
+   "dynastyAdj": 1.06,
+   "status": ""
+  },
+  {
+   "sleeperId": "10232",
+   "name": "Michael Wilson",
+   "note": "With Harrison traded to Houston (Oct 11-12), Wilson is clearly Arizona's top WR. He leads the team with 258 receiving yards and recently signed an extension through 2029.",
+   "tag": "role_up",
+   "redraftAdj": 1.15,
+   "dynastyAdj": 1.07,
+   "status": ""
+  },
+  {
+   "sleeperId": "4454",
+   "name": "Kendrick Bourne",
+   "note": "Harrison's trade to HOU (Oct 12) moves Bourne up to Arizona's No. 2 WR behind Wilson. With Harrison inactive in Week 5 he led the Cardinals with 70 yards on 8 targets.",
+   "tag": "role_up",
+   "redraftAdj": 1.15,
+   "dynastyAdj": 1.03,
+   "status": ""
+  },
+  {
+   "sleeperId": "7569",
+   "name": "Nico Collins",
+   "note": "Houston added Marvin Harrison Jr. by trade (Oct 11-12), so there is more competition for targets alongside Collins. Collins should stay the WR1, but his target share ceiling shrinks a little.",
+   "tag": "role_down",
+   "redraftAdj": 0.95,
+   "dynastyAdj": 0.97,
+   "status": ""
+  },
+  {
+   "sleeperId": "9502",
+   "name": "Tank Dell",
+   "note": "Dell is still on IR, with his practice window open since Oct 7, and the Texans traded for Marvin Harrison Jr. on Oct 11-12. That pushes Dell further down the pecking order once he is activated.",
+   "tag": "role_down",
+   "redraftAdj": 0.85,
+   "dynastyAdj": 0.92,
+   "status": "IR"
+  },
+  {
+   "sleeperId": "10229",
+   "name": "Rashee Rice",
+   "note": "Rice (hamstring, hurt Oct 4) did not practice Wednesday, Oct 14, even after the Chiefs' bye week. His Week 6 game vs. the Chargers is in doubt.",
+   "tag": "injury",
+   "redraftAdj": 0.8,
+   "dynastyAdj": 0.98,
+   "status": "Questionable"
+  },
+  {
+   "sleeperId": "11624",
+   "name": "Xavier Worthy",
+   "note": "Tyquan Thornton went to IR (reported Oct 12, possibly out 12-16 weeks) and Rashee Rice missed Wednesday's practice (Oct 14). That leaves Worthy as KC's clear top WR for now.",
+   "tag": "role_up",
+   "redraftAdj": 1.1,
+   "dynastyAdj": 1.02,
+   "status": ""
+  },
+  {
+   "sleeperId": "12509",
+   "name": "Tre' Harris",
+   "note": "On Oct 13 Harbaugh called Harris's hamstring 'week to week'. With the Chargers' Week 7 bye, his realistic return is Week 8.",
+   "tag": "injury",
+   "redraftAdj": 0.5,
+   "dynastyAdj": 0.97,
+   "status": "Doubtful"
+  },
+  {
+   "sleeperId": "9754",
+   "name": "Quentin Johnston",
+   "note": "Johnston (chest) was limited in practice Wednesday, Oct 14, after missing Week 5. That puts him on track to possibly return in Week 6 vs. KC.",
+   "tag": "return",
+   "redraftAdj": 0.9,
+   "dynastyAdj": 1.0,
+   "status": "Questionable"
+  },
+  {
+   "sleeperId": "11635",
+   "name": "Ladd McConkey",
+   "note": "McConkey (foot) was active in Week 5 but played zero offensive snaps. On Oct 12 Harbaugh said he will keep working in practice, and he may need a full session to avoid another questionable tag.",
+   "tag": "injury",
+   "redraftAdj": 0.85,
+   "dynastyAdj": 0.98,
+   "status": "Questionable"
+  },
+  {
+   "sleeperId": "11630",
+   "name": "Roman Wilson",
+   "note": "Wilson dislocated or injured a finger in Week 5. On Oct 13 McCarthy ruled him out for Week 6 at Tampa Bay, and reports say he will miss multiple weeks.",
+   "tag": "injury",
+   "redraftAdj": 0.3,
+   "dynastyAdj": 0.97,
+   "status": "Out"
+  },
+  {
+   "sleeperId": "2216",
+   "name": "Mike Evans",
+   "note": "On Oct 12 Shanahan said Deebo Samuel (hamstring) will 'miss some time', likely through the Week 8 bye. Evans (7-113-1 in Week 5) is SF's clear top WR, with Cooks next up.",
+   "tag": "role_up",
+   "redraftAdj": 1.1,
+   "dynastyAdj": 1.02,
+   "status": ""
+  },
+  {
+   "sleeperId": "13298",
+   "name": "KC Concepcion",
+   "note": "The rookie suffered a concussion from a helmet-to-helmet hit vs. the Jets on Oct 11 and is in the protocol. His Week 6 availability is doubtful.",
+   "tag": "injury",
+   "redraftAdj": 0.6,
+   "dynastyAdj": 0.98,
+   "status": "Questionable"
+  },
+  {
+   "sleeperId": "8121",
+   "name": "Romeo Doubs",
+   "note": "The Patriots opened A.J. Brown's 21-day IR practice window on Oct 14, and Brown was limited. His return would cut into Doubs' targets soon.",
+   "tag": "role_down",
+   "redraftAdj": 0.9,
+   "dynastyAdj": 0.97,
+   "status": ""
+  },
+  {
+   "sleeperId": "13294",
+   "name": "Makai Lemon",
+   "note": "DeVonta Smith (hamstring/toe) did not practice Wednesday, Oct 14. If Smith misses time, rookie Lemon would likely take a larger Week 6 role.",
+   "tag": "role_up",
+   "redraftAdj": 1.05,
+   "dynastyAdj": 1.0,
+   "status": ""
+  },
+  {
+   "sleeperId": "3321",
+   "name": "Tyreek Hill",
+   "note": "On Oct 14 agent Drew Rosenhaus said Hill is 'close' to 100% from his knee injury and is being shopped to contenders. He also remains under an NFL personal conduct review and could face discipline (reported Oct 14).",
+   "tag": "return",
+   "redraftAdj": 1.1,
+   "dynastyAdj": 1.0,
+   "status": ""
+  }
+ ]
 }
