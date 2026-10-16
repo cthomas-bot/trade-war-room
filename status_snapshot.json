@@ -167,18 +167,18 @@
    "t": "ARI"
   },
   "11604": {
-   "changed": "2026-10-15T00:53:41.896471+00:00",
+   "changed": "2026-10-16T00:53:08.615765+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 1.0,
     "name": "Brock Bowers",
-    "note": "Sleeper now lists him questionable (knee) as of 5:53 PM PT Oct 14.",
-    "redraftAdj": 0.98,
+    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 5:53 PM PT Oct 15.",
+    "redraftAdj": 1.0,
     "sleeperId": "11604",
-    "status": "Questionable",
+    "status": null,
     "tag": "injury"
    },
-   "i": "Questionable",
+   "i": null,
    "qb1": null,
    "t": "LV"
   },
@@ -1625,19 +1625,19 @@
    "t": "PIT"
   },
   "6904": {
-   "changed": "2026-10-15T17:42:22.838980+00:00",
+   "changed": "2026-10-16T00:53:08.615765+00:00",
    "entry": {
     "auto": true,
-    "dynastyAdj": 1.0,
+    "dynastyAdj": 0.95,
     "name": "Jalen Hurts",
-    "note": "Sleeper now lists him out (calf) as of 10:42 AM PT Oct 15.",
-    "redraftAdj": 0.9,
+    "note": "Sleeper's depth chart now has him as PHI's backup QB as of 5:53 PM PT Oct 15.",
+    "redraftAdj": 0.8,
     "sleeperId": "6904",
     "status": "Out",
-    "tag": "injury"
+    "tag": "role_down"
    },
    "i": "Out",
-   "qb1": true,
+   "qb1": false,
    "t": "PHI"
   },
   "7002": {

@@ -375,14 +375,14 @@
       "tag": "injury"
     },
     {
-      "auto": true,
-      "dynastyAdj": 1.0,
-      "name": "Brock Bowers",
-      "note": "Sleeper now lists him questionable (knee) as of 5:53 PM PT Oct 14.",
-      "redraftAdj": 0.98,
       "sleeperId": "11604",
-      "status": "Questionable",
-      "tag": "injury"
+      "name": "Brock Bowers",
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 5:53 PM PT Oct 15.",
+      "tag": "injury",
+      "redraftAdj": 1.0,
+      "dynastyAdj": 1.0,
+      "status": null,
+      "auto": true
     },
     {
       "auto": true,
@@ -757,12 +757,12 @@
     {
       "sleeperId": "6904",
       "name": "Jalen Hurts",
-      "note": "Sleeper now lists him out (calf) as of 10:42 AM PT Oct 15.",
-      "tag": "injury",
-      "redraftAdj": 0.9,
-      "dynastyAdj": 1.0,
+      "tag": "role_down",
+      "redraftAdj": 0.8,
+      "dynastyAdj": 0.95,
       "status": "Out",
-      "auto": true
+      "auto": true,
+      "note": "Sleeper's depth chart now has him as PHI's backup QB as of 5:53 PM PT Oct 15."
     },
     {
       "sleeperId": "9997",
@@ -785,5 +785,5 @@
       "auto": true
     }
   ],
-  "statusChecked": "4:38 PM PT Oct 15"
+  "statusChecked": "5:53 PM PT Oct 15"
 }
