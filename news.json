@@ -13,12 +13,12 @@
     {
       "sleeperId": "4881",
       "name": "Lamar Jackson",
-      "note": "Sleeper now lists him out (ankle) as of 11:50 AM PT Oct 16. Earlier: Jackson (ankle) missed practice again Thursday, Oct 15, his second straight DNP, though Schefter still reports a 'realistic chance' he plays at CLE. Tyler Huntley would start again if he can't go.",
-      "tag": "injury",
-      "redraftAdj": 0.75,
-      "dynastyAdj": 0.99,
+      "tag": "role_down",
+      "redraftAdj": 0.8,
+      "dynastyAdj": 0.95,
       "status": "Out",
-      "auto": true
+      "auto": true,
+      "note": "Sleeper's depth chart now has him as BAL's backup QB as of 12:42 PM PT Oct 16."
     },
     {
       "sleeperId": "11560",
@@ -115,11 +115,12 @@
     {
       "sleeperId": "13287",
       "name": "Jeremiyah Love",
-      "note": "Love (ankle) missed practice Wednesday and Thursday (Oct 14-15) and sounds run-down. A report says Arizona may give him the week to heal before Week 6 at the Rams.",
+      "note": "Sleeper now lists him out (ankle) as of 12:42 PM PT Oct 16. Earlier: Love (ankle) missed practice Wednesday and Thursday (Oct 14-15) and sounds run-down. A report says Arizona may give him the week to heal before Week 6 at the Rams.",
       "tag": "injury",
       "redraftAdj": 0.55,
       "dynastyAdj": 0.99,
-      "status": "Questionable"
+      "status": "Out",
+      "auto": true
     },
     {
       "sleeperId": "8132",
@@ -151,11 +152,12 @@
     {
       "sleeperId": "12534",
       "name": "Kyle Monangai",
-      "note": "Monangai (toe/thumb) missed practice again Thursday (Oct 15), his second straight DNP, and looks likely to be unavailable for Week 6 vs. Atlanta.",
+      "note": "Sleeper now lists him out (toe) as of 12:42 PM PT Oct 16. Earlier: Monangai (toe/thumb) missed practice again Thursday (Oct 15), his second straight DNP, and looks likely to be unavailable for Week 6 vs. Atlanta.",
       "tag": "injury",
       "redraftAdj": 0.4,
       "dynastyAdj": 0.98,
-      "status": "Questionable"
+      "status": "Out",
+      "auto": true
     },
     {
       "sleeperId": "6790",
@@ -387,29 +389,32 @@
     {
       "sleeperId": "12509",
       "name": "Tre' Harris",
-      "note": "Harris (hamstring) did not practice Wednesday, Oct 14, after Harbaugh called him 'week to week' on Oct 13. With the Week 7 bye, his realistic return is Week 8.",
+      "note": "Sleeper now lists him out (hamstring) as of 12:42 PM PT Oct 16. Earlier: Harris (hamstring) did not practice Wednesday, Oct 14, after Harbaugh called him 'week to week' on Oct 13. With the Week 7 bye, his realistic return is Week 8.",
       "tag": "injury",
       "redraftAdj": 0.5,
       "dynastyAdj": 0.97,
-      "status": "Doubtful"
+      "status": "Out",
+      "auto": true
     },
     {
       "sleeperId": "9754",
       "name": "Quentin Johnston",
-      "note": "Johnston (chest) was limited in practice Wednesday, Oct 14, after missing Week 5. He could return in Week 6 at Kansas City.",
-      "tag": "return",
-      "redraftAdj": 0.9,
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 12:42 PM PT Oct 16. Earlier: Johnston (chest) was limited in practice Wednesday, Oct 14, after missing Week 5. He could return in Week 6 at Kansas City.",
+      "tag": "injury",
+      "redraftAdj": 1.0,
       "dynastyAdj": 1.0,
-      "status": "Questionable"
+      "status": null,
+      "auto": true
     },
     {
       "sleeperId": "11635",
       "name": "Ladd McConkey",
-      "note": "McConkey (foot) was limited Wednesday, Oct 14, after playing zero offensive snaps while active in Week 5. His Week 6 role at KC is uncertain.",
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 12:42 PM PT Oct 16. Earlier: McConkey (foot) was limited Wednesday, Oct 14, after playing zero offensive snaps while active in Week 5. His Week 6 role at KC is uncertain.",
       "tag": "injury",
-      "redraftAdj": 0.85,
+      "redraftAdj": 1.0,
       "dynastyAdj": 0.98,
-      "status": "Questionable"
+      "status": null,
+      "auto": true
     },
     {
       "sleeperId": "11630",
@@ -768,14 +773,14 @@
       "tag": "injury"
     },
     {
-      "auto": true,
-      "dynastyAdj": 0.95,
-      "name": "Rico Dowdle",
-      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 1:44 PM PT Oct 15. Earlier: OC Brian Angelichio said Monday (Oct 12) that he expects Dowdle (dislocated toe, missed 3 games) back in Week 6 against Tampa Bay. With Warren now named the featured back, Dowdle will likely play limited snaps as a backup.",
-      "redraftAdj": 1.0,
       "sleeperId": "7021",
-      "status": null,
-      "tag": "injury"
+      "name": "Rico Dowdle",
+      "note": "Sleeper now lists him questionable (toe) as of 12:42 PM PT Oct 16.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
+      "dynastyAdj": 0.95,
+      "status": "Questionable",
+      "auto": true
     },
     {
       "auto": true,
@@ -816,7 +821,17 @@
       "sleeperId": "9500",
       "status": null,
       "tag": "injury"
+    },
+    {
+      "sleeperId": "5846",
+      "name": "DK Metcalf",
+      "note": "Sleeper now lists him questionable (illness) as of 12:42 PM PT Oct 16.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
+      "status": "Questionable",
+      "auto": true
     }
   ],
-  "statusChecked": "11:50 AM PT Oct 16"
+  "statusChecked": "12:42 PM PT Oct 16"
 }

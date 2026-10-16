@@ -276,8 +276,18 @@
    "t": "NYG"
   },
   "11635": {
-   "changed": "2026-10-07T08:36:37.043387+00:00",
-   "i": "Questionable",
+   "changed": "2026-10-16T19:42:12.868911+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 0.98,
+    "name": "Ladd McConkey",
+    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 12:42 PM PT Oct 16. Earlier: McConkey (foot) was limited Wednesday, Oct 14, after playing zero offensive snaps while active in Week 5. His Week 6 role at KC is uncertain.",
+    "redraftAdj": 1.0,
+    "sleeperId": "11635",
+    "status": null,
+    "tag": "injury"
+   },
+   "i": null,
    "qb1": null,
    "t": "LAC"
   },
@@ -469,18 +479,18 @@
    "t": "NYG"
   },
   "12509": {
-   "changed": "2026-10-14T07:49:46.658762+00:00",
+   "changed": "2026-10-16T19:42:12.868911+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 0.97,
     "name": "Tre' Harris",
-    "note": "Sleeper now lists him doubtful (hamstring) as of 12:49 AM PT Oct 14.",
-    "redraftAdj": 0.85,
+    "note": "Sleeper now lists him out (hamstring) as of 12:42 PM PT Oct 16. Earlier: Harris (hamstring) did not practice Wednesday, Oct 14, after Harbaugh called him 'week to week' on Oct 13. With the Week 7 bye, his realistic return is Week 8.",
+    "redraftAdj": 0.5,
     "sleeperId": "12509",
     "status": "Out",
     "tag": "injury"
    },
-   "i": "Doubtful",
+   "i": "Out",
    "qb1": null,
    "t": "LAC"
   },
@@ -598,18 +608,18 @@
    "t": "WAS"
   },
   "12534": {
-   "changed": "2026-10-14T07:49:46.658762+00:00",
+   "changed": "2026-10-16T19:42:12.868911+00:00",
    "entry": {
     "auto": true,
-    "dynastyAdj": 1.0,
+    "dynastyAdj": 0.98,
     "name": "Kyle Monangai",
-    "note": "Sleeper now lists him questionable (toe) as of 12:49 AM PT Oct 14.",
-    "redraftAdj": 0.98,
+    "note": "Sleeper now lists him out (toe) as of 12:42 PM PT Oct 16. Earlier: Monangai (toe/thumb) missed practice again Thursday (Oct 15), his second straight DNP, and looks likely to be unavailable for Week 6 vs. Atlanta.",
+    "redraftAdj": 0.4,
     "sleeperId": "12534",
-    "status": "Questionable",
+    "status": "Out",
     "tag": "injury"
    },
-   "i": "Questionable",
+   "i": "Out",
    "qb1": null,
    "t": "CHI"
   },
@@ -741,18 +751,18 @@
    "t": "SEA"
   },
   "13287": {
-   "changed": "2026-10-14T21:43:53.279007+00:00",
+   "changed": "2026-10-16T19:42:12.868911+00:00",
    "entry": {
     "auto": true,
-    "dynastyAdj": 1.0,
+    "dynastyAdj": 0.99,
     "name": "Jeremiyah Love",
-    "note": "Sleeper now lists him questionable (ankle) as of 2:43 PM PT Oct 14.",
-    "redraftAdj": 0.98,
+    "note": "Sleeper now lists him out (ankle) as of 12:42 PM PT Oct 16. Earlier: Love (ankle) missed practice Wednesday and Thursday (Oct 14-15) and sounds run-down. A report says Arizona may give him the week to heal before Week 6 at the Rams.",
+    "redraftAdj": 0.55,
     "sleeperId": "13287",
-    "status": "Questionable",
+    "status": "Out",
     "tag": "injury"
    },
-   "i": "Questionable",
+   "i": "Out",
    "qb1": null,
    "t": "ARI"
   },
@@ -1317,19 +1327,19 @@
    "t": "PHI"
   },
   "4881": {
-   "changed": "2026-10-16T18:50:07.932486+00:00",
+   "changed": "2026-10-16T19:42:12.868911+00:00",
    "entry": {
     "auto": true,
-    "dynastyAdj": 0.99,
+    "dynastyAdj": 0.95,
     "name": "Lamar Jackson",
-    "note": "Sleeper now lists him out (ankle) as of 11:50 AM PT Oct 16. Earlier: Jackson (ankle) missed practice again Thursday, Oct 15, his second straight DNP, though Schefter still reports a 'realistic chance' he plays at CLE. Tyler Huntley would start again if he can't go.",
-    "redraftAdj": 0.75,
+    "note": "Sleeper's depth chart now has him as BAL's backup QB as of 12:42 PM PT Oct 16.",
+    "redraftAdj": 0.8,
     "sleeperId": "4881",
     "status": "Out",
-    "tag": "injury"
+    "tag": "role_down"
    },
    "i": "Out",
-   "qb1": true,
+   "qb1": false,
    "t": "BAL"
   },
   "4892": {
@@ -1409,9 +1419,18 @@
    "t": "DEN"
   },
   "5846": {
-   "changed": null,
-   "entry": null,
-   "i": null,
+   "changed": "2026-10-16T19:42:12.868911+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "DK Metcalf",
+    "note": "Sleeper now lists him questionable (illness) as of 12:42 PM PT Oct 16.",
+    "redraftAdj": 0.98,
+    "sleeperId": "5846",
+    "status": "Questionable",
+    "tag": "injury"
+   },
+   "i": "Questionable",
    "qb1": null,
    "t": "PIT"
   },
@@ -1651,18 +1670,18 @@
    "t": "NO"
   },
   "7021": {
-   "changed": "2026-10-15T20:44:55.307212+00:00",
+   "changed": "2026-10-16T19:42:12.868911+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 0.95,
     "name": "Rico Dowdle",
-    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 1:44 PM PT Oct 15. Earlier: OC Brian Angelichio said Monday (Oct 12) that he expects Dowdle (dislocated toe, missed 3 games) back in Week 6 against Tampa Bay. With Warren now named the featured back, Dowdle will likely play limited snaps as a backup.",
-    "redraftAdj": 1.0,
+    "note": "Sleeper now lists him questionable (toe) as of 12:42 PM PT Oct 16.",
+    "redraftAdj": 0.98,
     "sleeperId": "7021",
-    "status": null,
+    "status": "Questionable",
     "tag": "injury"
    },
-   "i": null,
+   "i": "Questionable",
    "qb1": null,
    "t": "PIT"
   },
@@ -2199,18 +2218,18 @@
    "t": "SEA"
   },
   "9754": {
-   "changed": "2026-10-14T07:49:46.658762+00:00",
+   "changed": "2026-10-16T19:42:12.868911+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 1.0,
     "name": "Quentin Johnston",
-    "note": "Sleeper now lists him questionable (chest) as of 12:49 AM PT Oct 14.",
-    "redraftAdj": 0.98,
+    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 12:42 PM PT Oct 16. Earlier: Johnston (chest) was limited in practice Wednesday, Oct 14, after missing Week 5. He could return in Week 6 at Kansas City.",
+    "redraftAdj": 1.0,
     "sleeperId": "9754",
-    "status": "Questionable",
+    "status": null,
     "tag": "injury"
    },
-   "i": "Questionable",
+   "i": null,
    "qb1": null,
    "t": "LAC"
   },
