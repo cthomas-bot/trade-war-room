@@ -15,8 +15,18 @@
    "t": "JAX"
   },
   "10229": {
-   "changed": "2026-10-04T21:21:18.029468+00:00",
-   "i": "Questionable",
+   "changed": "2026-10-16T18:50:07.932486+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 0.98,
+    "name": "Rashee Rice",
+    "note": "Sleeper now lists him out (hamstring) as of 11:50 AM PT Oct 16. Earlier: Rice (hamstring/knee) did not practice Wednesday, Oct 14, even after the bye, and Andy Reid was noncommittal about his return. His Week 6 game vs. the Chargers is in doubt.",
+    "redraftAdj": 0.8,
+    "sleeperId": "10229",
+    "status": "Out",
+    "tag": "injury"
+   },
+   "i": "Out",
    "qb1": null,
    "t": "KC"
   },
@@ -793,18 +803,18 @@
    "t": "PHI"
   },
   "13298": {
-   "changed": "2026-10-14T07:49:46.658762+00:00",
+   "changed": "2026-10-16T18:50:07.932486+00:00",
    "entry": {
     "auto": true,
-    "dynastyAdj": 1.0,
+    "dynastyAdj": 0.98,
     "name": "KC Concepcion",
-    "note": "Sleeper now lists him questionable (concussion) as of 12:49 AM PT Oct 14.",
-    "redraftAdj": 0.98,
+    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 11:50 AM PT Oct 16. Earlier: The rookie has been in the concussion protocol since a helmet-to-helmet hit vs. the Jets on Oct 11. His Week 6 availability is doubtful.",
+    "redraftAdj": 1.0,
     "sleeperId": "13298",
-    "status": "Questionable",
+    "status": null,
     "tag": "injury"
    },
-   "i": "Questionable",
+   "i": null,
    "qb1": null,
    "t": "CLE"
   },
@@ -1030,6 +1040,8 @@
    "t": "IND"
   },
   "13425": {
+   "changed": null,
+   "entry": null,
    "i": null,
    "qb1": true,
    "t": "TB"
@@ -1305,18 +1317,18 @@
    "t": "PHI"
   },
   "4881": {
-   "changed": "2026-10-14T07:49:46.658762+00:00",
+   "changed": "2026-10-16T18:50:07.932486+00:00",
    "entry": {
     "auto": true,
-    "dynastyAdj": 1.0,
+    "dynastyAdj": 0.99,
     "name": "Lamar Jackson",
-    "note": "Sleeper now lists him questionable (ankle) as of 12:49 AM PT Oct 14.",
-    "redraftAdj": 0.98,
+    "note": "Sleeper now lists him out (ankle) as of 11:50 AM PT Oct 16. Earlier: Jackson (ankle) missed practice again Thursday, Oct 15, his second straight DNP, though Schefter still reports a 'realistic chance' he plays at CLE. Tyler Huntley would start again if he can't go.",
+    "redraftAdj": 0.75,
     "sleeperId": "4881",
-    "status": "Questionable",
+    "status": "Out",
     "tag": "injury"
    },
-   "i": "Questionable",
+   "i": "Out",
    "qb1": true,
    "t": "BAL"
   },

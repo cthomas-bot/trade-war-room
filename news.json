@@ -13,11 +13,12 @@
     {
       "sleeperId": "4881",
       "name": "Lamar Jackson",
-      "note": "Jackson (ankle) missed practice again Thursday, Oct 15, his second straight DNP, though Schefter still reports a 'realistic chance' he plays at CLE. Tyler Huntley would start again if he can't go.",
+      "note": "Sleeper now lists him out (ankle) as of 11:50 AM PT Oct 16. Earlier: Jackson (ankle) missed practice again Thursday, Oct 15, his second straight DNP, though Schefter still reports a 'realistic chance' he plays at CLE. Tyler Huntley would start again if he can't go.",
       "tag": "injury",
       "redraftAdj": 0.75,
       "dynastyAdj": 0.99,
-      "status": "Questionable"
+      "status": "Out",
+      "auto": true
     },
     {
       "sleeperId": "11560",
@@ -367,11 +368,12 @@
     {
       "sleeperId": "10229",
       "name": "Rashee Rice",
-      "note": "Rice (hamstring/knee) did not practice Wednesday, Oct 14, even after the bye, and Andy Reid was noncommittal about his return. His Week 6 game vs. the Chargers is in doubt.",
+      "note": "Sleeper now lists him out (hamstring) as of 11:50 AM PT Oct 16. Earlier: Rice (hamstring/knee) did not practice Wednesday, Oct 14, even after the bye, and Andy Reid was noncommittal about his return. His Week 6 game vs. the Chargers is in doubt.",
       "tag": "injury",
       "redraftAdj": 0.8,
       "dynastyAdj": 0.98,
-      "status": "Questionable"
+      "status": "Out",
+      "auto": true
     },
     {
       "sleeperId": "11624",
@@ -430,11 +432,12 @@
     {
       "sleeperId": "13298",
       "name": "KC Concepcion",
-      "note": "The rookie has been in the concussion protocol since a helmet-to-helmet hit vs. the Jets on Oct 11. His Week 6 availability is doubtful.",
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 11:50 AM PT Oct 16. Earlier: The rookie has been in the concussion protocol since a helmet-to-helmet hit vs. the Jets on Oct 11. His Week 6 availability is doubtful.",
       "tag": "injury",
-      "redraftAdj": 0.6,
+      "redraftAdj": 1.0,
       "dynastyAdj": 0.98,
-      "status": "Questionable"
+      "status": null,
+      "auto": true
     },
     {
       "sleeperId": "8121",
@@ -815,5 +818,5 @@
       "tag": "injury"
     }
   ],
-  "statusChecked": "10:41 AM PT Oct 16"
+  "statusChecked": "11:50 AM PT Oct 16"
 }
