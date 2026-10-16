@@ -1,7 +1,7 @@
 {
  "season": "2026",
  "week": 6,
- "updated": "2026-10-16 3:13 AM PT",
+ "updated": "2026-10-16 6:23 AM PT",
  "games": [
   {
    "id": "401872995",
@@ -43,7 +43,7 @@
    "weather": {
     "roof": "open",
     "temp": 54.3,
-    "precip": 31,
+    "precip": 16,
     "code": 51,
     "wind": 11.4,
     "night": false
@@ -69,10 +69,10 @@
    "awayImplied": 26.5,
    "weather": {
     "roof": "retract",
-    "temp": 62.7,
+    "temp": 63.9,
     "precip": 0,
     "code": 0,
-    "wind": 10.4,
+    "wind": 8.8,
     "night": false
    }
   },
@@ -96,10 +96,10 @@
    "awayImplied": 22.0,
    "weather": {
     "roof": "open",
-    "temp": 56.6,
+    "temp": 56.8,
     "precip": 0,
     "code": 0,
-    "wind": 5.4,
+    "wind": 2.9,
     "night": false
    }
   },
@@ -126,7 +126,7 @@
     "temp": 57.1,
     "precip": 0,
     "code": 0,
-    "wind": 6.5,
+    "wind": 6.8,
     "night": false
    }
   },
@@ -150,10 +150,10 @@
    "awayImplied": 18.0,
    "weather": {
     "roof": "open",
-    "temp": 50.6,
+    "temp": 50.1,
     "precip": 0,
     "code": 0,
-    "wind": 8.4,
+    "wind": 8.7,
     "night": false
    }
   },
@@ -177,10 +177,10 @@
    "awayImplied": 23.5,
    "weather": {
     "roof": "open",
-    "temp": 55.0,
+    "temp": 54.5,
     "precip": 0,
-    "code": 0,
-    "wind": 8.6,
+    "code": 3,
+    "wind": 9.7,
     "night": false
    }
   },
@@ -204,10 +204,10 @@
    "awayImplied": 21.0,
    "weather": {
     "roof": "open",
-    "temp": 55.0,
+    "temp": 54.6,
     "precip": 0,
-    "code": 0,
-    "wind": 10.5,
+    "code": 3,
+    "wind": 12.3,
     "night": false
    }
   },
@@ -231,10 +231,10 @@
    "awayImplied": 21.0,
    "weather": {
     "roof": "open",
-    "temp": 75.0,
+    "temp": 74.8,
     "precip": 1,
     "code": 0,
-    "wind": 18.4,
+    "wind": 16.6,
     "night": false
    }
   },
@@ -280,10 +280,10 @@
    "awayImplied": 17.0,
    "weather": {
     "roof": "open",
-    "temp": 65.1,
+    "temp": 64.8,
     "precip": 0,
     "code": 0,
-    "wind": 13.2,
+    "wind": 12.6,
     "night": false
    }
   },
@@ -329,10 +329,10 @@
    "awayImplied": 26.0,
    "weather": {
     "roof": "open",
-    "temp": 52.7,
+    "temp": 52.0,
     "precip": 0,
     "code": 0,
-    "wind": 14.9,
+    "wind": 13.4,
     "night": true
    }
   },
@@ -356,10 +356,10 @@
    "awayImplied": 22.0,
    "weather": {
     "roof": "open",
-    "temp": 65.9,
+    "temp": 64.7,
     "precip": 0,
     "code": 3,
-    "wind": 9.5,
+    "wind": 11.2,
     "night": false
    }
   }
@@ -505,7 +505,7 @@
   },
   "11199": {
    "half": 0.62,
-   "ppr": 0.71,
+   "ppr": 0.7,
    "std": 0.54,
    "opp": "GB"
   },
@@ -666,9 +666,9 @@
    "opp": "ATL"
   },
   "6804": {
-   "half": 20.79,
-   "ppr": 20.79,
-   "std": 20.79,
+   "half": 20.67,
+   "ppr": 20.67,
+   "std": 20.67,
    "opp": "DAL"
   },
   "6865": {
@@ -696,9 +696,9 @@
    "opp": "CLE"
   },
   "7588": {
-   "half": 15.98,
-   "ppr": 17.35,
-   "std": 14.6,
+   "half": 15.93,
+   "ppr": 17.3,
+   "std": 14.55,
    "opp": "GB"
   },
   "7600": {
@@ -732,15 +732,15 @@
    "opp": "LV"
   },
   "8168": {
-   "half": 2.72,
-   "ppr": 3.38,
-   "std": 2.05,
+   "half": 2.71,
+   "ppr": 3.37,
+   "std": 2.04,
    "opp": "DAL"
   },
   "8207": {
-   "half": 2.64,
-   "ppr": 2.95,
-   "std": 2.33,
+   "half": 2.63,
+   "ppr": 2.94,
+   "std": 2.32,
    "opp": "GB"
   },
   "9228": {
@@ -930,9 +930,9 @@
    "opp": "ARI"
   },
   "3294": {
-   "half": 18.35,
-   "ppr": 18.35,
-   "std": 18.35,
+   "half": 18.25,
+   "ppr": 18.25,
+   "std": 18.25,
    "opp": "GB"
   },
   "4443": {
@@ -1033,14 +1033,14 @@
   },
   "8917": {
    "half": 2.06,
-   "ppr": 2.41,
-   "std": 1.72,
+   "ppr": 2.4,
+   "std": 1.71,
    "opp": "GB"
   },
   "9484": {
-   "half": 10.05,
-   "ppr": 12.26,
-   "std": 7.84,
+   "half": 10.0,
+   "ppr": 12.21,
+   "std": 7.8,
    "opp": "DAL"
   },
   "9508": {
@@ -1068,9 +1068,9 @@
    "opp": "BAL"
   },
   "11581": {
-   "half": 11.48,
-   "ppr": 12.43,
-   "std": 10.52,
+   "half": 11.46,
+   "ppr": 12.4,
+   "std": 10.51,
    "opp": "DAL"
   },
   "11620": {
@@ -1086,9 +1086,9 @@
    "opp": "LV"
   },
   "11783": {
-   "half": 6.26,
-   "ppr": 7.85,
-   "std": 4.66,
+   "half": 6.23,
+   "ppr": 7.82,
+   "std": 4.64,
    "opp": "GB"
   },
   "12474": {
@@ -1272,9 +1272,9 @@
    "opp": "CHI"
   },
   "8116": {
-   "half": 4.61,
-   "ppr": 5.12,
-   "std": 4.1,
+   "half": 4.6,
+   "ppr": 5.11,
+   "std": 4.09,
    "opp": "DAL"
   },
   "8121": {
@@ -1284,15 +1284,15 @@
    "opp": "NYJ"
   },
   "8137": {
-   "half": 10.86,
-   "ppr": 13.22,
-   "std": 8.5,
+   "half": 10.82,
+   "ppr": 13.18,
+   "std": 8.47,
    "opp": "GB"
   },
   "8204": {
-   "half": 1.86,
+   "half": 1.85,
    "ppr": 2.18,
-   "std": 1.53,
+   "std": 1.52,
    "opp": "DAL"
   },
   "9487": {
@@ -1327,7 +1327,7 @@
   },
   "11510": {
    "half": 0.84,
-   "ppr": 1.0,
+   "ppr": 0.99,
    "std": 0.69,
    "opp": "GB"
   },
@@ -1344,9 +1344,9 @@
    "opp": "BAL"
   },
   "11593": {
-   "half": 0.99,
-   "ppr": 1.26,
-   "std": 0.72,
+   "half": 0.98,
+   "ppr": 1.25,
+   "std": 0.71,
    "opp": "GB"
   },
   "11632": {
@@ -1452,9 +1452,9 @@
    "opp": "NYG"
   },
   "4144": {
-   "half": 2.58,
-   "ppr": 3.22,
-   "std": 1.94,
+   "half": 2.57,
+   "ppr": 3.21,
+   "std": 1.93,
    "opp": "DAL"
   },
   "4274": {
@@ -1512,9 +1512,9 @@
    "opp": "ARI"
   },
   "8167": {
-   "half": 15.62,
-   "ppr": 17.91,
-   "std": 13.33,
+   "half": 15.54,
+   "ppr": 17.83,
+   "std": 13.25,
    "opp": "DAL"
   },
   "8225": {
@@ -1572,9 +1572,9 @@
    "opp": "NYJ"
   },
   "12501": {
-   "half": 12.46,
-   "ppr": 14.79,
-   "std": 10.14,
+   "half": 12.41,
+   "ppr": 14.74,
+   "std": 10.09,
    "opp": "DAL"
   },
   "12502": {
@@ -1584,8 +1584,8 @@
    "opp": "IND"
   },
   "12504": {
-   "half": 4.41,
-   "ppr": 4.63,
+   "half": 4.4,
+   "ppr": 4.62,
    "std": 4.19,
    "opp": "DAL"
   },
@@ -1692,9 +1692,9 @@
    "opp": "TEN"
   },
   "6786": {
-   "half": 16.3,
-   "ppr": 19.72,
-   "std": 12.87,
+   "half": 16.23,
+   "ppr": 19.65,
+   "std": 12.81,
    "opp": "GB"
   },
   "7002": {
@@ -1968,9 +1968,9 @@
    "opp": "NYJ"
   },
   "8110": {
-   "half": 6.99,
-   "ppr": 8.76,
-   "std": 5.22,
+   "half": 6.96,
+   "ppr": 8.72,
+   "std": 5.19,
    "opp": "GB"
   },
   "8131": {
