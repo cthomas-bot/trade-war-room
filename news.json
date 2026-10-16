@@ -42,11 +42,12 @@
     {
       "sleeperId": "4866",
       "name": "Saquon Barkley",
-      "note": "Barkley (hamstring) did not practice Wednesday or Thursday (Oct 14-15) and is tracking to miss a second straight game, Week 6 vs. Carolina.",
+      "note": "Sleeper now lists him out (hamstring) as of 1:44 PM PT Oct 16. Earlier: Barkley (hamstring) did not practice Wednesday or Thursday (Oct 14-15) and is tracking to miss a second straight game, Week 6 vs. Carolina.",
       "tag": "injury",
       "redraftAdj": 0.5,
       "dynastyAdj": 0.98,
-      "status": "Questionable"
+      "status": "Out",
+      "auto": true
     },
     {
       "sleeperId": "8129",
@@ -252,20 +253,22 @@
     {
       "sleeperId": "7525",
       "name": "DeVonta Smith",
-      "note": "Upgraded to limited Thursday (Oct 15), his first practice after missing two games (hamstring/toe). Mike Garafolo reports optimism he plays Sunday vs. Carolina, but Jalen Hurts (calf) is out and Tanner McKee will start.",
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 1:44 PM PT Oct 16. Earlier: Upgraded to limited Thursday (Oct 15), his first practice after missing two games (hamstring/toe). Mike Garafolo reports optimism he plays Sunday vs. Carolina, but Jalen Hurts (calf) is out and Tanner McKee will start.",
       "tag": "injury",
-      "redraftAdj": 0.85,
+      "redraftAdj": 1.0,
       "dynastyAdj": 0.99,
-      "status": "Questionable"
+      "status": null,
+      "auto": true
     },
     {
       "sleeperId": "9486",
       "name": "Dontayvion Wicks",
-      "note": "Downgraded from limited to did not practice Thursday (Oct 15) with a hamstring injury, and he may miss Sunday vs. Carolina. Tanner McKee starts at QB with Hurts out.",
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 1:44 PM PT Oct 16. Earlier: Downgraded from limited to did not practice Thursday (Oct 15) with a hamstring injury, and he may miss Sunday vs. Carolina. Tanner McKee starts at QB with Hurts out.",
       "tag": "injury",
-      "redraftAdj": 0.7,
+      "redraftAdj": 1.0,
       "dynastyAdj": 0.99,
-      "status": "Questionable"
+      "status": null,
+      "auto": true
     },
     {
       "sleeperId": "4983",
@@ -298,11 +301,12 @@
     {
       "sleeperId": "13346",
       "name": "Denzel Boston",
-      "note": "Limited Wednesday and Thursday (Oct 14-15) with the foot injury from Week 4, and he seems on track to play Sunday vs. Baltimore. KC Concepcion's concussion could mean more targets for him.",
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 1:44 PM PT Oct 16. Earlier: Limited Wednesday and Thursday (Oct 14-15) with the foot injury from Week 4, and he seems on track to play Sunday vs. Baltimore. KC Concepcion's concussion could mean more targets for him.",
       "tag": "injury",
-      "redraftAdj": 0.97,
+      "redraftAdj": 1.0,
       "dynastyAdj": 1.0,
-      "status": "Questionable"
+      "status": null,
+      "auto": true
     },
     {
       "sleeperId": "7526",
@@ -510,11 +514,12 @@
     {
       "sleeperId": "9997",
       "name": "Zay Flowers",
-      "note": "Flowers is listed questionable (toe) as of Oct 15. Earlier this month he was limited in practice with a foot injury.",
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 1:44 PM PT Oct 16. Earlier: Flowers is listed questionable (toe) as of Oct 15. Earlier this month he was limited in practice with a foot injury.",
       "tag": "injury",
-      "redraftAdj": 0.95,
+      "redraftAdj": 1.0,
       "dynastyAdj": 1.0,
-      "status": "Questionable"
+      "status": null,
+      "auto": true
     },
     {
       "sleeperId": "13330",
@@ -547,11 +552,12 @@
     {
       "sleeperId": "13324",
       "name": "Matt Hibner",
-      "note": "Sleeper lists the Ravens rookie as questionable with a hand injury (since Oct 14), and no Week 6 practice update has turned up. He's a low-volume backup with no change to his role.",
+      "note": "Sleeper now lists him out (hand) as of 1:44 PM PT Oct 16. Earlier: Sleeper lists the Ravens rookie as questionable with a hand injury (since Oct 14), and no Week 6 practice update has turned up. He's a low-volume backup with no change to his role.",
       "tag": "injury",
-      "redraftAdj": 0.95,
+      "redraftAdj": 0.9,
       "dynastyAdj": 1.0,
-      "status": "Questionable"
+      "status": "Out",
+      "auto": true
     },
     {
       "sleeperId": "5022",
@@ -793,14 +799,14 @@
       "tag": "injury"
     },
     {
-      "auto": true,
-      "dynastyAdj": 1.0,
-      "name": "Rashod Bateman",
-      "note": "Sleeper now lists him questionable (shoulder) as of 3:42 PM PT Oct 14.",
-      "redraftAdj": 0.98,
       "sleeperId": "7571",
-      "status": "Questionable",
-      "tag": "injury"
+      "name": "Rashod Bateman",
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 1:44 PM PT Oct 16.",
+      "tag": "injury",
+      "redraftAdj": 1.0,
+      "dynastyAdj": 1.0,
+      "status": null,
+      "auto": true
     },
     {
       "auto": true,
@@ -831,7 +837,17 @@
       "dynastyAdj": 1.0,
       "status": "Questionable",
       "auto": true
+    },
+    {
+      "sleeperId": "12518",
+      "name": "Tyler Warren",
+      "note": "Sleeper now lists him questionable (groin) as of 1:44 PM PT Oct 16.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
+      "status": "Questionable",
+      "auto": true
     }
   ],
-  "statusChecked": "12:42 PM PT Oct 16"
+  "statusChecked": "1:44 PM PT Oct 16"
 }

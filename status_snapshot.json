@@ -541,9 +541,18 @@
    "t": "CHI"
   },
   "12518": {
-   "changed": null,
-   "entry": null,
-   "i": null,
+   "changed": "2026-10-16T20:44:59.641989+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Tyler Warren",
+    "note": "Sleeper now lists him questionable (groin) as of 1:44 PM PT Oct 16.",
+    "redraftAdj": 0.98,
+    "sleeperId": "12518",
+    "status": "Questionable",
+    "tag": "injury"
+   },
+   "i": "Questionable",
    "qb1": null,
    "t": "IND"
   },
@@ -894,18 +903,18 @@
    "t": "ATL"
   },
   "13324": {
-   "changed": "2026-10-14T22:42:43.205682+00:00",
+   "changed": "2026-10-16T20:44:59.641989+00:00",
    "entry": {
     "auto": true,
-    "dynastyAdj": 0.99,
+    "dynastyAdj": 1.0,
     "name": "Matt Hibner",
-    "note": "Sleeper now lists him questionable (hand) as of 3:42 PM PT Oct 14.",
-    "redraftAdj": 0.98,
+    "note": "Sleeper now lists him out (hand) as of 1:44 PM PT Oct 16. Earlier: Sleeper lists the Ravens rookie as questionable with a hand injury (since Oct 14), and no Week 6 practice update has turned up. He's a low-volume backup with no change to his role.",
+    "redraftAdj": 0.9,
     "sleeperId": "13324",
-    "status": "Questionable",
+    "status": "Out",
     "tag": "injury"
    },
-   "i": "Questionable",
+   "i": "Out",
    "qb1": null,
    "t": "BAL"
   },
@@ -954,18 +963,18 @@
    "t": "DEN"
   },
   "13346": {
-   "changed": "2026-10-14T22:42:43.205682+00:00",
+   "changed": "2026-10-16T20:44:59.641989+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 1.0,
     "name": "Denzel Boston",
-    "note": "Sleeper now lists him questionable (foot) as of 3:42 PM PT Oct 14. Earlier: Browns rookie WR KC Concepcion suffered a concussion on Oct 11 against the Jets and is highly questionable for Week 6 against Baltimore. That should put more on Boston and the other Cleveland receivers.",
-    "redraftAdj": 0.98,
+    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 1:44 PM PT Oct 16. Earlier: Limited Wednesday and Thursday (Oct 14-15) with the foot injury from Week 4, and he seems on track to play Sunday vs. Baltimore. KC Concepcion's concussion could mean more targets for him.",
+    "redraftAdj": 1.0,
     "sleeperId": "13346",
-    "status": "Questionable",
+    "status": null,
     "tag": "injury"
    },
-   "i": "Questionable",
+   "i": null,
    "qb1": null,
    "t": "CLE"
   },
@@ -1311,18 +1320,18 @@
    "t": "SF"
   },
   "4866": {
-   "changed": "2026-10-14T07:49:46.658762+00:00",
+   "changed": "2026-10-16T20:44:59.641989+00:00",
    "entry": {
     "auto": true,
-    "dynastyAdj": 1.0,
+    "dynastyAdj": 0.98,
     "name": "Saquon Barkley",
-    "note": "Sleeper now lists him questionable (hamstring) as of 12:49 AM PT Oct 14.",
-    "redraftAdj": 0.98,
+    "note": "Sleeper now lists him out (hamstring) as of 1:44 PM PT Oct 16. Earlier: Barkley (hamstring) did not practice Wednesday or Thursday (Oct 14-15) and is tracking to miss a second straight game, Week 6 vs. Carolina.",
+    "redraftAdj": 0.5,
     "sleeperId": "4866",
-    "status": "Questionable",
+    "status": "Out",
     "tag": "injury"
    },
-   "i": "Questionable",
+   "i": "Out",
    "qb1": null,
    "t": "PHI"
   },
@@ -1700,18 +1709,18 @@
    "t": "JAX"
   },
   "7525": {
-   "changed": "2026-10-14T07:49:46.658762+00:00",
+   "changed": "2026-10-16T20:44:59.641989+00:00",
    "entry": {
     "auto": true,
-    "dynastyAdj": 1.0,
+    "dynastyAdj": 0.99,
     "name": "DeVonta Smith",
-    "note": "Sleeper now lists him questionable (hamstring) as of 12:49 AM PT Oct 14.",
-    "redraftAdj": 0.98,
+    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 1:44 PM PT Oct 16. Earlier: Upgraded to limited Thursday (Oct 15), his first practice after missing two games (hamstring/toe). Mike Garafolo reports optimism he plays Sunday vs. Carolina, but Jalen Hurts (calf) is out and Tanner McKee will start.",
+    "redraftAdj": 1.0,
     "sleeperId": "7525",
-    "status": "Questionable",
+    "status": null,
     "tag": "injury"
    },
-   "i": "Questionable",
+   "i": null,
    "qb1": null,
    "t": "PHI"
   },
@@ -1790,18 +1799,18 @@
    "t": "HOU"
   },
   "7571": {
-   "changed": "2026-10-14T22:42:43.205682+00:00",
+   "changed": "2026-10-16T20:44:59.641989+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 1.0,
     "name": "Rashod Bateman",
-    "note": "Sleeper now lists him questionable (shoulder) as of 3:42 PM PT Oct 14.",
-    "redraftAdj": 0.98,
+    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 1:44 PM PT Oct 16.",
+    "redraftAdj": 1.0,
     "sleeperId": "7571",
-    "status": "Questionable",
+    "status": null,
     "tag": "injury"
    },
-   "i": "Questionable",
+   "i": null,
    "qb1": null,
    "t": "BAL"
   },
@@ -2098,18 +2107,18 @@
    "t": "GB"
   },
   "9486": {
-   "changed": "2026-10-14T23:38:38.292011+00:00",
+   "changed": "2026-10-16T20:44:59.641989+00:00",
    "entry": {
     "auto": true,
-    "dynastyAdj": 1.0,
+    "dynastyAdj": 0.99,
     "name": "Dontayvion Wicks",
-    "note": "Sleeper now lists him questionable (hamstring) as of 4:38 PM PT Oct 14.",
-    "redraftAdj": 0.98,
+    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 1:44 PM PT Oct 16. Earlier: Downgraded from limited to did not practice Thursday (Oct 15) with a hamstring injury, and he may miss Sunday vs. Carolina. Tanner McKee starts at QB with Hurts out.",
+    "redraftAdj": 1.0,
     "sleeperId": "9486",
-    "status": "Questionable",
+    "status": null,
     "tag": "injury"
    },
-   "i": "Questionable",
+   "i": null,
    "qb1": null,
    "t": "PHI"
   },
@@ -2264,18 +2273,18 @@
    "t": "HOU"
   },
   "9997": {
-   "changed": "2026-10-15T21:44:24.700113+00:00",
+   "changed": "2026-10-16T20:44:59.641989+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 1.0,
     "name": "Zay Flowers",
-    "note": "Sleeper now lists him questionable (toe) as of 2:44 PM PT Oct 15.",
-    "redraftAdj": 0.98,
+    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 1:44 PM PT Oct 16. Earlier: Flowers is listed questionable (toe) as of Oct 15. Earlier this month he was limited in practice with a foot injury.",
+    "redraftAdj": 1.0,
     "sleeperId": "9997",
-    "status": "Questionable",
+    "status": null,
     "tag": "injury"
    },
-   "i": "Questionable",
+   "i": null,
    "qb1": null,
    "t": "BAL"
   }
