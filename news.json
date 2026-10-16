@@ -181,11 +181,12 @@
     {
       "sleeperId": "8136",
       "name": "Rachaad White",
-      "note": "Croskey-Merritt (groin) missed practice Thursday (Oct 15). If he can't play Monday at San Francisco, White would get a bigger role.",
-      "tag": "role_up",
-      "redraftAdj": 1.1,
+      "note": "Sleeper now lists him questionable (shoulder) as of 3:43 PM PT Oct 16. Earlier: Croskey-Merritt (groin) missed practice Thursday (Oct 15). If he can't play Monday at San Francisco, White would get a bigger role.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
       "dynastyAdj": 1.0,
-      "status": ""
+      "status": "Questionable",
+      "auto": true
     },
     {
       "sleeperId": "5892",
@@ -849,5 +850,5 @@
       "auto": true
     }
   ],
-  "statusChecked": "1:44 PM PT Oct 16"
+  "statusChecked": "3:43 PM PT Oct 16"
 }

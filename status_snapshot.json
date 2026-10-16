@@ -329,6 +329,8 @@
    "t": "CAR"
   },
   "11647": {
+   "changed": null,
+   "entry": null,
    "i": null,
    "qb1": null,
    "t": "LAC"
@@ -1911,18 +1913,18 @@
    "t": "BUF"
   },
   "8136": {
-   "changed": "2026-10-14T03:27:13.405269+00:00",
+   "changed": "2026-10-16T22:43:10.404444+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 1.0,
     "name": "Rachaad White",
-    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 8:27 PM PT Oct 13.",
-    "redraftAdj": 1.0,
+    "note": "Sleeper now lists him questionable (shoulder) as of 3:43 PM PT Oct 16. Earlier: Croskey-Merritt (groin) missed practice Thursday (Oct 15). If he can't play Monday at San Francisco, White would get a bigger role.",
+    "redraftAdj": 0.98,
     "sleeperId": "8136",
-    "status": null,
+    "status": "Questionable",
     "tag": "injury"
    },
-   "i": null,
+   "i": "Questionable",
    "qb1": null,
    "t": "WAS"
   },
