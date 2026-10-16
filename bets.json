@@ -1,112 +1,95 @@
 {
- "date": "Thu Oct 15",
- "scanned": "Oct 15, 2:58 PM PT · recheck",
+ "date": "Fri Oct 16",
+ "scanned": "Oct 16, 8:10 AM PT",
  "slate": [
   {
    "sport": "MLB",
-   "game": "Brewers @ Dodgers · NLCS G4",
+   "game": "Rays @ Guardians · ALCS G4 (CLE leads 2-1)",
    "time": "5:00 PM PT",
-   "pick": "Dodgers ML",
-   "price": "59¢",
+   "pick": "Guardians ML",
+   "price": "50¢",
    "call": "PASS",
-   "why": "Glasnow vs MIL bullpen game; books de-vig LAD ~58-61%, price is fair.",
-   "recheck": ""
+   "why": "Books have it a coin flip (Rays 50-51%); no edge after fees.",
+   "recheck": "Start time may be 3 PM PT; rain risk. YES only if CLE ≤44¢."
   },
   {
    "sport": "CFB",
-   "game": "East Carolina @ UAB",
+   "game": "Memphis @ Tulane",
    "time": "4:30 PM PT",
-   "pick": "East Carolina ML",
-   "price": "65¢",
+   "pick": "Memphis -6.5",
+   "price": "54¢",
    "call": "PASS",
-   "why": "Books de-vig ECU ~63%; Kalshi is ~2 points too high.",
-   "recheck": "Only at 59¢ or lower before 4 PM PT."
+   "why": "Books split -6.5/-7.5; fair ~52-54%, no edge after fee.",
+   "recheck": "Only at 49¢ or lower before 4 PM PT."
   },
   {
    "sport": "CFB",
-   "game": "Georgia Southern @ Old Dominion",
-   "time": "4:30 PM PT",
-   "pick": "Georgia Southern ML",
-   "price": "59¢",
-   "call": "PASS",
-   "why": "FanDuel de-vigs to ~62%; no edge after fees.",
-   "recheck": "Only at 57¢ or lower before 4 PM PT."
-  },
-  {
-   "sport": "CFB",
-   "game": "Colorado St. @ Texas St.",
+   "game": "Appalachian St. @ Coastal Carolina",
    "time": "5:00 PM PT",
-   "pick": "Colorado St. +13.5",
-   "price": "46¢",
+   "pick": "Coastal Carolina ML",
+   "price": "49¢",
    "call": "PASS",
-   "why": "Fair ~47.6%; fee erases it and CSU QB Hejny is hurt.",
-   "recheck": "LEAN only at 43¢ or lower if Hejny plays (4:30 PM PT)."
+   "why": "Books have it ~51/49 App St; Kalshi is fair.",
+   "recheck": "Coastal at 45¢ or lower, or QB news, before 4:30 PM PT."
+  },
+  {
+   "sport": "CFB",
+   "game": "Washington @ Purdue",
+   "time": "5:00 PM PT",
+   "pick": "Purdue ML",
+   "price": "62¢",
+   "call": "WAIT",
+   "why": "UW QB Demond Williams Jr. (ribs) unlikely; Purdue fair ~59%, priced high.",
+   "recheck": "2:50 PM PT: if Williams is out, YES only at 56¢ or lower."
   },
   {
    "sport": "NBA",
-   "game": "Raptors @ Knicks · preseason",
-   "time": "4:30 PM PT",
-   "pick": "Knicks ML",
-   "price": "63¢",
+   "game": "12 preseason games",
+   "time": "from 4:00 PM PT",
+   "pick": "",
+   "price": "",
    "call": "PASS",
-   "why": "Preseason finale; no book lines, Brunson's minutes unknown.",
-   "recheck": ""
-  },
-  {
-   "sport": "NBA",
-   "game": "Thunder @ Rockets · preseason",
-   "time": "5:30 PM PT",
-   "pick": "Thunder ML",
-   "price": "63¢",
-   "call": "PASS",
-   "why": "Preseason finale; no book lines, starters likely limited.",
+   "why": "Final preseason day; starters' minutes unpredictable.",
    "recheck": ""
   }
  ],
  "upcoming": [
   {
    "sport": "MLB",
-   "game": "Rays @ Guardians · ALCS G4 (Fri)",
-   "time": "Fri ~3 PM PT",
-   "pick": "TBD after G3",
+   "game": "Rays @ Guardians · ALCS G5 (Sat)",
+   "time": "Sat ~5 PM PT",
+   "pick": "TBD",
    "price": "",
    "call": "WAIT",
-   "why": "Depends on G3 result and starters.",
-   "recheck": "Fri 9 AM PT: starters + book lines vs Kalshi."
+   "why": "Depends on G4 result, starters and Cleveland weather.",
+   "recheck": "Sat 7:50 AM PT scan."
   }
  ],
  "primetime": {
-  "tnf": {
-   "game": "Seahawks @ Broncos",
-   "kickoff": "Thu 5:15 PM PT · Prime",
-   "trend": "No reliable 2026 TNF underdog record found, so don't lean on that trend.",
-   "note": "Seahawks game: no pick.",
-   "call": "SKIP"
-  },
   "games": [
    {
     "slot": "SNF",
     "game": "Cowboys @ Packers",
     "kickoff": "Sun 5:20 PM PT · NBC",
-    "line": "GB -1.5 · O/U 53 (Kalshi-implied)",
+    "line": "GB -1.5 · O/U 52.5",
     "pick": "Packers ML",
     "price": "53¢",
-    "call": "WAIT",
-    "why": "No book prices yet; Parsons (knee) not practicing.",
+    "call": "PASS",
+    "why": "Books de-vig GB ~52%; Kalshi 53¢ is fair.",
     "props": [],
-    "recheck": "Sat PM: DK/FD lines + Parsons status."
+    "recheck": "Sun afternoon: inactives; act only if GB ≤49¢."
    },
    {
     "slot": "MNF",
     "game": "Commanders @ 49ers",
     "kickoff": "Mon 5:15 PM PT · ESPN",
-    "line": "SF -7.5 · O/U 50.5 (Kalshi-implied)",
-    "pick": "49ers ML",
-    "price": "78¢",
-    "call": "WAIT",
-    "why": "Only Kalshi prices; Bosa and Diggs out for SF.",
+    "line": "SF -7.5 · O/U 50.5",
+    "pick": "Under 51.5",
+    "price": "50¢",
+    "call": "PASS",
+    "why": "Edge ~1 point after fee, one book only.",
     "props": [],
-    "recheck": "Mon AM: book lines + final injury report."
+    "recheck": "Mon AM: Bosa status; Under YES only at 47¢ or lower."
    }
   ]
  },
@@ -114,72 +97,56 @@
  "parlay": null,
  "sources": [
   {
-   "title": "CBS Sports – 2026 MLB playoff bracket, schedule, scores",
-   "url": "https://www.cbssports.com/mlb/news/2026-mlb-playoff-bracket-schedule-scores-results-how-to-watch/"
+   "title": "ESPN: Guardians 3-2 Rays (Oct 15, 2026)",
+   "url": "https://www.espn.com/mlb/game/_/gameId/401908025/rays-guardians"
   },
   {
-   "title": "NBC Los Angeles – 2026 NLCS and ALCS schedule",
-   "url": "https://www.nbclosangeles.com/mlb/nlcs-alcs-schedule-bracket-playoffs-2026/3952835/"
+   "title": "MLB.com: When is Rays vs. Guardians ALCS Game 4?",
+   "url": "https://www.mlb.com/news/when-is-rays-vs-guardians-alcs-game-4-date-time-and-lineups"
   },
   {
-   "title": "BettorEdge – Rays vs Guardians odds",
-   "url": "https://www.bettoredge.com/mlb/rays-vs-guardians"
+   "title": "Hard Rock Bet: Rays vs. Guardians ALCS Game 4 odds",
+   "url": "https://www.hardrock.bet/news/rays-vs-guardians-predictions-picks-odds-for-alcs-game-4"
   },
   {
-   "title": "MLB.com – ALCS rotation matchup",
-   "url": "https://www.mlb.com/news/how-the-guardians-and-rays-rotations-lineup-for-alcs"
+   "title": "SI: Rays vs. Guardians ALCS Game 4 odds",
+   "url": "https://www.si.com/betting/rays-vs-guardians-prediction-odds-probable-pitchers-prop-bets-for-alcs-game-4-2026"
   },
   {
-   "title": "SI: East Carolina vs UAB odds",
-   "url": "https://www.si.com/betting/east-carolina-vs-uab-prediction-odds-and-key-players-to-watch-for-college-football-week-7"
+   "title": "OutKick: Brewers complete NLCS sweep",
+   "url": "https://www.foxnews.com/outkick-sports/brewers-officially-end-dodgers-dynasty-ridiculous-6-4-comeback-game-four-complete-nlcs-sweep"
   },
   {
-   "title": "FanDuel Research: East Carolina vs UAB",
-   "url": "https://fanduel.com/research/east-carolina-vs-uab-college-football-odds-picks-best-bets-for-10-15-2026"
+   "title": "Fox News – 2026 college football Friday schedule",
+   "url": "https://www.foxnews.com/sports/2026-college-football-friday-schedule-dates-times-tv-channels"
   },
   {
-   "title": "FanDuel Research: Georgia Southern vs Old Dominion",
-   "url": "https://fanduel.com/research/georgia-southern-vs-old-dominion-college-football-odds-picks-best-bets-for-10-15-2026"
+   "title": "FanDuel – Memphis vs Tulane",
+   "url": "https://fanduel.com/research/memphis-vs-tulane-college-football-odds-picks-best-bets-for-10-16-2026"
   },
   {
-   "title": "FanDuel Research: Texas State vs Colorado State",
-   "url": "https://fanduel.com/research/texas-state-vs-colorado-state-college-football-odds-picks-best-bets-for-10-15-2026"
+   "title": "FanDuel – App State vs Coastal Carolina",
+   "url": "https://www.fanduel.com/research/appalachian-state-vs-coastal-carolina-college-football-odds-picks-best-bets-for-10-16-2026"
   },
   {
-   "title": "SportsLine: CSU @ Texas St. forecast",
-   "url": "https://www.sportsline.com/college-football/game-forecast/NCAAF_20261015_COLOST@TXSTSM/"
+   "title": "FanDuel – Purdue vs Washington",
+   "url": "https://www.fanduel.com/research/purdue-vs-washington-college-football-odds-picks-best-bets-for-10-16-2026"
   },
   {
-   "title": "Covers: Cowboys vs Packers early odds",
-   "url": "https://www.covers.com/nfl/cowboys-vs-packers-prediction-picks-odds-early-leans-week-6-2026"
+   "title": "FOX 13 – Demond Williams Jr. unlikely to play at Purdue",
+   "url": "https://www.fox13seattle.com/sports/washington-qb-demond-williams-jr-unlikely-play-purdue"
   },
   {
-   "title": "DeFi Rate: Commanders vs 49ers",
-   "url": "https://defirate.com/odds/nfl/commanders-vs-49ers-10-19-2026/"
+   "title": "FanDuel – Packers vs Cowboys Week 6",
+   "url": "https://www.fanduel.com/research/packers-vs-cowboys-predictions-odds-picks-best-bets-for-nfl-week-6-2026"
   },
   {
-   "title": "OKC Thunder 2026-27 preseason schedule (News On 6)",
-   "url": "https://www.newson6.com/oklahoma-city-thunder/okc-thunder-2026-27-preseason-schedule-games-dates"
+   "title": "SI – Commanders vs 49ers Week 6",
+   "url": "https://www.si.com/betting/commanders-vs-49ers-prediction-odds-spread-injuries-trends-for-nfl-week-6-2026"
   },
   {
-   "title": "NBA Preseason: Knicks vs. Raptors (NYC.com)",
-   "url": "https://www.nyc.com/events/nba_preseason_new_york_knicks_vs_toronto_raptors.1091151/"
-  },
-  {
-   "title": "When does the 2026-27 NBA season start (Fox Sports)",
-   "url": "https://www.foxsports.com/stories/nba/when-does-2026-27-nba-season-start-opening-night-schedule"
-  },
-  {
-   "title": "ESPN: ALCS, NLCS odds (Oct 15)",
-   "url": "https://www.espn.com/espn/betting/story/_/id/50132233/2026-mlb-playoffs-alcs-nlcs-betting-odds-spreads"
-  },
-  {
-   "title": "MLB.com: Brewers-Dodgers NLCS Game 4 lineups and pitching matchup",
-   "url": "https://www.mlb.com/news/brewers-dodgers-nl-championship-series-game-4-starting-lineups-and-pitching-matchup"
-  },
-  {
-   "title": "DK Network: Opening odds for NLCS Game 4",
-   "url": "https://dknetwork.draftkings.com/2026/10/14/opening-odds-for-game-4-of-brewers-vs-dodgers-in-2026-nlcs/"
+   "title": "NBC Sports Bay Area – Bosa return vs Commanders",
+   "url": "https://www.nbcsportsbayarea.com/nfl/san-francisco-49ers/nick-bosa-injury-return-commanders/1970068/"
   }
  ]
 }
