@@ -1,17 +1,7 @@
 {
  "date": "Fri Oct 16",
- "scanned": "Oct 16, 8:10 AM PT",
+ "scanned": "Oct 16, 2:58 PM PT · recheck",
  "slate": [
-  {
-   "sport": "MLB",
-   "game": "Rays @ Guardians · ALCS G4 (CLE leads 2-1)",
-   "time": "5:00 PM PT",
-   "pick": "Guardians ML",
-   "price": "50¢",
-   "call": "PASS",
-   "why": "Books have it a coin flip (Rays 50-51%); no edge after fees.",
-   "recheck": "Start time may be 3 PM PT; rain risk. YES only if CLE ≤44¢."
-  },
   {
    "sport": "CFB",
    "game": "Memphis @ Tulane",
@@ -37,10 +27,10 @@
    "game": "Washington @ Purdue",
    "time": "5:00 PM PT",
    "pick": "Purdue ML",
-   "price": "62¢",
-   "call": "WAIT",
-   "why": "UW QB Demond Williams Jr. (ribs) unlikely; Purdue fair ~59%, priced high.",
-   "recheck": "2:50 PM PT: if Williams is out, YES only at 56¢ or lower."
+   "price": "60¢",
+   "call": "PASS",
+   "why": "Williams won't start, but books (~-162) de-vig Purdue ~59.5%; no edge.",
+   "recheck": ""
   },
   {
    "sport": "NBA",
@@ -56,13 +46,13 @@
  "upcoming": [
   {
    "sport": "MLB",
-   "game": "Rays @ Guardians · ALCS G5 (Sat)",
-   "time": "Sat ~5 PM PT",
-   "pick": "TBD",
+   "game": "Rays @ Guardians · ALCS G4 (live now)",
+   "time": "3:00 PM PT",
+   "pick": "",
    "price": "",
    "call": "WAIT",
-   "why": "Depends on G4 result, starters and Cleveland weather.",
-   "recheck": "Sat 7:50 AM PT scan."
+   "why": "Moved up to 3 PM PT start; coin-flip line, no pregame edge.",
+   "recheck": "G5 Sat: 7:50 AM PT scan."
   }
  ],
  "primetime": {
@@ -147,6 +137,18 @@
   {
    "title": "NBC Sports Bay Area – Bosa return vs Commanders",
    "url": "https://www.nbcsportsbayarea.com/nfl/san-francisco-49ers/nick-bosa-injury-return-commanders/1970068/"
+  },
+  {
+   "title": "ESPN: Washington QB Williams unlikely vs. Purdue",
+   "url": "https://www.espn.com/college-football/story/_/id/50169908/washington-qb-williams-unlikely-return-vs-purdue"
+  },
+  {
+   "title": "Rotowire: Demond Williams Jr. won't start Friday",
+   "url": "https://www.rotowire.com/cfootball/headlines/demond-williams-jr-injury-wont-start-friday-235211"
+  },
+  {
+   "title": "NBC Sports: Rain could be a problem for ALCS Game 4",
+   "url": "https://www.nbcsports.com/mlb/news/rain-could-be-a-problem-for-alcs-game-4"
   }
  ]
 }
