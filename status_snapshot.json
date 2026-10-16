@@ -1694,9 +1694,18 @@
    "t": "PHI"
   },
   "7526": {
-   "changed": null,
-   "entry": null,
-   "i": null,
+   "changed": "2026-10-16T02:44:35.837847+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Jaylen Waddle",
+    "note": "Sleeper now lists him questionable (shoulder) as of 7:44 PM PT Oct 15.",
+    "redraftAdj": 0.98,
+    "sleeperId": "7526",
+    "status": "Questionable",
+    "tag": "injury"
+   },
+   "i": "Questionable",
    "qb1": null,
    "t": "DEN"
   },
