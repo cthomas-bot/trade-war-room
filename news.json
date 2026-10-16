@@ -31,11 +31,12 @@
     {
       "sleeperId": "4892",
       "name": "Baker Mayfield",
-      "note": "Mayfield (dislocated right thumb) sat out practice again Thursday, Oct 15, and Jalon Daniels is set to make a third straight start vs. PIT. Garafolo says Mayfield is 'working his way back but not there yet.'",
+      "note": "Sleeper now lists him out (thumb) as of 10:41 AM PT Oct 16. Earlier: Mayfield (dislocated right thumb) sat out practice again Thursday, Oct 15, and Jalon Daniels is set to make a third straight start vs. PIT. Garafolo says Mayfield is 'working his way back but not there yet.'",
       "tag": "injury",
       "redraftAdj": 0.35,
       "dynastyAdj": 0.97,
-      "status": "Doubtful"
+      "status": "Out",
+      "auto": true
     },
     {
       "sleeperId": "4866",
@@ -519,11 +520,12 @@
     {
       "sleeperId": "2505",
       "name": "Darren Waller",
-      "note": "Waller (toe) was limited on Wednesday's Oct 14 practice estimate coming out of Carolina's bye, and TE Tommy Tremble (ribs) was also limited. Thursday/Friday practices will decide whether he carries a designation into Sunday at Philadelphia.",
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 10:41 AM PT Oct 16. Earlier: Waller (toe) was limited on Wednesday's Oct 14 practice estimate coming out of Carolina's bye, and TE Tommy Tremble (ribs) was also limited. Thursday/Friday practices will decide whether he carries a designation into Sunday at Philadelphia.",
       "tag": "injury",
-      "redraftAdj": 0.9,
+      "redraftAdj": 1.0,
       "dynastyAdj": 1.0,
-      "status": "Questionable"
+      "status": null,
+      "auto": true
     },
     {
       "sleeperId": "13349",
@@ -813,5 +815,5 @@
       "tag": "injury"
     }
   ],
-  "statusChecked": "8:44 AM PT Oct 16"
+  "statusChecked": "10:41 AM PT Oct 16"
 }
