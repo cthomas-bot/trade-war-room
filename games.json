@@ -1,7 +1,7 @@
 {
  "season": "2026",
  "week": 6,
- "updated": "2026-10-17 12:18 AM PT",
+ "updated": "2026-10-17 3:06 AM PT",
  "games": [
   {
    "id": "401872995",
@@ -42,10 +42,10 @@
    "awayImplied": 20.0,
    "weather": {
     "roof": "open",
-    "temp": 53.7,
+    "temp": 53.2,
     "precip": 9,
-    "code": 3,
-    "wind": 11.9,
+    "code": 51,
+    "wind": 11.4,
     "night": false
    }
   },
@@ -69,10 +69,10 @@
    "awayImplied": 27.0,
    "weather": {
     "roof": "retract",
-    "temp": 58.8,
+    "temp": 59.6,
     "precip": 0,
     "code": 0,
-    "wind": 14.3,
+    "wind": 14.0,
     "night": false
    }
   },
@@ -96,10 +96,10 @@
    "awayImplied": 21.2,
    "weather": {
     "roof": "open",
-    "temp": 55.3,
+    "temp": 55.5,
     "precip": 0,
     "code": 0,
-    "wind": 8.6,
+    "wind": 8.8,
     "night": false
    }
   },
@@ -123,10 +123,10 @@
    "awayImplied": 18.8,
    "weather": {
     "roof": "retract",
-    "temp": 54.6,
+    "temp": 55.0,
     "precip": 0,
     "code": 0,
-    "wind": 6.5,
+    "wind": 6.7,
     "night": false
    }
   },
@@ -150,10 +150,10 @@
    "awayImplied": 18.0,
    "weather": {
     "roof": "open",
-    "temp": 50.3,
+    "temp": 50.9,
     "precip": 0,
     "code": 0,
-    "wind": 3.6,
+    "wind": 3.2,
     "night": false
    }
   },
@@ -177,10 +177,10 @@
    "awayImplied": 24.0,
    "weather": {
     "roof": "open",
-    "temp": 53.7,
+    "temp": 55.0,
     "precip": 0,
     "code": 0,
-    "wind": 2.1,
+    "wind": 7.0,
     "night": false
    }
   },
@@ -204,10 +204,10 @@
    "awayImplied": 21.2,
    "weather": {
     "roof": "open",
-    "temp": 51.7,
+    "temp": 53.9,
     "precip": 0,
     "code": 0,
-    "wind": 3.6,
+    "wind": 6.8,
     "night": false
    }
   },
@@ -231,10 +231,10 @@
    "awayImplied": 20.5,
    "weather": {
     "roof": "open",
-    "temp": 73.5,
+    "temp": 72.1,
     "precip": 0,
-    "code": 0,
-    "wind": 15.1,
+    "code": 1,
+    "wind": 13.2,
     "night": false
    }
   },
@@ -283,7 +283,7 @@
     "temp": 63.5,
     "precip": 0,
     "code": 0,
-    "wind": 12.5,
+    "wind": 12.0,
     "night": false
    }
   },
@@ -329,10 +329,10 @@
    "awayImplied": 26.0,
    "weather": {
     "roof": "open",
-    "temp": 53.3,
+    "temp": 49.5,
     "precip": 0,
     "code": 0,
-    "wind": 14.2,
+    "wind": 8.1,
     "night": true
    }
   },
@@ -522,9 +522,9 @@
    "opp": "ARI"
   },
   "11628": {
-   "half": 2.95,
-   "ppr": 3.47,
-   "std": 2.42,
+   "half": 2.96,
+   "ppr": 3.49,
+   "std": 2.43,
    "opp": "JAX"
   },
   "11635": {
@@ -642,9 +642,9 @@
    "opp": "JAX"
   },
   "5001": {
-   "half": 6.76,
-   "ppr": 8.68,
-   "std": 4.85,
+   "half": 6.79,
+   "ppr": 8.71,
+   "std": 4.86,
    "opp": "JAX"
   },
   "5870": {
@@ -774,9 +774,9 @@
    "opp": "ARI"
   },
   "10219": {
-   "half": 4.76,
-   "ppr": 4.99,
-   "std": 4.53,
+   "half": 4.75,
+   "ppr": 4.98,
+   "std": 4.52,
    "opp": "HOU"
   },
   "10232": {
@@ -894,9 +894,9 @@
    "opp": "LAC"
   },
   "13394": {
-   "half": 2.91,
-   "ppr": 3.47,
-   "std": 2.36,
+   "half": 2.92,
+   "ppr": 3.48,
+   "std": 2.37,
    "opp": "HOU"
   },
   "13411": {
@@ -966,9 +966,9 @@
    "opp": "CHI"
   },
   "7569": {
-   "half": 15.41,
-   "ppr": 18.25,
-   "std": 12.56,
+   "half": 15.46,
+   "ppr": 18.31,
+   "std": 12.6,
    "opp": "JAX"
   },
   "7694": {
@@ -1038,9 +1038,9 @@
    "opp": "DAL"
   },
   "10218": {
-   "half": 2.49,
-   "ppr": 3.07,
-   "std": 1.91,
+   "half": 2.5,
+   "ppr": 3.08,
+   "std": 1.92,
    "opp": "JAX"
   },
   "10236": {
@@ -1086,9 +1086,9 @@
    "opp": "GB"
   },
   "12474": {
-   "half": 12.31,
-   "ppr": 13.42,
-   "std": 11.21,
+   "half": 12.28,
+   "ppr": 13.39,
+   "std": 11.17,
    "opp": "JAX"
   },
   "12481": {
@@ -1122,7 +1122,7 @@
    "opp": "IND"
   },
   "12530": {
-   "half": 1.29,
+   "half": 1.3,
    "ppr": 1.59,
    "std": 1.0,
    "opp": "HOU"
@@ -1194,7 +1194,7 @@
    "opp": "KC"
   },
   "13408": {
-   "half": 0.97,
+   "half": 0.98,
    "ppr": 1.22,
    "std": 0.73,
    "opp": "HOU"
@@ -1224,9 +1224,9 @@
    "opp": "KC"
   },
   "5947": {
-   "half": 7.18,
-   "ppr": 8.78,
-   "std": 5.57,
+   "half": 7.2,
+   "ppr": 8.81,
+   "std": 5.59,
    "opp": "HOU"
   },
   "6039": {
@@ -1278,9 +1278,9 @@
    "opp": "DAL"
   },
   "9487": {
-   "half": 12.63,
-   "ppr": 14.96,
-   "std": 10.3,
+   "half": 12.68,
+   "ppr": 15.01,
+   "std": 10.34,
    "opp": "HOU"
   },
   "9506": {
@@ -1296,9 +1296,9 @@
    "opp": "KC"
   },
   "9758": {
-   "half": 15.27,
-   "ppr": 15.27,
-   "std": 15.27,
+   "half": 15.3,
+   "ppr": 15.3,
+   "std": 15.3,
    "opp": "JAX"
   },
   "11034": {
@@ -1326,8 +1326,8 @@
    "opp": "BAL"
   },
   "11588": {
-   "half": 2.17,
-   "ppr": 2.39,
+   "half": 2.16,
+   "ppr": 2.38,
    "std": 1.94,
    "opp": "JAX"
   },
@@ -1368,9 +1368,9 @@
    "opp": "PHI"
   },
   "12536": {
-   "half": 4.56,
-   "ppr": 5.45,
-   "std": 3.67,
+   "half": 4.58,
+   "ppr": 5.47,
+   "std": 3.69,
    "opp": "JAX"
   },
   "12540": {
@@ -1524,9 +1524,9 @@
    "opp": "TB"
   },
   "9480": {
-   "half": 8.17,
-   "ppr": 10.18,
-   "std": 6.16,
+   "half": 8.2,
+   "ppr": 10.21,
+   "std": 6.18,
    "opp": "HOU"
   },
   "9754": {
@@ -1800,15 +1800,15 @@
    "opp": "CLE"
   },
   "11631": {
-   "half": 5.85,
-   "ppr": 7.05,
-   "std": 4.64,
+   "half": 5.87,
+   "ppr": 7.08,
+   "std": 4.65,
    "opp": "HOU"
   },
   "12490": {
-   "half": 11.05,
-   "ppr": 11.9,
-   "std": 10.19,
+   "half": 11.02,
+   "ppr": 11.88,
+   "std": 10.16,
    "opp": "HOU"
   },
   "12503": {
@@ -1890,9 +1890,9 @@
    "opp": "LV"
   },
   "5985": {
-   "half": 3.05,
-   "ppr": 3.8,
-   "std": 2.31,
+   "half": 3.06,
+   "ppr": 3.81,
+   "std": 2.32,
    "opp": "JAX"
   },
   "6271": {
@@ -1914,9 +1914,9 @@
    "opp": "ATL"
   },
   "7523": {
-   "half": 18.29,
-   "ppr": 18.29,
-   "std": 18.29,
+   "half": 18.33,
+   "ppr": 18.33,
+   "std": 18.33,
    "opp": "HOU"
   },
   "7528": {
@@ -1992,9 +1992,9 @@
    "opp": "ARI"
   },
   "9504": {
-   "half": 3.58,
-   "ppr": 4.39,
-   "std": 2.76,
+   "half": 3.59,
+   "ppr": 4.4,
+   "std": 2.77,
    "opp": "JAX"
   },
   "96": {
