@@ -1,7 +1,7 @@
 {
  "season": "2026",
  "week": 6,
- "updated": "2026-10-16 9:10 PM PT",
+ "updated": "2026-10-17 12:18 AM PT",
  "games": [
   {
    "id": "401872995",
@@ -42,10 +42,10 @@
    "awayImplied": 20.0,
    "weather": {
     "roof": "open",
-    "temp": 52.9,
+    "temp": 53.7,
     "precip": 9,
     "code": 3,
-    "wind": 12.1,
+    "wind": 11.9,
     "night": false
    }
   },
@@ -60,13 +60,13 @@
    "venue": "Mercedes-Benz Stadium",
    "tv": "Fox",
    "details": "CHI -1.5",
-   "total": 51.5,
+   "total": 52.5,
    "fav": "CHI",
    "spread": 1.5,
    "homeML": null,
    "awayML": null,
-   "homeImplied": 25.0,
-   "awayImplied": 26.5,
+   "homeImplied": 25.5,
+   "awayImplied": 27.0,
    "weather": {
     "roof": "retract",
     "temp": 58.8,
@@ -329,10 +329,10 @@
    "awayImplied": 26.0,
    "weather": {
     "roof": "open",
-    "temp": 52.5,
+    "temp": 53.3,
     "precip": 0,
     "code": 0,
-    "wind": 13.8,
+    "wind": 14.2,
     "night": true
    }
   },
@@ -353,7 +353,15 @@
    "homeML": null,
    "awayML": null,
    "homeImplied": 30.0,
-   "awayImplied": 22.5
+   "awayImplied": 22.5,
+   "weather": {
+    "roof": "open",
+    "temp": 65.6,
+    "precip": 0,
+    "code": 3,
+    "wind": 9.2,
+    "night": false
+   }
   }
  ],
  "projections": {
@@ -2139,8 +2147,5 @@
    "std": 1.26,
    "opp": "WAS"
   }
- },
- "errors": [
-  "weather SF: <urlopen error _ssl.c:993: The handshake operation timed out>"
- ]
+ }
 }
