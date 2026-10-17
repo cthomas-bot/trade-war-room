@@ -18,6 +18,8 @@ For every game on today's slate give ONE pick — the best of moneyline side, sp
 - **PASS** — no clear side (shows as "NO CLEAR SIDE").
 Compare Kalshi prices (kalshi.json snapshot; recheck live before betting) with de-vigged sportsbook odds: American +A → 100/(A+100), −A → A/(A+100); de-vig two sides r1/(r1+r2). Kalshi taker fee ≈ ceil(0.07 × contracts × p × (1−p)) to the cent.
 
+**Say exactly what to tap in Kalshi:** for spreads/totals write the pick as the Kalshi contract side, e.g. `NO on “Toledo wins by over 6.5” (= EMU +6.5)` or `YES on “Over 52.5”`. Moneylines stay `Team ML`.
+
 **Keep text short:** each "why" is one sentence (~15 words max). No essays.
 
 ## Extra sections
