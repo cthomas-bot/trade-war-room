@@ -265,11 +265,12 @@
     {
       "sleeperId": "5846",
       "name": "DK Metcalf",
-      "note": "Added to the report with an illness and missed Friday's (Oct 16) practice, so he is officially questionable for Sunday at Tampa Bay. Local reports expect him to play, and Roman Wilson and Ben Skowronek are out.",
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 9:41 AM PT Oct 17. Earlier: Added to the report with an illness and missed Friday's (Oct 16) practice, so he is officially questionable for Sunday at Tampa Bay. Local reports expect him to play, and Roman Wilson and Ben Skowronek are out.",
       "tag": "injury",
-      "redraftAdj": 0.92,
+      "redraftAdj": 1.0,
       "dynastyAdj": 1.0,
-      "status": "Questionable"
+      "status": null,
+      "auto": true
     },
     {
       "sleeperId": "13293",
@@ -666,7 +667,17 @@
       "sleeperId": "9997",
       "status": null,
       "tag": "injury"
+    },
+    {
+      "sleeperId": "7600",
+      "name": "Pat Freiermuth",
+      "note": "Sleeper now lists him questionable (calf) as of 9:41 AM PT Oct 17.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
+      "status": "Questionable",
+      "auto": true
     }
   ],
-  "statusChecked": "6:40 AM PT Oct 17"
+  "statusChecked": "9:41 AM PT Oct 17"
 }
