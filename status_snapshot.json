@@ -284,16 +284,6 @@
   },
   "11646": {
    "changed": "2026-10-14T20:43:11.456667+00:00",
-   "entry": {
-    "auto": true,
-    "dynastyAdj": 1.0,
-    "name": "Jalen Coker",
-    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 1:43 PM PT Oct 14.",
-    "redraftAdj": 1.0,
-    "sleeperId": "11646",
-    "status": null,
-    "tag": "injury"
-   },
    "i": null,
    "qb1": null,
    "t": "CAR"
@@ -332,6 +322,11 @@
    "i": null,
    "qb1": null,
    "t": "SEA"
+  },
+  "12457": {
+   "i": null,
+   "qb1": null,
+   "t": "PHI"
   },
   "12467": {
    "changed": "2026-10-07T08:36:37.043387+00:00",
@@ -1144,6 +1139,11 @@
    "qb1": null,
    "t": "SF"
   },
+  "4454": {
+   "i": null,
+   "qb1": null,
+   "t": "ARI"
+  },
   "4866": {
    "changed": "2026-10-16T20:44:59.641989+00:00",
    "entry": {
@@ -1717,16 +1717,6 @@
   },
   "8144": {
    "changed": "2026-10-14T20:43:11.456667+00:00",
-   "entry": {
-    "auto": true,
-    "dynastyAdj": 1.0,
-    "name": "Chris Olave",
-    "note": "Sleeper now lists him questionable (illness) as of 1:43 PM PT Oct 14.",
-    "redraftAdj": 0.98,
-    "sleeperId": "8144",
-    "status": "Questionable",
-    "tag": "injury"
-   },
    "i": "Questionable",
    "qb1": null,
    "t": "NO"
@@ -1957,16 +1947,6 @@
   },
   "9508": {
    "changed": "2026-10-14T20:43:11.456667+00:00",
-   "entry": {
-    "auto": true,
-    "dynastyAdj": 1.0,
-    "name": "Tyjae Spears",
-    "note": "Sleeper now lists him questionable (knee) as of 1:43 PM PT Oct 14.",
-    "redraftAdj": 0.98,
-    "sleeperId": "9508",
-    "status": "Questionable",
-    "tag": "injury"
-   },
    "i": "Questionable",
    "qb1": null,
    "t": "TEN"
