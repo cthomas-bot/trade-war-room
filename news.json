@@ -175,11 +175,12 @@
     {
       "sleeperId": "12533",
       "name": "Jacory Croskey-Merritt",
-      "note": "Croskey-Merritt (groin) missed practice Thursday (Oct 15), which one report called maintenance. Washington plays Monday at San Francisco, so his final status may not come until Saturday.",
+      "note": "Sleeper now lists him out (groin) as of 10:38 AM PT Oct 17. Earlier: Croskey-Merritt (groin) missed practice Thursday (Oct 15), which one report called maintenance. Washington plays Monday at San Francisco, so his final status may not come until Saturday.",
       "tag": "injury",
       "redraftAdj": 0.8,
       "dynastyAdj": 0.99,
-      "status": "Questionable"
+      "status": "Out",
+      "auto": true
     },
     {
       "sleeperId": "5892",
@@ -679,5 +680,5 @@
       "auto": true
     }
   ],
-  "statusChecked": "9:41 AM PT Oct 17"
+  "statusChecked": "10:38 AM PT Oct 17"
 }
