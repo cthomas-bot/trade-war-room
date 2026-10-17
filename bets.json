@@ -1,6 +1,6 @@
 {
  "date": "Sat Oct 17",
- "scanned": "Oct 17, 8:05 AM PT",
+ "scanned": "Oct 17, 8:20 AM PT",
  "slate": [
   {
    "sport": "CFB",
@@ -21,6 +21,26 @@
    "call": "LEAN",
    "why": "FanDuel -4.5 is ~50% to cover vs 45¢ here; one book only.",
    "recheck": "YES if a 2nd book has KSU -4.5+ and Kalshi ≤46¢, before 9 AM."
+  },
+  {
+   "sport": "CFB",
+   "game": "Virginia @ SMU",
+   "time": "9:00 AM PT",
+   "pick": "SMU -9.5",
+   "price": "52¢",
+   "call": "PASS",
+   "why": "Book line is -9.5, so ~50% to cover; Kalshi is fair.",
+   "recheck": ""
+  },
+  {
+   "sport": "CFB",
+   "game": "Northwestern vs Michigan St.",
+   "time": "9:00 AM PT",
+   "pick": "Northwestern -6.5",
+   "price": "55¢",
+   "call": "PASS",
+   "why": "Book has NW -7; 55¢ for -6.5 is about fair.",
+   "recheck": ""
   },
   {
    "sport": "CFB",
@@ -71,6 +91,36 @@
    "call": "LEAN",
    "why": "Book total 40.5, a point under Kalshi's 41.5 line.",
    "recheck": "YES if a 2nd book shows 40.5 or lower, before 12 PM."
+  },
+  {
+   "sport": "CFB",
+   "game": "Florida @ Texas",
+   "time": "1:00 PM PT",
+   "pick": "Texas -10.5",
+   "price": "53¢",
+   "call": "PASS",
+   "why": "Books -10.5 to -11; Arch shaky last week (166 yds). Fair price.",
+   "recheck": ""
+  },
+  {
+   "sport": "CFB",
+   "game": "Kentucky @ Oklahoma",
+   "time": "4:30 PM PT",
+   "pick": "Under 43.5",
+   "price": "50¢",
+   "call": "WAIT",
+   "why": "Book total 43.5; projections split (Dimers 45, Predictem Under).",
+   "recheck": "3:30 PM PT: YES only at 47¢ or lower."
+  },
+  {
+   "sport": "CFB",
+   "game": "Florida St. @ Miami",
+   "time": "5:00 PM PT",
+   "pick": "Miami -20.5",
+   "price": "52¢",
+   "call": "PASS",
+   "why": "No sportsbook line found to compare; won't guess.",
+   "recheck": ""
   },
   {
    "sport": "CFB",
@@ -166,7 +216,70 @@
  },
  "props": [
   {
-   "slate": "Morning · 10 AM PT",
+   "slate": "College · Morning (9 AM PT)",
+   "picks": [
+    {
+     "pick": "Julian Sayin (OSU) over 1.5 pass TDs",
+     "odds": "-155",
+     "why": "Top-2 Big Ten passer; 50.5 total in a near pick'em.",
+     "call": "LEAN"
+    },
+    {
+     "pick": "Julian Sayin over 257.5 pass yds",
+     "odds": "-120",
+     "why": "Shootout script at Indiana; one book only.",
+     "call": "LEAN"
+    },
+    {
+     "pick": "Dylan Edwards (KSU) over 62.5 rush yds",
+     "odds": "-118",
+     "why": "Lead back for the home favorite.",
+     "call": "LEAN"
+    },
+    {
+     "pick": "Avery Johnson (KSU) over 234.5 pass yds",
+     "odds": "-114",
+     "why": "55.5 total projects plenty of points.",
+     "call": "LEAN"
+    }
+   ]
+  },
+  {
+   "slate": "College · Afternoon (12:30–1 PM PT)",
+   "picks": [
+    {
+     "pick": "Keelon Russell (Bama) 250+ pass yds",
+     "odds": "-161",
+     "why": "Bama air attack vs a soft Vols secondary.",
+     "call": "LEAN"
+    },
+    {
+     "pick": "DeSean Bishop (Tenn) over 94.5 rush yds",
+     "odds": "-114",
+     "why": "Home workhorse back; FanDuel research pick.",
+     "call": "LEAN"
+    },
+    {
+     "pick": "Darian Mensah (Miami) over 2.5 pass TDs",
+     "odds": "-130",
+     "why": "14 TDs, 0 INTs so far; rivalry vs FSU.",
+     "call": "LEAN"
+    }
+   ]
+  },
+  {
+   "slate": "College · Night (4:30 PM PT+)",
+   "picks": [
+    {
+     "pick": "Kenny Minchey (UK) over 188.5 pass yds",
+     "odds": "-114",
+     "why": "Trailing script vs OU; low 43.5 total is the risk.",
+     "call": "LEAN"
+    }
+   ]
+  },
+  {
+   "slate": "Sunday · Morning · 10 AM PT",
    "picks": [
     {
      "pick": "Derrick Henry over 89.5 rush yds (BAL @ CLE)",
@@ -183,7 +296,7 @@
    ]
   },
   {
-   "slate": "Afternoon · 1 PM PT",
+   "slate": "Sunday · Afternoon · 1 PM PT",
    "picks": [
     {
      "pick": "Matthew Stafford over 279.5 pass yds (ARI @ LAR)",
@@ -206,7 +319,7 @@
    ]
   },
   {
-   "slate": "Late · SNF 5:20 PM PT",
+   "slate": "Sunday · SNF 5:20 PM PT",
    "picks": [
     {
      "pick": "Javonte Williams anytime TD",
@@ -223,25 +336,6 @@
    ]
   }
  ],
- "parlay": {
-  "legs": [
-   {
-    "leg": "Notre Dame ML",
-    "odds": "-400"
-   },
-   {
-    "leg": "Alabama ML",
-    "odds": "-325"
-   },
-   {
-    "leg": "Fresno St. ML",
-    "odds": "-310"
-   }
-  ],
-  "odds": "+116",
-  "why": "Three solid favorites at book prices. Fun only, no edge.",
-  "call": "FUN"
- },
  "sources": [
   {
    "title": "NBC Sports: ALCS Game 4 postponed by rain",
@@ -326,6 +420,104 @@
   {
    "title": "SI: Nebraska vs Oregon odds",
    "url": "https://www.si.com/betting/nebraska-vs-oregon-prediction-odds-and-key-players-to-watch-for-college-football-week-7-01m4vgqpzxrx"
+  },
+  {
+   "title": "Yahoo Sports: CFB player props Oct 17",
+   "url": "https://sports.yahoo.com/articles/college-football-player-props-picks-091322709.html"
+  },
+  {
+   "title": "SportsBettingDime: Saturday CFB player props",
+   "url": "https://www.sportsbettingdime.com/news/college-football/saturday-player-props-best-bets-oct-17/"
+  },
+  {
+   "title": "FanDuel Research: CFB prop bets today",
+   "url": "https://www.fanduel.com/research/college-football-prop-bets-today-3-best-player-props-for-saturday"
+  },
+  {
+   "title": "SportsGambler: Kansas vs Kansas State",
+   "url": "https://www.sportsgambler.com/betting-tips/ncaaf/kansas-jayhawks-vs-kansas-state-wildcats-prediction-odds-2026-10-17/"
+  },
+  {
+   "title": "SportsGambler: Kentucky vs Oklahoma",
+   "url": "https://www.sportsgambler.com/betting-tips/ncaaf/kentucky-wildcats-vs-oklahoma-sooners-prediction-odds-2026-10-17/"
+  },
+  {
+   "title": "TeamRankings: CFB odds & lines",
+   "url": "https://betiq.teamrankings.com/college-football/odds-lines/"
+  },
+  {
+   "title": "Action Network: Florida vs Texas",
+   "url": "https://www.actionnetwork.com/ncaaf-game/florida-texas-score-odds-october-17-2026/289516"
+  },
+  {
+   "title": "Dimers: Kentucky vs Oklahoma",
+   "url": "https://www.dimers.com/cfb/predictions/2026_7_okla_uk"
+  }
+ ],
+ "parlays": [
+  {
+   "name": "Safe favorites (CFB)",
+   "legs": [
+    {
+     "leg": "Texas ML vs Florida",
+     "odds": "-425"
+    },
+    {
+     "leg": "Oklahoma ML vs Kentucky",
+     "odds": "-250"
+    },
+    {
+     "leg": "SMU ML vs Virginia",
+     "odds": "-356"
+    },
+    {
+     "leg": "Northwestern ML vs Michigan St.",
+     "odds": "-300"
+    }
+   ],
+   "odds": "+195",
+   "why": "Four clear home favorites, 70–80% each.",
+   "call": "FUN"
+  },
+  {
+   "name": "Big-name favorites",
+   "legs": [
+    {
+     "leg": "Notre Dame ML",
+     "odds": "-400"
+    },
+    {
+     "leg": "Alabama ML",
+     "odds": "-325"
+    },
+    {
+     "leg": "Fresno St. ML",
+     "odds": "-310"
+    }
+   ],
+   "odds": "+116",
+   "why": "Three solid road favorites at book prices.",
+   "call": "FUN"
+  },
+  {
+   "name": "CFB props",
+   "legs": [
+    {
+     "leg": "Julian Sayin over 1.5 pass TDs",
+     "odds": "-155"
+    },
+    {
+     "leg": "Keelon Russell 250+ pass yds",
+     "odds": "-161"
+    },
+    {
+     "leg": "Dylan Edwards over 62.5 rush yds",
+     "odds": "-118"
+    }
+   ],
+   "odds": "+393",
+   "why": "Usage-driven lines for starters; riskiest of the three.",
+   "call": "FUN"
   }
  ]
 }
