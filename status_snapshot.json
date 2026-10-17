@@ -216,8 +216,18 @@
    "t": "HOU"
   },
   "11630": {
-   "changed": "2026-10-14T03:27:13.405269+00:00",
-   "i": "Out",
+   "changed": "2026-10-17T19:36:17.461901+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 0.97,
+    "name": "Roman Wilson",
+    "note": "Sleeper now lists him on injured reserve (finger) as of 12:36 PM PT Oct 17. Earlier: Wilson (finger) is out for Week 6 at Tampa Bay, per Mike McCarthy on Oct 12-13. Reports say he will miss multiple weeks.",
+    "redraftAdj": 0.3,
+    "sleeperId": "11630",
+    "status": "IR",
+    "tag": "injury"
+   },
+   "i": "IR",
    "qb1": null,
    "t": "PIT"
   },
@@ -1271,18 +1281,18 @@
    "t": "HOU"
   },
   "5927": {
-   "changed": "2026-10-15T22:42:49.214069+00:00",
+   "changed": "2026-10-17T19:36:17.461901+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 1.0,
     "name": "Terry McLaurin",
-    "note": "Sleeper now lists him questionable (hamstring) as of 3:42 PM PT Oct 15.",
-    "redraftAdj": 0.98,
+    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 12:36 PM PT Oct 17. Earlier: McLaurin (hamstring) is listed questionable for Week 6 (Oct 15). The hamstring has bothered him since before Week 4.",
+    "redraftAdj": 1.0,
     "sleeperId": "5927",
-    "status": "Questionable",
+    "status": null,
     "tag": "injury"
    },
-   "i": "Questionable",
+   "i": null,
    "qb1": null,
    "t": "WAS"
   },
@@ -1642,18 +1652,18 @@
    "t": "BUF"
   },
   "8136": {
-   "changed": "2026-10-16T22:43:10.404444+00:00",
+   "changed": "2026-10-17T19:36:17.461901+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 1.0,
     "name": "Rachaad White",
-    "note": "Sleeper now lists him questionable (shoulder) as of 3:43 PM PT Oct 16. Earlier: Croskey-Merritt (groin) missed practice Thursday (Oct 15). If he can't play Monday at San Francisco, White would get a bigger role.",
-    "redraftAdj": 0.98,
+    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 12:36 PM PT Oct 17.",
+    "redraftAdj": 1.0,
     "sleeperId": "8136",
-    "status": "Questionable",
+    "status": null,
     "tag": "injury"
    },
-   "i": "Questionable",
+   "i": null,
    "qb1": null,
    "t": "WAS"
   },

@@ -339,11 +339,12 @@
     {
       "sleeperId": "11630",
       "name": "Roman Wilson",
-      "note": "Wilson (finger) is out for Week 6 at Tampa Bay, per Mike McCarthy on Oct 12-13. Reports say he will miss multiple weeks.",
+      "note": "Sleeper now lists him on injured reserve (finger) as of 12:36 PM PT Oct 17. Earlier: Wilson (finger) is out for Week 6 at Tampa Bay, per Mike McCarthy on Oct 12-13. Reports say he will miss multiple weeks.",
       "tag": "injury",
       "redraftAdj": 0.3,
       "dynastyAdj": 0.97,
-      "status": "Out"
+      "status": "IR",
+      "auto": true
     },
     {
       "sleeperId": "2216",
@@ -366,11 +367,12 @@
     {
       "sleeperId": "5927",
       "name": "Terry McLaurin",
-      "note": "McLaurin (hamstring) is listed questionable for Week 6 (Oct 15). The hamstring has bothered him since before Week 4.",
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 12:36 PM PT Oct 17. Earlier: McLaurin (hamstring) is listed questionable for Week 6 (Oct 15). The hamstring has bothered him since before Week 4.",
       "tag": "injury",
-      "redraftAdj": 0.95,
+      "redraftAdj": 1.0,
       "dynastyAdj": 1.0,
-      "status": "Questionable"
+      "status": null,
+      "auto": true
     },
     {
       "sleeperId": "11628",
@@ -620,14 +622,14 @@
       "tag": "injury"
     },
     {
-      "auto": true,
-      "dynastyAdj": 1.0,
-      "name": "Rachaad White",
-      "note": "Sleeper now lists him questionable (shoulder) as of 3:43 PM PT Oct 16. Earlier: Croskey-Merritt (groin) missed practice Thursday (Oct 15). If he can't play Monday at San Francisco, White would get a bigger role.",
-      "redraftAdj": 0.98,
       "sleeperId": "8136",
-      "status": "Questionable",
-      "tag": "injury"
+      "name": "Rachaad White",
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 12:36 PM PT Oct 17.",
+      "tag": "injury",
+      "redraftAdj": 1.0,
+      "dynastyAdj": 1.0,
+      "status": null,
+      "auto": true
     },
     {
       "auto": true,
@@ -680,5 +682,5 @@
       "auto": true
     }
   ],
-  "statusChecked": "10:38 AM PT Oct 17"
+  "statusChecked": "12:36 PM PT Oct 17"
 }
