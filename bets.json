@@ -1,116 +1,16 @@
 {
  "date": "Sat Oct 17",
- "scanned": "Oct 17, 8:20 AM PT",
+ "scanned": "Oct 17, 2:58 PM PT · recheck",
  "slate": [
-  {
-   "sport": "CFB",
-   "game": "Ohio St. @ Indiana",
-   "time": "9:00 AM PT",
-   "pick": "YES on “Ohio St. wins by over 3.5”",
-   "price": "46¢",
-   "call": "PASS",
-   "why": "Books have OSU ~60% to win; Kalshi matches, no spread edge.",
-   "recheck": ""
-  },
-  {
-   "sport": "CFB",
-   "game": "Kansas @ Kansas St.",
-   "time": "9:00 AM PT",
-   "pick": "YES on “Kansas St. wins by over 4.5”",
-   "price": "45¢",
-   "call": "LEAN",
-   "why": "FanDuel -4.5 is ~50% to cover vs 45¢ here; one book only.",
-   "recheck": "YES if a 2nd book has KSU -4.5+ and Kalshi ≤46¢, before 9 AM."
-  },
-  {
-   "sport": "CFB",
-   "game": "Virginia @ SMU",
-   "time": "9:00 AM PT",
-   "pick": "YES on “SMU wins by over 9.5”",
-   "price": "52¢",
-   "call": "PASS",
-   "why": "Book line is -9.5, so ~50% to cover; Kalshi is fair.",
-   "recheck": ""
-  },
-  {
-   "sport": "CFB",
-   "game": "Northwestern vs Michigan St.",
-   "time": "9:00 AM PT",
-   "pick": "YES on “Northwestern wins by over 6.5”",
-   "price": "55¢",
-   "call": "PASS",
-   "why": "Book has NW -7; 55¢ for -6.5 is about fair.",
-   "recheck": ""
-  },
-  {
-   "sport": "CFB",
-   "game": "Penn St. @ Michigan",
-   "time": "12:30 PM PT",
-   "pick": "NO on “Over 42.5” (= Under 42.5)",
-   "price": "49¢",
-   "call": "PASS",
-   "why": "Book total is 42.5, so 49¢ is fair.",
-   "recheck": ""
-  },
-  {
-   "sport": "CFB",
-   "game": "Alabama @ Tennessee",
-   "time": "12:30 PM PT",
-   "pick": "Alabama ML",
-   "price": "75¢",
-   "call": "PASS",
-   "why": "Books de-vig Bama ~73%; 75¢ has no edge.",
-   "recheck": ""
-  },
-  {
-   "sport": "CFB",
-   "game": "North Carolina @ Duke",
-   "time": "12:30 PM PT",
-   "pick": "Duke ML",
-   "price": "58¢",
-   "call": "PASS",
-   "why": "Books ~59% Duke; the fee wipes out the edge.",
-   "recheck": ""
-  },
-  {
-   "sport": "CFB",
-   "game": "Toledo @ Eastern Michigan",
-   "time": "12:30 PM PT",
-   "pick": "NO on “Toledo wins by over 6.5” (= EMU +6.5)",
-   "price": "48¢",
-   "call": "LEAN",
-   "why": "Books Toledo -5.5 to -6.5; Kalshi rates Toledo too high.",
-   "recheck": "YES at 46¢ or lower, or if books move to -5.5, by 12 PM."
-  },
-  {
-   "sport": "CFB",
-   "game": "Northern Illinois @ Wyoming",
-   "time": "12:30 PM PT",
-   "pick": "NO on “Over 41.5” (= Under 41.5)",
-   "price": "49¢",
-   "call": "LEAN",
-   "why": "Book total 40.5, a point under Kalshi's 41.5 line.",
-   "recheck": "YES if a 2nd book shows 40.5 or lower, before 12 PM."
-  },
-  {
-   "sport": "CFB",
-   "game": "Florida @ Texas",
-   "time": "1:00 PM PT",
-   "pick": "YES on “Texas wins by over 10.5”",
-   "price": "53¢",
-   "call": "PASS",
-   "why": "Books -10.5 to -11; Arch shaky last week (166 yds). Fair price.",
-   "recheck": ""
-  },
   {
    "sport": "CFB",
    "game": "Kentucky @ Oklahoma",
    "time": "4:30 PM PT",
    "pick": "NO on “Over 43.5” (= Under 43.5)",
    "price": "50¢",
-   "call": "WAIT",
-   "why": "Book total 43.5; projections split (Dimers 45, Predictem Under).",
-   "recheck": "3:30 PM PT: YES only at 47¢ or lower."
+   "call": "PASS",
+   "why": "Still 50¢ on the Under; never reached the 47¢ trigger.",
+   "recheck": ""
   },
   {
    "sport": "CFB",
@@ -147,20 +47,20 @@
    "game": "Nebraska @ Oregon",
    "time": "8:00 PM PT",
    "pick": "YES on “Oregon wins by over 7.5”",
-   "price": "45¢",
-   "call": "WAIT",
-   "why": "Book line implies ~50% cover vs 45¢; QB Dante Moore's status unclear.",
-   "recheck": "~5 PM PT: YES if Moore plays and price ≤46¢."
+   "price": "44¢",
+   "call": "PASS",
+   "why": "Dante Moore ruled OUT (concussion); Brock Thomas likely starts. No edge.",
+   "recheck": ""
   },
   {
    "sport": "MLB",
    "game": "Rays @ Guardians · ALCS G4 (CLE leads 2-1)",
    "time": "5:00 PM PT",
    "pick": "Rays ML",
-   "price": "53¢",
+   "price": "52¢",
    "call": "PASS",
-   "why": "Rained out Friday; books ~51/49 TB, Kalshi plus fees worse on both sides.",
-   "recheck": "2:50 PM PT: TB YES at ≤47¢ or CLE at ≤45¢; rain check."
+   "why": "Rained out Friday; still a coin flip at 52/49, no edge.",
+   "recheck": ""
   }
  ],
  "upcoming": [
@@ -215,58 +115,6 @@
   ]
  },
  "props": [
-  {
-   "slate": "College · Morning (9 AM PT)",
-   "picks": [
-    {
-     "pick": "Julian Sayin (OSU) over 1.5 pass TDs",
-     "odds": "-155",
-     "why": "Top-2 Big Ten passer; 50.5 total in a near pick'em.",
-     "call": "LEAN"
-    },
-    {
-     "pick": "Julian Sayin over 257.5 pass yds",
-     "odds": "-120",
-     "why": "Shootout script at Indiana; one book only.",
-     "call": "LEAN"
-    },
-    {
-     "pick": "Dylan Edwards (KSU) over 62.5 rush yds",
-     "odds": "-118",
-     "why": "Lead back for the home favorite.",
-     "call": "LEAN"
-    },
-    {
-     "pick": "Avery Johnson (KSU) over 234.5 pass yds",
-     "odds": "-114",
-     "why": "55.5 total projects plenty of points.",
-     "call": "LEAN"
-    }
-   ]
-  },
-  {
-   "slate": "College · Afternoon (12:30–1 PM PT)",
-   "picks": [
-    {
-     "pick": "Keelon Russell (Bama) 250+ pass yds",
-     "odds": "-161",
-     "why": "Bama air attack vs a soft Vols secondary.",
-     "call": "LEAN"
-    },
-    {
-     "pick": "DeSean Bishop (Tenn) over 94.5 rush yds",
-     "odds": "-114",
-     "why": "Home workhorse back; FanDuel research pick.",
-     "call": "LEAN"
-    },
-    {
-     "pick": "Darian Mensah (Miami) over 2.5 pass TDs",
-     "odds": "-130",
-     "why": "14 TDs, 0 INTs so far; rivalry vs FSU.",
-     "call": "LEAN"
-    }
-   ]
-  },
   {
    "slate": "College · Night (4:30 PM PT+)",
    "picks": [
@@ -452,71 +300,35 @@
   {
    "title": "Dimers: Kentucky vs Oklahoma",
    "url": "https://www.dimers.com/cfb/predictions/2026_7_okla_uk"
+  },
+  {
+   "title": "ESPN: Oregon QB Dante Moore out vs. Nebraska",
+   "url": "https://www.espn.com/college-football/story/_/id/50185818/oregon-nebraska-quarterback-dante-moore-raiola-thomas"
+  },
+  {
+   "title": "On3: Dante Moore ruled out vs. Nebraska",
+   "url": "https://www.on3.com/news/oregon-qb-dante-moore-ruled-out-vs-nebraska-with-injury/"
   }
  ],
  "parlays": [
   {
-   "name": "Safe favorites (CFB)",
-   "legs": [
-    {
-     "leg": "Texas ML vs Florida",
-     "odds": "-425"
-    },
-    {
-     "leg": "Oklahoma ML vs Kentucky",
-     "odds": "-250"
-    },
-    {
-     "leg": "SMU ML vs Virginia",
-     "odds": "-356"
-    },
-    {
-     "leg": "Northwestern ML vs Michigan St.",
-     "odds": "-300"
-    }
-   ],
-   "odds": "+195",
-   "why": "Four clear home favorites, 70–80% each.",
-   "call": "FUN"
-  },
-  {
-   "name": "Big-name favorites",
+   "name": "Tonight's favorites",
    "legs": [
     {
      "leg": "Notre Dame ML",
      "odds": "-400"
     },
     {
-     "leg": "Alabama ML",
-     "odds": "-325"
+     "leg": "Oklahoma ML vs Kentucky",
+     "odds": "-250"
     },
     {
      "leg": "Fresno St. ML",
      "odds": "-310"
     }
    ],
-   "odds": "+116",
-   "why": "Three solid road favorites at book prices.",
-   "call": "FUN"
-  },
-  {
-   "name": "CFB props",
-   "legs": [
-    {
-     "leg": "Julian Sayin over 1.5 pass TDs",
-     "odds": "-155"
-    },
-    {
-     "leg": "Keelon Russell 250+ pass yds",
-     "odds": "-161"
-    },
-    {
-     "leg": "Dylan Edwards over 62.5 rush yds",
-     "odds": "-118"
-    }
-   ],
-   "odds": "+393",
-   "why": "Usage-driven lines for starters; riskiest of the three.",
+   "odds": "+131",
+   "why": "Three night favorites; morning book prices, recheck live.",
    "call": "FUN"
   }
  ]
