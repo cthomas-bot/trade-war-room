@@ -13,11 +13,12 @@
     {
       "sleeperId": "6904",
       "name": "Jalen Hurts",
-      "note": "Hurts was ruled out for Week 6 vs. CAR after an Oct 14 follow-up scan showed his superficial calf blood clot had moved, and the Eagles say his status beyond this week is uncertain while they decide on treatment. Tanner McKee starts Sunday.",
+      "note": "Sleeper now lists him on injured reserve (calf) as of 1:39 PM PT Oct 17. Earlier: Hurts was ruled out for Week 6 vs. CAR after an Oct 14 follow-up scan showed his superficial calf blood clot had moved, and the Eagles say his status beyond this week is uncertain while they decide on treatment. Tanner McKee starts Sunday.",
       "tag": "injury",
       "redraftAdj": 0.5,
       "dynastyAdj": 0.96,
-      "status": "Out"
+      "status": "IR",
+      "auto": true
     },
     {
       "sleeperId": "11560",
@@ -239,11 +240,12 @@
     {
       "sleeperId": "5859",
       "name": "A.J. Brown",
-      "note": "Listed as questionable (ankle) on Friday's (Oct 16) final report after limited practices, but he is still on IR and must be activated by 4 p.m. ET Saturday to play vs. the Jets. Vrabel will decide Saturday, and Rapoport reportedly suggested he may need one more week, with the Oct 22 Thursday game at Chicago a possible return.",
-      "tag": "return",
-      "redraftAdj": 1.1,
-      "dynastyAdj": 1.03,
-      "status": "Questionable"
+      "note": "Sleeper now lists him questionable (ankle) as of 1:39 PM PT Oct 17. Earlier: Listed as questionable (ankle) on Friday's (Oct 16) final report after limited practices, but he is still on IR and must be activated by 4 p.m. ET Saturday to play vs. the Jets. Vrabel will decide Saturday, and Rapoport reportedly suggested he may need one more week, with the Oct 22 Thursday game at Chicago a possible return.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
+      "status": "Questionable",
+      "auto": true
     },
     {
       "sleeperId": "4983",
@@ -276,11 +278,12 @@
     {
       "sleeperId": "13293",
       "name": "Ja'Kobi Lane",
-      "note": "Practiced fully after wrist surgery and is listed as questionable (wrist) on the final Week 6 report (Oct 16) for Sunday at Cleveland. Ravens.com reports he was activated from IR, but Lamar Jackson is out, which hurts the passing game.",
-      "tag": "return",
-      "redraftAdj": 1.15,
-      "dynastyAdj": 1.03,
-      "status": "Questionable"
+      "note": "Sleeper now lists him questionable (wrist) as of 1:39 PM PT Oct 17. Earlier: Practiced fully after wrist surgery and is listed as questionable (wrist) on the final Week 6 report (Oct 16) for Sunday at Cleveland. Ravens.com reports he was activated from IR, but Lamar Jackson is out, which hurts the passing game.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
+      "status": "Questionable",
+      "auto": true
     },
     {
       "sleeperId": "13380",
@@ -680,7 +683,17 @@
       "dynastyAdj": 1.0,
       "status": "Questionable",
       "auto": true
+    },
+    {
+      "sleeperId": "13276",
+      "name": "Omar Cooper",
+      "note": "Sleeper now lists him questionable (ankle) as of 1:39 PM PT Oct 17.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
+      "status": "Questionable",
+      "auto": true
     }
   ],
-  "statusChecked": "12:36 PM PT Oct 17"
+  "statusChecked": "1:39 PM PT Oct 17"
 }

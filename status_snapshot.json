@@ -626,9 +626,18 @@
    "t": "LAR"
   },
   "13276": {
-   "changed": null,
-   "entry": null,
-   "i": "IR",
+   "changed": "2026-10-17T20:39:53.775970+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Omar Cooper",
+    "note": "Sleeper now lists him questionable (ankle) as of 1:39 PM PT Oct 17.",
+    "redraftAdj": 0.98,
+    "sleeperId": "13276",
+    "status": "Questionable",
+    "tag": "injury"
+   },
+   "i": "Questionable",
    "qb1": null,
    "t": "NYJ"
   },
@@ -695,9 +704,18 @@
    "t": "PIT"
   },
   "13293": {
-   "changed": null,
-   "entry": null,
-   "i": "IR",
+   "changed": "2026-10-17T20:39:53.775970+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Ja'Kobi Lane",
+    "note": "Sleeper now lists him questionable (wrist) as of 1:39 PM PT Oct 17. Earlier: Practiced fully after wrist surgery and is listed as questionable (wrist) on the final Week 6 report (Oct 16) for Sunday at Cleveland. Ravens.com reports he was activated from IR, but Lamar Jackson is out, which hurts the passing game.",
+    "redraftAdj": 0.98,
+    "sleeperId": "13293",
+    "status": "Questionable",
+    "tag": "injury"
+   },
+   "i": "Questionable",
    "qb1": null,
    "t": "BAL"
   },
@@ -1245,9 +1263,18 @@
    "t": "GB"
   },
   "5859": {
-   "changed": null,
-   "entry": null,
-   "i": "IR",
+   "changed": "2026-10-17T20:39:53.775970+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "A.J. Brown",
+    "note": "Sleeper now lists him questionable (ankle) as of 1:39 PM PT Oct 17. Earlier: Listed as questionable (ankle) on Friday's (Oct 16) final report after limited practices, but he is still on IR and must be activated by 4 p.m. ET Saturday to play vs. the Jets. Vrabel will decide Saturday, and Rapoport reportedly suggested he may need one more week, with the Oct 22 Thursday game at Chicago a possible return.",
+    "redraftAdj": 0.98,
+    "sleeperId": "5859",
+    "status": "Questionable",
+    "tag": "injury"
+   },
+   "i": "Questionable",
    "qb1": null,
    "t": "NE"
   },
@@ -1403,18 +1430,18 @@
    "t": "PIT"
   },
   "6904": {
-   "changed": "2026-10-16T00:53:08.615765+00:00",
+   "changed": "2026-10-17T20:39:53.775970+00:00",
    "entry": {
     "auto": true,
-    "dynastyAdj": 0.95,
+    "dynastyAdj": 0.96,
     "name": "Jalen Hurts",
-    "note": "Sleeper's depth chart now has him as PHI's backup QB as of 5:53 PM PT Oct 15.",
-    "redraftAdj": 0.8,
+    "note": "Sleeper now lists him on injured reserve (calf) as of 1:39 PM PT Oct 17. Earlier: Hurts was ruled out for Week 6 vs. CAR after an Oct 14 follow-up scan showed his superficial calf blood clot had moved, and the Eagles say his status beyond this week is uncertain while they decide on treatment. Tanner McKee starts Sunday.",
+    "redraftAdj": 0.5,
     "sleeperId": "6904",
-    "status": "Out",
-    "tag": "role_down"
+    "status": "IR",
+    "tag": "injury"
    },
-   "i": "Out",
+   "i": "IR",
    "qb1": false,
    "t": "PHI"
   },
