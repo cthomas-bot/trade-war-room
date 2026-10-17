@@ -1270,13 +1270,14 @@ function primePanel(b){
 function propsPanel(b){
   const p=b.props||[];
   const body=p.length?p.map(s=>'<div class="ev-h">'+esc(s.slate)+'</div>'+(s.picks||[]).map(x=>'<div class="km" style="grid-template-columns:minmax(0,1fr) auto"><span><b>'+esc(x.pick)+'</b>'+(x.odds?' <span class="muted">'+esc(x.odds)+'</span>':'')+(x.why?'<br><small class="muted">'+esc(x.why)+'</small>':'')+'</span>'+call(x.call||'LEAN')+'</div>').join('')).join('')
-    :'<p class="muted" style="font-size:13px">Best props for the morning, afternoon and late slates post Sunday morning.</p>';
-  return panel('Sunday Props','✚',body);
+    :'<p class="muted" style="font-size:13px">Props post with the morning scan on college Saturdays and NFL Sundays.</p>';
+  return panel('Props','✚',body);
 }
 function parlayPanel(b){
-  const p=b.parlay;if(!p||!(p.legs||[]).length)return '';
-  return panel('Fun Parlay','⛓','<div class="plist">'+p.legs.map((l,i)=>'<div class="km" style="grid-template-columns:24px minmax(0,1fr) auto"><span class="muted">'+(i+1)+'</span><span><b>'+esc(l.leg)+'</b></span><span class="num">'+esc(l.odds||'')+'</span></div>').join('')+'</div>'+
-    '<div class="sl-pick" style="margin-top:8px">'+call(p.call||'FUN')+' <b>'+esc(p.odds||'')+'</b>'+(p.why?' — '+esc(p.why):'')+'</div><p class="muted" style="font-size:11px;margin:6px 0 0">For fun: $5 max, only likely legs, no longshots.</p>',{right:'<small>'+p.legs.length+' legs</small>'});
+  const ps=(b.parlays&&b.parlays.length?b.parlays:(b.parlay?[b.parlay]:[])).filter(p=>p&&(p.legs||[]).length);if(!ps.length)return '';
+  const one=p=>(p.name?'<div class="ev-h">'+esc(p.name)+'</div>':'')+'<div class="plist">'+p.legs.map((l,i)=>'<div class="km" style="grid-template-columns:24px minmax(0,1fr) auto"><span class="muted">'+(i+1)+'</span><span><b>'+esc(l.leg)+'</b></span><span class="num">'+esc(l.odds||'')+'</span></div>').join('')+'</div>'+
+    '<div class="sl-pick" style="margin:8px 0 4px">'+call(p.call||'FUN')+' <b>'+esc(p.odds||'')+'</b>'+(p.why?' — '+esc(p.why):'')+'</div>';
+  return panel(ps.length>1?'Fun Parlays':'Fun Parlay','⛓',ps.map(one).join('')+'<p class="muted" style="font-size:11px;margin:6px 0 0">For fun: $5 max, pick one, only likely legs, no longshots.</p>',{right:'<small>'+(ps.length>1?ps.length+' parlays':ps[0].legs.length+' legs')+'</small>'});
 }
 function sourcesPanel(b){
   const s=b.sources||[];if(!s.length)return '';

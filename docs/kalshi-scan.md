@@ -23,7 +23,8 @@ Compare Kalshi prices (kalshi.json snapshot; recheck live before betting) with d
 ## Extra sections
 - **Primetime** (on days with an upcoming TNF/SNF/MNF this week): one card per game with line, pick, call, 1–2 solid props, recheck. TNF: also report the season's real TNF underdog record (straight up / ATS) with a source.
 - **Sunday props** (NFL Sundays): best props split into Morning (10 AM PT), Afternoon (1 PM PT) and Late (SNF) slates, 2–4 per slate, realistic lines with odds.
-- **Fun parlay** (optional): 2–4 likely legs, ≤ about +400.
+- **Props on college Saturdays too**: slates like "College · Morning (9 AM PT)", "College · Afternoon", "College · Night", 2–4 props each with real odds.
+- **Fun parlays** (optional): up to 3 in `parlays` (each with a `name`, e.g. "Safe favorites", "CFB props"), 2–4 likely legs each, ≤ about +400. A single `parlay` object still works.
 
 ## Schedule
 - **Morning scan** (~7:50 AM PT daily): full scan, written fresh.
