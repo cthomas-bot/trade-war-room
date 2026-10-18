@@ -1,77 +1,7 @@
 {
  "date": "Sun Oct 18",
- "scanned": "Oct 18, 8:05 AM PT",
+ "scanned": "Oct 18, 12:28 PM PT · recheck",
  "slate": [
-  {
-   "sport": "NFL",
-   "game": "Ravens @ Browns",
-   "time": "10:00 AM PT",
-   "pick": "Browns ML",
-   "price": "39¢",
-   "call": "WAIT",
-   "why": "Lamar out, Huntley starts; no post-ruling book line found yet.",
-   "recheck": "9:30 AM PT: YES if books have CLE ≥44% (+125 or shorter)."
-  },
-  {
-   "sport": "NFL",
-   "game": "Panthers @ Eagles",
-   "time": "10:00 AM PT",
-   "pick": "Panthers ML",
-   "price": "61¢",
-   "call": "PASS",
-   "why": "Books ~62% CAR with McKee starting; no edge after fee.",
-   "recheck": ""
-  },
-  {
-   "sport": "NFL",
-   "game": "Bears @ Falcons",
-   "time": "10:00 AM PT",
-   "pick": "Bears ML",
-   "price": "52¢",
-   "call": "WAIT",
-   "why": "DK Bears -3 implies ~58%, but Kalshi suggests the line slipped.",
-   "recheck": "9:30 AM PT: YES if books still CHI -3 (ML ≤-150) and Caleb active."
-  },
-  {
-   "sport": "NFL",
-   "game": "Saints @ Giants",
-   "time": "10:00 AM PT",
-   "pick": "Saints ML",
-   "price": "50¢",
-   "call": "PASS",
-   "why": "Books ~51% NO; Kalshi fair. Winston starts for NYG.",
-   "recheck": ""
-  },
-  {
-   "sport": "NFL",
-   "game": "Jets @ Patriots",
-   "time": "10:00 AM PT",
-   "pick": "YES on “Over 43.5”",
-   "price": "48¢",
-   "call": "LEAN",
-   "why": "Books moved total up to 44.5; Over 43.5 ~51%.",
-   "recheck": "YES at 46¢ or lower before 10 AM."
-  },
-  {
-   "sport": "NFL",
-   "game": "Steelers @ Buccaneers",
-   "time": "10:00 AM PT",
-   "pick": "Steelers ML",
-   "price": "57¢",
-   "call": "PASS",
-   "why": "Books ~57% PIT; Kalshi matches. Jalon Daniels starts.",
-   "recheck": ""
-  },
-  {
-   "sport": "NFL",
-   "game": "Titans @ Colts",
-   "time": "10:00 AM PT",
-   "pick": "NO on “Colts win by over 6.5” (= TEN +6.5)",
-   "price": "50¢",
-   "call": "PASS",
-   "why": "IND -6.5/-7 ~52% to cover; fairly priced.",
-   "recheck": ""
-  },
   {
    "sport": "NFL",
    "game": "Cardinals @ Rams",
@@ -87,10 +17,10 @@
    "game": "Bills @ Raiders",
    "time": "1:25 PM PT",
    "pick": "Bills ML",
-   "price": "68¢",
+   "price": "69¢",
    "call": "PASS",
-   "why": "Books -244 (~68% fair) match Kalshi; total 53.5 also fair.",
-   "recheck": "11:55 AM PT inactives: DJ Moore, Ed Oliver, Jeanty (foot)."
+   "why": "DJ Moore and Ed Oliver inactive; books ~68% BUF, so no edge.",
+   "recheck": ""
   },
   {
    "sport": "NFL",
@@ -98,9 +28,9 @@
    "time": "1:25 PM PT",
    "pick": "YES on “Over 42.5”",
    "price": "46¢",
-   "call": "WAIT",
-   "why": "Books ~50% Over; ~2 points net after fees, just under the bar.",
-   "recheck": "12:20 PM PT: YES at 44¢ or lower, or if books move to 43.5."
+   "call": "LEAN",
+   "why": "LAC without Alt and Derwin James; books ~42.5 vs 46¢ here, ~2 pts edge.",
+   "recheck": "Still a YES only at 44¢ or lower before 1:25 PM."
   }
  ],
  "upcoming": [
@@ -144,23 +74,6 @@
   ]
  },
  "props": [
-  {
-   "slate": "Sunday · Morning (10 AM PT)",
-   "picks": [
-    {
-     "pick": "Derrick Henry over 87.5 rush yds (BAL @ CLE)",
-     "odds": "-112",
-     "why": "95 yds/game; CLE allows 4.8 YPC; Huntley offense leans on the run.",
-     "call": "LEAN"
-    },
-    {
-     "pick": "Tyler Warren anytime TD (TEN @ IND)",
-     "odds": "41¢ Kalshi (~+144)",
-     "why": "Colts' top TE vs 0-5 Titans; IND favored by 6.5.",
-     "call": "LEAN"
-    }
-   ]
-  },
   {
    "slate": "Sunday · Afternoon (1 PM PT)",
    "picks": [
@@ -209,42 +122,6 @@
    ],
    "odds": "+219",
    "why": "Two heavy favorites plus GB at home; rebuild at one book.",
-   "call": "FUN"
-  },
-  {
-   "name": "Anytime TDs",
-   "legs": [
-    {
-     "leg": "Kenneth Walker III anytime TD",
-     "odds": "-170"
-    },
-    {
-     "leg": "Tyler Warren anytime TD",
-     "odds": "+144"
-    }
-   ],
-   "odds": "+287",
-   "why": "Workhorse back plus Colts' top TE in good matchups.",
-   "call": "FUN"
-  },
-  {
-   "name": "Sunday mix",
-   "legs": [
-    {
-     "leg": "Derrick Henry over 87.5 rush yds",
-     "odds": "-112"
-    },
-    {
-     "leg": "Chiefs ML vs LAC",
-     "odds": "-440"
-    },
-    {
-     "leg": "Kenneth Walker III anytime TD",
-     "odds": "-170"
-    }
-   ],
-   "odds": "+269",
-   "why": "Henry volume plus a KC script that feeds Walker (legs correlated).",
    "call": "FUN"
   }
  ],
@@ -332,6 +209,18 @@
   {
    "title": "ATS.io: Cowboys vs Packers SNF props",
    "url": "https://ats.io/nfl/cowboys-vs-packers-sunday-night-football-player-props-10-18-2026/"
+  },
+  {
+   "title": "NFL.com: Week 6 inactives",
+   "url": "https://www.nfl.com/news/nfl-week-6-inactives-players-ruled-out-sunday-2026-season"
+  },
+  {
+   "title": "Raiders.com: Week 6 inactives vs. Bills",
+   "url": "https://www.raiders.com/news/las-vegas-raiders-week-6-inactives-vs-buffalo-bills-101826"
+  },
+  {
+   "title": "Chargers.com: Week 6 inactives at Chiefs",
+   "url": "https://chargers.com/news/chiefs-inactives-week-6-2026"
   }
  ]
 }
