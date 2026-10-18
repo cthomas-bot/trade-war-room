@@ -1,27 +1,8 @@
 {
  "season": "2026",
  "week": 6,
- "updated": "2026-10-17 6:17 PM PT",
+ "updated": "2026-10-17 9:10 PM PT",
  "games": [
-  {
-   "id": "401872995",
-   "kickoff": "2026-10-16T00:15Z",
-   "state": "post",
-   "home": "DEN",
-   "away": "SEA",
-   "homeScore": "17",
-   "awayScore": "14",
-   "venue": "Empower Field at Mile High",
-   "tv": "Prime Video",
-   "weather": {
-    "roof": "open",
-    "temp": 53.4,
-    "precip": 0,
-    "code": 0,
-    "wind": 6.2,
-    "night": false
-   }
-  },
   {
    "id": "401872996",
    "kickoff": "2026-10-18T13:30Z",
@@ -33,19 +14,19 @@
    "venue": "Wembley Stadium",
    "tv": "NFL Net",
    "details": "JAX -2.5",
-   "total": 42.5,
+   "total": 41.5,
    "fav": "JAX",
    "spread": 2.5,
    "homeML": null,
    "awayML": null,
-   "homeImplied": 22.5,
-   "awayImplied": 20.0,
+   "homeImplied": 22.0,
+   "awayImplied": 19.5,
    "weather": {
     "roof": "open",
-    "temp": 56.3,
-    "precip": 10,
+    "temp": 54.8,
+    "precip": 4,
     "code": 3,
-    "wind": 11.6,
+    "wind": 10.3,
     "night": false
    }
   },
@@ -69,7 +50,7 @@
    "awayImplied": 27.0,
    "weather": {
     "roof": "retract",
-    "temp": 60.3,
+    "temp": 60.5,
     "precip": 0,
     "code": 0,
     "wind": 13.7,
@@ -96,10 +77,10 @@
    "awayImplied": 21.2,
    "weather": {
     "roof": "open",
-    "temp": 57.5,
+    "temp": 57.3,
     "precip": 0,
     "code": 0,
-    "wind": 8.8,
+    "wind": 9.2,
     "night": false
    }
   },
@@ -113,20 +94,20 @@
    "awayScore": "0",
    "venue": "Lucas Oil Stadium",
    "tv": "Fox",
-   "details": "IND -7",
+   "details": "IND -6.5",
    "total": 44.5,
    "fav": "IND",
-   "spread": 7.0,
+   "spread": 6.5,
    "homeML": null,
    "awayML": null,
-   "homeImplied": 25.8,
-   "awayImplied": 18.8,
+   "homeImplied": 25.5,
+   "awayImplied": 19.0,
    "weather": {
     "roof": "retract",
-    "temp": 55.8,
+    "temp": 54.8,
     "precip": 0,
     "code": 0,
-    "wind": 7.9,
+    "wind": 7.5,
     "night": false
    }
   },
@@ -150,10 +131,10 @@
    "awayImplied": 18.0,
    "weather": {
     "roof": "open",
-    "temp": 50.9,
+    "temp": 50.6,
     "precip": 0,
     "code": 0,
-    "wind": 3.8,
+    "wind": 3.3,
     "night": false
    }
   },
@@ -180,7 +161,7 @@
     "temp": 55.1,
     "precip": 0,
     "code": 0,
-    "wind": 6.9,
+    "wind": 5.8,
     "night": false
    }
   },
@@ -204,10 +185,10 @@
    "awayImplied": 21.2,
    "weather": {
     "roof": "open",
-    "temp": 53.7,
+    "temp": 53.5,
     "precip": 0,
     "code": 0,
-    "wind": 8.7,
+    "wind": 7.0,
     "night": false
    }
   },
@@ -231,10 +212,10 @@
    "awayImplied": 20.5,
    "weather": {
     "roof": "open",
-    "temp": 74.8,
+    "temp": 74.4,
     "precip": 0,
     "code": 0,
-    "wind": 13.3,
+    "wind": 14.1,
     "night": false
    }
   },
@@ -280,10 +261,10 @@
    "awayImplied": 17.0,
    "weather": {
     "roof": "open",
-    "temp": 64.3,
+    "temp": 64.4,
     "precip": 0,
     "code": 0,
-    "wind": 12.8,
+    "wind": 12.4,
     "night": false
    }
   },
@@ -329,11 +310,30 @@
    "awayImplied": 26.0,
    "weather": {
     "roof": "open",
-    "temp": 50.7,
+    "temp": 51.9,
     "precip": 0,
     "code": 0,
-    "wind": 8.7,
+    "wind": 9.1,
     "night": true
+   }
+  },
+  {
+   "id": "401872995",
+   "kickoff": "2026-10-16T00:15Z",
+   "state": "post",
+   "home": "DEN",
+   "away": "SEA",
+   "homeScore": "17",
+   "awayScore": "14",
+   "venue": "Empower Field at Mile High",
+   "tv": "Prime Video",
+   "weather": {
+    "roof": "open",
+    "temp": 53.4,
+    "precip": 0,
+    "code": 0,
+    "wind": 6.2,
+    "night": false
    }
   },
   {
@@ -356,10 +356,10 @@
    "awayImplied": 22.5,
    "weather": {
     "roof": "open",
-    "temp": 65.4,
+    "temp": 64.3,
     "precip": 0,
     "code": 3,
-    "wind": 10.2,
+    "wind": 10.9,
     "night": false
    }
   }
@@ -522,9 +522,9 @@
    "opp": "ARI"
   },
   "11628": {
-   "half": 2.96,
-   "ppr": 3.5,
-   "std": 2.43,
+   "half": 2.95,
+   "ppr": 3.48,
+   "std": 2.42,
    "opp": "JAX"
   },
   "11635": {
@@ -570,15 +570,15 @@
    "opp": "NE"
   },
   "13299": {
-   "half": 1.15,
+   "half": 1.14,
    "ppr": 1.44,
    "std": 0.85,
    "opp": "HOU"
   },
   "13307": {
-   "half": 0.97,
-   "ppr": 1.24,
-   "std": 0.7,
+   "half": 0.96,
+   "ppr": 1.23,
+   "std": 0.69,
    "opp": "JAX"
   },
   "13329": {
@@ -630,15 +630,15 @@
    "opp": "ARI"
   },
   "4718": {
-   "half": 1.97,
-   "ppr": 2.44,
-   "std": 1.5,
+   "half": 1.96,
+   "ppr": 2.43,
+   "std": 1.48,
    "opp": "JAX"
   },
   "5001": {
-   "half": 6.81,
-   "ppr": 8.73,
-   "std": 4.88,
+   "half": 6.78,
+   "ppr": 8.71,
+   "std": 4.86,
    "opp": "JAX"
   },
   "5870": {
@@ -768,9 +768,9 @@
    "opp": "ARI"
   },
   "10219": {
-   "half": 3.82,
-   "ppr": 4.0,
-   "std": 3.64,
+   "half": 3.78,
+   "ppr": 3.96,
+   "std": 3.6,
    "opp": "HOU"
   },
   "10232": {
@@ -864,9 +864,9 @@
    "opp": "NYJ"
   },
   "12544": {
-   "half": 1.37,
-   "ppr": 1.7,
-   "std": 1.04,
+   "half": 1.36,
+   "ppr": 1.69,
+   "std": 1.03,
    "opp": "HOU"
   },
   "13274": {
@@ -882,9 +882,9 @@
    "opp": "LAC"
   },
   "13394": {
-   "half": 2.93,
-   "ppr": 3.49,
-   "std": 2.38,
+   "half": 2.92,
+   "ppr": 3.47,
+   "std": 2.36,
    "opp": "HOU"
   },
   "13411": {
@@ -954,9 +954,9 @@
    "opp": "CHI"
   },
   "7569": {
-   "half": 15.5,
-   "ppr": 18.36,
-   "std": 12.63,
+   "half": 15.38,
+   "ppr": 18.25,
+   "std": 12.52,
    "opp": "JAX"
   },
   "7694": {
@@ -1026,8 +1026,8 @@
    "opp": "DAL"
   },
   "10218": {
-   "half": 2.51,
-   "ppr": 3.09,
+   "half": 2.5,
+   "ppr": 3.08,
    "std": 1.92,
    "opp": "JAX"
   },
@@ -1074,9 +1074,9 @@
    "opp": "GB"
   },
   "12474": {
-   "half": 12.26,
-   "ppr": 13.37,
-   "std": 11.14,
+   "half": 12.12,
+   "ppr": 13.23,
+   "std": 11.01,
    "opp": "JAX"
   },
   "12481": {
@@ -1111,7 +1111,7 @@
   },
   "12530": {
    "half": 1.3,
-   "ppr": 1.6,
+   "ppr": 1.59,
    "std": 1.0,
    "opp": "HOU"
   },
@@ -1183,14 +1183,14 @@
   },
   "13408": {
    "half": 0.98,
-   "ppr": 1.23,
+   "ppr": 1.22,
    "std": 0.73,
    "opp": "HOU"
   },
   "2359": {
    "half": 0.72,
    "ppr": 0.82,
-   "std": 0.62,
+   "std": 0.61,
    "opp": "HOU"
   },
   "3198": {
@@ -1206,9 +1206,9 @@
    "opp": "CLE"
   },
   "5947": {
-   "half": 7.22,
-   "ppr": 8.84,
-   "std": 5.61,
+   "half": 7.2,
+   "ppr": 8.81,
+   "std": 5.59,
    "opp": "HOU"
   },
   "6039": {
@@ -1260,9 +1260,9 @@
    "opp": "DAL"
   },
   "9487": {
-   "half": 12.72,
-   "ppr": 15.07,
-   "std": 10.38,
+   "half": 12.66,
+   "ppr": 15.01,
+   "std": 10.32,
    "opp": "HOU"
   },
   "9506": {
@@ -1278,9 +1278,9 @@
    "opp": "KC"
   },
   "9758": {
-   "half": 15.33,
-   "ppr": 15.33,
-   "std": 15.33,
+   "half": 15.19,
+   "ppr": 15.19,
+   "std": 15.19,
    "opp": "JAX"
   },
   "11034": {
@@ -1308,9 +1308,9 @@
    "opp": "BAL"
   },
   "11588": {
-   "half": 2.16,
-   "ppr": 2.38,
-   "std": 1.93,
+   "half": 2.15,
+   "ppr": 2.37,
+   "std": 1.92,
    "opp": "JAX"
   },
   "11593": {
@@ -1350,9 +1350,9 @@
    "opp": "PHI"
   },
   "12536": {
-   "half": 4.59,
-   "ppr": 5.49,
-   "std": 3.7,
+   "half": 4.56,
+   "ppr": 5.46,
+   "std": 3.67,
    "opp": "JAX"
   },
   "12540": {
@@ -1506,9 +1506,9 @@
    "opp": "TB"
   },
   "9480": {
-   "half": 8.23,
-   "ppr": 10.25,
-   "std": 6.21,
+   "half": 8.19,
+   "ppr": 10.22,
+   "std": 6.17,
    "opp": "HOU"
   },
   "9754": {
@@ -1759,8 +1759,8 @@
   },
   "11599": {
    "half": 0.7,
-   "ppr": 0.9,
-   "std": 0.51,
+   "ppr": 0.89,
+   "std": 0.5,
    "opp": "JAX"
   },
   "11608": {
@@ -1782,15 +1782,15 @@
    "opp": "CLE"
   },
   "11631": {
-   "half": 5.88,
-   "ppr": 7.1,
-   "std": 4.67,
+   "half": 5.86,
+   "ppr": 7.08,
+   "std": 4.65,
    "opp": "HOU"
   },
   "12490": {
-   "half": 12.16,
-   "ppr": 13.17,
-   "std": 11.15,
+   "half": 12.06,
+   "ppr": 13.07,
+   "std": 11.05,
    "opp": "HOU"
   },
   "12503": {
@@ -1872,9 +1872,9 @@
    "opp": "LV"
   },
   "5985": {
-   "half": 3.07,
-   "ppr": 3.82,
-   "std": 2.32,
+   "half": 3.05,
+   "ppr": 3.8,
+   "std": 2.3,
    "opp": "JAX"
   },
   "6271": {
@@ -1896,9 +1896,9 @@
    "opp": "ATL"
   },
   "7523": {
-   "half": 18.38,
-   "ppr": 18.38,
-   "std": 18.38,
+   "half": 18.21,
+   "ppr": 18.21,
+   "std": 18.21,
    "opp": "HOU"
   },
   "7528": {
@@ -1974,9 +1974,9 @@
    "opp": "ARI"
   },
   "9504": {
-   "half": 3.6,
-   "ppr": 4.42,
-   "std": 2.78,
+   "half": 3.58,
+   "ppr": 4.4,
+   "std": 2.76,
    "opp": "JAX"
   },
   "96": {
@@ -1999,19 +1999,19 @@
   },
   "2216": {
    "half": 14.33,
-   "ppr": 16.58,
+   "ppr": 16.57,
    "std": 12.08,
    "opp": "WAS"
   },
   "2449": {
    "half": 7.86,
-   "ppr": 9.49,
+   "ppr": 9.48,
    "std": 6.24,
    "opp": "SF"
   },
   "4217": {
    "half": 12.73,
-   "ppr": 15.12,
+   "ppr": 15.11,
    "std": 10.34,
    "opp": "WAS"
   },
@@ -2036,7 +2036,7 @@
   "13414": {
    "half": 5.24,
    "ppr": 5.58,
-   "std": 4.89,
+   "std": 4.9,
    "opp": "WAS"
   },
   "2197": {
@@ -2047,7 +2047,7 @@
   },
   "4663": {
    "half": 6.12,
-   "ppr": 6.72,
+   "ppr": 6.73,
    "std": 5.52,
    "opp": "SF"
   },
@@ -2064,9 +2064,9 @@
    "opp": "SF"
   },
   "8183": {
-   "half": 22.62,
-   "ppr": 22.62,
-   "std": 22.62,
+   "half": 22.61,
+   "ppr": 22.61,
+   "std": 22.61,
    "opp": "WAS"
   },
   "11616": {
@@ -2102,11 +2102,11 @@
   "4034": {
    "half": 19.09,
    "ppr": 20.94,
-   "std": 17.24,
+   "std": 17.25,
    "opp": "WAS"
   },
   "4219": {
-   "half": 1.07,
+   "half": 1.08,
    "ppr": 1.2,
    "std": 0.95,
    "opp": "SF"
