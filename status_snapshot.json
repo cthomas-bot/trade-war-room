@@ -635,8 +635,18 @@
    "t": "LV"
   },
   "13272": {
-   "changed": "2026-10-14T07:49:46.658762+00:00",
-   "i": null,
+   "changed": "2026-10-18T19:36:40.936280+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Carson Beck",
+    "note": "Sleeper now lists him out (coach's decision) as of 12:36 PM PT Oct 18.",
+    "redraftAdj": 0.9,
+    "sleeperId": "13272",
+    "status": "Out",
+    "tag": "injury"
+   },
+   "i": "Out",
    "qb1": false,
    "t": "ARI"
   },
@@ -648,8 +658,18 @@
    "t": "PIT"
   },
   "13275": {
-   "changed": "2026-10-14T07:49:46.658762+00:00",
-   "i": null,
+   "changed": "2026-10-18T19:36:40.936280+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Ty Simpson",
+    "note": "Sleeper now lists him out (coach's decision) as of 12:36 PM PT Oct 18.",
+    "redraftAdj": 0.9,
+    "sleeperId": "13275",
+    "status": "Out",
+    "tag": "injury"
+   },
+   "i": "Out",
    "qb1": false,
    "t": "LAR"
   },
@@ -946,8 +966,18 @@
    "t": "PHI"
   },
   "13380": {
-   "changed": "2026-10-14T07:49:46.658762+00:00",
-   "i": "Questionable",
+   "changed": "2026-10-18T19:36:40.936280+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Brenen Thompson",
+    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 12:36 PM PT Oct 18. Earlier: Questionable (quad) for Sunday, Oct 18 at Kansas City after limited practices all week. He has not played since Week 2.",
+    "redraftAdj": 1.0,
+    "sleeperId": "13380",
+    "status": null,
+    "tag": "injury"
+   },
+   "i": null,
    "qb1": null,
    "t": "LAC"
   },
@@ -1282,8 +1312,18 @@
    "t": "SEA"
   },
   "4983": {
-   "changed": "2026-10-14T07:49:46.658762+00:00",
-   "i": "Questionable",
+   "changed": "2026-10-18T19:36:40.936280+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 0.98,
+    "name": "DJ Moore",
+    "note": "Sleeper now lists him out (shoulder - ac joint) as of 12:36 PM PT Oct 18. Earlier: Still questionable (shoulder) for Sunday, Oct 18 at Las Vegas after missing practice early in the week. He also missed Week 5 with the same injury, and Buffalo has a Week 7 bye.",
+    "redraftAdj": 0.6,
+    "sleeperId": "4983",
+    "status": "Out",
+    "tag": "injury"
+   },
+   "i": "Out",
    "qb1": null,
    "t": "BUF"
   },
@@ -1625,18 +1665,18 @@
    "t": "HOU"
   },
   "7571": {
-   "changed": "2026-10-18T18:43:44.843406+00:00",
+   "changed": "2026-10-18T19:36:40.936280+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 1.0,
     "name": "Rashod Bateman",
-    "note": "Sleeper now lists him questionable (shoulder) as of 11:43 AM PT Oct 18.",
-    "redraftAdj": 0.98,
+    "note": "Sleeper now lists him out (shoulder) as of 12:36 PM PT Oct 18.",
+    "redraftAdj": 0.9,
     "sleeperId": "7571",
-    "status": "Questionable",
+    "status": "Out",
     "tag": "injury"
    },
-   "i": "Questionable",
+   "i": "Out",
    "qb1": null,
    "t": "BAL"
   },
@@ -1692,18 +1732,18 @@
    "t": "ATL"
   },
   "8121": {
-   "changed": "2026-10-18T18:43:44.843406+00:00",
+   "changed": "2026-10-18T19:36:40.936280+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 0.97,
     "name": "Romeo Doubs",
-    "note": "Sleeper now lists him questionable (shoulder) as of 11:43 AM PT Oct 18. Earlier: A.J. Brown (ankle) returned to practice off IR this week, and Mike Vrabel said there's a chance he plays Week 6 at the Jets (Oct 18). As of Oct 17, Brown hadn't been confirmed as activated. His return would cut into Doubs' targets.",
-    "redraftAdj": 0.92,
+    "note": "Sleeper now lists him out (shoulder) as of 12:36 PM PT Oct 18.",
+    "redraftAdj": 0.9,
     "sleeperId": "8121",
-    "status": "Questionable",
+    "status": "Out",
     "tag": "injury"
    },
-   "i": "Questionable",
+   "i": "Out",
    "qb1": null,
    "t": "NE"
   },

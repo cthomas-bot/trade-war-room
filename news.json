@@ -273,11 +273,12 @@
     {
       "sleeperId": "4983",
       "name": "DJ Moore",
-      "note": "Still questionable (shoulder) for Sunday, Oct 18 at Las Vegas after missing practice early in the week. He also missed Week 5 with the same injury, and Buffalo has a Week 7 bye.",
+      "note": "Sleeper now lists him out (shoulder - ac joint) as of 12:36 PM PT Oct 18. Earlier: Still questionable (shoulder) for Sunday, Oct 18 at Las Vegas after missing practice early in the week. He also missed Week 5 with the same injury, and Buffalo has a Week 7 bye.",
       "tag": "injury",
       "redraftAdj": 0.6,
       "dynastyAdj": 0.98,
-      "status": "Questionable"
+      "status": "Out",
+      "auto": true
     },
     {
       "sleeperId": "8144",
@@ -302,11 +303,12 @@
     {
       "sleeperId": "13380",
       "name": "Brenen Thompson",
-      "note": "Questionable (quad) for Sunday, Oct 18 at Kansas City after limited practices all week. He has not played since Week 2.",
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 12:36 PM PT Oct 18. Earlier: Questionable (quad) for Sunday, Oct 18 at Kansas City after limited practices all week. He has not played since Week 2.",
       "tag": "injury",
-      "redraftAdj": 0.85,
+      "redraftAdj": 1.0,
       "dynastyAdj": 1.0,
-      "status": "Questionable"
+      "status": null,
+      "auto": true
     },
     {
       "sleeperId": "11625",
@@ -428,11 +430,11 @@
     {
       "sleeperId": "8121",
       "name": "Romeo Doubs",
-      "note": "Sleeper now lists him questionable (shoulder) as of 11:43 AM PT Oct 18. Earlier: A.J. Brown (ankle) returned to practice off IR this week, and Mike Vrabel said there's a chance he plays Week 6 at the Jets (Oct 18). As of Oct 17, Brown hadn't been confirmed as activated. His return would cut into Doubs' targets.",
+      "note": "Sleeper now lists him out (shoulder) as of 12:36 PM PT Oct 18.",
       "tag": "injury",
-      "redraftAdj": 0.92,
+      "redraftAdj": 0.9,
       "dynastyAdj": 0.97,
-      "status": "Questionable",
+      "status": "Out",
       "auto": true
     },
     {
@@ -612,11 +614,11 @@
     {
       "sleeperId": "7571",
       "name": "Rashod Bateman",
-      "note": "Sleeper now lists him questionable (shoulder) as of 11:43 AM PT Oct 18.",
+      "note": "Sleeper now lists him out (shoulder) as of 12:36 PM PT Oct 18.",
       "tag": "injury",
-      "redraftAdj": 0.98,
+      "redraftAdj": 0.9,
       "dynastyAdj": 1.0,
-      "status": "Questionable",
+      "status": "Out",
       "auto": true
     },
     {
@@ -698,7 +700,27 @@
       "dynastyAdj": 1.0,
       "status": "Out",
       "auto": true
+    },
+    {
+      "sleeperId": "13272",
+      "name": "Carson Beck",
+      "note": "Sleeper now lists him out (coach's decision) as of 12:36 PM PT Oct 18.",
+      "tag": "injury",
+      "redraftAdj": 0.9,
+      "dynastyAdj": 1.0,
+      "status": "Out",
+      "auto": true
+    },
+    {
+      "sleeperId": "13275",
+      "name": "Ty Simpson",
+      "note": "Sleeper now lists him out (coach's decision) as of 12:36 PM PT Oct 18.",
+      "tag": "injury",
+      "redraftAdj": 0.9,
+      "dynastyAdj": 1.0,
+      "status": "Out",
+      "auto": true
     }
   ],
-  "statusChecked": "11:43 AM PT Oct 18"
+  "statusChecked": "12:36 PM PT Oct 18"
 }
