@@ -38,9 +38,18 @@
    "t": "ARI"
   },
   "10236": {
-   "changed": null,
-   "entry": null,
-   "i": null,
+   "changed": "2026-10-18T23:36:04.297421+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Dalton Kincaid",
+    "note": "Sleeper now lists him questionable (ribs) as of 4:36 PM PT Oct 18.",
+    "redraftAdj": 0.98,
+    "sleeperId": "10236",
+    "status": "Questionable",
+    "tag": "injury"
+   },
+   "i": "Questionable",
    "qb1": null,
    "t": "BUF"
   },
@@ -1414,16 +1423,6 @@
   },
   "5892": {
    "changed": "2026-10-15T22:42:49.214069+00:00",
-   "entry": {
-    "auto": true,
-    "dynastyAdj": 0.96,
-    "name": "David Montgomery",
-    "note": "Sleeper now lists him out (groin) as of 3:42 PM PT Oct 15. Earlier: DeMeco Ryans called Montgomery's groin injury from the Week 5 win over Tennessee 'week-to-week' (reported Oct 12). He is very likely to miss Week 6 at Jacksonville, and with Houston's bye in Week 8 he may also sit Week 7.",
-    "redraftAdj": 0.55,
-    "sleeperId": "5892",
-    "status": "Out",
-    "tag": "injury"
-   },
    "i": "Out",
    "qb1": null,
    "t": "HOU"
