@@ -72,8 +72,18 @@
    "t": "ATL"
   },
   "11560": {
-   "changed": "2026-10-14T07:49:46.658762+00:00",
-   "i": "Questionable",
+   "changed": "2026-10-18T16:41:56.765540+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.03,
+    "name": "Caleb Williams",
+    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 9:41 AM PT Oct 18. Earlier: Williams (hamstring) is officially questionable, but sources told ESPN and NFL Network that the Bears plan to start him Sunday, Oct 18, at ATL after a full week of practice. ESPN's inactives watch lists him as playing.",
+    "redraftAdj": 1.0,
+    "sleeperId": "11560",
+    "status": null,
+    "tag": "injury"
+   },
+   "i": null,
    "qb1": true,
    "t": "CHI"
   },
@@ -456,8 +466,18 @@
    "t": "SEA"
   },
   "12512": {
-   "changed": "2026-10-14T03:27:13.405269+00:00",
-   "i": "Questionable",
+   "changed": "2026-10-18T16:41:56.765540+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 0.99,
+    "name": "Quinshon Judkins",
+    "note": "Sleeper now lists him out (foot) as of 9:41 AM PT Oct 18. Earlier: Judkins (ankle/foot) went DNP, DNP, then limited (Wed-Fri, Oct 14-16) and is questionable for Week 6 vs. Baltimore. Coach Todd Monken called him day-to-day, and with Raheim Sanders on IR and Dylan Sampson out, Cleveland's backfield is thin if he can't go.",
+    "redraftAdj": 0.75,
+    "sleeperId": "12512",
+    "status": "Out",
+    "tag": "injury"
+   },
+   "i": "Out",
    "qb1": null,
    "t": "CLE"
   },
@@ -476,18 +496,18 @@
    "t": "CHI"
   },
   "12518": {
-   "changed": "2026-10-16T20:44:59.641989+00:00",
+   "changed": "2026-10-18T16:41:56.765540+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 1.0,
     "name": "Tyler Warren",
-    "note": "Sleeper now lists him questionable (groin) as of 1:44 PM PT Oct 16.",
-    "redraftAdj": 0.98,
+    "note": "Sleeper now lists him out (groin) as of 9:41 AM PT Oct 18. Earlier: Warren was added to the Colts' Friday (Oct 16) injury report as a limited participant with a groin injury and is questionable for Sunday vs. Tennessee in the early window. He also had a groin issue in August, so check inactives before kickoff.",
+    "redraftAdj": 0.9,
     "sleeperId": "12518",
-    "status": "Questionable",
+    "status": "Out",
     "tag": "injury"
    },
-   "i": "Questionable",
+   "i": "Out",
    "qb1": null,
    "t": "IND"
   },
@@ -520,8 +540,18 @@
    "t": "LV"
   },
   "12529": {
-   "changed": "2026-10-14T21:43:53.279007+00:00",
-   "i": "Questionable",
+   "changed": "2026-10-18T16:41:56.765540+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 0.98,
+    "name": "TreVeyon Henderson",
+    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 9:41 AM PT Oct 18. Earlier: Despite an early forecast of a multi-week high-ankle sprain, Henderson practiced Wednesday through Friday (limited Wed-Thu, Oct 14-16), and Mike Vrabel listed him questionable for Week 6 vs. the Jets. He is a true game-time decision and hard to trust even if active.",
+    "redraftAdj": 1.0,
+    "sleeperId": "12529",
+    "status": null,
+    "tag": "injury"
+   },
+   "i": null,
    "qb1": null,
    "t": "NE"
   },
@@ -572,8 +602,18 @@
    "t": "PHI"
   },
   "13268": {
-   "changed": "2026-10-14T07:49:46.658762+00:00",
-   "i": null,
+   "changed": "2026-10-18T16:41:56.765540+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Elijah Sarratt",
+    "note": "Sleeper now lists him out (coach's decision) as of 9:41 AM PT Oct 18.",
+    "redraftAdj": 0.9,
+    "sleeperId": "13268",
+    "status": "Out",
+    "tag": "injury"
+   },
+   "i": "Out",
    "qb1": null,
    "t": "BAL"
   },
@@ -604,18 +644,18 @@
    "t": "LAR"
   },
   "13276": {
-   "changed": "2026-10-17T20:39:53.775970+00:00",
+   "changed": "2026-10-18T16:41:56.765540+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 1.0,
     "name": "Omar Cooper",
-    "note": "Sleeper now lists him questionable (ankle) as of 1:39 PM PT Oct 17.",
-    "redraftAdj": 0.98,
+    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 9:41 AM PT Oct 18. Earlier: Cooper (high ankle) practiced fully Friday, Oct 16. Aaron Glenn and Ian Rapoport say he'll be activated from IR and play Week 6 vs. New England. With Adonai Mitchell out, he could see immediate snaps, though his workload is uncertain.",
+    "redraftAdj": 1.0,
     "sleeperId": "13276",
-    "status": "Questionable",
+    "status": null,
     "tag": "injury"
    },
-   "i": "Questionable",
+   "i": null,
    "qb1": null,
    "t": "NYJ"
   },
@@ -686,24 +726,34 @@
    "t": "TEN"
   },
   "13289": {
-   "changed": "2026-10-14T07:49:46.658762+00:00",
-   "i": null,
+   "changed": "2026-10-18T16:41:56.765540+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Drew Allar",
+    "note": "Sleeper now lists him out (coach's decision) as of 9:41 AM PT Oct 18.",
+    "redraftAdj": 0.9,
+    "sleeperId": "13289",
+    "status": "Out",
+    "tag": "injury"
+   },
+   "i": "Out",
    "qb1": false,
    "t": "PIT"
   },
   "13293": {
-   "changed": "2026-10-17T20:39:53.775970+00:00",
+   "changed": "2026-10-18T16:41:56.765540+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 1.0,
     "name": "Ja'Kobi Lane",
-    "note": "Sleeper now lists him questionable (wrist) as of 1:39 PM PT Oct 17. Earlier: Practiced fully after wrist surgery and is listed as questionable (wrist) on the final Week 6 report (Oct 16) for Sunday at Cleveland. Ravens.com reports he was activated from IR, but Lamar Jackson is out, which hurts the passing game.",
-    "redraftAdj": 0.98,
+    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 9:41 AM PT Oct 18. Earlier: The Ravens activated the rookie from injured reserve (wrist) after four missed games, and HC Jesse Minter said he 'has a shot' to play Sunday, Oct 18 at Cleveland. He remains questionable, and Tyler Huntley starts at QB with Lamar Jackson out.",
+    "redraftAdj": 1.0,
     "sleeperId": "13293",
-    "status": "Questionable",
+    "status": null,
     "tag": "injury"
    },
-   "i": "Questionable",
+   "i": null,
    "qb1": null,
    "t": "BAL"
   },
@@ -759,8 +809,18 @@
    "t": "LV"
   },
   "13306": {
-   "changed": "2026-10-14T07:49:46.658762+00:00",
-   "i": null,
+   "changed": "2026-10-18T16:41:56.765540+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Taylen Green",
+    "note": "Sleeper now lists him out (coach's decision) as of 9:41 AM PT Oct 18.",
+    "redraftAdj": 0.9,
+    "sleeperId": "13306",
+    "status": "Out",
+    "tag": "injury"
+   },
+   "i": "Out",
    "qb1": false,
    "t": "CLE"
   },
@@ -802,8 +862,18 @@
    "t": "BAL"
   },
   "13330": {
-   "changed": "2026-10-14T07:49:46.658762+00:00",
-   "i": "Questionable",
+   "changed": "2026-10-18T16:41:56.765540+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Kenyon Sadiq",
+    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 9:41 AM PT Oct 18. Earlier: Sadiq (concussion) went from limited Wednesday and Thursday to a full practice Friday, Oct 16, and NFL.com reported he is trending toward playing Sunday at New England. He still needs independent clearance from the concussion protocol, so confirm on the inactives list.",
+    "redraftAdj": 1.0,
+    "sleeperId": "13330",
+    "status": null,
+    "tag": "injury"
+   },
+   "i": null,
    "qb1": null,
    "t": "NYJ"
   },
@@ -926,8 +996,18 @@
    "t": "NO"
   },
   "13602": {
-   "changed": "2026-10-14T07:49:46.658762+00:00",
-   "i": null,
+   "changed": "2026-10-18T16:41:56.765540+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Jack Strand",
+    "note": "Sleeper now lists him out (coach's decision) as of 9:41 AM PT Oct 18.",
+    "redraftAdj": 0.9,
+    "sleeperId": "13602",
+    "status": "Out",
+    "tag": "injury"
+   },
+   "i": "Out",
    "qb1": false,
    "t": "ATL"
   },
@@ -1073,8 +1153,18 @@
    "t": "SF"
   },
   "4035": {
-   "changed": "2026-10-14T22:42:43.205682+00:00",
-   "i": "Questionable",
+   "changed": "2026-10-18T16:41:56.765540+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 0.96,
+    "name": "Alvin Kamara",
+    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 9:41 AM PT Oct 18. Earlier: Kamara (back) was limited through Friday (Oct 16) and is questionable for Week 6 at the Giants. He had just 3 carries in Week 5, fewer than both Kendre Miller (10) and CJ Donaldson (4), so his workload is a concern even if he plays.",
+    "redraftAdj": 1.0,
+    "sleeperId": "4035",
+    "status": null,
+    "tag": "injury"
+   },
+   "i": null,
    "qb1": null,
    "t": "NO"
   },
@@ -1245,18 +1335,18 @@
    "t": "GB"
   },
   "5859": {
-   "changed": "2026-10-17T20:39:53.775970+00:00",
+   "changed": "2026-10-18T16:41:56.765540+00:00",
    "entry": {
     "auto": true,
-    "dynastyAdj": 1.0,
+    "dynastyAdj": 1.02,
     "name": "A.J. Brown",
-    "note": "Sleeper now lists him questionable (ankle) as of 1:39 PM PT Oct 17. Earlier: Listed as questionable (ankle) on Friday's (Oct 16) final report after limited practices, but he is still on IR and must be activated by 4 p.m. ET Saturday to play vs. the Jets. Vrabel will decide Saturday, and Rapoport reportedly suggested he may need one more week, with the Oct 22 Thursday game at Chicago a possible return.",
-    "redraftAdj": 0.98,
+    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 9:41 AM PT Oct 18. Earlier: The Patriots activated Brown (ankle) from injured reserve on Saturday, Oct 17, and he will play Sunday vs. the Jets after missing four games. He was limited in practice all week and may not get a full snap count in his first game back.",
+    "redraftAdj": 1.0,
     "sleeperId": "5859",
-    "status": "Questionable",
+    "status": null,
     "tag": "injury"
    },
-   "i": "Questionable",
+   "i": null,
    "qb1": null,
    "t": "NE"
   },
@@ -1415,18 +1505,18 @@
    "t": "NO"
   },
   "7021": {
-   "changed": "2026-10-16T19:42:12.868911+00:00",
+   "changed": "2026-10-18T16:41:56.765540+00:00",
    "entry": {
     "auto": true,
-    "dynastyAdj": 0.95,
+    "dynastyAdj": 0.97,
     "name": "Rico Dowdle",
-    "note": "Sleeper now lists him questionable (toe) as of 12:42 PM PT Oct 16.",
-    "redraftAdj": 0.98,
+    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 9:41 AM PT Oct 18. Earlier: Dowdle (toe) practiced fully Thursday and Friday (Oct 15-16) and is questionable for Week 6 at Tampa Bay after missing three games. He projects behind Jaylen Warren if active.",
+    "redraftAdj": 1.0,
     "sleeperId": "7021",
-    "status": "Questionable",
+    "status": null,
     "tag": "injury"
    },
-   "i": "Questionable",
+   "i": null,
    "qb1": null,
    "t": "PIT"
   },
@@ -1555,18 +1645,18 @@
    "t": "CAR"
   },
   "7600": {
-   "changed": "2026-10-17T16:41:38.341033+00:00",
+   "changed": "2026-10-18T16:41:56.765540+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 1.0,
     "name": "Pat Freiermuth",
-    "note": "Sleeper now lists him questionable (calf) as of 9:41 AM PT Oct 17.",
-    "redraftAdj": 0.98,
+    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 9:41 AM PT Oct 18. Earlier: Sleeper listed Freiermuth questionable (calf) as of Oct 17, and no game-day upgrade had surfaced. Check inactives before the 10 AM PT kickoff.",
+    "redraftAdj": 1.0,
     "sleeperId": "7600",
-    "status": "Questionable",
+    "status": null,
     "tag": "injury"
    },
-   "i": "Questionable",
+   "i": null,
    "qb1": null,
    "t": "PIT"
   },
@@ -1678,8 +1768,18 @@
    "t": "IND"
   },
   "8144": {
-   "changed": "2026-10-14T20:43:11.456667+00:00",
-   "i": "Questionable",
+   "changed": "2026-10-18T16:41:56.765540+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Chris Olave",
+    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 9:41 AM PT Oct 18. Earlier: Questionable (illness) for Sunday, Oct 18 at the Giants. He returned to practice Friday after missing Wednesday and Thursday, and reports say he is more likely than not to play.",
+    "redraftAdj": 1.0,
+    "sleeperId": "8144",
+    "status": null,
+    "tag": "injury"
+   },
+   "i": null,
    "qb1": null,
    "t": "NO"
   },
@@ -1898,8 +1998,18 @@
    "t": "HOU"
   },
   "9508": {
-   "changed": "2026-10-14T20:43:11.456667+00:00",
-   "i": "Questionable",
+   "changed": "2026-10-18T16:41:56.765540+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 0.99,
+    "name": "Tyjae Spears",
+    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 9:41 AM PT Oct 18. Earlier: Spears (knee) practiced fully Friday (Oct 16) after a Thursday DNP. He is questionable for Week 6 at Indianapolis but trending toward playing his usual complementary role.",
+    "redraftAdj": 1.0,
+    "sleeperId": "9508",
+    "status": null,
+    "tag": "injury"
+   },
+   "i": null,
    "qb1": null,
    "t": "TEN"
   },
