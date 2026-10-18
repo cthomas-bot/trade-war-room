@@ -788,9 +788,18 @@
    "t": "BAL"
   },
   "13294": {
-   "changed": null,
-   "entry": null,
-   "i": null,
+   "changed": "2026-10-18T20:39:46.579986+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Makai Lemon",
+    "note": "Sleeper now lists him questionable (undisclosed) as of 1:39 PM PT Oct 18. Earlier: DeVonta Smith (hamstring) practiced fully Friday, Oct 16, and is off the injury report for Week 6 vs. Carolina. That ends Lemon's stint as the de facto top WR, and Tanner McKee starts with Jalen Hurts out.",
+    "redraftAdj": 0.95,
+    "sleeperId": "13294",
+    "status": "Questionable",
+    "tag": "injury"
+   },
+   "i": "Questionable",
    "qb1": null,
    "t": "PHI"
   },
@@ -1991,18 +2000,18 @@
    "t": "GB"
   },
   "9486": {
-   "changed": "2026-10-16T20:44:59.641989+00:00",
+   "changed": "2026-10-18T20:39:46.579986+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 0.99,
     "name": "Dontayvion Wicks",
-    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 1:44 PM PT Oct 16. Earlier: Downgraded from limited to did not practice Thursday (Oct 15) with a hamstring injury, and he may miss Sunday vs. Carolina. Tanner McKee starts at QB with Hurts out.",
-    "redraftAdj": 1.0,
+    "note": "Sleeper now lists him questionable (undisclosed) as of 1:39 PM PT Oct 18.",
+    "redraftAdj": 0.98,
     "sleeperId": "9486",
-    "status": null,
+    "status": "Questionable",
     "tag": "injury"
    },
-   "i": null,
+   "i": "Questionable",
    "qb1": null,
    "t": "PHI"
   },
