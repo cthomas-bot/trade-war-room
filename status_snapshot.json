@@ -1163,18 +1163,18 @@
    "t": "SF"
   },
   "4035": {
-   "changed": "2026-10-18T16:41:56.765540+00:00",
+   "changed": "2026-10-18T18:43:44.843406+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 0.96,
     "name": "Alvin Kamara",
-    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 9:41 AM PT Oct 18. Earlier: Kamara (back) was limited through Friday (Oct 16) and is questionable for Week 6 at the Giants. He had just 3 carries in Week 5, fewer than both Kendre Miller (10) and CJ Donaldson (4), so his workload is a concern even if he plays.",
-    "redraftAdj": 1.0,
+    "note": "Sleeper now lists him questionable (undisclosed) as of 11:43 AM PT Oct 18.",
+    "redraftAdj": 0.98,
     "sleeperId": "4035",
-    "status": null,
+    "status": "Questionable",
     "tag": "injury"
    },
-   "i": null,
+   "i": "Questionable",
    "qb1": null,
    "t": "NO"
   },
@@ -1625,18 +1625,18 @@
    "t": "HOU"
   },
   "7571": {
-   "changed": "2026-10-16T20:44:59.641989+00:00",
+   "changed": "2026-10-18T18:43:44.843406+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 1.0,
     "name": "Rashod Bateman",
-    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 1:44 PM PT Oct 16.",
-    "redraftAdj": 1.0,
+    "note": "Sleeper now lists him questionable (shoulder) as of 11:43 AM PT Oct 18.",
+    "redraftAdj": 0.98,
     "sleeperId": "7571",
-    "status": null,
+    "status": "Questionable",
     "tag": "injury"
    },
-   "i": null,
+   "i": "Questionable",
    "qb1": null,
    "t": "BAL"
   },
@@ -1692,9 +1692,18 @@
    "t": "ATL"
   },
   "8121": {
-   "changed": null,
-   "entry": null,
-   "i": null,
+   "changed": "2026-10-18T18:43:44.843406+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 0.97,
+    "name": "Romeo Doubs",
+    "note": "Sleeper now lists him questionable (shoulder) as of 11:43 AM PT Oct 18. Earlier: A.J. Brown (ankle) returned to practice off IR this week, and Mike Vrabel said there's a chance he plays Week 6 at the Jets (Oct 18). As of Oct 17, Brown hadn't been confirmed as activated. His return would cut into Doubs' targets.",
+    "redraftAdj": 0.92,
+    "sleeperId": "8121",
+    "status": "Questionable",
+    "tag": "injury"
+   },
+   "i": "Questionable",
    "qb1": null,
    "t": "NE"
   },

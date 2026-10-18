@@ -124,11 +124,11 @@
     {
       "sleeperId": "4035",
       "name": "Alvin Kamara",
-      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 9:41 AM PT Oct 18. Earlier: Kamara (back) was limited through Friday (Oct 16) and is questionable for Week 6 at the Giants. He had just 3 carries in Week 5, fewer than both Kendre Miller (10) and CJ Donaldson (4), so his workload is a concern even if he plays.",
+      "note": "Sleeper now lists him questionable (undisclosed) as of 11:43 AM PT Oct 18.",
       "tag": "injury",
-      "redraftAdj": 1.0,
+      "redraftAdj": 0.98,
       "dynastyAdj": 0.96,
-      "status": null,
+      "status": "Questionable",
       "auto": true
     },
     {
@@ -428,11 +428,12 @@
     {
       "sleeperId": "8121",
       "name": "Romeo Doubs",
-      "note": "A.J. Brown (ankle) returned to practice off IR this week, and Mike Vrabel said there's a chance he plays Week 6 at the Jets (Oct 18). As of Oct 17, Brown hadn't been confirmed as activated. His return would cut into Doubs' targets.",
-      "tag": "role_down",
+      "note": "Sleeper now lists him questionable (shoulder) as of 11:43 AM PT Oct 18. Earlier: A.J. Brown (ankle) returned to practice off IR this week, and Mike Vrabel said there's a chance he plays Week 6 at the Jets (Oct 18). As of Oct 17, Brown hadn't been confirmed as activated. His return would cut into Doubs' targets.",
+      "tag": "injury",
       "redraftAdj": 0.92,
       "dynastyAdj": 0.97,
-      "status": ""
+      "status": "Questionable",
+      "auto": true
     },
     {
       "sleeperId": "13276",
@@ -609,14 +610,14 @@
       "tag": "injury"
     },
     {
-      "auto": true,
-      "dynastyAdj": 1.0,
-      "name": "Rashod Bateman",
-      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 1:44 PM PT Oct 16.",
-      "redraftAdj": 1.0,
       "sleeperId": "7571",
-      "status": null,
-      "tag": "injury"
+      "name": "Rashod Bateman",
+      "note": "Sleeper now lists him questionable (shoulder) as of 11:43 AM PT Oct 18.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
+      "status": "Questionable",
+      "auto": true
     },
     {
       "auto": true,
@@ -699,5 +700,5 @@
       "auto": true
     }
   ],
-  "statusChecked": "10:39 AM PT Oct 18"
+  "statusChecked": "11:43 AM PT Oct 18"
 }
