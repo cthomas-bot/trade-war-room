@@ -543,14 +543,14 @@
       "tag": "injury"
     },
     {
-      "auto": true,
-      "dynastyAdj": 0.98,
-      "name": "Ladd McConkey",
-      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 12:42 PM PT Oct 16. Earlier: McConkey (foot) was limited Wednesday, Oct 14, after playing zero offensive snaps while active in Week 5. His Week 6 role at KC is uncertain.",
-      "redraftAdj": 1.0,
       "sleeperId": "11635",
-      "status": null,
-      "tag": "injury"
+      "name": "Ladd McConkey",
+      "note": "Sleeper now lists him out (concussion) as of 2:40 PM PT Oct 18.",
+      "tag": "injury",
+      "redraftAdj": 0.9,
+      "dynastyAdj": 0.98,
+      "status": "Out",
+      "auto": true
     },
     {
       "auto": true,
@@ -723,5 +723,5 @@
       "auto": true
     }
   ],
-  "statusChecked": "1:39 PM PT Oct 18"
+  "statusChecked": "2:40 PM PT Oct 18"
 }

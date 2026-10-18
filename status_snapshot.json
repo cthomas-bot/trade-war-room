@@ -263,18 +263,18 @@
    "t": "NYG"
   },
   "11635": {
-   "changed": "2026-10-16T19:42:12.868911+00:00",
+   "changed": "2026-10-18T21:40:14.980429+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 0.98,
     "name": "Ladd McConkey",
-    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 12:42 PM PT Oct 16. Earlier: McConkey (foot) was limited Wednesday, Oct 14, after playing zero offensive snaps while active in Week 5. His Week 6 role at KC is uncertain.",
-    "redraftAdj": 1.0,
+    "note": "Sleeper now lists him out (concussion) as of 2:40 PM PT Oct 18.",
+    "redraftAdj": 0.9,
     "sleeperId": "11635",
-    "status": null,
+    "status": "Out",
     "tag": "injury"
    },
-   "i": null,
+   "i": "Out",
    "qb1": null,
    "t": "LAC"
   },
@@ -1089,16 +1089,6 @@
   },
   "2216": {
    "changed": "2026-10-15T20:44:55.307212+00:00",
-   "entry": {
-    "auto": true,
-    "dynastyAdj": 1.0,
-    "name": "Mike Evans",
-    "note": "Sleeper now lists him questionable (ribs) as of 1:44 PM PT Oct 15. Earlier: On Oct 12 Shanahan said Deebo Samuel (hamstring) will 'miss some time', likely through the Week 8 bye. Evans (7-113-1 in Week 5) is SF's clear top WR, with Cooks next up.",
-    "redraftAdj": 0.98,
-    "sleeperId": "2216",
-    "status": "Questionable",
-    "tag": "injury"
-   },
    "i": "Questionable",
    "qb1": null,
    "t": "SF"
@@ -2037,16 +2027,6 @@
   },
   "9500": {
    "changed": "2026-10-15T20:44:55.307212+00:00",
-   "entry": {
-    "auto": true,
-    "dynastyAdj": 1.0,
-    "name": "Josh Downs",
-    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 1:44 PM PT Oct 15.",
-    "redraftAdj": 1.0,
-    "sleeperId": "9500",
-    "status": null,
-    "tag": "injury"
-   },
    "i": null,
    "qb1": null,
    "t": "IND"
