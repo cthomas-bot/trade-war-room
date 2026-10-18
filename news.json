@@ -50,11 +50,12 @@
     {
       "sleeperId": "11559",
       "name": "Michael Penix",
-      "note": "Penix (ribs) got a full week of practice and has been cleared with no injury designation. Kevin Stefanski says he will start Sunday, Oct 18, vs. CHI with no limitations.",
-      "tag": "return",
-      "redraftAdj": 1.0,
+      "note": "Sleeper now lists him questionable (undisclosed) as of 10:39 AM PT Oct 18. Earlier: Penix (ribs) got a full week of practice and has been cleared with no injury designation. Kevin Stefanski says he will start Sunday, Oct 18, vs. CHI with no limitations.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
       "dynastyAdj": 1.0,
-      "status": ""
+      "status": "Questionable",
+      "auto": true
     },
     {
       "sleeperId": "12510",
@@ -698,5 +699,5 @@
       "auto": true
     }
   ],
-  "statusChecked": "9:41 AM PT Oct 18"
+  "statusChecked": "10:39 AM PT Oct 18"
 }
