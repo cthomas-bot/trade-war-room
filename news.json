@@ -331,20 +331,22 @@
     {
       "sleeperId": "2216",
       "name": "Mike Evans",
-      "note": "Evans (ribs) is questionable for Monday night (Oct 19) vs. Washington, and Shanahan suggested his final status won't be known until hours before kickoff. With Deebo Samuel out, Evans is SF's top WR if he plays.",
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 4:43 PM PT Oct 19. Earlier: Evans (ribs) is questionable for Monday night (Oct 19) vs. Washington, and Shanahan suggested his final status won't be known until hours before kickoff. With Deebo Samuel out, Evans is SF's top WR if he plays.",
       "tag": "injury",
-      "redraftAdj": 0.97,
+      "redraftAdj": 1.0,
       "dynastyAdj": 1.0,
-      "status": "Questionable"
+      "status": null,
+      "auto": true
     },
     {
       "sleeperId": "2449",
       "name": "Stefon Diggs",
-      "note": "Diggs (hamstring) is questionable for Monday night (Oct 19) at San Francisco. He missed Thursday's practice but did individual drills Friday, and one report says he is trending toward playing.",
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 4:43 PM PT Oct 19. Earlier: Diggs (hamstring) is questionable for Monday night (Oct 19) at San Francisco. He missed Thursday's practice but did individual drills Friday, and one report says he is trending toward playing.",
       "tag": "injury",
-      "redraftAdj": 0.93,
+      "redraftAdj": 1.0,
       "dynastyAdj": 1.0,
-      "status": "Questionable"
+      "status": null,
+      "auto": true
     },
     {
       "sleeperId": "10229",
@@ -735,5 +737,5 @@
       "tag": "injury"
     }
   ],
-  "statusChecked": "2:44 PM PT Oct 19"
+  "statusChecked": "4:43 PM PT Oct 19"
 }
