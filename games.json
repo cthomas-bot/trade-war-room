@@ -1,7 +1,7 @@
 {
  "season": "2026",
  "week": 6,
- "updated": "2026-10-18 9:17 PM PT",
+ "updated": "2026-10-19 12:31 AM PT",
  "games": [
   {
    "id": "401873008",
@@ -224,7 +224,15 @@
    "homeScore": "22",
    "awayScore": "6",
    "venue": "Arrowhead Stadium",
-   "tv": "CBS"
+   "tv": "CBS",
+   "weather": {
+    "roof": "open",
+    "temp": 67.6,
+    "precip": 0,
+    "code": 0,
+    "wind": 10.7,
+    "night": false
+   }
   },
   {
    "id": "401873005",
@@ -2007,8 +2015,5 @@
    "std": 1.31,
    "opp": "WAS"
   }
- },
- "errors": [
-  "weather KC: <urlopen error _ssl.c:993: The handshake operation timed out>"
- ]
+ }
 }
