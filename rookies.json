@@ -1,6 +1,6 @@
 {
  "class": 2027,
- "updated": "2026-10-14",
+ "updated": "2026-10-19",
  "format": "Superflex dynasty rookie ADP-style consensus",
  "sources": [
   "DraftSharks 2027 Superflex Rookie Rankings",
@@ -16,7 +16,10 @@
   "Fox Sports (Rang)",
   "NFL Draft Bible",
   "Walter Football",
-  "AP/game coverage"
+  "AP/game coverage",
+  "PFF 2027 stock up/stock down (Weeks 1-6, 2026)",
+  "Fox Sports/Rob Rang 2027 risers and fallers (Oct 2026)",
+  "Sharp Football (McCrystal) 2027 mock"
  ],
  "players": [
   {
@@ -26,28 +29,19 @@
    "school": "Ohio State",
    "year": "Jr",
    "tier": 1,
-   "note": "Consensus No. 1 prospect on PFF, ESPN and DraftSharks boards; opened 2026 with 8 catches and 2 TDs vs. Ball State."
+   "note": "Broke Ohio State's career receiving TD record with an 11-catch, 206-yard, 2-TD day at Iowa on Oct. 3, then scored on his first two touches vs. Maryland."
   },
   {
    "rank": 2,
-   "name": "Arch Manning",
-   "pos": "QB",
-   "school": "Texas",
-   "year": "RS Jr",
-   "tier": 1,
-   "note": "Dual-threat QB and frequent mock No. 1 pick; threw 4 TDs in the 2026 opener but was outdueled by John Mateer."
-  },
-  {
-   "rank": 3,
    "name": "Dante Moore",
    "pos": "QB",
    "school": "Oregon",
    "year": "RS Jr",
    "tier": 1,
-   "note": "Early QB1 favorite of ESPN-polled evaluators; struggled in the Week 2 loss to Oklahoma State but rebounded with 3 TDs vs. Penn State."
+   "note": "Bounced back from the September upset at Oklahoma State with 280 yards and 4 TDs vs. Portland State and keeps No. 1 overall buzz in Reid's and McCrystal's mocks."
   },
   {
-   "rank": 4,
+   "rank": 3,
    "name": "Darian Mensah",
    "pos": "QB",
    "school": "Miami",
@@ -56,16 +50,34 @@
    "note": "Miami transfer who has surged into the QB1 conversation; 14 TD passes and zero INTs through four games with an ACC completion-streak record."
   },
   {
-   "rank": 5,
+   "rank": 4,
    "name": "Julian Sayin",
    "pos": "QB",
    "school": "Ohio State",
    "year": "RS So",
    "tier": 1,
-   "note": "PFF's early QB1 after leading FBS QBs in PFF grade in 2025; threw for 320 yards and 3 TDs in the 2026 opener."
+   "note": "Threw 3 TDs in the 31-14 win over No. 14 Iowa and starred again in a 45-16 rout of Maryland on Oct. 10."
+  },
+  {
+   "rank": 5,
+   "name": "Arch Manning",
+   "pos": "QB",
+   "school": "Texas",
+   "year": "RS Jr",
+   "tier": 1,
+   "note": "Slides after two fourth-quarter INTs, including a pick-six, in the Oct. 10 Red River loss that dropped Texas to No. 7; Walter Football lists him as a faller and RG3 urged him to return in 2027."
   },
   {
    "rank": 6,
+   "name": "Drew Mestemaker",
+   "pos": "QB",
+   "school": "Oklahoma State",
+   "year": "RS So",
+   "tier": 2,
+   "note": "PFF's Week 6 headline riser after a third straight game graded above 89.0, and Rob Rang named him his top 2027 riser in early October."
+  },
+  {
+   "rank": 7,
    "name": "CJ Carr",
    "pos": "QB",
    "school": "Notre Dame",
@@ -74,31 +86,22 @@
    "note": "Kiper's No. 2 QB and a DLF mock 1.03; earned an 89.3 PFF grade in Week 5 with the fastest release on PFF's board."
   },
   {
-   "rank": 7,
+   "rank": 8,
    "name": "Jadan Baugh",
    "pos": "RB",
    "school": "Florida",
    "year": "Jr",
    "tier": 2,
-   "note": "Violent runner and Heisman-buzz back; had about 600 yards and 11 TDs through four games before a loss at Missouri."
+   "note": "PFF credited him with 438 yards, 8 TDs and a 91.7 rushing grade over Florida's first three games, topping 130 yards in each."
   },
   {
-   "rank": 8,
+   "rank": 9,
    "name": "Cam Coleman",
    "pos": "WR",
    "school": "Texas",
    "year": "Jr",
    "tier": 2,
-   "note": "Auburn transfer and DLF mock 1.02; Footballguys notes he has not yet delivered the expected 2026 breakout."
-  },
-  {
-   "rank": 9,
-   "name": "Drew Mestemaker",
-   "pos": "QB",
-   "school": "Oklahoma State",
-   "year": "RS So",
-   "tier": 2,
-   "note": "North Texas transfer and the top 2026 riser; beat Oregon with 317 passing and 109 rushing yards, and Daniel Jeremiah calls him the most intriguing QB."
+   "note": "Still a DLF mock 1.02 and Reid's No. 5 overall pick, though his Texas breakout has lagged as the offense sputtered in the Oklahoma loss."
   },
   {
    "rank": 10,
@@ -152,7 +155,7 @@
    "school": "Missouri",
    "year": "Jr",
    "tier": 3,
-   "note": "PFF's early RB1, but recovering from a May 2026 gunshot wound to the leg and has not played this season."
+   "note": "PFF's early RB1, but May gunshot-wound rehab kept him out of the opener and August reports only targeted a mid-September return."
   },
   {
    "rank": 16,
@@ -174,6 +177,15 @@
   },
   {
    "rank": 18,
+   "name": "Mark Fletcher Jr.",
+   "pos": "RB",
+   "school": "Miami",
+   "year": "Sr",
+   "tier": 3,
+   "note": "Senior power back who shared top billing with Mensah in Miami's 41-13 win at Clemson to keep the Hurricanes unbeaten."
+  },
+  {
+   "rank": 19,
    "name": "Isaac Brown",
    "pos": "RB",
    "school": "Louisville",
@@ -182,7 +194,7 @@
    "note": "Top-five RB on Matt Miller's list and 18th in DraftSharks' superflex rankings."
   },
   {
-   "rank": 19,
+   "rank": 20,
    "name": "Nate Frazier",
    "pos": "RB",
    "school": "Georgia",
@@ -191,40 +203,31 @@
    "note": "Georgia's lead back after 947 yards in 2025; high-ceiling runner, per Footballguys dealing with a minor injury."
   },
   {
-   "rank": 20,
-   "name": "Mark Fletcher Jr.",
-   "pos": "RB",
-   "school": "Miami",
-   "year": "Sr",
-   "tier": 3,
-   "note": "Senior power back ranked RB2 by PFF and 19th in DraftSharks' superflex rankings."
-  },
-  {
    "rank": 21,
    "name": "TJ Moore",
    "pos": "WR",
    "school": "Clemson",
    "year": "Jr",
    "tier": 3,
-   "note": "837-yard 2025 producer ranked 19th by DraftSharks; 21 catches for 196 yards early in 2026 amid Clemson QB changes."
+   "note": "837-yard 2025 producer ranked 19th by DraftSharks; Clemson's offense managed just 13 points against Miami on Oct. 3."
   },
   {
    "rank": 22,
-   "name": "Jamari Johnson",
-   "pos": "TE",
-   "school": "Oregon",
-   "year": "",
-   "tier": 3,
-   "note": "Traditional inline-capable tight end ranked TE1 by CBS and ESPN's Miller and Reid."
-  },
-  {
-   "rank": 23,
    "name": "Ryan Wingo",
    "pos": "WR",
    "school": "Texas",
    "year": "Jr",
    "tier": 3,
    "note": "Led Texas with 834 yards in 2025; posted 7-121-1 in the 2026 opener."
+  },
+  {
+   "rank": 23,
+   "name": "John Mateer",
+   "pos": "QB",
+   "school": "Oklahoma",
+   "year": "Sr",
+   "tier": 3,
+   "note": "Rises after Oklahoma's 27-24 Red River win over Texas on Oct. 10, though he appears on the Week 8 injury report."
   },
   {
    "rank": 24,
@@ -237,15 +240,24 @@
   },
   {
    "rank": 25,
-   "name": "John Mateer",
+   "name": "Sam Leavitt",
    "pos": "QB",
-   "school": "Oklahoma",
-   "year": "Sr",
+   "school": "LSU",
+   "year": "",
    "tier": 4,
-   "note": "Gritty dual-threat QB with turnover questions; slow start in 2026 but outdueled Arch Manning."
+   "note": "Arizona State transfer in Lane Kiffin's offense who was a PFF Week 1 stock riser after LSU's rout of Clemson, with scouts debating Day 2 vs. first-round value."
   },
   {
    "rank": 26,
+   "name": "Jamari Johnson",
+   "pos": "TE",
+   "school": "Oregon",
+   "year": "",
+   "tier": 4,
+   "note": "Falls after PFF named him a Week 6 stock-down tight end, though CBS and ESPN still rate him a top inline TE."
+  },
+  {
+   "rank": 27,
    "name": "KJ Duff",
    "pos": "WR",
    "school": "Rutgers",
@@ -254,7 +266,7 @@
    "note": "6-foot-6 contested-catch specialist highlighted by PFF and CBS evaluators."
   },
   {
-   "rank": 27,
+   "rank": 28,
    "name": "Justice Haynes",
    "pos": "RB",
    "school": "Michigan",
@@ -263,16 +275,16 @@
    "note": "Senior back in Brugler's top five running backs."
   },
   {
-   "rank": 28,
+   "rank": 29,
    "name": "Nyck Harbor",
    "pos": "WR",
    "school": "South Carolina",
    "year": "Sr",
    "tier": 4,
-   "note": "Rare size-speed athlete ranked WR4 by NFL Draft Bible."
+   "note": "Rare size-speed athlete ranked WR4 by NFL Draft Bible and spotlighted in PFF's Week 5 stock report."
   },
   {
-   "rank": 29,
+   "rank": 30,
    "name": "Duce Robinson",
    "pos": "WR",
    "school": "Florida State",
@@ -281,7 +293,7 @@
    "note": "Big-bodied receiver in NFL Draft Bible's WR top five and Roto Street Journal's superflex mock."
   },
   {
-   "rank": 30,
+   "rank": 31,
    "name": "Raleek Brown",
    "pos": "RB",
    "school": "Texas",
@@ -290,7 +302,7 @@
    "note": "Explosive back on Matt Miller's top-five RB list."
   },
   {
-   "rank": 31,
+   "rank": 32,
    "name": "Terrance Carter Jr.",
    "pos": "TE",
    "school": "Texas Tech",
@@ -299,7 +311,7 @@
    "note": "Productive but undersized (6-2, 245) tight end ranked TE3-TE5 by most boards."
   },
   {
-   "rank": 32,
+   "rank": 33,
    "name": "Peter Clarke",
    "pos": "TE",
    "school": "Temple",
@@ -308,7 +320,7 @@
    "note": "Led all FBS tight ends with a 90.5 PFF grade in 2025; TE4 on PFF and ESPN lists."
   },
   {
-   "rank": 33,
+   "rank": 34,
    "name": "Reed Harris",
    "pos": "WR",
    "school": "Arizona State",
@@ -317,7 +329,7 @@
    "note": "Contested-catch transfer flagged as a PFF stock riser in 2026."
   },
   {
-   "rank": 34,
+   "rank": 35,
    "name": "Caleb Odom",
    "pos": "TE",
    "school": "Ole Miss",
@@ -326,7 +338,7 @@
    "note": "Big receiving tight end who appears on DraftSharks' 2027 board."
   },
   {
-   "rank": 35,
+   "rank": 36,
    "name": "Luke Reynolds",
    "pos": "TE",
    "school": "Virginia Tech",
@@ -335,7 +347,7 @@
    "note": "Walter Football's TE6 in its September 2026 update."
   },
   {
-   "rank": 36,
+   "rank": 37,
    "name": "Jeremiah Hasley",
    "pos": "TE",
    "school": "Duke",
@@ -344,7 +356,7 @@
    "note": "Walter Football's TE7 in its September 2026 update."
   },
   {
-   "rank": 37,
+   "rank": 38,
    "name": "Decker DeGraaf",
    "pos": "TE",
    "school": "Washington",
@@ -353,7 +365,7 @@
    "note": "Appears in ESPN analysts' top-five 2027 tight ends."
   },
   {
-   "rank": 38,
+   "rank": 39,
    "name": "DJ Vonnahme",
    "pos": "TE",
    "school": "Iowa",
