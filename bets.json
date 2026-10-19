@@ -1,157 +1,92 @@
 {
- "date": "Sun Oct 18",
- "scanned": "Oct 18, 2:56 PM PT · recheck",
- "slate": [],
- "upcoming": [
+ "date": "Mon Oct 19",
+ "scanned": "Oct 19, 8:05 AM PT",
+ "slate": [
   {
    "sport": "MLB",
-   "game": "Rays @ Guardians · ALCS (next game)",
-   "time": "Mon 2:00 PM PT if needed",
-   "pick": "TBD",
+   "game": "Guardians @ Rays · ALCS G6 (TB leads 3-2)",
+   "time": "5:08 PM PT",
+   "pick": "NO on “Over 6.5 runs” (= Under 6.5)",
+   "price": "48¢",
+   "call": "LEAN",
+   "why": "Peralta (0.79 postseason ERA) vs CLE bullpen game; CLE scored 4 runs in last 2.",
+   "recheck": "4 PM PT: confirm CLE opener; lean holds only at ≤48¢."
+  }
+ ],
+ "upcoming": [
+  {
+   "sport": "NBA",
+   "game": "76ers @ Knicks · Opening night",
+   "time": "Tue 4:00 PM PT",
+   "pick": "",
    "price": "",
    "call": "WAIT",
-   "why": "No ALCS game today; series status after Saturday unconfirmed.",
-   "recheck": "Mon 7:50 AM PT scan."
+   "why": "Season opener; lines checked in Tuesday's scan.",
+   "recheck": "Tue 7:50 AM PT scan."
+  },
+  {
+   "sport": "NFL",
+   "game": "Patriots @ Bears · TNF Week 7",
+   "time": "Thu 5:15 PM PT",
+   "pick": "",
+   "price": "",
+   "call": "WAIT",
+   "why": "Lines and injuries checked Thursday.",
+   "recheck": "Thu 7:50 AM PT scan."
   }
  ],
  "primetime": {
   "games": [
    {
-    "slot": "SNF",
-    "game": "Cowboys @ Packers",
-    "kickoff": "Sun 5:20 PM PT · NBC",
-    "line": "GB -1.5 · O/U 52.5",
-    "pick": "NO on “Over 52.5” (= Under 52.5)",
-    "price": "48¢",
-    "call": "PASS",
-    "why": "Books ~49% Under; Kalshi ML 52/50 matches GB -118.",
-    "props": [],
-    "recheck": "3:50 PM PT inactives; Under YES only at ≤45¢."
-   },
-   {
     "slot": "MNF",
     "game": "Commanders @ 49ers",
     "kickoff": "Mon 5:15 PM PT · ESPN",
-    "line": "SF -7.5 · O/U 50.5",
-    "pick": "NO on “Over 51.5” (= Under 51.5)",
-    "price": "48¢",
+    "line": "SF -7.5 (opened -5.5) · O/U 50.5–52.5",
+    "pick": "NO on “49ers win by over 9.5” (= WAS +9.5)",
+    "price": "56¢",
     "call": "WAIT",
-    "why": "Books 50.5 vs Kalshi 51.5; may have moved since midweek.",
-    "props": [],
-    "recheck": "Mon AM: YES at ≤48¢ if books still 50.5; Diggs (Q), Bosa out."
+    "why": "Fair ~59% vs 58¢ after fee; only ~1 point of edge.",
+    "props": [
+     {
+      "pick": "Christian McCaffrey anytime TD",
+      "odds": "-265",
+      "why": "Heavy usage with Deebo out; parlay leg only."
+     }
+    ],
+    "recheck": "3:45 PM PT inactives (Diggs, Evans): YES if NO ≤53¢ and books stay -7.5."
    }
   ]
  },
- "props": [
-  {
-   "slate": "Sunday · SNF 5:20 PM PT",
-   "picks": [
-    {
-     "pick": "Dak Prescott 2+ pass TDs (DAL @ GB)",
-     "odds": "~-150",
-     "why": "Model ~65%, but only one TD in each of his last three.",
-     "call": "LEAN"
-    }
-   ]
-  }
- ],
+ "props": [],
  "parlays": [],
  "sources": [
   {
-   "title": "CBS Baltimore: Lamar ruled out, Huntley to start",
-   "url": "https://www.cbsnews.com/amp/baltimore/news/ravens-lamar-jackson-ruled-out-tyler-huntley-in-line-to-start-vs-browns"
+   "title": "CBS: Guardians vs. Rays ALCS Game 6 picks",
+   "url": "https://www.cbssports.com/betting/news/guardians-vs-rays-alcs-game-6-picks-back-at-trop-tampa-bay-poised-for-world-series-behind-freddy-peralta/"
   },
   {
-   "title": "SI: Ravens vs Browns odds",
-   "url": "https://www.si.com/betting/ravens-vs-browns-prediction-odds-spread-injuries-trends-for-nfl-week-6-2026"
+   "title": "WKYC: ALCS Game 6 probables",
+   "url": "https://www.wkyc.com/article/sports/mlb/cleveland-guardians/cleveland-guardians-tampa-bay-rays-alcs-game-6-mlb-postseason-2026-start-time-how-to-watch-probable-pitchers/95-d394432d-5a4b-4155-8c81-9aa460607d99"
   },
   {
-   "title": "Inquirer: Eagles-Panthers odds (McKee)",
-   "url": "https://www.inquirer.com/eagles/eagles-panthers-week-6-odds-tanner-mckee-bryce-young-props-20261015.html"
+   "title": "SBR: Guardians vs. Rays Game 6",
+   "url": "https://www.sportsbookreview.com/picks/mlb/guardians-vs-rays-prediction-picks-odds-alcs-game-6-oct-19-2026/"
   },
   {
-   "title": "SI: Bears vs Falcons odds shift",
-   "url": "https://www.si.com/betting/bears-vs-falcons-odds-have-massive-shift-after-caleb-williams-michael-penix-injury-updates"
+   "title": "SI: Commanders vs 49ers odds, injuries",
+   "url": "https://www.si.com/betting/commanders-vs-49ers-prediction-odds-spread-injuries-trends-for-nfl-week-6-2026"
   },
   {
-   "title": "FanDuel Research: Saints vs Giants",
-   "url": "https://www.fanduel.com/research/saints-vs-giants-predictions-odds-picks-best-bets-for-nfl-week-6-2026"
+   "title": "Covers: Commanders vs 49ers",
+   "url": "https://www.covers.com/nfl/commanders-vs-49ers-prediction-picks-odds-early-leans-week-6-2026"
   },
   {
-   "title": "Legion Report: Jets vs Patriots odds",
-   "url": "https://legionreport.com/jets-vs-patriots/"
+   "title": "Legion Report: Commanders vs 49ers props",
+   "url": "https://legionreport.com/commanders-vs-49ers-player-props/"
   },
   {
-   "title": "FanDuel Research: Steelers vs Buccaneers",
-   "url": "https://fanduel.com/research/steelers-vs-buccaneers-predictions-odds-picks-best-bets-for-nfl-week-6-2026"
-  },
-  {
-   "title": "FanDuel Research: Colts vs Titans",
-   "url": "https://fanduel.com/research/colts-vs-titans-predictions-odds-picks-best-bets-for-nfl-week-6-2026"
-  },
-  {
-   "title": "Covers: Week 6 line movement",
-   "url": "https://www.covers.com/industry/nfl-week-6-betting-line-movement-follows-eagles-oct-16-2026"
-  },
-  {
-   "title": "SI: Cardinals vs Rams Week 6 odds",
-   "url": "https://www.si.com/betting/cardinals-vs-rams-prediction-odds-spread-injuries-trends-for-nfl-week-6-2026"
-  },
-  {
-   "title": "SI: Bills vs Raiders Week 6",
-   "url": "https://www.si.com/betting/bills-vs-raiders-prediction-odds-spread-injuries-trends-for-nfl-week-6-2026"
-  },
-  {
-   "title": "Bills injury report vs Raiders",
-   "url": "https://www.buffalobills.com/news/buffalo-bills-injury-report-vs-raiders-week-6"
-  },
-  {
-   "title": "FanDuel Research: Chiefs vs Chargers Week 6",
-   "url": "https://fanduel.com/research/chiefs-vs-chargers-predictions-odds-picks-best-bets-for-nfl-week-6-2026"
-  },
-  {
-   "title": "SI: Cowboys vs Packers Week 6",
-   "url": "https://www.si.com/betting/cowboys-vs-packers-prediction-odds-spread-injuries-trends-for-nfl-week-6-2026"
-  },
-  {
-   "title": "FanDuel Research: 49ers vs Commanders MNF",
-   "url": "https://fanduel.com/research/49ers-vs-commanders-predictions-odds-picks-best-bets-for-nfl-week-6-monday-night-football-2026"
-  },
-  {
-   "title": "NBC Sports: 2026 ALCS schedule",
-   "url": "https://nbcsports.com/mlb/news/how-to-watch-guardians-vs-rays-in-2026-mlb-alcs-schedule-tv-stream-info-preview-everything-to-know"
-  },
-  {
-   "title": "Bleacher Nation: Ravens vs Browns props",
-   "url": "https://www.bleachernation.com/picks/2026/10/16/player-prop-bets-for-ravens-vs-browns-october-18-2026/"
-  },
-  {
-   "title": "Sharp Football: Week 6 prop bets",
-   "url": "https://www.sharpfootballanalysis.com/betting/nfl-player-props-picks-week-6-2026/amp/"
-  },
-  {
-   "title": "Covers: Week 6 anytime TD picks",
-   "url": "https://www.covers.com/nfl/anytime-touchdown-picks-week-6-2026"
-  },
-  {
-   "title": "FootballNation: Bills at Raiders props",
-   "url": "https://www.footballnationusa.com/post/bills-raiders-player-props-week-6-2026"
-  },
-  {
-   "title": "ATS.io: Cowboys vs Packers SNF props",
-   "url": "https://ats.io/nfl/cowboys-vs-packers-sunday-night-football-player-props-10-18-2026/"
-  },
-  {
-   "title": "NFL.com: Week 6 inactives",
-   "url": "https://www.nfl.com/news/nfl-week-6-inactives-players-ruled-out-sunday-2026-season"
-  },
-  {
-   "title": "Raiders.com: Week 6 inactives vs. Bills",
-   "url": "https://www.raiders.com/news/las-vegas-raiders-week-6-inactives-vs-buffalo-bills-101826"
-  },
-  {
-   "title": "Chargers.com: Week 6 inactives at Chiefs",
-   "url": "https://chargers.com/news/chiefs-inactives-week-6-2026"
+   "title": "FBSchedules: 2026 TNF schedule",
+   "url": "https://fbschedules.com/2026-nfl-thursday-night-football-schedule/"
   }
  ]
 }
