@@ -815,16 +815,6 @@
   },
   "13324": {
    "changed": "2026-10-16T20:44:59.641989+00:00",
-   "entry": {
-    "auto": true,
-    "dynastyAdj": 1.0,
-    "name": "Matt Hibner",
-    "note": "Sleeper now lists him out (hand) as of 1:44 PM PT Oct 16. Earlier: Sleeper lists the Ravens rookie as questionable with a hand injury (since Oct 14), and no Week 6 practice update has turned up. He's a low-volume backup with no change to his role.",
-    "redraftAdj": 0.9,
-    "sleeperId": "13324",
-    "status": "Out",
-    "tag": "injury"
-   },
    "i": "Out",
    "qb1": null,
    "t": "BAL"
@@ -875,16 +865,6 @@
   },
   "13346": {
    "changed": "2026-10-16T20:44:59.641989+00:00",
-   "entry": {
-    "auto": true,
-    "dynastyAdj": 1.0,
-    "name": "Denzel Boston",
-    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 1:44 PM PT Oct 16. Earlier: Limited Wednesday and Thursday (Oct 14-15) with the foot injury from Week 4, and he seems on track to play Sunday vs. Baltimore. KC Concepcion's concussion could mean more targets for him.",
-    "redraftAdj": 1.0,
-    "sleeperId": "13346",
-    "status": null,
-    "tag": "injury"
-   },
    "i": null,
    "qb1": null,
    "t": "CLE"
@@ -1010,9 +990,18 @@
    "t": "IND"
   },
   "2133": {
-   "changed": null,
-   "entry": null,
-   "i": null,
+   "changed": "2026-10-19T21:44:17.058995+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 0.92,
+    "name": "Davante Adams",
+    "note": "Sleeper now lists him out (knee) as of 2:44 PM PT Oct 19. Earlier: Left the Rams' 18-16 Week 6 loss to Arizona on Sunday, Oct 18 with a non-contact left knee injury late in the fourth quarter (3 catches, 39 yards). Sean McVay had no update after the game, and no diagnosis or MRI result had been reported as of Monday morning.",
+    "redraftAdj": 0.7,
+    "sleeperId": "2133",
+    "status": "Out",
+    "tag": "injury"
+   },
+   "i": "Out",
    "qb1": null,
    "t": "LAR"
   },
@@ -1176,16 +1165,6 @@
   },
   "4866": {
    "changed": "2026-10-16T20:44:59.641989+00:00",
-   "entry": {
-    "auto": true,
-    "dynastyAdj": 0.98,
-    "name": "Saquon Barkley",
-    "note": "Sleeper now lists him out (hamstring) as of 1:44 PM PT Oct 16. Earlier: Barkley (hamstring) did not practice Wednesday or Thursday (Oct 14-15) and is tracking to miss a second straight game, Week 6 vs. Carolina.",
-    "redraftAdj": 0.5,
-    "sleeperId": "4866",
-    "status": "Out",
-    "tag": "injury"
-   },
    "i": "Out",
    "qb1": null,
    "t": "PHI"
@@ -1474,16 +1453,6 @@
   },
   "7525": {
    "changed": "2026-10-16T20:44:59.641989+00:00",
-   "entry": {
-    "auto": true,
-    "dynastyAdj": 0.99,
-    "name": "DeVonta Smith",
-    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 1:44 PM PT Oct 16. Earlier: Upgraded to limited Thursday (Oct 15), his first practice after missing two games (hamstring/toe). Mike Garafolo reports optimism he plays Sunday vs. Carolina, but Jalen Hurts (calf) is out and Tanner McKee will start.",
-    "redraftAdj": 1.0,
-    "sleeperId": "7525",
-    "status": null,
-    "tag": "injury"
-   },
    "i": null,
    "qb1": null,
    "t": "PHI"
@@ -1980,16 +1949,6 @@
   },
   "9997": {
    "changed": "2026-10-16T20:44:59.641989+00:00",
-   "entry": {
-    "auto": true,
-    "dynastyAdj": 1.0,
-    "name": "Zay Flowers",
-    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 1:44 PM PT Oct 16. Earlier: Flowers is listed questionable (toe) as of Oct 15. Earlier this month he was limited in practice with a foot injury.",
-    "redraftAdj": 1.0,
-    "sleeperId": "9997",
-    "status": null,
-    "tag": "injury"
-   },
    "i": null,
    "qb1": null,
    "t": "BAL"
