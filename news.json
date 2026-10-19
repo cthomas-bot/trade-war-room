@@ -175,11 +175,12 @@
     {
       "sleeperId": "12533",
       "name": "Jacory Croskey-Merritt",
-      "note": "Croskey-Merritt (groin) is ruled out for Monday night's game at San Francisco (Oct 19).",
+      "note": "Sleeper now lists him on injured reserve (groin) as of 1:44 PM PT Oct 19. Earlier: Croskey-Merritt (groin) is ruled out for Monday night's game at San Francisco (Oct 19).",
       "tag": "injury",
       "redraftAdj": 0.6,
-      "dynastyAdj": 0.99,
-      "status": "Out"
+      "dynastyAdj": 0.97,
+      "status": "IR",
+      "auto": true
     },
     {
       "sleeperId": "8136",
@@ -283,11 +284,12 @@
     {
       "sleeperId": "8121",
       "name": "Romeo Doubs",
-      "note": "Doubs was ruled out of the Patriots' 26-19 win over the Jets on Oct 18 after hurting his shoulder. CBS lists him as questionable for Week 7 at Chicago.",
+      "note": "Sleeper now lists him on injured reserve (shoulder) as of 1:44 PM PT Oct 19. Earlier: Doubs was ruled out of the Patriots' 26-19 win over the Jets on Oct 18 after hurting his shoulder. CBS lists him as questionable for Week 7 at Chicago.",
       "tag": "injury",
-      "redraftAdj": 0.85,
-      "dynastyAdj": 0.98,
-      "status": "Questionable"
+      "redraftAdj": 0.7,
+      "dynastyAdj": 0.97,
+      "status": "IR",
+      "auto": true
     },
     {
       "sleeperId": "11632",
@@ -732,5 +734,5 @@
       "tag": "injury"
     }
   ],
-  "statusChecked": "6:57 AM PT Oct 19"
+  "statusChecked": "1:44 PM PT Oct 19"
 }
