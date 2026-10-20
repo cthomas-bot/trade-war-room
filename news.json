@@ -648,14 +648,14 @@
       "tag": "injury"
     },
     {
-      "auto": true,
-      "dynastyAdj": 1.0,
-      "name": "Terry McLaurin",
-      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 12:36 PM PT Oct 17. Earlier: McLaurin (hamstring) is listed questionable for Week 6 (Oct 15). The hamstring has bothered him since before Week 4.",
-      "redraftAdj": 1.0,
       "sleeperId": "5927",
-      "status": null,
-      "tag": "injury"
+      "name": "Terry McLaurin",
+      "note": "Sleeper now lists him out (knee) as of 6:45 PM PT Oct 19.",
+      "tag": "injury",
+      "redraftAdj": 0.9,
+      "dynastyAdj": 1.0,
+      "status": "Out",
+      "auto": true
     },
     {
       "auto": true,
@@ -738,5 +738,5 @@
       "tag": "injury"
     }
   ],
-  "statusChecked": "5:57 PM PT Oct 19"
+  "statusChecked": "6:45 PM PT Oct 19"
 }
