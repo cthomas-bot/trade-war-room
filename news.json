@@ -247,11 +247,12 @@
     {
       "sleeperId": "2133",
       "name": "Davante Adams",
-      "note": "Sean McVay said Monday (Oct 19) that Adams ruptured a hamstring tendon (semitendinosus), not his knee, and will miss 6-10 weeks. He is expected to have a clean-up procedure and is likely headed to IR, with a target return around the Week 11 bye.",
+      "note": "Sleeper now lists him on injured reserve (hamstring) as of 2:44 PM PT Oct 20. Earlier: Sean McVay said Monday (Oct 19) that Adams ruptured a hamstring tendon (semitendinosus), not his knee, and will miss 6-10 weeks. He is expected to have a clean-up procedure and is likely headed to IR, with a target return around the Week 11 bye.",
       "tag": "injury",
       "redraftAdj": 0.4,
       "dynastyAdj": 0.9,
-      "status": "Out"
+      "status": "IR",
+      "auto": true
     },
     {
       "sleeperId": "5859",
@@ -764,5 +765,5 @@
       "note": "Sleeper shows he was released by NYG as of 9:45 AM PT Oct 20; check his new role."
     }
   ],
-  "statusChecked": "9:45 AM PT Oct 20"
+  "statusChecked": "2:44 PM PT Oct 20"
 }
