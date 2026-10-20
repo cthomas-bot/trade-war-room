@@ -1,59 +1,111 @@
 {
- "date": "Mon Oct 19",
- "scanned": "Oct 19, 2:58 PM PT · recheck",
+ "date": "Tue Oct 20",
+ "scanned": "Oct 20, 8:05 AM PT",
  "slate": [
   {
-   "sport": "MLB",
-   "game": "Guardians @ Rays · ALCS G6 (TB leads 3-2)",
-   "time": "5:08 PM PT",
-   "pick": "NO on “Over 6.5 runs” (= Under 6.5)",
+   "sport": "NBA",
+   "game": "Celtics @ Pistons",
+   "time": "12:00 PM PT",
+   "pick": "Celtics ML",
+   "price": "53¢",
+   "call": "PASS",
+   "why": "Books ~50-52% BOS; 53¢ plus fee leaves no edge.",
+   "recheck": ""
+  },
+  {
+   "sport": "NBA",
+   "game": "76ers @ Knicks",
+   "time": "4:00 PM PT",
+   "pick": "Knicks ML",
+   "price": "62¢",
+   "call": "PASS",
+   "why": "Books ~62% NYK; spread and total also match. Embiid cleared.",
+   "recheck": ""
+  },
+  {
+   "sport": "CFB",
+   "game": "Missouri St. @ Delaware",
+   "time": "4:00 PM PT",
+   "pick": "NO on “Delaware wins by over 2.5” (= MOST +2.5)",
    "price": "48¢",
+   "call": "PASS",
+   "why": "One book (DEL -3); Kalshi matches fair ~48%.",
+   "recheck": ""
+  },
+  {
+   "sport": "CFB",
+   "game": "Middle Tennessee @ FIU",
+   "time": "4:00 PM PT",
+   "pick": "NO on “FIU wins by over 10.5” (= MTSU +10.5)",
+   "price": "52¢",
+   "call": "PASS",
+   "why": "Books FIU -10/-10.5; spread, ML and total all fair.",
+   "recheck": ""
+  },
+  {
+   "sport": "CFB",
+   "game": "South Alabama @ Marshall",
+   "time": "4:30 PM PT",
+   "pick": "NO on “South Alabama wins by over 2.5” (= Marshall +2.5)",
+   "price": "47¢",
+   "call": "WAIT",
+   "why": "Books USA -2.5/-3; Marshall +2.5 fair ~48-50%.",
+   "recheck": "Before 4:15 PM PT: YES at 44¢ or less if books hold."
+  },
+  {
+   "sport": "NBA",
+   "game": "Thunder @ Spurs",
+   "time": "6:30 PM PT",
+   "pick": "YES on “Spurs win by over 2.5”",
+   "price": "45¢",
    "call": "LEAN",
-   "why": "Peralta (0.79 postseason ERA) vs CLE bullpen game; CLE scored 4 runs in last 2.",
-   "recheck": "Kalshi lists 5:08 PM PT; one schedule says 2 PM PT, so check it hasn't started. Lean only at ≤48¢."
+   "why": "Books SAS -2.5 ~48-50%; edge 1-3 points, short of the bar.",
+   "recheck": "YES at 43¢ or less; Tobias Harris out, Holmgren cleared. 5:45 PM PT."
   }
  ],
  "upcoming": [
   {
-   "sport": "NBA",
-   "game": "76ers @ Knicks · Opening night",
-   "time": "Tue 4:00 PM PT",
+   "sport": "MLB",
+   "game": "Rays @ Brewers · World Series G1",
+   "time": "Fri 5:00 PM PT",
    "pick": "",
    "price": "",
    "call": "WAIT",
-   "why": "Season opener; lines checked in Tuesday's scan.",
-   "recheck": "Tue 7:50 AM PT scan."
-  },
-  {
-   "sport": "NFL",
-   "game": "Patriots @ Bears · TNF Week 7",
-   "time": "Thu 5:15 PM PT",
-   "pick": "",
-   "price": "",
-   "call": "WAIT",
-   "why": "Lines and injuries checked Thursday.",
-   "recheck": "Thu 7:50 AM PT scan."
+   "why": "Rays won ALCS 4-2 with a 7-3 Game 6 win; starters TBD.",
+   "recheck": "Thursday: probables and Kalshi price."
   }
  ],
  "primetime": {
+  "tnf": {
+   "game": "Patriots @ Bears",
+   "kickoff": "Thu 5:15 PM PT · Prime",
+   "trend": "No real 2026 TNF underdog record found; all dogs 42-34-3 ATS thru ~Week 5 (not TNF-specific).",
+   "note": "CHI -2.5/-3, total 49.5; mild weather. Caleb's hamstring status reports conflict.",
+   "call": "LEAN"
+  },
   "games": [
    {
-    "slot": "MNF",
-    "game": "Commanders @ 49ers",
-    "kickoff": "Mon 5:15 PM PT · ESPN",
-    "line": "SF -7.5 (opened -5.5) · O/U 50.5–52.5",
-    "pick": "NO on “49ers win by over 9.5” (= WAS +9.5)",
-    "price": "57¢",
-    "call": "WAIT",
-    "why": "Fair ~59% vs 57¢ + fee; edge under 1 point.",
+    "slot": "TNF",
+    "game": "Patriots @ Bears",
+    "kickoff": "Thu 5:15 PM PT · Prime",
+    "line": "CHI -2.5/-3 · O/U 49.5",
+    "pick": "NO on “Over 49.5” (= Under 49.5)",
+    "price": "46¢",
+    "call": "LEAN",
+    "why": "Consensus 49.5 makes it ~50%; ~2 points edge after fees.",
     "props": [
      {
-      "pick": "Christian McCaffrey anytime TD",
-      "odds": "-265",
-      "why": "Heavy usage with Deebo out; parlay leg only."
+      "pick": "D'Andre Swift anytime TD",
+      "odds": "-147",
+      "why": "Market favorite to score; Monangai still out."
+     },
+     {
+      "pick": "Rhamondre Stevenson anytime TD",
+      "odds": "+105",
+      "why": "Best plus-money price on NE's lead back; shop it."
      }
     ],
-    "recheck": "3:45 PM PT inactives (Diggs, Evans); YES only at ≤53¢."
+    "recheck": "Thu ~2 PM PT after final injury report: YES at 44¢ or less."
    }
   ]
  },
@@ -61,32 +113,52 @@
  "parlays": [],
  "sources": [
   {
-   "title": "CBS: Guardians vs. Rays ALCS Game 6 picks",
-   "url": "https://www.cbssports.com/betting/news/guardians-vs-rays-alcs-game-6-picks-back-at-trop-tampa-bay-poised-for-world-series-behind-freddy-peralta/"
+   "title": "NBC: Rays beat Guardians 7-3, earn World Series trip",
+   "url": "https://www.nbcwashington.com/mlb/rays-guardians-game-6-score/4169462/"
   },
   {
-   "title": "WKYC: ALCS Game 6 probables",
-   "url": "https://www.wkyc.com/article/sports/mlb/cleveland-guardians/cleveland-guardians-tampa-bay-rays-alcs-game-6-mlb-postseason-2026-start-time-how-to-watch-probable-pitchers/95-d394432d-5a4b-4155-8c81-9aa460607d99"
+   "title": "ESPN: 2026 World Series schedule",
+   "url": "https://www.espn.com/mlb/story/_/id/50022544/2026-mlb-playoffs-schedule-how-watch-postseason-world-series-bracket-standings"
   },
   {
-   "title": "SBR: Guardians vs. Rays Game 6",
-   "url": "https://www.sportsbookreview.com/picks/mlb/guardians-vs-rays-prediction-picks-odds-alcs-game-6-oct-19-2026/"
+   "title": "CBS: Celtics vs Pistons odds",
+   "url": "https://www.cbssports.com/betting/news/celtics-pistons-odds-prediction-time-2026-nba-opening-night-picks-bets/"
   },
   {
-   "title": "SI: Commanders vs 49ers odds, injuries",
-   "url": "https://www.si.com/betting/commanders-vs-49ers-prediction-odds-spread-injuries-trends-for-nfl-week-6-2026"
+   "title": "Covers: 76ers vs Knicks odds",
+   "url": "https://www.covers.com/nba/76ers-vs-knicks-prediction-picks-odds-oct-20-2026"
   },
   {
-   "title": "Covers: Commanders vs 49ers",
-   "url": "https://www.covers.com/nfl/commanders-vs-49ers-prediction-picks-odds-early-leans-week-6-2026"
+   "title": "Covers: Thunder vs Spurs odds",
+   "url": "https://www.covers.com/nba/thunder-vs-spurs-prediction-picks-odds-oct-20-2026"
   },
   {
-   "title": "Legion Report: Commanders vs 49ers props",
-   "url": "https://legionreport.com/commanders-vs-49ers-player-props/"
+   "title": "SI: Thunder vs Spurs odds and props",
+   "url": "https://www.si.com/betting/thunder-vs-spurs-prediction-odds-and-best-prop-bets-for-nba-season-opener-2026"
   },
   {
-   "title": "FBSchedules: 2026 TNF schedule",
-   "url": "https://fbschedules.com/2026-nfl-thursday-night-football-schedule/"
+   "title": "Yahoo: Tuesday college football picks Oct 20",
+   "url": "https://sports.yahoo.com/articles/tuesday-college-football-predictions-picks-134153351.html"
+  },
+  {
+   "title": "FanDuel Research: South Alabama vs Marshall",
+   "url": "https://www.fanduel.com/research/south-alabama-vs-marshall-college-football-odds-picks-best-bets-for-10-20-2026"
+  },
+  {
+   "title": "SI: Patriots vs Bears Week 7 odds, injuries",
+   "url": "https://www.si.com/betting/patriots-vs-bears-prediction-odds-spread-injuries-trends-for-nfl-week-7-2026"
+  },
+  {
+   "title": "Fanatics: Patriots vs Bears odds",
+   "url": "https://betfanatics.com/blog/patriots-vs-bears-odds-spreads-and-lines"
+  },
+  {
+   "title": "Oddsshopper: Patriots vs Bears anytime TD picks",
+   "url": "https://www.oddsshopper.com/articles/expert-picks/new-england-patriots-vs-chicago-bears-anytime-td-picks-2026-10-22"
+  },
+  {
+   "title": "Bleacher Nation: NFL ATS records",
+   "url": "https://www.bleachernation.com/betting/2026/10/14/nfl-ats-records/"
   }
  ]
 }
