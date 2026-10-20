@@ -332,11 +332,11 @@
     {
       "sleeperId": "2216",
       "name": "Mike Evans",
-      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 4:43 PM PT Oct 19. Earlier: Evans (ribs) is questionable for Monday night (Oct 19) vs. Washington, and Shanahan suggested his final status won't be known until hours before kickoff. With Deebo Samuel out, Evans is SF's top WR if he plays.",
+      "note": "Sleeper now lists him out (achilles) as of 7:45 PM PT Oct 19.",
       "tag": "injury",
-      "redraftAdj": 1.0,
+      "redraftAdj": 0.9,
       "dynastyAdj": 1.0,
-      "status": null,
+      "status": "Out",
       "auto": true
     },
     {
@@ -738,5 +738,5 @@
       "tag": "injury"
     }
   ],
-  "statusChecked": "6:45 PM PT Oct 19"
+  "statusChecked": "7:45 PM PT Oct 19"
 }

@@ -1006,18 +1006,18 @@
    "t": "LAR"
   },
   "2216": {
-   "changed": "2026-10-19T23:43:00.253377+00:00",
+   "changed": "2026-10-20T02:45:32.385352+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 1.0,
     "name": "Mike Evans",
-    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 4:43 PM PT Oct 19. Earlier: Evans (ribs) is questionable for Monday night (Oct 19) vs. Washington, and Shanahan suggested his final status won't be known until hours before kickoff. With Deebo Samuel out, Evans is SF's top WR if he plays.",
-    "redraftAdj": 1.0,
+    "note": "Sleeper now lists him out (achilles) as of 7:45 PM PT Oct 19.",
+    "redraftAdj": 0.9,
     "sleeperId": "2216",
-    "status": null,
+    "status": "Out",
     "tag": "injury"
    },
-   "i": null,
+   "i": "Out",
    "qb1": null,
    "t": "SF"
   },
