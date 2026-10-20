@@ -1,17 +1,7 @@
 {
  "date": "Tue Oct 20",
- "scanned": "Oct 20, 8:05 AM PT",
+ "scanned": "Oct 20, 2:56 PM PT · recheck",
  "slate": [
-  {
-   "sport": "NBA",
-   "game": "Celtics @ Pistons",
-   "time": "12:00 PM PT",
-   "pick": "Celtics ML",
-   "price": "53¢",
-   "call": "PASS",
-   "why": "Books ~50-52% BOS; 53¢ plus fee leaves no edge.",
-   "recheck": ""
-  },
   {
    "sport": "NBA",
    "game": "76ers @ Knicks",
@@ -47,20 +37,20 @@
    "game": "South Alabama @ Marshall",
    "time": "4:30 PM PT",
    "pick": "NO on “South Alabama wins by over 2.5” (= Marshall +2.5)",
-   "price": "47¢",
-   "call": "WAIT",
-   "why": "Books USA -2.5/-3; Marshall +2.5 fair ~48-50%.",
-   "recheck": "Before 4:15 PM PT: YES at 44¢ or less if books hold."
+   "price": "51¢",
+   "call": "PASS",
+   "why": "Marshall +2.5 moved to 51¢, now above fair.",
+   "recheck": ""
   },
   {
    "sport": "NBA",
    "game": "Thunder @ Spurs",
    "time": "6:30 PM PT",
    "pick": "YES on “Spurs win by over 2.5”",
-   "price": "45¢",
-   "call": "LEAN",
-   "why": "Books SAS -2.5 ~48-50%; edge 1-3 points, short of the bar.",
-   "recheck": "YES at 43¢ or less; Tobias Harris out, Holmgren cleared. 5:45 PM PT."
+   "price": "",
+   "call": "WAIT",
+   "why": "Kalshi flipped to OKC 52¢; no fresh book line found to confirm SAS -2.5.",
+   "recheck": "5:45 PM PT: YES only if books still SAS -2.5 and Spurs >2.5 ≤43¢."
   }
  ],
  "upcoming": [
@@ -159,6 +149,10 @@
   {
    "title": "Bleacher Nation: NFL ATS records",
    "url": "https://www.bleachernation.com/betting/2026/10/14/nfl-ats-records/"
+  },
+  {
+   "title": "Yahoo: Thunder vs Spurs injury report",
+   "url": "https://sports.yahoo.com/articles/full-injury-report-tuesdays-thunder-130111481.html"
   }
  ]
 }
