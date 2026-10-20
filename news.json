@@ -231,11 +231,12 @@
     {
       "sleeperId": "5859",
       "name": "A.J. Brown",
-      "note": "Played Sunday, Oct 18 vs. the Jets in his first game back from a high ankle sprain, but ESPN noted three drops. Romeo Doubs left the same game with a shoulder injury, which could open up more targets for Brown.",
-      "tag": "return",
-      "redraftAdj": 1.03,
+      "note": "Sleeper now lists him questionable (ankle) as of 5:57 PM PT Oct 19. Earlier: Played Sunday, Oct 18 vs. the Jets in his first game back from a high ankle sprain, but ESPN noted three drops. Romeo Doubs left the same game with a shoulder injury, which could open up more targets for Brown.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
       "dynastyAdj": 1.0,
-      "status": ""
+      "status": "Questionable",
+      "auto": true
     },
     {
       "sleeperId": "5872",
@@ -737,5 +738,5 @@
       "tag": "injury"
     }
   ],
-  "statusChecked": "4:43 PM PT Oct 19"
+  "statusChecked": "5:57 PM PT Oct 19"
 }

@@ -1282,18 +1282,18 @@
    "t": "GB"
   },
   "5859": {
-   "changed": "2026-10-18T16:41:56.765540+00:00",
+   "changed": "2026-10-20T00:57:55.999431+00:00",
    "entry": {
     "auto": true,
-    "dynastyAdj": 1.02,
+    "dynastyAdj": 1.0,
     "name": "A.J. Brown",
-    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 9:41 AM PT Oct 18. Earlier: The Patriots activated Brown (ankle) from injured reserve on Saturday, Oct 17, and he will play Sunday vs. the Jets after missing four games. He was limited in practice all week and may not get a full snap count in his first game back.",
-    "redraftAdj": 1.0,
+    "note": "Sleeper now lists him questionable (ankle) as of 5:57 PM PT Oct 19. Earlier: Played Sunday, Oct 18 vs. the Jets in his first game back from a high ankle sprain, but ESPN noted three drops. Romeo Doubs left the same game with a shoulder injury, which could open up more targets for Brown.",
+    "redraftAdj": 0.98,
     "sleeperId": "5859",
-    "status": null,
+    "status": "Questionable",
     "tag": "injury"
    },
-   "i": null,
+   "i": "Questionable",
    "qb1": null,
    "t": "NE"
   },
