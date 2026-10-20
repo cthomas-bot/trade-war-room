@@ -1253,16 +1253,6 @@
   },
   "5846": {
    "changed": "2026-10-17T16:41:38.341033+00:00",
-   "entry": {
-    "auto": true,
-    "dynastyAdj": 1.0,
-    "name": "DK Metcalf",
-    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 9:41 AM PT Oct 17. Earlier: Added to the report with an illness and missed Friday's (Oct 16) practice, so he is officially questionable for Sunday at Tampa Bay. Local reports expect him to play, and Roman Wilson and Ben Skowronek are out.",
-    "redraftAdj": 1.0,
-    "sleeperId": "5846",
-    "status": null,
-    "tag": "injury"
-   },
    "i": null,
    "qb1": null,
    "t": "PIT"
@@ -1484,11 +1474,20 @@
    "t": "DEN"
   },
   "7528": {
-   "changed": null,
-   "entry": null,
+   "changed": "2026-10-20T16:45:05.219350+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1,
+    "name": "Najee Harris",
+    "note": "Sleeper shows he was released by NYG as of 9:45 AM PT Oct 20; check his new role.",
+    "redraftAdj": 1,
+    "sleeperId": "7528",
+    "status": null,
+    "tag": "rumor"
+   },
    "i": null,
    "qb1": null,
-   "t": "NYG"
+   "t": null
   },
   "7543": {
    "changed": null,
