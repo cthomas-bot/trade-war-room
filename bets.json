@@ -1,101 +1,200 @@
 {
- "date": "Tue Oct 20",
- "scanned": "Oct 20, 2:56 PM PT · recheck",
+ "date": "Wed Oct 21",
+ "scanned": "Oct 21, 8:05 AM PT",
  "slate": [
   {
    "sport": "NBA",
-   "game": "76ers @ Knicks",
-   "time": "4:00 PM PT",
-   "pick": "Knicks ML",
-   "price": "62¢",
-   "call": "PASS",
-   "why": "Books ~62% NYK; spread and total also match. Embiid cleared.",
-   "recheck": ""
-  },
-  {
-   "sport": "CFB",
-   "game": "Missouri St. @ Delaware",
-   "time": "4:00 PM PT",
-   "pick": "NO on “Delaware wins by over 2.5” (= MOST +2.5)",
-   "price": "48¢",
-   "call": "PASS",
-   "why": "One book (DEL -3); Kalshi matches fair ~48%.",
-   "recheck": ""
-  },
-  {
-   "sport": "CFB",
-   "game": "Middle Tennessee @ FIU",
-   "time": "4:00 PM PT",
-   "pick": "NO on “FIU wins by over 10.5” (= MTSU +10.5)",
-   "price": "52¢",
-   "call": "PASS",
-   "why": "Books FIU -10/-10.5; spread, ML and total all fair.",
-   "recheck": ""
-  },
-  {
-   "sport": "CFB",
-   "game": "South Alabama @ Marshall",
+   "game": "Timberwolves @ Heat",
    "time": "4:30 PM PT",
-   "pick": "NO on “South Alabama wins by over 2.5” (= Marshall +2.5)",
-   "price": "51¢",
+   "pick": "YES on “Over 241.5”",
+   "price": "45¢",
+   "call": "YES",
+   "why": "Books total 242.5-243.5; Kalshi centered ~239.5, over 241.5 fair ~52%.",
+   "recheck": "3:30 PM PT: confirm book total still ≥242; drop to PASS if ≤240.5 or Giannis/Edwards out"
+  },
+  {
+   "sport": "NBA",
+   "game": "Hawks @ Magic",
+   "time": "4:00 PM PT",
+   "pick": "Magic ML",
+   "price": "54¢",
+   "call": "LEAN",
+   "why": "Books de-vig ORL ~55-57% (-130 to -148); thin edge after ~2¢ fee.",
+   "recheck": "3:30 PM PT: YES only if ORL ≤52¢ with books still ≤-130"
+  },
+  {
+   "sport": "NBA",
+   "game": "Bulls @ Raptors",
+   "time": "4:30 PM PT",
+   "pick": "NO on “Toronto wins by over 9.5” (= CHI +9.5)",
+   "price": "47¢",
+   "call": "LEAN",
+   "why": "Books TOR -8.5 to -9.5; Dimers model likes Bulls +9.5.",
+   "recheck": "3:30 PM PT: YES if books move to TOR -8.5 and NO ≤47¢"
+  },
+  {
+   "sport": "NBA",
+   "game": "Warriors @ Lakers",
+   "time": "7:00 PM PT",
+   "pick": "YES on “Los Angeles L wins by over 6.5”",
+   "price": "50¢",
+   "call": "LEAN",
+   "why": "GSW without Butler, Podziemski, Moody, Porzingis; books LAL -6.5 to -7.5.",
+   "recheck": "6:00 PM PT: Curry ankle status; YES if books LAL -7.5 and price ≤50¢"
+  },
+  {
+   "sport": "NBA",
+   "game": "Kings @ Clippers",
+   "time": "7:30 PM PT",
+   "pick": "NO on “Los Angeles C wins by over 4.5” (= SAC +4.5)",
+   "price": "46¢",
+   "call": "WAIT",
+   "why": "One source has LAC -4.5; Kalshi NO 46¢ is cheap if confirmed.",
+   "recheck": "6:30 PM PT: LEAN/YES if two books show LAC ≤-4.5 and NO ≤46¢"
+  },
+  {
+   "sport": "CFB",
+   "game": "New Mexico St. @ Sam Houston",
+   "time": "5:00 PM PT · ESPN2",
+   "pick": "New Mexico St. ML",
+   "price": "56¢",
    "call": "PASS",
-   "why": "Marshall +2.5 moved to 51¢, now above fair.",
+   "why": "Books de-vig NMSU ~57–58%; Kalshi 56¢ is fair after fees. No clear side.",
+   "recheck": "Only if NMSU ML drops to ≤52¢ before 5 PM PT kickoff; spreads (−2.5 to −3.5) and totals (44.5–47.5) vary too much by book."
+  },
+  {
+   "sport": "NBA",
+   "game": "Bucks @ Wizards",
+   "time": "4:00 PM PT",
+   "pick": "NO on “Washington wins by over 4.5” (= MIL +4.5)",
+   "price": "50¢",
+   "call": "PASS",
+   "why": "Books WAS -4.5, total 238.5; Kalshi matches the market.",
    "recheck": ""
   },
   {
    "sport": "NBA",
-   "game": "Thunder @ Spurs",
-   "time": "6:30 PM PT",
-   "pick": "YES on “Spurs win by over 2.5”",
-   "price": "",
-   "call": "WAIT",
-   "why": "Kalshi flipped to OKC 52¢; no fresh book line found to confirm SAS -2.5.",
-   "recheck": "5:45 PM PT: YES only if books still SAS -2.5 and Spurs >2.5 ≤43¢."
+   "game": "Hornets @ Nets",
+   "time": "4:30 PM PT",
+   "pick": "No pick",
+   "price": "—",
+   "call": "PASS",
+   "why": "Sources conflict (DK Oct 12 CHA -130 vs Covers CHA 43%); no current line.",
+   "recheck": "3:30 PM PT: find two current book lines first"
+  },
+  {
+   "sport": "NBA",
+   "game": "Pacers @ Pelicans",
+   "time": "5:00 PM PT",
+   "pick": "Pacers ML",
+   "price": "58¢",
+   "call": "PASS",
+   "why": "Books IND ~59-60% (-154); Kalshi 58¢ is fair after fee.",
+   "recheck": ""
+  },
+  {
+   "sport": "NBA",
+   "game": "Jazz @ Grizzlies",
+   "time": "5:00 PM PT",
+   "pick": "No pick",
+   "price": "—",
+   "call": "PASS",
+   "why": "Covers Jazz 49% equals Kalshi 49¢; Memphis -1.5 near coin flip.",
+   "recheck": ""
+  },
+  {
+   "sport": "NBA",
+   "game": "Mavericks @ Rockets",
+   "time": "5:30 PM PT",
+   "pick": "NO on “Houston wins by over 9.5” (= DAL +9.5)",
+   "price": "49¢",
+   "call": "PASS",
+   "why": "Only one spread source (HOU -9); edge under 1 point after fee.",
+   "recheck": "4:30 PM PT: LEAN if two books show HOU -8.5 or better"
+  },
+  {
+   "sport": "NBA",
+   "game": "Suns @ Trail Blazers",
+   "time": "7:00 PM PT",
+   "pick": "Trail Blazers ML",
+   "price": "58¢",
+   "call": "PASS",
+   "why": "Books POR -140 / Covers 58%; Kalshi 58¢ is fair.",
+   "recheck": ""
   }
  ],
  "upcoming": [
   {
-   "sport": "MLB",
-   "game": "Rays @ Brewers · World Series G1",
-   "time": "Fri 5:00 PM PT",
-   "pick": "",
-   "price": "",
+   "sport": "CFB",
+   "game": "James Madison vs Appalachian St.",
+   "time": "Thu Oct 22 · ~4:00 PM PT (est. from Kalshi close)",
+   "pick": "No pick yet (Kalshi: JMU 79¢, JMU −10.5 ~50¢, O/U ~55.5)",
+   "price": "—",
    "call": "WAIT",
-   "why": "Rays won ALCS 4-2 with a 7-3 Game 6 win; starters TBD.",
-   "recheck": "Thursday: probables and Kalshi price."
+   "why": "No sportsbook line found to de-vig against yet.",
+   "recheck": "Thu ~2:50 PM PT: compare two books' spread/total vs Kalshi; YES only on ≥3 pts edge."
+  },
+  {
+   "sport": "CFB",
+   "game": "Liberty vs Kennesaw St.",
+   "time": "Thu Oct 22 · ~4:00 PM PT (est. from Kalshi close)",
+   "pick": "No pick yet (Kalshi: Liberty 79¢, Liberty −10.5 ~50¢, O/U ~50.5)",
+   "price": "—",
+   "call": "WAIT",
+   "why": "No sportsbook line found to de-vig against yet.",
+   "recheck": "Thu ~2:50 PM PT: get two book lines and injury news, then compare."
+  },
+  {
+   "sport": "CFB",
+   "game": "East Carolina vs Memphis",
+   "time": "Thu Oct 22 · ~4:30 PM PT (est. from Kalshi close)",
+   "pick": "No pick yet (Kalshi: Memphis 78¢, Memphis −10.5 ~50¢, O/U ~54.5)",
+   "price": "—",
+   "call": "WAIT",
+   "why": "No sportsbook line found to de-vig against yet.",
+   "recheck": "Thu ~2:50 PM PT: get two book lines and QB status, then compare."
+  },
+  {
+   "sport": "NFL",
+   "game": "Patriots @ Bears · TNF",
+   "time": "Thu Oct 22 · 5:15 PM PT · Prime",
+   "pick": "NO on “Chicago wins by over 2.5” (= NE +2.5)",
+   "price": "45¢",
+   "call": "LEAN",
+   "why": "Books de-vig NE +2.5 at ~48–49%; Kalshi 45¢ leaves ~2 pts edge after fees.",
+   "recheck": "Thu ~2:50 PM PT: YES if ≤42¢ or books move to CHI −3; check final injury report."
+  },
+  {
+   "sport": "MLB",
+   "game": "Rays @ Brewers · World Series G1 (matchup NOT confirmed)",
+   "time": "Fri Oct 23 · 5:00 PM PT (per Kalshi ticker)",
+   "pick": "No pick (Kalshi: Brewers 61¢, O/U 6.5 ~47¢)",
+   "price": "—",
+   "call": "WAIT",
+   "why": "Rays led ALCS 3–2; no Game 6/7 result found; no starters or game lines.",
+   "recheck": "Thu/Fri: confirm the pennant winner, G1 starters, and two books' ML/total."
   }
  ],
  "primetime": {
   "tnf": {
-   "game": "Patriots @ Bears",
-   "kickoff": "Thu 5:15 PM PT · Prime",
-   "trend": "No real 2026 TNF underdog record found; all dogs 42-34-3 ATS thru ~Week 5 (not TNF-specific).",
-   "note": "CHI -2.5/-3, total 49.5; mild weather. Caleb's hamstring status reports conflict.",
+   "game": "New England Patriots @ Chicago Bears",
+   "kickoff": "Thu Oct 22 · 5:15 PM PT · Prime Video",
+   "trend": "Not fully verified. VSiN: TNF underdogs won outright 4 straight through Wk 6 (Broncos +2.5 beat Seahawks 17–14 OT). No full 2026 TNF dog SU/ATS record found.",
+   "note": "Both teams 4–2. Caleb Williams back from hamstring (missed 3 games). NE has won 3 straight. Line CHI −2.5/−3, total 49.5–50.5. No game-day weather forecast found yet.",
    "call": "LEAN"
   },
   "games": [
    {
     "slot": "TNF",
     "game": "Patriots @ Bears",
-    "kickoff": "Thu 5:15 PM PT · Prime",
-    "line": "CHI -2.5/-3 · O/U 49.5",
-    "pick": "NO on “Over 49.5” (= Under 49.5)",
-    "price": "46¢",
+    "kickoff": "Thu Oct 22 · 5:15 PM PT · Prime",
+    "line": "CHI −2.5 (DK −115; consensus −120) · O/U 49.5 (DK) / 50.5 (SportsLine) · ML CHI −148 / NE +124 (DK)",
+    "pick": "NO on “Chicago wins by over 2.5” (= NE +2.5)",
+    "price": "45¢",
     "call": "LEAN",
-    "why": "Consensus 49.5 makes it ~50%; ~2 points edge after fees.",
-    "props": [
-     {
-      "pick": "D'Andre Swift anytime TD",
-      "odds": "-147",
-      "why": "Market favorite to score; Monangai still out."
-     },
-     {
-      "pick": "Rhamondre Stevenson anytime TD",
-      "odds": "+105",
-      "why": "Best plus-money price on NE's lead back; shop it."
-     }
-    ],
-    "recheck": "Thu ~2 PM PT after final injury report: YES at 44¢ or less."
+    "why": "Fair ~48–49% vs 45¢; Kalshi CHI ML 60¢ is above books' ~55–57%.",
+    "props": [],
+    "recheck": "Thu ~2:50 PM PT: YES if NO side ≤42¢ or books go to CHI −3. No verified 2026 prop odds found (Loveland, Williams, Maye) — pull live props then; none listed to avoid inventing odds."
    }
   ]
  },
@@ -103,56 +202,84 @@
  "parlays": [],
  "sources": [
   {
-   "title": "NBC: Rays beat Guardians 7-3, earn World Series trip",
-   "url": "https://www.nbcwashington.com/mlb/rays-guardians-game-6-score/4169462/"
+   "title": "Timberwolves vs Heat Prediction, Picks & Odds: October 21, 2026 (WagerTalk)",
+   "url": "https://www.wagertalk.com/news/nba/timberwolves-vs-heat-prediction-picks-odds-october-21-2026/"
   },
   {
-   "title": "ESPN: 2026 World Series schedule",
-   "url": "https://www.espn.com/mlb/story/_/id/50022544/2026-mlb-playoffs-schedule-how-watch-postseason-world-series-bracket-standings"
+   "title": "Timberwolves vs. Heat Prediction, Odds & Props for Oct. 21 (The Lines)",
+   "url": "https://www.thelines.com/nba/picks/timberwolves-vs-heat-prediction-odds-props-for-oct-21/"
   },
   {
-   "title": "CBS: Celtics vs Pistons odds",
-   "url": "https://www.cbssports.com/betting/news/celtics-pistons-odds-prediction-time-2026-nba-opening-night-picks-bets/"
+   "title": "Timberwolves vs. Heat Odds & Betting Predictions - October 21, 2026 (Action Network)",
+   "url": "https://www.actionnetwork.com/nba-game/timberwolves-heat-score-odds-october-21-2026/295139"
   },
   {
-   "title": "Covers: 76ers vs Knicks odds",
-   "url": "https://www.covers.com/nba/76ers-vs-knicks-prediction-picks-odds-oct-20-2026"
+   "title": "NBA Predictions and Moneyline Picks: Wednesday, Oct. 21 (Covers)",
+   "url": "https://www.covers.com/nba/moneyline-predictions-picks-oct-21-2026"
   },
   {
-   "title": "Covers: Thunder vs Spurs odds",
-   "url": "https://www.covers.com/nba/thunder-vs-spurs-prediction-picks-odds-oct-20-2026"
+   "title": "NBA picks today: Wednesday's best bets [10/21/2026] (Dimers)",
+   "url": "https://www.dimers.com/nba/news/nba-best-bets-10-21-2026-ac"
   },
   {
-   "title": "SI: Thunder vs Spurs odds and props",
-   "url": "https://www.si.com/betting/thunder-vs-spurs-prediction-odds-and-best-prop-bets-for-nba-season-opener-2026"
+   "title": "NBA picks today: Best bets and predictions for every game (Sports Mole)",
+   "url": "https://www.sportsmole.co.uk/basketball/sacramento-kings/preview-index/nba-picks-today-best-bets-and-predictions-for-every-game--october-21_607334.html"
   },
   {
-   "title": "Yahoo: Tuesday college football picks Oct 20",
-   "url": "https://sports.yahoo.com/articles/tuesday-college-football-predictions-picks-134153351.html"
+   "title": "Warriors vs Lakers Prediction, Picks & Odds: October 21, 2026 (WagerTalk)",
+   "url": "https://www.wagertalk.com/news/nba/warriors-vs-lakers-prediction-picks-odds-october-21-2026/"
   },
   {
-   "title": "FanDuel Research: South Alabama vs Marshall",
-   "url": "https://www.fanduel.com/research/south-alabama-vs-marshall-college-football-odds-picks-best-bets-for-10-20-2026"
+   "title": "Bucks vs Wizards Prediction and Best Bet for Wednesday October 21 (The Spread)",
+   "url": "https://www.thespread.com/nba-articles/bucks-vs-wizards-prediction-october-21-2026/"
   },
   {
-   "title": "SI: Patriots vs Bears Week 7 odds, injuries",
+   "title": "FanDuel Research: New Mexico State vs Sam Houston odds/picks 10/21/2026",
+   "url": "https://fanduel.com/research/new-mexico-state-vs-sam-houston-college-football-odds-picks-best-bets-for-10-21-2026"
+  },
+  {
+   "title": "Bleacher Nation: New Mexico State vs Sam Houston prediction, Oct 21 2026",
+   "url": "https://www.bleachernation.com/picks/2026/10/19/new-mexico-state-vs-sam-houston-prediction-picks-live-odds-and-moneyline-october-21-2026/"
+  },
+  {
+   "title": "Dimers: New Mexico State vs Sam Houston Week 8 prediction",
+   "url": "https://www.dimers.com/cfb/predictions/2026_8_shsu_nmsu"
+  },
+  {
+   "title": "StatSalt: NMSU vs Sam Houston picks Oct 21 2026",
+   "url": "https://statsalt.com/free-picks/college-football/new-mexico-state-vs-sam-houston-picks-and-predictions-for-wednesday-october-21-2026"
+  },
+  {
+   "title": "SI: Patriots vs Bears prediction, odds, injuries, trends Week 7 2026",
    "url": "https://www.si.com/betting/patriots-vs-bears-prediction-odds-spread-injuries-trends-for-nfl-week-7-2026"
   },
   {
-   "title": "Fanatics: Patriots vs Bears odds",
-   "url": "https://betfanatics.com/blog/patriots-vs-bears-odds-spreads-and-lines"
+   "title": "Covers: NFL Week 7 opening lines 2026",
+   "url": "https://www.covers.com/nfl/week-7-odds-opening-lines-2026"
   },
   {
-   "title": "Oddsshopper: Patriots vs Bears anytime TD picks",
-   "url": "https://www.oddsshopper.com/articles/expert-picks/new-england-patriots-vs-chicago-bears-anytime-td-picks-2026-10-22"
+   "title": "VegasInsider: NFL Week 7 odds 2026",
+   "url": "https://www.vegasinsider.com/nfl/nfl-week-7-odds-2026/"
   },
   {
-   "title": "Bleacher Nation: NFL ATS records",
-   "url": "https://www.bleachernation.com/betting/2026/10/14/nfl-ats-records/"
+   "title": "Stats Insider: Bears vs Patriots Week 7 2026 (bet365)",
+   "url": "https://www.statsinsider.com.au/news/bears-vs-patriots-prediction-and-preview-nfl-week-7-2026"
   },
   {
-   "title": "Yahoo: Thunder vs Spurs injury report",
-   "url": "https://sports.yahoo.com/articles/full-injury-report-tuesdays-thunder-130111481.html"
+   "title": "SportsLine: Patriots vs Bears Week 7 TNF odds",
+   "url": "https://www.sportsline.com/insiders/patriots-vs-bears-odds-line-time-proven-computer-model-reveals-picks-for-2026-nfl-week-7-thursday-night-football-matchup/"
+  },
+  {
+   "title": "VSiN: Four straight Thursday upsets",
+   "url": "https://vsin.com/nfl/nfl-week-6-survivor-shake-up-eagles-qb-out/"
+  },
+  {
+   "title": "Boston Globe: ALCS Rays-Guardians Game 5",
+   "url": "https://www.bostonglobe.com/2026/10/18/sports/alcs-rays-guardians-drew-rasmussen/"
+  },
+  {
+   "title": "DodgerBlue: Brewers World Series schedule if Rays or Guardians",
+   "url": "https://dodgerblue.com/brewers-world-series-schedule-games-if-rays-or-guardians/2026/10/15/"
   }
  ]
 }
