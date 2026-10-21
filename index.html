@@ -481,7 +481,7 @@ function buildModel(d){
     return {rid:r.roster_id,ownerId:r.owner_id,owner:u.display_name||name,name,players,picks:[],
       wins:st.wins||0,losses:st.losses||0,ties:st.ties||0,fpts:(st.fpts||0)+(st.fpts_decimal||0)/100,
       unvalued:ids.length-players.length,
-      limit:rosterLimit,active:ids.filter(id=>!res.has(id)&&!taxi.has(id)).length};
+      limit:rosterLimit,active:ids.filter(id=>!res.has(id)&&!taxi.has(id)).length,mgr:(d.managers||{})[r.owner_id]||null};
   });
   const byRid={};teams.forEach(t=>byRid[t.rid]=t);
   // --- news overlay, injuries, usage (applied before strength calc) ---
@@ -739,6 +739,12 @@ function generateTrades(M,opts){
           const oppU=Wo[0]*oDS+Wo[1]*oDF+(mv-1)*.25;
           if(oppU<band.minU)continue;
           const newStarters=give.filter(a=>oL.starters.includes(a));
+          // this manager's habits: hard rules, contenders who only deal for help now, offers already turned down
+          const mg=opp.mgr;
+          if(mg){const R=mg.rules||{};
+            if(R.keepRBDepth&&get.filter(a=>a.pos==='RB').length>=2)continue;
+            if((R.needsNowGain||mg.stance==='contender')&&oDS<.008)continue;
+            if(refusedBefore(mg,give,get,M))continue;}
           // there has to be a reason for them to say yes: a lineup hole filled, youth for a rebuilder, or a clear value win
           const hook=oDS>.004||(!M.redraft&&opp.mode==='rebuild'&&oDF>.004)||mv>=1.04;
           if(!hook)continue;
@@ -750,7 +756,7 @@ function generateTrades(M,opts){
           let sig=0;
           get.forEach(x=>{if(x.buyLow)sig+=.004;if(x.roleUp)sig+=.004;if(x.sellHigh)sig-=.004;});
           give.forEach(x=>{if(x.sellHigh)sig+=.004;if(x.offload)sig+=.005;if(x.buyLow)sig-=.004;if(x.ageCliff&&mode!=='contend')sig+=.003;});
-          const accept=Math.max(10,Math.min(92,Math.round(55+oppU*700+(mv-1)*120)));
+          const accept=Math.max(10,Math.min(92,Math.round((55+oppU*700+(mv-1)*120)*mgrFactor(opp.mgr))));
           const rank=(myGain+sig+band.edgeW*edge*.05)*SHAPE_MULT[shape]*(.6+accept/250);
           if(rank<=0)continue;
           const key=opp.rid+'|'+t.id+'|'+shape;
@@ -767,7 +773,7 @@ function generateTrades(M,opts){
     const top=Math.max(...c.map(x=>x.rank));
     return c.filter(x=>x.rank>=top*SIMPLE_KEEP).sort((a,b)=>SHAPE_ORDER.indexOf(a.shape)-SHAPE_ORDER.indexOf(b.shape)||b.rank-a.rank)[0];
   }).sort((a,b)=>b.rank-a.rank);
-  if(only){list.forEach(tr=>{tr.gainLine=gainLine(tr,M);tr.acceptLine=acceptLine(tr,M);tr.reasons=explain(tr,M);});return list;}
+  if(only){list.forEach(tr=>{tr.mgrLine=mgrLine(tr.opp);tr.mgrNotes=(tr.opp.mgr&&tr.opp.mgr.notes)||[];tr.gainLine=gainLine(tr,M);tr.acceptLine=acceptLine(tr,M);tr.reasons=explain(tr,M);});return list;}
   // at most 2 per opponent, one 3-for-1 at most, no reused give-asset among the top 3, no asset offered more than twice
   const perOpp={},usedGive=new Set(),giveCount={},out=[];let n31=0;
   for(const tr of list){
@@ -779,10 +785,30 @@ function generateTrades(M,opts){
     out.push(tr);perOpp[tr.opp.rid]=(perOpp[tr.opp.rid]||0)+1;tr.give.forEach(g=>{usedGive.add(g.id);giveCount[g.id]=(giveCount[g.id]||0)+1;});if(tr.shape==='3x1')n31++;
     if(out.length>=8)break;
   }
-  out.forEach(tr=>{tr.gainLine=gainLine(tr,M);tr.acceptLine=acceptLine(tr,M);tr.reasons=explain(tr,M);});
+  out.forEach(tr=>{tr.mgrLine=mgrLine(tr.opp);tr.mgrNotes=(tr.opp.mgr&&tr.opp.mgr.notes)||[];tr.gainLine=gainLine(tr,M);tr.acceptLine=acceptLine(tr,M);tr.reasons=explain(tr,M);});
   return out;
 }
 
+const RATE_F={never:.6,rare:.8,active:1,'very active':1.1};
+function mgrFactor(mg){if(!mg)return 1;return (RATE_F[mg.tradeRate]||1)*(mg.stance==='contender'?.85:mg.stance==='desperate'?1.1:1);}
+/* a rejected offer covers any new one for the same main target that gives no more than ~10% extra */
+function refusedRef(mg,get,M){
+  if(!mg||!mg.rejected)return [];
+  const val=id=>{for(const t of M.teams){const a=t.assets.find(x=>x.id===id);if(a)return a.value;}return 0;};
+  const top=get.slice().sort((a,b)=>b.value-a.value)[0];
+  return mg.rejected.filter(r=>top&&r.get.includes(top.id)).map(r=>({...r,gv:r.give.reduce((s,id)=>s+val(id),0),rv:r.get.reduce((s,id)=>s+val(id),0)}));
+}
+function refusedBefore(mg,give,get,M){
+  const gv=give.reduce((s,a)=>s+a.value,0),rv=get.reduce((s,a)=>s+a.value,0);
+  return refusedRef(mg,get,M).some(r=>gv<=r.gv*1.1&&rv>=r.rv*.9);
+}
+function mgrLine(o){
+  const mg=o.mgr;if(!mg)return '';
+  const ord=n=>n+(['th','st','nd','rd'][n%100>10&&n%100<14?0:n%10]||'th');
+  const rate={never:'never trades',rare:'rarely trades',active:'trades regularly','very active':'trades a lot'}[mg.tradeRate]||'';
+  const st={contender:'contender: only deals that help their lineup now',bubble:'on the playoff bubble',chaser:'chasing a playoff spot',desperate:'losing: open to shake-ups'}[mg.stance]||'';
+  return mg.name+' · '+mg.record+', '+ord(mg.rank)+' · '+rate+' ('+mg.trades.season+' this season'+(mg.trades.last!=null?', '+mg.trades.last+' last':'')+') · '+st;
+}
 function gainLine(tr,M){
   const pct=x=>(x>=0?'+':'')+(x*100).toFixed(1)+'%';
   const d=Math.round(tr.rv-tr.gv);
@@ -890,6 +916,10 @@ function consequences(tr,M){
   const top=tr.get.reduce((a,b)=>b.value>a.value?b:a);
   if(top.value/tot>=.3)risks.push(top.name+' would be '+Math.round(top.value/tot*100)+'% of your total value — a lot riding on one player.');
   // helping a rival
+  refusedRef(tr.opp.mgr,tr.get,M).forEach(r=>{const nm=ids=>ids.map(id=>{for(const t of M.teams){const a=t.assets.find(x=>x.id===id);if(a)return a.name;}return id;}).join(' + ');
+    risks.push(tr.opp.mgr.name+' already turned down '+nm(r.give)+' for '+nm(r.get)+' ('+r.date+')'+(refusedBefore(tr.opp.mgr,tr.give,tr.get,M)?' — this offer isn’t meaningfully better.':'.'));});
+  if(tr.opp.mgr){const R=tr.opp.mgr.rules||{};if(R.keepRBDepth&&tr.get.filter(a=>a.pos==='RB').length>=2)risks.push(tr.opp.mgr.name+' won’t send two running backs in one deal.');
+    if((R.needsNowGain||tr.opp.mgr.stance==='contender')&&tr.oDS<.008)risks.push(tr.opp.mgr.name+' is a contender and this doesn’t help their lineup now, so expect a no.');}
   if(tr.opp.starterRank<=3&&tr.oDS>.015)risks.push('It makes '+tr.opp.name+' (a top-3 lineup) stronger: their lineup '+pct(tr.oDS)+'.');
   const g=tr.myGain;let verdict,tone;
   if(M.redraft&&tr.dP!=null){
@@ -917,7 +947,7 @@ function checkTrade(M,giveIds,getIds){
   const dS=(myL.total-me.baseL.total)/M.avgStarter,dF=(futureVal(myAfter)-me.baseF)/M.avgFuture,W=teamWeights('contend');
   const myP=M.redraft?lineupDetail(myAfter.filter(a=>a.kind==='player'),M.slots,'wpts'):null;
   const tr={opp,give,get,drops:[],gv:give.reduce((s,a)=>s+a.value,0),rv:get.reduce((s,a)=>s+a.value,0),dS,dF,oDS:(oL.total-opp.baseL.total)/M.avgStarter,myGain:W[0]*dS+W[1]*dF,myAfter,myL,myP,dP:myP?myP.total-me.baseP.total:null,newStarters:give.filter(a=>oL.starters.includes(a))};
-  tr.gainLine=gainLine(tr,M);tr.reasons=explain(tr,M);tr.cq=consequences(tr,M);return tr;
+  tr.mgrLine=mgrLine(opp);tr.mgrNotes=(opp.mgr&&opp.mgr.notes)||[];tr.gainLine=gainLine(tr,M);tr.reasons=explain(tr,M);tr.cq=consequences(tr,M);return tr;
 }
 if(typeof module!=='undefined')module.exports={buildModel,generateTrades,tradeBoards,targetPlans,consequences,cv,lineup,lineupDetail,checkTrade};
 </script>
@@ -994,8 +1024,8 @@ async function getGames(season,week){
 async function loadShared(){
   const st=await j(SL+'/state/nfl');
   const season=st.season,week=+st.week||1;
-  const [PL,news,rookies,games,stats,reports]=await Promise.all([getPlayers().catch(()=>({})),local('news.json'),local('rookies.json'),getGames(season,week),getStats(st,season),local('reports.json')]);
-  return {st,season,week,PL,news,rookies,games,stats,reports};
+  const [PL,news,rookies,games,stats,reports,managers]=await Promise.all([getPlayers().catch(()=>({})),local('news.json'),local('rookies.json'),getGames(season,week),getStats(st,season),local('reports.json'),local('managers.json')]);
+  return {st,season,week,PL,news,rookies,games,stats,reports,managers};
 }
 async function loadMode(mode){
   const {lid}=LG[mode],redraft=mode==='redraft';
@@ -1006,7 +1036,7 @@ async function loadMode(mode){
   const rec=(league.scoring_settings||{}).rec;const ppr=rec>=1?1:rec>0?.5:0;
   const fc=await j('https://api.fantasycalc.com/values/current?isDynasty='+(!redraft)+'&numQbs='+nQb+'&numTeams='+(league.total_rosters||12)+'&ppr='+ppr);
   const draftDone=!['pre_draft','drafting'].includes(league.status);
-  const M=buildModel({league,rosters,users,tradedPicks,fc,stats:SH.stats.data,season:league.season||SH.season,draftDone,myUserId:MY_UID,redraft,players:SH.PL,news:SH.news,proj:SH.games&&SH.games.proj});
+  const M=buildModel({league,rosters,users,tradedPicks,fc,stats:SH.stats.data,season:league.season||SH.season,draftDone,myUserId:MY_UID,redraft,players:SH.PL,news:SH.news,proj:SH.games&&SH.games.proj,managers:((SH.managers||{}).leagues||{})[lid]});
   if(!M.me)throw new Error('Your Sleeper account doesn’t own a team in '+league.name+'.');
   const D={mode,lid,league,rosters,users,M,matchups,ppr,nQb,rp};
   D.userBy={};users.forEach(u=>D.userBy[u.user_id]=u);
@@ -1096,7 +1126,7 @@ function tradePanel(D){
       '<span class="meter"><span><i style="width:'+tr.accept+'%"></i></span>'+tr.accept+'% accept · <b class="'+(cq.tone==='up'?'up':cq.tone==='down'?'down':'t-warn')+'" style="font-family:var(--font);font-size:12px">'+esc(cq.verdict)+'</b></span></div>'+
       '<div class="tr-b"><div class="tr-side give"><span class="lbl">You send · '+fmt(tr.gv)+'</span>'+tr.give.map(asset).join('')+'</div><div class="tr-x"><div>⇄</div></div>'+
       '<div class="tr-side get"><span class="lbl">You get · '+fmt(tr.rv)+'</span>'+tr.get.map(asset).join('')+'</div></div>'+
-      (tr.myP?'<p class="muted" style="margin:8px 12px 0;font-size:13px"><b class="'+(tr.dP>=2?'up':'t-warn')+'">Weekly points '+(tr.dP>=0?'+':'')+tr.dP.toFixed(1)+'</b> · your starters '+(tr.myP.total-tr.dP).toFixed(1)+' → '+tr.myP.total.toFixed(1)+' a week'+(cq.risks[0]?' · ⚠ '+esc(cq.risks[0]):'')+'</p>':'')+'<details class="more"><summary>Why it works · '+esc(tr.gainLine)+'</summary><ul><li><b>Why they say yes:</b> '+esc(tr.acceptLine)+'</li>'+
+      (tr.myP?'<p class="muted" style="margin:8px 12px 0;font-size:13px"><b class="'+(tr.dP>=2?'up':'t-warn')+'">Weekly points '+(tr.dP>=0?'+':'')+tr.dP.toFixed(1)+'</b> · your starters '+(tr.myP.total-tr.dP).toFixed(1)+' → '+tr.myP.total.toFixed(1)+' a week'+(cq.risks[0]?' · ⚠ '+esc(cq.risks[0]):'')+'</p>':'')+(tr.mgrLine?'<p class="muted" style="margin:4px 12px 0;font-size:12.5px">👤 '+esc(tr.mgrLine)+(tr.mgrNotes[0]?'. '+esc(tr.mgrNotes[0]):'')+'</p>':'')+'<details class="more"><summary>Why it works · '+esc(tr.gainLine)+'</summary><ul><li><b>Why they say yes:</b> '+esc(tr.acceptLine)+'</li>'+tr.mgrNotes.slice(1).map(x=>'<li>👤 '+esc(x)+'</li>').join('')+
       tr.reasons.map(x=>'<li>'+esc(x)+'</li>').join('')+cq.risks.map(x=>'<li class="risk">⚠ '+esc(x)+'</li>').join('')+cq.lines.map(x=>'<li>'+esc(x)+'</li>').join('')+'</ul></details>'+
       '<div class="tr-a"><a class="btn pri" href="https://sleeper.com/leagues/'+D.lid+'" target="_blank" rel="noopener">Open in Sleeper</a><button class="btn" type="button" data-copy="'+i+'">Copy message</button></div></article>';}).join('');
   return panel(dyn?'Trade Strategy':'Trade Targets','⇄',ctr+(cards||'<p class="muted">No trade clears the bar right now — try Aggressive or Max.</p>'),{glow:true});

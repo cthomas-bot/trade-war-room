@@ -1,0 +1,473 @@
+{
+ "updated": "2026-10-21T03:36:26+00:00",
+ "leagues": {
+  "1349553170841374720": {
+   "1131806998242168832": {
+    "name": "JustMyLuckk",
+    "team": "Swifties ",
+    "record": "3-3",
+    "rank": 6,
+    "stance": "bubble",
+    "trades": {
+     "season": 1,
+     "last": 4
+    },
+    "moves": 18,
+    "tradeRate": "active",
+    "partners": [
+     "1109493369539006464",
+     "1110607628964659200",
+     "1133579780299030528",
+     "1267966134099902464",
+     "1267975140163989504"
+    ],
+    "notes": [],
+    "rules": {},
+    "rejected": []
+   },
+   "1133579780299030528": {
+    "name": "WJBFF3",
+    "team": "Concussion Protocol ",
+    "record": "1-5",
+    "rank": 10,
+    "stance": "desperate",
+    "trades": {
+     "season": 0,
+     "last": 1
+    },
+    "moves": 17,
+    "tradeRate": "rare",
+    "partners": [
+     "1131806998242168832"
+    ],
+    "notes": [],
+    "rules": {},
+    "rejected": []
+   },
+   "1135104666368458752": {
+    "name": "BeeNyce1600",
+    "team": "The Golden Shower Posse 💦",
+    "record": "3-3",
+    "rank": 5,
+    "stance": "bubble",
+    "trades": {
+     "season": 1,
+     "last": 8
+    },
+    "moves": 20,
+    "tradeRate": "active",
+    "partners": [
+     "1110607628964659200",
+     "1267966134099902464",
+     "1267971471402094592",
+     "1267975140163989504"
+    ],
+    "notes": [],
+    "rules": {},
+    "rejected": []
+   },
+   "877938312772521984": {
+    "name": "Noisy1",
+    "team": "Im Cooked  ",
+    "record": "6-0",
+    "rank": 1,
+    "stance": "contender",
+    "trades": {
+     "season": 0,
+     "last": 1
+    },
+    "moves": 11,
+    "tradeRate": "rare",
+    "partners": [
+     "1267966134099902464"
+    ],
+    "notes": [
+     "Undefeated and the league's top scorer, so he has little reason to shake things up.",
+     "Won't send two running backs in one deal; he keeps one as his flex.",
+     "Wants Malik Nabers; his receivers are thin."
+    ],
+    "rules": {
+     "keepRBDepth": true,
+     "needsNowGain": true
+    },
+    "rejected": [
+     {
+      "date": "2026-10-21",
+      "give": [
+       "11632"
+      ],
+      "get": [
+       "8138",
+       "9484"
+      ]
+     }
+    ]
+   },
+   "1267966134099902464": {
+    "name": "chaLee323",
+    "team": "….. ",
+    "record": "0-6",
+    "rank": 12,
+    "stance": "desperate",
+    "trades": {
+     "season": 3,
+     "last": 4
+    },
+    "moves": 14,
+    "tradeRate": "active",
+    "partners": [
+     "1110607628964659200",
+     "1131806998242168832",
+     "1135104666368458752",
+     "1267975140163989504",
+     "877938312772521984"
+    ],
+    "notes": [],
+    "rules": {},
+    "rejected": []
+   },
+   "1109493369539006464": {
+    "name": "Azuniga89",
+    "team": "Dem franchize boys",
+    "record": "5-1",
+    "rank": 2,
+    "stance": "contender",
+    "trades": {
+     "season": 0,
+     "last": 2
+    },
+    "moves": 10,
+    "tradeRate": "rare",
+    "partners": [
+     "1110607628964659200",
+     "1131806998242168832"
+    ],
+    "notes": [
+     "Went 3-11 last year and is 5-1 now, so he protects what's working.",
+     "Has traded with you before (2025: Kenneth Walker for Pacheco + Addison).",
+     "Values Chase Brown above market; he turned down two offers for him."
+    ],
+    "rules": {
+     "needsNowGain": true
+    },
+    "rejected": [
+     {
+      "date": "2026-10-02",
+      "give": [
+       "11632",
+       "5967"
+      ],
+      "get": [
+       "9224"
+      ]
+     },
+     {
+      "date": "2026-10-21",
+      "give": [
+       "10232",
+       "5967"
+      ],
+      "get": [
+       "9224"
+      ]
+     }
+    ]
+   },
+   "1267966474815811584": {
+    "name": "maximusdecimus25",
+    "team": "maximusdecimus25",
+    "record": "3-3",
+    "rank": 8,
+    "stance": "bubble",
+    "trades": {
+     "season": 0,
+     "last": 0
+    },
+    "moves": 9,
+    "tradeRate": "never",
+    "partners": [],
+    "notes": [],
+    "rules": {},
+    "rejected": []
+   },
+   "1110607628964659200": {
+    "name": "socasual",
+    "team": "Attack on Gibbs",
+    "record": "5-1",
+    "rank": 3,
+    "stance": "contender",
+    "trades": {
+     "season": 1,
+     "last": 5
+    },
+    "moves": 30,
+    "tradeRate": "active",
+    "partners": [
+     "1109493369539006464",
+     "1131806998242168832",
+     "1135104666368458752",
+     "1267966134099902464"
+    ],
+    "notes": [],
+    "rules": {},
+    "rejected": []
+   },
+   "1267967825444614144": {
+    "name": "wreckit23",
+    "team": "wreckit23",
+    "record": "3-3",
+    "rank": 7,
+    "stance": "bubble",
+    "trades": {
+     "season": 0,
+     "last": 0
+    },
+    "moves": 6,
+    "tradeRate": "never",
+    "partners": [],
+    "notes": [],
+    "rules": {},
+    "rejected": []
+   },
+   "1267969635345514496": {
+    "name": "DangaLang69",
+    "team": "Foreskin Inspector",
+    "record": "1-5",
+    "rank": 11,
+    "stance": "desperate",
+    "trades": {
+     "season": 0,
+     "last": 0
+    },
+    "moves": 6,
+    "tradeRate": "never",
+    "partners": [],
+    "notes": [],
+    "rules": {},
+    "rejected": []
+   },
+   "1267971471402094592": {
+    "name": "Rudy1581",
+    "team": "Rude Crew",
+    "record": "2-4",
+    "rank": 9,
+    "stance": "chaser",
+    "trades": {
+     "season": 0,
+     "last": 1
+    },
+    "moves": 6,
+    "tradeRate": "rare",
+    "partners": [
+     "1135104666368458752"
+    ],
+    "notes": [],
+    "rules": {},
+    "rejected": []
+   },
+   "1267975140163989504": {
+    "name": "BTay3232",
+    "team": "Bijan All The Fck 💩",
+    "record": "4-2",
+    "rank": 4,
+    "stance": "bubble",
+    "trades": {
+     "season": 2,
+     "last": 4
+    },
+    "moves": 11,
+    "tradeRate": "active",
+    "partners": [
+     "1131806998242168832",
+     "1135104666368458752",
+     "1267966134099902464"
+    ],
+    "notes": [],
+    "rules": {},
+    "rejected": []
+   }
+  },
+  "1349508410898399232": {
+   "1110607628964659200": {
+    "name": "socasual",
+    "team": "Demon Slayers",
+    "record": "1-5",
+    "rank": 9,
+    "stance": "desperate",
+    "trades": {
+     "season": 3,
+     "last": null
+    },
+    "moves": 11,
+    "tradeRate": "active",
+    "partners": [
+     "1350284851969818624",
+     "877938312772521984"
+    ],
+    "notes": [],
+    "rules": {},
+    "rejected": []
+   },
+   "1135104666368458752": {
+    "name": "BeeNyce1600",
+    "team": "Nyce & Nasty 💦",
+    "record": "2-4",
+    "rank": 6,
+    "stance": "bubble",
+    "trades": {
+     "season": 0,
+     "last": null
+    },
+    "moves": 15,
+    "tradeRate": "active",
+    "partners": [],
+    "notes": [],
+    "rules": {},
+    "rejected": []
+   },
+   "1131806998242168832": {
+    "name": "JustMyLuckk",
+    "team": "The Man in Jahmyrror  ",
+    "record": "5-1",
+    "rank": 2,
+    "stance": "contender",
+    "trades": {
+     "season": 0,
+     "last": null
+    },
+    "moves": 9,
+    "tradeRate": "active",
+    "partners": [],
+    "notes": [],
+    "rules": {},
+    "rejected": []
+   },
+   "1350284851969818624": {
+    "name": "LordCheeseButt",
+    "team": "RIP Joe Rogan",
+    "record": "3-3",
+    "rank": 5,
+    "stance": "bubble",
+    "trades": {
+     "season": 3,
+     "last": null
+    },
+    "moves": 19,
+    "tradeRate": "active",
+    "partners": [
+     "1110607628964659200",
+     "1133579780299030528"
+    ],
+    "notes": [],
+    "rules": {},
+    "rejected": []
+   },
+   "1267967825444614144": {
+    "name": "wreckit23",
+    "team": "wreckit23",
+    "record": "6-0",
+    "rank": 1,
+    "stance": "contender",
+    "trades": {
+     "season": 0,
+     "last": null
+    },
+    "moves": 7,
+    "tradeRate": "never",
+    "partners": [],
+    "notes": [],
+    "rules": {},
+    "rejected": []
+   },
+   "1267966134099902464": {
+    "name": "chaLee323",
+    "team": "Massive Mammoth",
+    "record": "2-4",
+    "rank": 7,
+    "stance": "chaser",
+    "trades": {
+     "season": 0,
+     "last": null
+    },
+    "moves": 3,
+    "tradeRate": "active",
+    "partners": [],
+    "notes": [],
+    "rules": {},
+    "rejected": []
+   },
+   "1133579780299030528": {
+    "name": "WJBFF3",
+    "team": "Sore Losers",
+    "record": "3-3",
+    "rank": 4,
+    "stance": "bubble",
+    "trades": {
+     "season": 1,
+     "last": null
+    },
+    "moves": 19,
+    "tradeRate": "rare",
+    "partners": [
+     "1350284851969818624"
+    ],
+    "notes": [],
+    "rules": {},
+    "rejected": []
+   },
+   "877938312772521984": {
+    "name": "Noisy1",
+    "team": "Tootitandbootit",
+    "record": "1-5",
+    "rank": 10,
+    "stance": "desperate",
+    "trades": {
+     "season": 1,
+     "last": null
+    },
+    "moves": 8,
+    "tradeRate": "rare",
+    "partners": [
+     "1110607628964659200"
+    ],
+    "notes": [],
+    "rules": {},
+    "rejected": []
+   },
+   "1267966474815811584": {
+    "name": "maximusdecimus25",
+    "team": "maximusdecimus25",
+    "record": "2-4",
+    "rank": 8,
+    "stance": "desperate",
+    "trades": {
+     "season": 0,
+     "last": null
+    },
+    "moves": 5,
+    "tradeRate": "never",
+    "partners": [],
+    "notes": [],
+    "rules": {},
+    "rejected": []
+   },
+   "1356824397062635520": {
+    "name": "Pscoggs",
+    "team": "Pscoggs",
+    "record": "5-1",
+    "rank": 3,
+    "stance": "contender",
+    "trades": {
+     "season": 0,
+     "last": null
+    },
+    "moves": 2,
+    "tradeRate": "never",
+    "partners": [],
+    "notes": [],
+    "rules": {},
+    "rejected": []
+   }
+  }
+ }
+}
