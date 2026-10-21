@@ -671,14 +671,14 @@
       "tag": "injury"
     },
     {
-      "auto": true,
-      "dynastyAdj": 0.97,
-      "name": "Alvin Kamara",
-      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 12:53 AM PT Oct 21. Earlier: Kamara (back) played through a hard landing in the Week 6 win over the Giants (Oct 18). He keeps splitting work with Kendre Miller and CJ Donaldson.",
-      "redraftAdj": 1.0,
       "sleeperId": "4035",
-      "status": null,
-      "tag": "injury"
+      "name": "Alvin Kamara",
+      "note": "Sleeper now lists him questionable (back) as of 3:43 PM PT Oct 21.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
+      "dynastyAdj": 0.97,
+      "status": "Questionable",
+      "auto": true
     },
     {
       "auto": true,
@@ -861,5 +861,5 @@
       "auto": true
     }
   ],
-  "statusChecked": "2:46 PM PT Oct 21"
+  "statusChecked": "3:43 PM PT Oct 21"
 }
