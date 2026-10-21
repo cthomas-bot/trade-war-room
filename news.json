@@ -121,11 +121,12 @@
     {
       "sleeperId": "12534",
       "name": "Kyle Monangai",
-      "note": "Monangai (turf toe) has missed Weeks 5 and 6, was last reported in a boot and week-to-week, and is listed questionable as of Oct 21. The short week to Thursday's game vs. New England (Oct 22) makes a return unlikely.",
+      "note": "Sleeper now lists him out (toe) as of 12:44 PM PT Oct 21. Earlier: Monangai (turf toe) has missed Weeks 5 and 6, was last reported in a boot and week-to-week, and is listed questionable as of Oct 21. The short week to Thursday's game vs. New England (Oct 22) makes a return unlikely.",
       "tag": "injury",
       "redraftAdj": 0.6,
       "dynastyAdj": 0.99,
-      "status": "Questionable"
+      "status": "Out",
+      "auto": true
     },
     {
       "sleeperId": "6790",
@@ -238,11 +239,12 @@
     {
       "sleeperId": "5859",
       "name": "A.J. Brown",
-      "note": "He was limited (ankle) on the Patriots' Oct 20 practice report before Thursday's game at Chicago. With Romeo Doubs (shoulder) on IR, he should see more targets if he plays.",
-      "tag": "role_up",
-      "redraftAdj": 1.1,
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 12:44 PM PT Oct 21. Earlier: He was limited (ankle) on the Patriots' Oct 20 practice report before Thursday's game at Chicago. With Romeo Doubs (shoulder) on IR, he should see more targets if he plays.",
+      "tag": "injury",
+      "redraftAdj": 1.0,
       "dynastyAdj": 1.0,
-      "status": "Questionable"
+      "status": null,
+      "auto": true
     },
     {
       "sleeperId": "2133",
@@ -766,7 +768,27 @@
       "dynastyAdj": 0.99,
       "status": "Questionable",
       "auto": true
+    },
+    {
+      "sleeperId": "11584",
+      "name": "Bucky Irving",
+      "note": "Sleeper now lists him questionable (illness) as of 12:44 PM PT Oct 21.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
+      "status": "Questionable",
+      "auto": true
+    },
+    {
+      "sleeperId": "12514",
+      "name": "Emeka Egbuka",
+      "note": "Sleeper now lists him questionable (concussion) as of 12:44 PM PT Oct 21.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
+      "status": "Questionable",
+      "auto": true
     }
   ],
-  "statusChecked": "10:43 AM PT Oct 21"
+  "statusChecked": "12:44 PM PT Oct 21"
 }

@@ -152,9 +152,18 @@
    "t": "CAR"
   },
   "11584": {
-   "changed": null,
-   "entry": null,
-   "i": null,
+   "changed": "2026-10-21T19:44:25.037870+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Bucky Irving",
+    "note": "Sleeper now lists him questionable (illness) as of 12:44 PM PT Oct 21.",
+    "redraftAdj": 0.98,
+    "sleeperId": "11584",
+    "status": "Questionable",
+    "tag": "injury"
+   },
+   "i": "Questionable",
    "qb1": null,
    "t": "TB"
   },
@@ -478,9 +487,18 @@
    "t": "CLE"
   },
   "12514": {
-   "changed": null,
-   "entry": null,
-   "i": null,
+   "changed": "2026-10-21T19:44:25.037870+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Emeka Egbuka",
+    "note": "Sleeper now lists him questionable (concussion) as of 12:44 PM PT Oct 21.",
+    "redraftAdj": 0.98,
+    "sleeperId": "12514",
+    "status": "Questionable",
+    "tag": "injury"
+   },
+   "i": "Questionable",
    "qb1": null,
    "t": "TB"
   },
@@ -558,18 +576,18 @@
    "t": "WAS"
   },
   "12534": {
-   "changed": "2026-10-21T07:53:53.206089+00:00",
+   "changed": "2026-10-21T19:44:25.037870+00:00",
    "entry": {
     "auto": true,
-    "dynastyAdj": 1.0,
+    "dynastyAdj": 0.99,
     "name": "Kyle Monangai",
-    "note": "Sleeper now lists him questionable (toe) as of 12:53 AM PT Oct 21. Earlier: Monangai (turf toe) has missed Weeks 5 and 6 and was last reported in a boot and week-to-week. No return has been reported ahead of Chicago's Thursday (Oct 22) game vs. New England.",
-    "redraftAdj": 0.98,
+    "note": "Sleeper now lists him out (toe) as of 12:44 PM PT Oct 21. Earlier: Monangai (turf toe) has missed Weeks 5 and 6, was last reported in a boot and week-to-week, and is listed questionable as of Oct 21. The short week to Thursday's game vs. New England (Oct 22) makes a return unlikely.",
+    "redraftAdj": 0.6,
     "sleeperId": "12534",
-    "status": "Questionable",
+    "status": "Out",
     "tag": "injury"
    },
-   "i": "Questionable",
+   "i": "Out",
    "qb1": null,
    "t": "CHI"
   },
@@ -902,16 +920,6 @@
   },
   "13380": {
    "changed": "2026-10-18T19:36:40.936280+00:00",
-   "entry": {
-    "auto": true,
-    "dynastyAdj": 1.0,
-    "name": "Brenen Thompson",
-    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 12:36 PM PT Oct 18. Earlier: Questionable (quad) for Sunday, Oct 18 at Kansas City after limited practices all week. He has not played since Week 2.",
-    "redraftAdj": 1.0,
-    "sleeperId": "13380",
-    "status": null,
-    "tag": "injury"
-   },
    "i": null,
    "qb1": null,
    "t": "LAC"
@@ -1280,16 +1288,6 @@
   },
   "4983": {
    "changed": "2026-10-18T19:36:40.936280+00:00",
-   "entry": {
-    "auto": true,
-    "dynastyAdj": 0.98,
-    "name": "DJ Moore",
-    "note": "Sleeper now lists him out (shoulder - ac joint) as of 12:36 PM PT Oct 18. Earlier: Still questionable (shoulder) for Sunday, Oct 18 at Las Vegas after missing practice early in the week. He also missed Week 5 with the same injury, and Buffalo has a Week 7 bye.",
-    "redraftAdj": 0.6,
-    "sleeperId": "4983",
-    "status": "Out",
-    "tag": "injury"
-   },
    "i": "Out",
    "qb1": null,
    "t": "BUF"
@@ -1358,18 +1356,18 @@
    "t": "GB"
   },
   "5859": {
-   "changed": "2026-10-20T00:57:55.999431+00:00",
+   "changed": "2026-10-21T19:44:25.037870+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 1.0,
     "name": "A.J. Brown",
-    "note": "Sleeper now lists him questionable (ankle) as of 5:57 PM PT Oct 19. Earlier: Played Sunday, Oct 18 vs. the Jets in his first game back from a high ankle sprain, but ESPN noted three drops. Romeo Doubs left the same game with a shoulder injury, which could open up more targets for Brown.",
-    "redraftAdj": 0.98,
+    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 12:44 PM PT Oct 21. Earlier: He was limited (ankle) on the Patriots' Oct 20 practice report before Thursday's game at Chicago. With Romeo Doubs (shoulder) on IR, he should see more targets if he plays.",
+    "redraftAdj": 1.0,
     "sleeperId": "5859",
-    "status": "Questionable",
+    "status": null,
     "tag": "injury"
    },
-   "i": "Questionable",
+   "i": null,
    "qb1": null,
    "t": "NE"
   },
