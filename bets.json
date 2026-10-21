@@ -1,23 +1,13 @@
 {
  "date": "Wed Oct 21",
- "scanned": "Oct 21, 8:05 AM PT",
+ "scanned": "Oct 21, 3:00 PM PT · recheck",
  "slate": [
-  {
-   "sport": "NBA",
-   "game": "Timberwolves @ Heat",
-   "time": "4:30 PM PT",
-   "pick": "YES on “Over 241.5”",
-   "price": "45¢",
-   "call": "YES",
-   "why": "Books total 242.5-243.5; Kalshi centered ~239.5, over 241.5 fair ~52%.",
-   "recheck": "3:30 PM PT: confirm book total still ≥242; drop to PASS if ≤240.5 or Giannis/Edwards out"
-  },
   {
    "sport": "NBA",
    "game": "Hawks @ Magic",
    "time": "4:00 PM PT",
    "pick": "Magic ML",
-   "price": "54¢",
+   "price": "56¢",
    "call": "LEAN",
    "why": "Books de-vig ORL ~55-57% (-130 to -148); thin edge after ~2¢ fee.",
    "recheck": "3:30 PM PT: YES only if ORL ≤52¢ with books still ≤-130"
@@ -37,9 +27,9 @@
    "game": "Warriors @ Lakers",
    "time": "7:00 PM PT",
    "pick": "YES on “Los Angeles L wins by over 6.5”",
-   "price": "50¢",
+   "price": "51¢",
    "call": "LEAN",
-   "why": "GSW without Butler, Podziemski, Moody, Porzingis; books LAL -6.5 to -7.5.",
+   "why": "Warriors missing Butler, Podziemski, Moody, Porzingis; Curry probable (ankle).",
    "recheck": "6:00 PM PT: Curry ankle status; YES if books LAL -7.5 and price ≤50¢"
   },
   {
@@ -48,9 +38,19 @@
    "time": "7:30 PM PT",
    "pick": "NO on “Los Angeles C wins by over 4.5” (= SAC +4.5)",
    "price": "46¢",
-   "call": "WAIT",
-   "why": "One source has LAC -4.5; Kalshi NO 46¢ is cheap if confirmed.",
-   "recheck": "6:30 PM PT: LEAN/YES if two books show LAC ≤-4.5 and NO ≤46¢"
+   "call": "LEAN",
+   "why": "Two books have LAC −4.5 (−155); Kings +4.5 is about a coin flip, small edge.",
+   "recheck": "Skip if NO rises above 47¢."
+  },
+  {
+   "sport": "NBA",
+   "game": "Timberwolves @ Heat",
+   "time": "4:30 PM PT",
+   "pick": "YES on “Over 241.5”",
+   "price": "49¢",
+   "call": "PASS",
+   "why": "Books moved down to 239.5–240.5; the edge on Over 241.5 is gone.",
+   "recheck": ""
   },
   {
    "sport": "CFB",
@@ -159,7 +159,7 @@
    "game": "Patriots @ Bears · TNF",
    "time": "Thu Oct 22 · 5:15 PM PT · Prime",
    "pick": "NO on “Chicago wins by over 2.5” (= NE +2.5)",
-   "price": "45¢",
+   "price": "46¢",
    "call": "LEAN",
    "why": "Books de-vig NE +2.5 at ~48–49%; Kalshi 45¢ leaves ~2 pts edge after fees.",
    "recheck": "Thu ~2:50 PM PT: YES if ≤42¢ or books move to CHI −3; check final injury report."
@@ -190,7 +190,7 @@
     "kickoff": "Thu Oct 22 · 5:15 PM PT · Prime",
     "line": "CHI −2.5 (DK −115; consensus −120) · O/U 49.5 (DK) / 50.5 (SportsLine) · ML CHI −148 / NE +124 (DK)",
     "pick": "NO on “Chicago wins by over 2.5” (= NE +2.5)",
-    "price": "45¢",
+    "price": "46¢",
     "call": "LEAN",
     "why": "Fair ~48–49% vs 45¢; Kalshi CHI ML 60¢ is above books' ~55–57%.",
     "props": [],
@@ -280,6 +280,18 @@
   {
    "title": "DodgerBlue: Brewers World Series schedule if Rays or Guardians",
    "url": "https://dodgerblue.com/brewers-world-series-schedule-games-if-rays-or-guardians/2026/10/15/"
+  },
+  {
+   "title": "Bleacher Nation: Heat vs. Timberwolves odds, Oct 21",
+   "url": "https://www.bleachernation.com/picks/2026/10/21/heat-vs-timberwolves-predictions-best-bets-and-odds-wednesday-october-21-2026/"
+  },
+  {
+   "title": "Newsweek: Warriors Curry announcement before Lakers opener",
+   "url": "https://www.newsweek.com/sports/nba/warriors-make-stephen-curry-injury-announcement-before-lakers-opener-12597114"
+  },
+  {
+   "title": "Dimers: Kings vs. Clippers prediction and odds",
+   "url": "https://www.dimers.com/nba/predictions/2026_2_lac_sac"
   }
  ]
 }
