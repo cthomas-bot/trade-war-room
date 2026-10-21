@@ -46,16 +46,6 @@
   },
   "10236": {
    "changed": "2026-10-18T23:36:04.297421+00:00",
-   "entry": {
-    "auto": true,
-    "dynastyAdj": 1.0,
-    "name": "Dalton Kincaid",
-    "note": "Sleeper now lists him questionable (ribs) as of 4:36 PM PT Oct 18.",
-    "redraftAdj": 0.98,
-    "sleeperId": "10236",
-    "status": "Questionable",
-    "tag": "injury"
-   },
    "i": "Questionable",
    "qb1": null,
    "t": "BUF"
@@ -182,8 +172,18 @@
    "t": "ARI"
   },
   "11604": {
-   "changed": "2026-10-16T00:53:08.615765+00:00",
-   "i": null,
+   "changed": "2026-10-21T23:42:31.750924+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Brock Bowers",
+    "note": "Sleeper now lists him questionable (hamstring) as of 4:42 PM PT Oct 21.",
+    "redraftAdj": 0.98,
+    "sleeperId": "11604",
+    "status": "Questionable",
+    "tag": "injury"
+   },
+   "i": "Questionable",
    "qb1": null,
    "t": "LV"
   },
@@ -630,18 +630,18 @@
    "t": "LV"
   },
   "13272": {
-   "changed": "2026-10-21T07:53:53.206089+00:00",
+   "changed": "2026-10-21T23:42:31.750924+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 1.0,
     "name": "Carson Beck",
-    "note": "Cleared: no longer on Sleeper's injury report (was out) as of 12:53 AM PT Oct 21.",
+    "note": "Sleeper now lists him questionable (back) as of 4:42 PM PT Oct 21.",
     "redraftAdj": 0.98,
     "sleeperId": "13272",
-    "status": null,
+    "status": "Questionable",
     "tag": "injury"
    },
-   "i": null,
+   "i": "Questionable",
    "qb1": false,
    "t": "ARI"
   },
@@ -823,9 +823,18 @@
    "t": "NYJ"
   },
   "13305": {
-   "changed": null,
-   "entry": null,
-   "i": null,
+   "changed": "2026-10-21T23:42:31.750924+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Mike Washington Jr.",
+    "note": "Sleeper now lists him questionable (foot) as of 4:42 PM PT Oct 21.",
+    "redraftAdj": 0.98,
+    "sleeperId": "13305",
+    "status": "Questionable",
+    "tag": "injury"
+   },
+   "i": "Questionable",
    "qb1": null,
    "t": "LV"
   },
@@ -1040,9 +1049,18 @@
    "t": "NYJ"
   },
   "1466": {
-   "changed": null,
-   "entry": null,
-   "i": null,
+   "changed": "2026-10-21T23:42:31.750924+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Travis Kelce",
+    "note": "Sleeper now lists him questionable (ankle) as of 4:42 PM PT Oct 21.",
+    "redraftAdj": 0.98,
+    "sleeperId": "1466",
+    "status": "Questionable",
+    "tag": "injury"
+   },
+   "i": "Questionable",
    "qb1": null,
    "t": "KC"
   },
@@ -1599,18 +1617,18 @@
    "t": "PHI"
   },
   "7526": {
-   "changed": "2026-10-21T07:53:53.206089+00:00",
+   "changed": "2026-10-21T23:42:31.750924+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 0.99,
     "name": "Jaylen Waddle",
-    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 12:53 AM PT Oct 21. Earlier: He hurt his shoulder in the Oct 15 game vs. Seattle and returned, but his involvement was limited afterward. He is questionable for Week 7 at Arizona (Oct 25), and Denver's practice reports start Wednesday, Oct 21.",
-    "redraftAdj": 1.0,
+    "note": "Sleeper now lists him questionable (chest) as of 4:42 PM PT Oct 21.",
+    "redraftAdj": 0.98,
     "sleeperId": "7526",
-    "status": null,
+    "status": "Questionable",
     "tag": "injury"
    },
-   "i": null,
+   "i": "Questionable",
    "qb1": null,
    "t": "DEN"
   },
@@ -1848,9 +1866,18 @@
    "t": "KC"
   },
   "8154": {
-   "changed": null,
-   "entry": null,
-   "i": null,
+   "changed": "2026-10-21T23:42:31.750924+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Brian Robinson Jr.",
+    "note": "Sleeper now lists him questionable (hamstring) as of 4:42 PM PT Oct 21.",
+    "redraftAdj": 0.98,
+    "sleeperId": "8154",
+    "status": "Questionable",
+    "tag": "injury"
+   },
+   "i": "Questionable",
    "qb1": null,
    "t": "ATL"
   },
@@ -1922,9 +1949,18 @@
    "t": "MIN"
   },
   "8676": {
-   "changed": null,
-   "entry": null,
-   "i": null,
+   "changed": "2026-10-21T23:42:31.750924+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Rashid Shaheed",
+    "note": "Sleeper now lists him questionable (hip) as of 4:42 PM PT Oct 21.",
+    "redraftAdj": 0.98,
+    "sleeperId": "8676",
+    "status": "Questionable",
+    "tag": "injury"
+   },
+   "i": "Questionable",
    "qb1": null,
    "t": "SEA"
   },
