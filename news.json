@@ -276,11 +276,12 @@
     {
       "sleeperId": "9756",
       "name": "Jordan Addison",
-      "note": "He is listed questionable (hamstring) for Week 7 after missing Week 5 before Minnesota's bye. Wednesday's Oct 21 practice report will show whether he is on track to return as expected.",
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 2:46 PM PT Oct 21. Earlier: He is listed questionable (hamstring) for Week 7 after missing Week 5 before Minnesota's bye. Wednesday's Oct 21 practice report will show whether he is on track to return as expected.",
       "tag": "injury",
-      "redraftAdj": 0.95,
+      "redraftAdj": 1.0,
       "dynastyAdj": 1.0,
-      "status": "Questionable"
+      "status": null,
+      "auto": true
     },
     {
       "sleeperId": "8142",
@@ -690,14 +691,14 @@
       "tag": "injury"
     },
     {
-      "auto": true,
-      "dynastyAdj": 0.97,
-      "name": "Rico Dowdle",
-      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 9:41 AM PT Oct 18. Earlier: Dowdle (toe) practiced fully Thursday and Friday (Oct 15-16) and is questionable for Week 6 at Tampa Bay after missing three games. He projects behind Jaylen Warren if active.",
-      "redraftAdj": 1.0,
       "sleeperId": "7021",
-      "status": null,
-      "tag": "injury"
+      "name": "Rico Dowdle",
+      "note": "Sleeper now lists him questionable (knee) as of 2:46 PM PT Oct 21.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
+      "dynastyAdj": 0.97,
+      "status": "Questionable",
+      "auto": true
     },
     {
       "auto": true,
@@ -838,7 +839,27 @@
       "dynastyAdj": 1.0,
       "status": "Questionable",
       "auto": true
+    },
+    {
+      "sleeperId": "11643",
+      "name": "Jaylen Wright",
+      "note": "Sleeper now lists him questionable (foot) as of 2:46 PM PT Oct 21.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
+      "status": "Questionable",
+      "auto": true
+    },
+    {
+      "sleeperId": "6794",
+      "name": "Justin Jefferson",
+      "note": "Sleeper now lists him questionable (ankle) as of 2:46 PM PT Oct 21.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
+      "status": "Questionable",
+      "auto": true
     }
   ],
-  "statusChecked": "1:46 PM PT Oct 21"
+  "statusChecked": "2:46 PM PT Oct 21"
 }

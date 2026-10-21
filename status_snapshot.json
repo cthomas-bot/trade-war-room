@@ -259,16 +259,6 @@
   },
   "11635": {
    "changed": "2026-10-18T21:40:14.980429+00:00",
-   "entry": {
-    "auto": true,
-    "dynastyAdj": 0.98,
-    "name": "Ladd McConkey",
-    "note": "Sleeper now lists him out (concussion) as of 2:40 PM PT Oct 18.",
-    "redraftAdj": 0.9,
-    "sleeperId": "11635",
-    "status": "Out",
-    "tag": "injury"
-   },
    "i": "Out",
    "qb1": null,
    "t": "LAC"
@@ -288,9 +278,18 @@
    "t": "SF"
   },
   "11643": {
-   "changed": null,
-   "entry": null,
-   "i": null,
+   "changed": "2026-10-21T21:46:27.707308+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Jaylen Wright",
+    "note": "Sleeper now lists him questionable (foot) as of 2:46 PM PT Oct 21.",
+    "redraftAdj": 0.98,
+    "sleeperId": "11643",
+    "status": "Questionable",
+    "tag": "injury"
+   },
+   "i": "Questionable",
    "qb1": null,
    "t": "MIA"
   },
@@ -1486,8 +1485,18 @@
    "t": "CHI"
   },
   "6794": {
-   "changed": "2026-10-14T03:27:13.405269+00:00",
-   "i": null,
+   "changed": "2026-10-21T21:46:27.707308+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Justin Jefferson",
+    "note": "Sleeper now lists him questionable (ankle) as of 2:46 PM PT Oct 21.",
+    "redraftAdj": 0.98,
+    "sleeperId": "6794",
+    "status": "Questionable",
+    "tag": "injury"
+   },
+   "i": "Questionable",
    "qb1": null,
    "t": "MIN"
   },
@@ -1554,8 +1563,18 @@
    "t": "NO"
   },
   "7021": {
-   "changed": "2026-10-18T16:41:56.765540+00:00",
-   "i": null,
+   "changed": "2026-10-21T21:46:27.707308+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 0.97,
+    "name": "Rico Dowdle",
+    "note": "Sleeper now lists him questionable (knee) as of 2:46 PM PT Oct 21.",
+    "redraftAdj": 0.98,
+    "sleeperId": "7021",
+    "status": "Questionable",
+    "tag": "injury"
+   },
+   "i": "Questionable",
    "qb1": null,
    "t": "PIT"
   },
@@ -2065,18 +2084,18 @@
    "t": "SEA"
   },
   "9756": {
-   "changed": "2026-10-21T07:53:53.206089+00:00",
+   "changed": "2026-10-21T21:46:27.707308+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 1.0,
     "name": "Jordan Addison",
-    "note": "Sleeper now lists him questionable (hamstring) as of 12:53 AM PT Oct 21. Earlier: He missed Week 5 with a hamstring injury before Minnesota's bye. Ian Rapoport reported (Oct 12) that the consensus is he is expected back for Week 7, but Wednesday's practice report will confirm it.",
-    "redraftAdj": 0.98,
+    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 2:46 PM PT Oct 21. Earlier: He is listed questionable (hamstring) for Week 7 after missing Week 5 before Minnesota's bye. Wednesday's Oct 21 practice report will show whether he is on track to return as expected.",
+    "redraftAdj": 1.0,
     "sleeperId": "9756",
-    "status": "Questionable",
+    "status": null,
     "tag": "injury"
    },
-   "i": "Questionable",
+   "i": null,
    "qb1": null,
    "t": "MIN"
   },
