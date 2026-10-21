@@ -31,20 +31,22 @@
     {
       "sleeperId": "4881",
       "name": "Lamar Jackson",
-      "note": "Jackson (left ankle) hasn't practiced since Oct 4 and missed the 13-10 loss to Cleveland on Oct 18. Coach Jesse Minter said Monday (Oct 19) the ankle has improved and he could 'potentially' practice this week, with Wednesday key for the Oct 25 game vs. Cincinnati.",
+      "note": "Sleeper now lists him questionable (ankle) as of 12:53 AM PT Oct 21. Earlier: Jackson (left ankle) hasn't practiced since Oct 4 and missed the 13-10 loss to Cleveland on Oct 18. Coach Jesse Minter said Monday (Oct 19) the ankle has improved and he could 'potentially' practice this week, with Wednesday key for the Oct 25 game vs. Cincinnati.",
       "tag": "injury",
-      "redraftAdj": 0.85,
-      "dynastyAdj": 0.99,
-      "status": "Questionable"
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
+      "status": "Questionable",
+      "auto": true
     },
     {
       "sleeperId": "4892",
       "name": "Baker Mayfield",
-      "note": "Todd Bowles said Oct 19 that Mayfield threw Monday but his thumb swelled up, and he is 'supposed to practice Wednesday.' Tampa Bay is game-planning as if Jalon Daniels will start Week 7 at Carolina.",
+      "note": "Sleeper now lists him questionable (thumb) as of 12:53 AM PT Oct 21. Earlier: Todd Bowles said Oct 19 that Mayfield threw Monday but his thumb swelled up, and he is 'supposed to practice Wednesday.' Tampa Bay is game-planning as if Jalon Daniels will start Week 7 at Carolina.",
       "tag": "injury",
-      "redraftAdj": 0.6,
-      "dynastyAdj": 0.97,
-      "status": "Questionable"
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
+      "status": "Questionable",
+      "auto": true
     },
     {
       "sleeperId": "13425",
@@ -94,20 +96,22 @@
     {
       "sleeperId": "4199",
       "name": "Aaron Jones",
-      "note": "Jordan Mason is targeting a Week 7 return from IR (Oct 25 vs. IND), which would cut into the lead role Jones has held during Mason's absence.",
-      "tag": "role_down",
-      "redraftAdj": 0.85,
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 12:53 AM PT Oct 21. Earlier: Jordan Mason is targeting a Week 7 return from IR (Oct 25 vs. IND), which would cut into the lead role Jones has held during Mason's absence.",
+      "tag": "injury",
+      "redraftAdj": 1.0,
       "dynastyAdj": 0.98,
-      "status": "Questionable"
+      "status": null,
+      "auto": true
     },
     {
       "sleeperId": "4866",
       "name": "Saquon Barkley",
-      "note": "Barkley (right hamstring) has missed games in Weeks 5 and 6 since getting hurt in Week 4. As of Oct 20 there is no word on Week 7, so watch the Wednesday practice report.",
+      "note": "Sleeper now lists him questionable (hamstring) as of 12:53 AM PT Oct 21. Earlier: Barkley (right hamstring) has missed games in Weeks 5 and 6 since getting hurt in Week 4. As of Oct 20 there is no word on Week 7, so watch the Wednesday practice report.",
       "tag": "injury",
-      "redraftAdj": 0.6,
-      "dynastyAdj": 0.98,
-      "status": "Out"
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
+      "status": "Questionable",
+      "auto": true
     },
     {
       "sleeperId": "8129",
@@ -121,11 +125,12 @@
     {
       "sleeperId": "8155",
       "name": "Breece Hall",
-      "note": "Hall (quad) remains week-to-week after missing Week 6 (Oct 18). As of Oct 20 there is no update pointing to a Week 7 return.",
+      "note": "Sleeper now lists him questionable (quadriceps) as of 12:53 AM PT Oct 21. Earlier: Hall (quad) remains week-to-week after missing Week 6 (Oct 18). As of Oct 20 there is no update pointing to a Week 7 return.",
       "tag": "injury",
-      "redraftAdj": 0.45,
-      "dynastyAdj": 0.98,
-      "status": "Out"
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
+      "status": "Questionable",
+      "auto": true
     },
     {
       "sleeperId": "11576",
@@ -139,11 +144,12 @@
     {
       "sleeperId": "12534",
       "name": "Kyle Monangai",
-      "note": "Monangai (turf toe) has missed Weeks 5 and 6 and was last reported in a boot and week-to-week. No return has been reported ahead of Chicago's Thursday (Oct 22) game vs. New England.",
+      "note": "Sleeper now lists him questionable (toe) as of 12:53 AM PT Oct 21. Earlier: Monangai (turf toe) has missed Weeks 5 and 6 and was last reported in a boot and week-to-week. No return has been reported ahead of Chicago's Thursday (Oct 22) game vs. New England.",
       "tag": "injury",
-      "redraftAdj": 0.5,
-      "dynastyAdj": 0.98,
-      "status": "Out"
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
+      "status": "Questionable",
+      "auto": true
     },
     {
       "sleeperId": "6790",
@@ -157,11 +163,12 @@
     {
       "sleeperId": "5892",
       "name": "David Montgomery",
-      "note": "Montgomery (groin) missed Week 6 in London (Oct 18) and is week-to-week per DeMeco Ryans. One report targets a Week 7 return vs. the Giants.",
+      "note": "Sleeper now lists him questionable (groin) as of 12:53 AM PT Oct 21. Earlier: Montgomery (groin) missed Week 6 in London (Oct 18) and is week-to-week per DeMeco Ryans. One report targets a Week 7 return vs. the Giants.",
       "tag": "injury",
-      "redraftAdj": 0.6,
-      "dynastyAdj": 0.97,
-      "status": "Out"
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
+      "status": "Questionable",
+      "auto": true
     },
     {
       "sleeperId": "12474",
@@ -175,11 +182,12 @@
     {
       "sleeperId": "12512",
       "name": "Quinshon Judkins",
-      "note": "Judkins (ankle/foot) was inactive for the Week 6 win over Baltimore (Oct 18), and no Week 7 update has been reported yet.",
+      "note": "Sleeper now lists him questionable (ankle) as of 12:53 AM PT Oct 21. Earlier: Judkins (ankle/foot) was inactive for the Week 6 win over Baltimore (Oct 18), and no Week 7 update has been reported yet.",
       "tag": "injury",
-      "redraftAdj": 0.75,
-      "dynastyAdj": 0.99,
-      "status": "Out"
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
+      "status": "Questionable",
+      "auto": true
     },
     {
       "sleeperId": "11439",
@@ -193,11 +201,12 @@
     {
       "sleeperId": "13287",
       "name": "Jeremiyah Love",
-      "note": "Love (left ankle) missed his first game in Week 6 at the Rams (Oct 18). His Week 7 status is still unclear.",
+      "note": "Sleeper now lists him questionable (ankle) as of 12:53 AM PT Oct 21. Earlier: Love (left ankle) missed his first game in Week 6 at the Rams (Oct 18). His Week 7 status is still unclear.",
       "tag": "injury",
-      "redraftAdj": 0.65,
-      "dynastyAdj": 0.99,
-      "status": "Out"
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
+      "status": "Questionable",
+      "auto": true
     },
     {
       "sleeperId": "8132",
@@ -229,11 +238,12 @@
     {
       "sleeperId": "4035",
       "name": "Alvin Kamara",
-      "note": "Kamara (back) played through a hard landing in the Week 6 win over the Giants (Oct 18). He keeps splitting work with Kendre Miller and CJ Donaldson.",
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 12:53 AM PT Oct 21. Earlier: Kamara (back) played through a hard landing in the Week 6 win over the Giants (Oct 18). He keeps splitting work with Kendre Miller and CJ Donaldson.",
       "tag": "injury",
-      "redraftAdj": 0.9,
+      "redraftAdj": 1.0,
       "dynastyAdj": 0.97,
-      "status": "Questionable"
+      "status": null,
+      "auto": true
     },
     {
       "sleeperId": "9757",
@@ -293,11 +303,12 @@
     {
       "sleeperId": "7526",
       "name": "Jaylen Waddle",
-      "note": "He hurt his shoulder in the Oct 15 game vs. Seattle and returned, but his involvement was limited afterward. He is questionable for Week 7 at Arizona (Oct 25), and Denver's practice reports start Wednesday, Oct 21.",
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 12:53 AM PT Oct 21. Earlier: He hurt his shoulder in the Oct 15 game vs. Seattle and returned, but his involvement was limited afterward. He is questionable for Week 7 at Arizona (Oct 25), and Denver's practice reports start Wednesday, Oct 21.",
       "tag": "injury",
-      "redraftAdj": 0.9,
+      "redraftAdj": 1.0,
       "dynastyAdj": 0.99,
-      "status": "Questionable"
+      "status": null,
+      "auto": true
     },
     {
       "sleeperId": "13281",
@@ -320,11 +331,12 @@
     {
       "sleeperId": "9756",
       "name": "Jordan Addison",
-      "note": "He missed Week 5 with a hamstring injury before Minnesota's bye. Ian Rapoport reported (Oct 12) that the consensus is he is expected back for Week 7, but Wednesday's practice report will confirm it.",
-      "tag": "return",
-      "redraftAdj": 1.1,
+      "note": "Sleeper now lists him questionable (hamstring) as of 12:53 AM PT Oct 21. Earlier: He missed Week 5 with a hamstring injury before Minnesota's bye. Ian Rapoport reported (Oct 12) that the consensus is he is expected back for Week 7, but Wednesday's practice report will confirm it.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
       "dynastyAdj": 1.0,
-      "status": "Out"
+      "status": "Questionable",
+      "auto": true
     },
     {
       "sleeperId": "5927",
@@ -347,11 +359,12 @@
     {
       "sleeperId": "2216",
       "name": "Mike Evans",
-      "note": "Evans left MNF on Oct 19 before halftime with an aggravated Achilles. Shanahan called it tendonitis and said the Achilles is intact with no further imaging needed, but reports say Evans will 'miss a little time', possibly until after SF's Week 8 bye.",
+      "note": "Sleeper now lists him questionable (achilles) as of 12:53 AM PT Oct 21. Earlier: Evans left MNF on Oct 19 before halftime with an aggravated Achilles. Shanahan called it tendonitis and said the Achilles is intact with no further imaging needed, but reports say Evans will 'miss a little time', possibly until after SF's Week 8 bye.",
       "tag": "injury",
-      "redraftAdj": 0.8,
-      "dynastyAdj": 0.97,
-      "status": "Out"
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
+      "status": "Questionable",
+      "auto": true
     },
     {
       "sleeperId": "9493",
@@ -392,11 +405,12 @@
     {
       "sleeperId": "10229",
       "name": "Rashee Rice",
-      "note": "Rice (hamstring) missed Week 6, and there has been no team update since Oct 16. At that point Andy Reid called him a fast healer, and a return for Week 7 at Seattle is possible but unconfirmed. Wednesday's practice report is the next key signal.",
+      "note": "Sleeper now lists him questionable (hamstring) as of 12:53 AM PT Oct 21. Earlier: Rice (hamstring) missed Week 6, and there has been no team update since Oct 16. At that point Andy Reid called him a fast healer, and a return for Week 7 at Seattle is possible but unconfirmed. Wednesday's practice report is the next key signal.",
       "tag": "injury",
-      "redraftAdj": 0.85,
-      "dynastyAdj": 0.98,
-      "status": "Out"
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
+      "status": "Questionable",
+      "auto": true
     },
     {
       "sleeperId": "12509",
@@ -464,11 +478,12 @@
     {
       "sleeperId": "12518",
       "name": "Tyler Warren",
-      "note": "Warren (groin) was inactive for Week 6 vs. Tennessee on Oct 18 after getting hurt in Friday practice, which aggravated a groin problem from August. No Monday update on his Week 7 availability was found.",
+      "note": "Sleeper now lists him questionable (groin) as of 12:53 AM PT Oct 21. Earlier: Warren (groin) was inactive for Week 6 vs. Tennessee on Oct 18 after getting hurt in Friday practice, which aggravated a groin problem from August. No Monday update on his Week 7 availability was found.",
       "tag": "injury",
-      "redraftAdj": 0.9,
+      "redraftAdj": 0.98,
       "dynastyAdj": 1.0,
-      "status": "Out"
+      "status": "Questionable",
+      "auto": true
     },
     {
       "sleeperId": "5022",
@@ -525,14 +540,14 @@
       "status": ""
     },
     {
-      "auto": true,
-      "dynastyAdj": 1.0,
-      "name": "Michael Penix",
-      "note": "Sleeper now lists him questionable (undisclosed) as of 10:39 AM PT Oct 18. Earlier: Penix (ribs) got a full week of practice and has been cleared with no injury designation. Kevin Stefanski says he will start Sunday, Oct 18, vs. CHI with no limitations.",
-      "redraftAdj": 0.98,
       "sleeperId": "11559",
-      "status": "Questionable",
-      "tag": "injury"
+      "name": "Michael Penix",
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 12:53 AM PT Oct 21.",
+      "tag": "injury",
+      "redraftAdj": 1.0,
+      "dynastyAdj": 1.0,
+      "status": null,
+      "auto": true
     },
     {
       "auto": true,
@@ -565,54 +580,54 @@
       "tag": "injury"
     },
     {
-      "auto": true,
-      "dynastyAdj": 1.0,
-      "name": "Elijah Sarratt",
-      "note": "Sleeper now lists him out (coach's decision) as of 9:41 AM PT Oct 18.",
-      "redraftAdj": 0.9,
       "sleeperId": "13268",
-      "status": "Out",
-      "tag": "injury"
+      "name": "Elijah Sarratt",
+      "note": "Cleared: no longer on Sleeper's injury report (was out) as of 12:53 AM PT Oct 21.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
+      "status": null,
+      "auto": true
     },
     {
-      "auto": true,
-      "dynastyAdj": 1.0,
-      "name": "Carson Beck",
-      "note": "Sleeper now lists him out (coach's decision) as of 12:36 PM PT Oct 18.",
-      "redraftAdj": 0.9,
       "sleeperId": "13272",
-      "status": "Out",
-      "tag": "injury"
+      "name": "Carson Beck",
+      "note": "Cleared: no longer on Sleeper's injury report (was out) as of 12:53 AM PT Oct 21.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
+      "status": null,
+      "auto": true
     },
     {
-      "auto": true,
-      "dynastyAdj": 1.0,
-      "name": "Ty Simpson",
-      "note": "Sleeper now lists him out (coach's decision) as of 12:36 PM PT Oct 18.",
-      "redraftAdj": 0.9,
       "sleeperId": "13275",
-      "status": "Out",
-      "tag": "injury"
+      "name": "Ty Simpson",
+      "note": "Cleared: no longer on Sleeper's injury report (was out) as of 12:53 AM PT Oct 21.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
+      "status": null,
+      "auto": true
     },
     {
-      "auto": true,
-      "dynastyAdj": 1.0,
-      "name": "Nicholas Singleton",
-      "note": "Sleeper now lists him out (coach's decision) as of 8:39 AM PT Oct 18.",
-      "redraftAdj": 0.9,
       "sleeperId": "13288",
-      "status": "Out",
-      "tag": "injury"
+      "name": "Nicholas Singleton",
+      "note": "Cleared: no longer on Sleeper's injury report (was out) as of 12:53 AM PT Oct 21.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
+      "status": null,
+      "auto": true
     },
     {
-      "auto": true,
-      "dynastyAdj": 1.0,
-      "name": "Drew Allar",
-      "note": "Sleeper now lists him out (coach's decision) as of 9:41 AM PT Oct 18.",
-      "redraftAdj": 0.9,
       "sleeperId": "13289",
-      "status": "Out",
-      "tag": "injury"
+      "name": "Drew Allar",
+      "note": "Cleared: no longer on Sleeper's injury report (was out) as of 12:53 AM PT Oct 21.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
+      "status": null,
+      "auto": true
     },
     {
       "auto": true,
@@ -625,24 +640,24 @@
       "tag": "injury"
     },
     {
-      "auto": true,
-      "dynastyAdj": 1.0,
-      "name": "Makai Lemon",
-      "note": "Sleeper now lists him questionable (undisclosed) as of 1:39 PM PT Oct 18. Earlier: DeVonta Smith (hamstring) practiced fully Friday, Oct 16, and is off the injury report for Week 6 vs. Carolina. That ends Lemon's stint as the de facto top WR, and Tanner McKee starts with Jalen Hurts out.",
-      "redraftAdj": 0.95,
       "sleeperId": "13294",
-      "status": "Questionable",
-      "tag": "injury"
+      "name": "Makai Lemon",
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 12:53 AM PT Oct 21.",
+      "tag": "injury",
+      "redraftAdj": 1.0,
+      "dynastyAdj": 1.0,
+      "status": null,
+      "auto": true
     },
     {
-      "auto": true,
-      "dynastyAdj": 1.0,
-      "name": "Taylen Green",
-      "note": "Sleeper now lists him out (coach's decision) as of 9:41 AM PT Oct 18.",
-      "redraftAdj": 0.9,
       "sleeperId": "13306",
-      "status": "Out",
-      "tag": "injury"
+      "name": "Taylen Green",
+      "note": "Cleared: no longer on Sleeper's injury report (was out) as of 12:53 AM PT Oct 21.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
+      "status": null,
+      "auto": true
     },
     {
       "auto": true,
@@ -665,14 +680,14 @@
       "tag": "injury"
     },
     {
-      "auto": true,
-      "dynastyAdj": 1.0,
-      "name": "Jack Strand",
-      "note": "Sleeper now lists him out (coach's decision) as of 9:41 AM PT Oct 18.",
-      "redraftAdj": 0.9,
       "sleeperId": "13602",
-      "status": "Out",
-      "tag": "injury"
+      "name": "Jack Strand",
+      "note": "Cleared: no longer on Sleeper's injury report (was out) as of 12:53 AM PT Oct 21.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
+      "status": null,
+      "auto": true
     },
     {
       "auto": true,
@@ -705,14 +720,14 @@
       "tag": "injury"
     },
     {
-      "auto": true,
-      "dynastyAdj": 1.0,
-      "name": "Rashod Bateman",
-      "note": "Sleeper now lists him out (shoulder) as of 12:36 PM PT Oct 18.",
-      "redraftAdj": 0.9,
       "sleeperId": "7571",
-      "status": "Out",
-      "tag": "injury"
+      "name": "Rashod Bateman",
+      "note": "Sleeper now lists him questionable (shoulder) as of 12:53 AM PT Oct 21.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
+      "status": "Questionable",
+      "auto": true
     },
     {
       "auto": true,
@@ -735,14 +750,14 @@
       "tag": "injury"
     },
     {
-      "auto": true,
-      "dynastyAdj": 0.99,
-      "name": "Dontayvion Wicks",
-      "note": "Sleeper now lists him questionable (undisclosed) as of 1:39 PM PT Oct 18.",
-      "redraftAdj": 0.98,
       "sleeperId": "9486",
-      "status": "Questionable",
-      "tag": "injury"
+      "name": "Dontayvion Wicks",
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 12:53 AM PT Oct 21.",
+      "tag": "injury",
+      "redraftAdj": 1.0,
+      "dynastyAdj": 0.99,
+      "status": null,
+      "auto": true
     },
     {
       "auto": true,
@@ -763,7 +778,77 @@
       "status": null,
       "auto": true,
       "note": "Sleeper shows he was released by NYG as of 9:45 AM PT Oct 20; check his new role."
+    },
+    {
+      "sleeperId": "11625",
+      "name": "Adonai Mitchell",
+      "note": "Sleeper now lists him doubtful (finger) as of 12:53 AM PT Oct 21.",
+      "tag": "injury",
+      "redraftAdj": 0.93,
+      "dynastyAdj": 1.0,
+      "status": "Out",
+      "auto": true
+    },
+    {
+      "sleeperId": "12495",
+      "name": "Ollie Gordon",
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 12:53 AM PT Oct 21.",
+      "tag": "injury",
+      "redraftAdj": 1.0,
+      "dynastyAdj": 1.0,
+      "status": null,
+      "auto": true
+    },
+    {
+      "sleeperId": "12510",
+      "name": "Jalen Milroe",
+      "note": "Cleared: no longer on Sleeper's injury report (was out) as of 12:53 AM PT Oct 21.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
+      "status": null,
+      "auto": true
+    },
+    {
+      "sleeperId": "13324",
+      "name": "Matt Hibner",
+      "note": "Sleeper now lists him questionable (hand) as of 12:53 AM PT Oct 21.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
+      "status": "Questionable",
+      "auto": true
+    },
+    {
+      "sleeperId": "13405",
+      "name": "Kaytron Allen",
+      "note": "Cleared: no longer on Sleeper's injury report (was out) as of 12:53 AM PT Oct 21.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
+      "status": null,
+      "auto": true
+    },
+    {
+      "sleeperId": "3321",
+      "name": "Tyreek Hill",
+      "note": "Sleeper now lists him questionable (knee - acl) as of 12:53 AM PT Oct 21.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
+      "status": "Questionable",
+      "auto": true
+    },
+    {
+      "sleeperId": "5850",
+      "name": "Josh Jacobs",
+      "note": "Cleared: no longer on Sleeper's injury report (was not active) as of 12:53 AM PT Oct 21.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
+      "status": null,
+      "auto": true
     }
   ],
-  "statusChecked": "2:44 PM PT Oct 20"
+  "statusChecked": "12:53 AM PT Oct 21"
 }
