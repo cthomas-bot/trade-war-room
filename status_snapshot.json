@@ -207,18 +207,18 @@
    "t": "KC"
   },
   "11625": {
-   "changed": "2026-10-21T07:53:53.206089+00:00",
+   "changed": "2026-10-21T17:43:12.609752+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 1.0,
     "name": "Adonai Mitchell",
-    "note": "Sleeper now lists him doubtful (finger) as of 12:53 AM PT Oct 21.",
-    "redraftAdj": 0.93,
+    "note": "Sleeper now lists him questionable (finger) as of 10:43 AM PT Oct 21. Earlier: He is listed doubtful (finger) as of Oct 21 after a minor procedure in mid-October. He remains week-to-week and has missed four straight games.",
+    "redraftAdj": 0.98,
     "sleeperId": "11625",
-    "status": "Out",
+    "status": "Questionable",
     "tag": "injury"
    },
-   "i": "Doubtful",
+   "i": "Questionable",
    "qb1": null,
    "t": "NYJ"
   },
@@ -1976,8 +1976,18 @@
    "t": "HOU"
   },
   "9508": {
-   "changed": "2026-10-18T16:41:56.765540+00:00",
-   "i": null,
+   "changed": "2026-10-21T17:43:12.609752+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 0.99,
+    "name": "Tyjae Spears",
+    "note": "Sleeper now lists him questionable (undisclosed) as of 10:43 AM PT Oct 21.",
+    "redraftAdj": 0.98,
+    "sleeperId": "9508",
+    "status": "Questionable",
+    "tag": "injury"
+   },
+   "i": "Questionable",
    "qb1": null,
    "t": "TEN"
   },

@@ -292,11 +292,12 @@
     {
       "sleeperId": "11625",
       "name": "Adonai Mitchell",
-      "note": "He is listed doubtful (finger) as of Oct 21 after a minor procedure in mid-October. He remains week-to-week and has missed four straight games.",
+      "note": "Sleeper now lists him questionable (finger) as of 10:43 AM PT Oct 21. Earlier: He is listed doubtful (finger) as of Oct 21 after a minor procedure in mid-October. He remains week-to-week and has missed four straight games.",
       "tag": "injury",
-      "redraftAdj": 0.9,
+      "redraftAdj": 0.98,
       "dynastyAdj": 1.0,
-      "status": "Doubtful"
+      "status": "Questionable",
+      "auto": true
     },
     {
       "sleeperId": "4983",
@@ -757,15 +758,15 @@
       "tag": "injury"
     },
     {
-      "auto": true,
-      "dynastyAdj": 0.99,
-      "name": "Tyjae Spears",
-      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 9:41 AM PT Oct 18. Earlier: Spears (knee) practiced fully Friday (Oct 16) after a Thursday DNP. He is questionable for Week 6 at Indianapolis but trending toward playing his usual complementary role.",
-      "redraftAdj": 1.0,
       "sleeperId": "9508",
-      "status": null,
-      "tag": "injury"
+      "name": "Tyjae Spears",
+      "note": "Sleeper now lists him questionable (undisclosed) as of 10:43 AM PT Oct 21.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
+      "dynastyAdj": 0.99,
+      "status": "Questionable",
+      "auto": true
     }
   ],
-  "statusChecked": "6:51 AM PT Oct 21"
+  "statusChecked": "10:43 AM PT Oct 21"
 }
