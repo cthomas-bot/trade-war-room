@@ -1,7 +1,7 @@
 {
  "season": "2026",
  "week": 7,
- "updated": "2026-10-21 6:24 AM PT",
+ "updated": "2026-10-21 9:16 AM PT",
  "games": [
   {
    "id": "401873010",
@@ -23,10 +23,10 @@
    "awayImplied": 23.8,
    "weather": {
     "roof": "open",
-    "temp": 55.8,
+    "temp": 55.1,
     "precip": 0,
     "code": 0,
-    "wind": 5.4,
+    "wind": 5.2,
     "night": true
    }
   },
@@ -139,13 +139,13 @@
    "venue": "MetLife Stadium",
    "tv": "CBS",
    "details": "NYJ -4.5",
-   "total": 38.5,
+   "total": 39.5,
    "fav": "NYJ",
    "spread": 4.5,
    "homeML": null,
    "awayML": null,
-   "homeImplied": 21.5,
-   "awayImplied": 17.0,
+   "homeImplied": 22.0,
+   "awayImplied": 17.5,
    "weather": {
     "roof": "open",
     "temp": 62.8,
@@ -192,14 +192,14 @@
    "awayScore": "0",
    "venue": "M&T Bank Stadium",
    "tv": "CBS",
-   "details": "BAL -3",
+   "details": "BAL -2.5",
    "total": 51.5,
    "fav": "BAL",
-   "spread": 3.0,
+   "spread": 2.5,
    "homeML": null,
    "awayML": null,
-   "homeImplied": 27.2,
-   "awayImplied": 24.2,
+   "homeImplied": 27.0,
+   "awayImplied": 24.5,
    "weather": {
     "roof": "open",
     "temp": 62.2,
@@ -257,7 +257,7 @@
    "weather": {
     "roof": "retract",
     "temp": 78.8,
-    "precip": 1,
+    "precip": 0,
     "code": 0,
     "wind": 2.7,
     "night": false
@@ -328,7 +328,7 @@
    "weather": {
     "roof": "open",
     "temp": 59.9,
-    "precip": 23,
+    "precip": 22,
     "code": 3,
     "wind": 3.6,
     "night": false
@@ -564,7 +564,7 @@
   "12817": {
    "half": 0.53,
    "ppr": 0.67,
-   "std": 0.39,
+   "std": 0.38,
    "opp": "SEA"
   },
   "13277": {
@@ -700,7 +700,7 @@
    "opp": "DEN"
   },
   "8151": {
-   "half": 16.73,
+   "half": 16.74,
    "ppr": 18.54,
    "std": 14.93,
    "opp": "SEA"
@@ -755,7 +755,7 @@
   },
   "9753": {
    "half": 5.04,
-   "ppr": 5.56,
+   "ppr": 5.57,
    "std": 4.51,
    "opp": "KC"
   },
@@ -1156,7 +1156,7 @@
    "opp": "BAL"
   },
   "1466": {
-   "half": 9.3,
+   "half": 9.29,
    "ppr": 11.52,
    "std": 7.07,
    "opp": "SEA"
@@ -1600,8 +1600,8 @@
    "opp": "SF"
   },
   "4039": {
-   "half": 5.55,
-   "ppr": 6.82,
+   "half": 5.54,
+   "ppr": 6.81,
    "std": 4.27,
    "opp": "KC"
   },
@@ -1708,9 +1708,9 @@
    "opp": "LAR"
   },
   "10229": {
-   "half": 10.32,
-   "ppr": 12.65,
-   "std": 7.99,
+   "half": 10.31,
+   "ppr": 12.64,
+   "std": 7.98,
    "opp": "SEA"
   },
   "10859": {
@@ -1727,7 +1727,7 @@
   },
   "11435": {
    "half": 7.32,
-   "ppr": 7.8,
+   "ppr": 7.81,
    "std": 6.84,
    "opp": "KC"
   },
@@ -1978,9 +1978,9 @@
    "opp": "DET"
   },
   "9488": {
-   "half": 19.93,
-   "ppr": 23.52,
-   "std": 16.35,
+   "half": 19.92,
+   "ppr": 23.5,
+   "std": 16.34,
    "opp": "KC"
   },
   "96": {
