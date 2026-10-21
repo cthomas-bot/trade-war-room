@@ -762,11 +762,11 @@
     {
       "sleeperId": "9508",
       "name": "Tyjae Spears",
-      "note": "Sleeper now lists him questionable (undisclosed) as of 10:43 AM PT Oct 21.",
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 1:46 PM PT Oct 21.",
       "tag": "injury",
-      "redraftAdj": 0.98,
+      "redraftAdj": 1.0,
       "dynastyAdj": 0.99,
-      "status": "Questionable",
+      "status": null,
       "auto": true
     },
     {
@@ -788,7 +788,57 @@
       "dynastyAdj": 1.0,
       "status": "Questionable",
       "auto": true
+    },
+    {
+      "sleeperId": "12501",
+      "name": "Matthew Golden",
+      "note": "Sleeper now lists him questionable (shoulder) as of 1:46 PM PT Oct 21.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
+      "status": "Questionable",
+      "auto": true
+    },
+    {
+      "sleeperId": "13298",
+      "name": "KC Concepcion",
+      "note": "Sleeper now lists him questionable (quadriceps) as of 1:46 PM PT Oct 21.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
+      "status": "Questionable",
+      "auto": true
+    },
+    {
+      "sleeperId": "13346",
+      "name": "Denzel Boston",
+      "note": "Sleeper now lists him questionable (foot) as of 1:46 PM PT Oct 21.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
+      "status": "Questionable",
+      "auto": true
+    },
+    {
+      "sleeperId": "6804",
+      "name": "Jordan Love",
+      "note": "Sleeper now lists him questionable (back) as of 1:46 PM PT Oct 21.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
+      "status": "Questionable",
+      "auto": true
+    },
+    {
+      "sleeperId": "8167",
+      "name": "Christian Watson",
+      "note": "Sleeper now lists him questionable (ankle) as of 1:46 PM PT Oct 21.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
+      "status": "Questionable",
+      "auto": true
     }
   ],
-  "statusChecked": "12:44 PM PT Oct 21"
+  "statusChecked": "1:46 PM PT Oct 21"
 }

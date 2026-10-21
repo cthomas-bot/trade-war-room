@@ -421,9 +421,18 @@
    "t": "JAX"
   },
   "12501": {
-   "changed": null,
-   "entry": null,
-   "i": null,
+   "changed": "2026-10-21T20:46:20.389843+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Matthew Golden",
+    "note": "Sleeper now lists him questionable (shoulder) as of 1:46 PM PT Oct 21.",
+    "redraftAdj": 0.98,
+    "sleeperId": "12501",
+    "status": "Questionable",
+    "tag": "injury"
+   },
+   "i": "Questionable",
    "qb1": null,
    "t": "GB"
   },
@@ -778,8 +787,18 @@
    "t": "MIA"
   },
   "13298": {
-   "changed": "2026-10-16T18:50:07.932486+00:00",
-   "i": null,
+   "changed": "2026-10-21T20:46:20.389843+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "KC Concepcion",
+    "note": "Sleeper now lists him questionable (quadriceps) as of 1:46 PM PT Oct 21.",
+    "redraftAdj": 0.98,
+    "sleeperId": "13298",
+    "status": "Questionable",
+    "tag": "injury"
+   },
+   "i": "Questionable",
    "qb1": null,
    "t": "CLE"
   },
@@ -899,8 +918,18 @@
    "t": "DEN"
   },
   "13346": {
-   "changed": "2026-10-16T20:44:59.641989+00:00",
-   "i": null,
+   "changed": "2026-10-21T20:46:20.389843+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Denzel Boston",
+    "note": "Sleeper now lists him questionable (foot) as of 1:46 PM PT Oct 21.",
+    "redraftAdj": 0.98,
+    "sleeperId": "13346",
+    "status": "Questionable",
+    "tag": "injury"
+   },
+   "i": "Questionable",
    "qb1": null,
    "t": "CLE"
   },
@@ -1476,9 +1505,18 @@
    "t": "CIN"
   },
   "6804": {
-   "changed": null,
-   "entry": null,
-   "i": null,
+   "changed": "2026-10-21T20:46:20.389843+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Jordan Love",
+    "note": "Sleeper now lists him questionable (back) as of 1:46 PM PT Oct 21.",
+    "redraftAdj": 0.98,
+    "sleeperId": "6804",
+    "status": "Questionable",
+    "tag": "injury"
+   },
+   "i": "Questionable",
    "qb1": true,
    "t": "GB"
   },
@@ -1821,9 +1859,18 @@
    "t": "MIA"
   },
   "8167": {
-   "changed": null,
-   "entry": null,
-   "i": null,
+   "changed": "2026-10-21T20:46:20.389843+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Christian Watson",
+    "note": "Sleeper now lists him questionable (ankle) as of 1:46 PM PT Oct 21.",
+    "redraftAdj": 0.98,
+    "sleeperId": "8167",
+    "status": "Questionable",
+    "tag": "injury"
+   },
+   "i": "Questionable",
    "qb1": null,
    "t": "GB"
   },
@@ -1974,18 +2021,18 @@
    "t": "HOU"
   },
   "9508": {
-   "changed": "2026-10-21T17:43:12.609752+00:00",
+   "changed": "2026-10-21T20:46:20.389843+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 0.99,
     "name": "Tyjae Spears",
-    "note": "Sleeper now lists him questionable (undisclosed) as of 10:43 AM PT Oct 21.",
-    "redraftAdj": 0.98,
+    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 1:46 PM PT Oct 21.",
+    "redraftAdj": 1.0,
     "sleeperId": "9508",
-    "status": "Questionable",
+    "status": null,
     "tag": "injury"
    },
-   "i": "Questionable",
+   "i": null,
    "qb1": null,
    "t": "TEN"
   },
