@@ -49,11 +49,12 @@
     {
       "sleeperId": "6804",
       "name": "Jordan Love",
-      "note": "Love (back) was limited on the Packers' estimated Wednesday report on Oct 21 and got no game designation. He said there is 'no chance' he misses Sunday at Detroit.",
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 1:44 PM PT Oct 22. Earlier: Love (back) was limited on the Packers' estimated Wednesday report on Oct 21 and got no game designation. He said there is 'no chance' he misses Sunday at Detroit.",
       "tag": "injury",
-      "redraftAdj": 0.98,
+      "redraftAdj": 1.0,
       "dynastyAdj": 1.0,
-      "status": "Questionable"
+      "status": null,
+      "auto": true
     },
     {
       "sleeperId": "6904",
@@ -846,5 +847,5 @@
       "auto": true
     }
   ],
-  "statusChecked": "12:45 PM PT Oct 22"
+  "statusChecked": "1:44 PM PT Oct 22"
 }
