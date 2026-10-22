@@ -2116,9 +2116,18 @@
    "t": "PIT"
   },
   "9753": {
-   "changed": null,
-   "entry": null,
-   "i": "PUP",
+   "changed": "2026-10-22T18:52:45.113712+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Zach Charbonnet",
+    "note": "Sleeper now lists him questionable (knee - acl) as of 11:52 AM PT Oct 22. Earlier: Charbonnet (knee) logged his first full practice Wednesday (Oct 21), and Mike Macdonald said he has a 'good chance' to debut Sunday vs. Kansas City; he still must be activated from PUP and may have a limited first-game workload.",
+    "redraftAdj": 0.98,
+    "sleeperId": "9753",
+    "status": "Questionable",
+    "tag": "injury"
+   },
+   "i": "Questionable",
    "qb1": null,
    "t": "SEA"
   },

@@ -193,11 +193,12 @@
     {
       "sleeperId": "9753",
       "name": "Zach Charbonnet",
-      "note": "Charbonnet (knee) logged his first full practice Wednesday (Oct 21), and Mike Macdonald said he has a 'good chance' to debut Sunday vs. Kansas City; he still must be activated from PUP and may have a limited first-game workload.",
-      "tag": "return",
-      "redraftAdj": 1.25,
-      "dynastyAdj": 1.04,
-      "status": ""
+      "note": "Sleeper now lists him questionable (knee - acl) as of 11:52 AM PT Oct 22. Earlier: Charbonnet (knee) logged his first full practice Wednesday (Oct 21), and Mike Macdonald said he has a 'good chance' to debut Sunday vs. Kansas City; he still must be activated from PUP and may have a limited first-game workload.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
+      "status": "Questionable",
+      "auto": true
     },
     {
       "sleeperId": "11435",
@@ -844,5 +845,5 @@
       "auto": true
     }
   ],
-  "statusChecked": "8:46 AM PT Oct 22"
+  "statusChecked": "11:52 AM PT Oct 22"
 }
