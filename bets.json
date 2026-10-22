@@ -1,23 +1,23 @@
 {
  "date": "Thu Oct 22",
- "scanned": "Oct 22, 8:05 AM PT",
+ "scanned": "Oct 22, 3:05 PM PT · recheck",
  "slate": [
   {
    "sport": "NBA",
    "game": "Nuggets @ Thunder",
    "time": "6:30 PM PT",
    "pick": "NO on “Oklahoma City wins by over 8.5” (= DEN +8.5)",
-   "price": "50¢",
-   "call": "LEAN",
-   "why": "Books split OKC -7.5/-8.5; DEN +8.5 fair ~52%, only ~1 pt after fee.",
-   "recheck": "YES if NO side ≤48¢ with books still at -8.5; recheck injury report ~5:30 PM PT"
+   "price": "53¢",
+   "call": "PASS",
+   "why": "NO rose to 52¢; Denver +8.5 is about fair now, so the small edge is gone.",
+   "recheck": ""
   },
   {
    "sport": "CFB",
    "game": "James Madison @ Appalachian St.",
    "time": "4:00 PM PT",
    "pick": "NO on “James Madison wins by over 11.5” (= App St +11.5)",
-   "price": "52¢",
+   "price": "49¢",
    "call": "PASS",
    "why": "Books JMU -10.5/-11.5, ML de-vig ~77%; Kalshi 79¢/52¢ is fair, no edge.",
    "recheck": "4 PM PT: YES only if NO on JMU >11.5 drops to ≤47¢ or line moves to -13.5."
@@ -27,7 +27,7 @@
    "game": "Liberty @ Kennesaw St.",
    "time": "4:00 PM PT",
    "pick": "NO on “Liberty wins by over 9.5” (= KSU +9.5)",
-   "price": "50¢",
+   "price": "51¢",
    "call": "PASS",
    "why": "Line slid -10.5 to -10 (Dimers -8.5); ML de-vig ~77-78% matches Kalshi 78¢.",
    "recheck": "4 PM PT: if books reach Liberty -8.5 and NO on >9.5 still ≤47¢, revisit."
@@ -37,7 +37,7 @@
    "game": "East Carolina @ Memphis",
    "time": "4:30 PM PT",
    "pick": "NO on “Over 54.5” (= Under 54.5)",
-   "price": "52¢",
+   "price": "49¢",
    "call": "PASS",
    "why": "Total bet up 52.5→54.5; several previews like Under, but 52¢ is fair price.",
    "recheck": "4:30 PM PT: Under becomes playable if NO on Over 54.5 ≤47¢ or books hit 56."
@@ -49,17 +49,17 @@
    "pick": "NO on “Over 50.5” (= Under 50.5)",
    "price": "49¢",
    "call": "PASS",
-   "why": "Books Bears -2.5/-3, total 49.5-50.5; Kalshi side and total within ~1¢ of fair.",
-   "recheck": "5 PM PT: NO on Chicago >2.5 ≤43¢ or NO on Over 50.5 ≤46¢ → re-evaluate."
+   "why": "Line moved to CHI −3 at FanDuel; total and side both priced near fair.",
+   "recheck": "NE +2.5 (NO on CHI by over 2.5) is 46¢ — needs ≤43¢ to bet."
   },
   {
    "sport": "NBA",
    "game": "Cavaliers @ 76ers · season opener",
    "time": "4:00 PM PT",
    "pick": "76ers ML",
-   "price": "59¢",
+   "price": "57¢",
    "call": "PASS",
-   "why": "De-vigged DK/FD put PHI at 57-59%; Kalshi 59¢ plus fee leaves no edge.",
+   "why": "Books have PHI ~57–59%; Jarrett Allen (knee) questionable but went through shootaround.",
    "recheck": "Jarrett Allen (knee, questionable) ruled out AND PHI ML still ≤56¢ → recheck ~3:30 PM PT"
   }
  ],
@@ -235,6 +235,14 @@
   {
    "title": "RG: Brewers vs Rays World Series Game 1 odds",
    "url": "https://rg.org/news/baseball/brewers-vs-rays-world-series-odds-game-1-preview-and-best-bets"
+  },
+  {
+   "title": "FanDuel Research: How the Patriots vs. Bears line has moved",
+   "url": "https://www.fanduel.com/research/how-has-the-patriots-vs-bears-line-moved-ahead-of-thursday-night-football"
+  },
+  {
+   "title": "Fear the Sword: Cavs at 76ers odds and injury report",
+   "url": "https://www.fearthesword.com/cavs-injury-report/53319/cavs-at-76ers-how-to-watch-odds-and-injury-report"
   }
  ]
 }
