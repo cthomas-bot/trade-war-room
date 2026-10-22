@@ -589,6 +589,11 @@
    "qb1": true,
    "t": "NO"
   },
+  "12718": {
+   "i": null,
+   "qb1": null,
+   "t": "LAR"
+  },
   "13268": {
    "changed": "2026-10-21T07:53:53.206089+00:00",
    "entry": {
@@ -692,18 +697,18 @@
    "t": "SEA"
   },
   "13287": {
-   "changed": "2026-10-22T21:43:18.122840+00:00",
+   "changed": "2026-10-22T22:42:14.517499+00:00",
    "entry": {
     "auto": true,
-    "dynastyAdj": 0.97,
+    "dynastyAdj": 1.0,
     "name": "Jeremiyah Love",
-    "note": "Sleeper now lists him doubtful (ankle) as of 2:43 PM PT Oct 22. Earlier: Love (left ankle) did not practice Wednesday (Oct 21) after missing Week 6, putting his Week 7 availability in doubt; the coaches have said the ankle has sapped his explosiveness.",
-    "redraftAdj": 0.75,
+    "note": "Sleeper now lists him questionable (ankle) as of 3:42 PM PT Oct 22.",
+    "redraftAdj": 0.98,
     "sleeperId": "13287",
-    "status": "Out",
+    "status": "Questionable",
     "tag": "injury"
    },
-   "i": "Doubtful",
+   "i": "Questionable",
    "qb1": null,
    "t": "ARI"
   },
@@ -1496,18 +1501,18 @@
    "t": "CHI"
   },
   "6794": {
-   "changed": "2026-10-21T21:46:27.707308+00:00",
+   "changed": "2026-10-22T22:42:14.517499+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 1.0,
     "name": "Justin Jefferson",
-    "note": "Sleeper now lists him questionable (ankle) as of 2:46 PM PT Oct 21.",
-    "redraftAdj": 0.98,
+    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 3:42 PM PT Oct 22. Earlier: Jefferson (ankle) was limited in practice on Wed Oct 21 before Sunday's game against the Colts, which reports described as a maintenance day. He said afterward that the ankle feels good.",
+    "redraftAdj": 1.0,
     "sleeperId": "6794",
-    "status": "Questionable",
+    "status": null,
     "tag": "injury"
    },
-   "i": "Questionable",
+   "i": null,
    "qb1": null,
    "t": "MIN"
   },
@@ -1970,12 +1975,6 @@
    "qb1": null,
    "t": "CIN"
   },
-  "9225": {
-   "changed": "2026-10-07T01:30:59.275762+00:00",
-   "i": "IR",
-   "qb1": null,
-   "t": "PHI"
-  },
   "9226": {
    "changed": null,
    "entry": null,
@@ -2041,9 +2040,18 @@
    "t": "SEA"
   },
   "9493": {
-   "changed": null,
-   "entry": null,
-   "i": null,
+   "changed": "2026-10-22T22:42:14.517499+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Puka Nacua",
+    "note": "Sleeper now lists him questionable (calf) as of 3:42 PM PT Oct 22. Earlier: Davante Adams ruptured his hamstring and is expected to miss 6-10 weeks, per McVay on Oct 19. That leaves Nacua as the clear focal point of the Rams' passing game.",
+    "redraftAdj": 0.98,
+    "sleeperId": "9493",
+    "status": "Questionable",
+    "tag": "injury"
+   },
+   "i": "Questionable",
    "qb1": null,
    "t": "LAR"
   },

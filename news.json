@@ -186,11 +186,11 @@
     {
       "sleeperId": "13287",
       "name": "Jeremiyah Love",
-      "note": "Sleeper now lists him doubtful (ankle) as of 2:43 PM PT Oct 22. Earlier: Love (left ankle) did not practice Wednesday (Oct 21) after missing Week 6, putting his Week 7 availability in doubt; the coaches have said the ankle has sapped his explosiveness.",
+      "note": "Sleeper now lists him questionable (ankle) as of 3:42 PM PT Oct 22.",
       "tag": "injury",
-      "redraftAdj": 0.75,
-      "dynastyAdj": 0.97,
-      "status": "Out",
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
+      "status": "Questionable",
       "auto": true
     },
     {
@@ -431,11 +431,12 @@
     {
       "sleeperId": "6794",
       "name": "Justin Jefferson",
-      "note": "Jefferson (ankle) was limited in practice on Wed Oct 21 before Sunday's game against the Colts, which reports described as a maintenance day. He said afterward that the ankle feels good.",
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 3:42 PM PT Oct 22. Earlier: Jefferson (ankle) was limited in practice on Wed Oct 21 before Sunday's game against the Colts, which reports described as a maintenance day. He said afterward that the ankle feels good.",
       "tag": "injury",
-      "redraftAdj": 0.97,
+      "redraftAdj": 1.0,
       "dynastyAdj": 1.0,
-      "status": "Questionable"
+      "status": null,
+      "auto": true
     },
     {
       "sleeperId": "2216",
@@ -467,11 +468,12 @@
     {
       "sleeperId": "9493",
       "name": "Puka Nacua",
-      "note": "Davante Adams ruptured his hamstring and is expected to miss 6-10 weeks, per McVay on Oct 19. That leaves Nacua as the clear focal point of the Rams' passing game.",
-      "tag": "role_up",
-      "redraftAdj": 1.1,
-      "dynastyAdj": 1.02,
-      "status": ""
+      "note": "Sleeper now lists him questionable (calf) as of 3:42 PM PT Oct 22. Earlier: Davante Adams ruptured his hamstring and is expected to miss 6-10 weeks, per McVay on Oct 19. That leaves Nacua as the clear focal point of the Rams' passing game.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
+      "status": "Questionable",
+      "auto": true
     },
     {
       "sleeperId": "8121",
@@ -859,5 +861,5 @@
       "auto": true
     }
   ],
-  "statusChecked": "2:43 PM PT Oct 22"
+  "statusChecked": "3:42 PM PT Oct 22"
 }
