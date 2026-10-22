@@ -562,16 +562,6 @@
   },
   "12533": {
    "changed": "2026-10-19T20:44:37.790261+00:00",
-   "entry": {
-    "auto": true,
-    "dynastyAdj": 0.97,
-    "name": "Jacory Croskey-Merritt",
-    "note": "Sleeper now lists him on injured reserve (groin) as of 1:44 PM PT Oct 19. Earlier: Croskey-Merritt (groin) is ruled out for Monday night's game at San Francisco (Oct 19).",
-    "redraftAdj": 0.6,
-    "sleeperId": "12533",
-    "status": "IR",
-    "tag": "injury"
-   },
    "i": "IR",
    "qb1": null,
    "t": "WAS"
@@ -702,18 +692,18 @@
    "t": "SEA"
   },
   "13287": {
-   "changed": "2026-10-21T07:53:53.206089+00:00",
+   "changed": "2026-10-22T21:43:18.122840+00:00",
    "entry": {
     "auto": true,
-    "dynastyAdj": 1.0,
+    "dynastyAdj": 0.97,
     "name": "Jeremiyah Love",
-    "note": "Sleeper now lists him questionable (ankle) as of 12:53 AM PT Oct 21. Earlier: Love (left ankle) missed his first game in Week 6 at the Rams (Oct 18). His Week 7 status is still unclear.",
-    "redraftAdj": 0.98,
+    "note": "Sleeper now lists him doubtful (ankle) as of 2:43 PM PT Oct 22. Earlier: Love (left ankle) did not practice Wednesday (Oct 21) after missing Week 6, putting his Week 7 availability in doubt; the coaches have said the ankle has sapped his explosiveness.",
+    "redraftAdj": 0.75,
     "sleeperId": "13287",
-    "status": "Questionable",
+    "status": "Out",
     "tag": "injury"
    },
-   "i": "Questionable",
+   "i": "Doubtful",
    "qb1": null,
    "t": "ARI"
   },
@@ -869,18 +859,18 @@
    "t": "ATL"
   },
   "13324": {
-   "changed": "2026-10-21T07:53:53.206089+00:00",
+   "changed": "2026-10-22T21:43:18.122840+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 1.0,
     "name": "Matt Hibner",
-    "note": "Sleeper now lists him questionable (hand) as of 12:53 AM PT Oct 21.",
-    "redraftAdj": 0.98,
+    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 2:43 PM PT Oct 22. Earlier: Hibner (hand) was upgraded to limited practice on Wednesday, Oct 21 after missing Week 6, and could return Sunday vs. Cincinnati. Mark Andrews remains Baltimore's lead tight end.",
+    "redraftAdj": 1.0,
     "sleeperId": "13324",
-    "status": "Questionable",
+    "status": null,
     "tag": "injury"
    },
-   "i": "Questionable",
+   "i": null,
    "qb1": null,
    "t": "BAL"
   },
@@ -1693,18 +1683,18 @@
    "t": "HOU"
   },
   "7571": {
-   "changed": "2026-10-21T07:53:53.206089+00:00",
+   "changed": "2026-10-22T21:43:18.122840+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 1.0,
     "name": "Rashod Bateman",
-    "note": "Sleeper now lists him questionable (shoulder) as of 12:53 AM PT Oct 21.",
-    "redraftAdj": 0.98,
+    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 2:43 PM PT Oct 22.",
+    "redraftAdj": 1.0,
     "sleeperId": "7571",
-    "status": "Questionable",
+    "status": null,
     "tag": "injury"
    },
-   "i": "Questionable",
+   "i": null,
    "qb1": null,
    "t": "BAL"
   },
@@ -1751,16 +1741,6 @@
   },
   "8121": {
    "changed": "2026-10-19T20:44:37.790261+00:00",
-   "entry": {
-    "auto": true,
-    "dynastyAdj": 0.97,
-    "name": "Romeo Doubs",
-    "note": "Sleeper now lists him on injured reserve (shoulder) as of 1:44 PM PT Oct 19. Earlier: Doubs was ruled out of the Patriots' 26-19 win over the Jets on Oct 18 after hurting his shoulder. CBS lists him as questionable for Week 7 at Chicago.",
-    "redraftAdj": 0.7,
-    "sleeperId": "8121",
-    "status": "IR",
-    "tag": "injury"
-   },
    "i": "IR",
    "qb1": null,
    "t": "NE"
@@ -1814,9 +1794,18 @@
    "t": "WAS"
   },
   "8137": {
-   "changed": null,
-   "entry": null,
-   "i": null,
+   "changed": "2026-10-22T21:43:18.122840+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "George Pickens",
+    "note": "Sleeper now lists him questionable (shoulder) as of 2:43 PM PT Oct 22.",
+    "redraftAdj": 0.98,
+    "sleeperId": "8137",
+    "status": "Questionable",
+    "tag": "injury"
+   },
+   "i": "Questionable",
    "qb1": null,
    "t": "DAL"
   },

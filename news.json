@@ -186,11 +186,12 @@
     {
       "sleeperId": "13287",
       "name": "Jeremiyah Love",
-      "note": "Love (left ankle) did not practice Wednesday (Oct 21) after missing Week 6, putting his Week 7 availability in doubt; the coaches have said the ankle has sapped his explosiveness.",
+      "note": "Sleeper now lists him doubtful (ankle) as of 2:43 PM PT Oct 22. Earlier: Love (left ankle) did not practice Wednesday (Oct 21) after missing Week 6, putting his Week 7 availability in doubt; the coaches have said the ankle has sapped his explosiveness.",
       "tag": "injury",
       "redraftAdj": 0.75,
       "dynastyAdj": 0.97,
-      "status": "Questionable"
+      "status": "Out",
+      "auto": true
     },
     {
       "sleeperId": "9753",
@@ -556,11 +557,12 @@
     {
       "sleeperId": "13324",
       "name": "Matt Hibner",
-      "note": "Hibner (hand) was upgraded to limited practice on Wednesday, Oct 21 after missing Week 6, and could return Sunday vs. Cincinnati. Mark Andrews remains Baltimore's lead tight end.",
-      "tag": "return",
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 2:43 PM PT Oct 22. Earlier: Hibner (hand) was upgraded to limited practice on Wednesday, Oct 21 after missing Week 6, and could return Sunday vs. Cincinnati. Mark Andrews remains Baltimore's lead tight end.",
+      "tag": "injury",
       "redraftAdj": 1.0,
       "dynastyAdj": 1.0,
-      "status": "Questionable"
+      "status": null,
+      "auto": true
     },
     {
       "sleeperId": "8210",
@@ -797,14 +799,14 @@
       "tag": "rumor"
     },
     {
-      "auto": true,
-      "dynastyAdj": 1.0,
-      "name": "Rashod Bateman",
-      "note": "Sleeper now lists him questionable (shoulder) as of 12:53 AM PT Oct 21.",
-      "redraftAdj": 0.98,
       "sleeperId": "7571",
-      "status": "Questionable",
-      "tag": "injury"
+      "name": "Rashod Bateman",
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 2:43 PM PT Oct 22.",
+      "tag": "injury",
+      "redraftAdj": 1.0,
+      "dynastyAdj": 1.0,
+      "status": null,
+      "auto": true
     },
     {
       "auto": true,
@@ -845,7 +847,17 @@
       "dynastyAdj": 1.0,
       "status": "Questionable",
       "auto": true
+    },
+    {
+      "sleeperId": "8137",
+      "name": "George Pickens",
+      "note": "Sleeper now lists him questionable (shoulder) as of 2:43 PM PT Oct 22.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
+      "status": "Questionable",
+      "auto": true
     }
   ],
-  "statusChecked": "1:44 PM PT Oct 22"
+  "statusChecked": "2:43 PM PT Oct 22"
 }
