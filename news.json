@@ -661,14 +661,14 @@
       "tag": "injury"
     },
     {
-      "auto": true,
-      "dynastyAdj": 1.0,
-      "name": "Tyreek Hill",
-      "note": "Sleeper now lists him questionable (knee - acl) as of 12:53 AM PT Oct 21.",
-      "redraftAdj": 0.98,
       "sleeperId": "3321",
-      "status": "Questionable",
-      "tag": "injury"
+      "name": "Tyreek Hill",
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 7:44 PM PT Oct 21.",
+      "tag": "injury",
+      "redraftAdj": 1.0,
+      "dynastyAdj": 1.0,
+      "status": null,
+      "auto": true
     },
     {
       "sleeperId": "4035",
@@ -911,5 +911,5 @@
       "auto": true
     }
   ],
-  "statusChecked": "4:42 PM PT Oct 21"
+  "statusChecked": "7:44 PM PT Oct 21"
 }
