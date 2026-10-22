@@ -523,11 +523,12 @@
     {
       "sleeperId": "11604",
       "name": "Brock Bowers",
-      "note": "Bowers was limited in practice Wednesday, Oct 21 with a new hamstring/calf designation. It is unclear whether he got hurt in Week 6 or at practice, but reports still give him a good chance to play vs. the Rams.",
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 4:41 PM PT Oct 22. Earlier: Bowers was limited in practice Wednesday, Oct 21 with a new hamstring/calf designation. It is unclear whether he got hurt in Week 6 or at practice, but reports still give him a good chance to play vs. the Rams.",
       "tag": "injury",
-      "redraftAdj": 0.95,
+      "redraftAdj": 1.0,
       "dynastyAdj": 1.0,
-      "status": "Questionable"
+      "status": null,
+      "auto": true
     },
     {
       "sleeperId": "1466",
@@ -605,11 +606,12 @@
     {
       "sleeperId": "5022",
       "name": "Dallas Goedert",
-      "note": "Jalen Hurts (calf blood clot) is headed to IR, so Tanner McKee is in line to start Week 7 vs. Dallas. Goedert's volume is safe while Eli Stowers is on IR, but the QB downgrade caps his ceiling.",
-      "tag": "role_down",
+      "note": "Sleeper now lists him questionable (knee) as of 4:41 PM PT Oct 22. Earlier: Jalen Hurts (calf blood clot) is headed to IR, so Tanner McKee is in line to start Week 7 vs. Dallas. Goedert's volume is safe while Eli Stowers is on IR, but the QB downgrade caps his ceiling.",
+      "tag": "injury",
       "redraftAdj": 0.92,
       "dynastyAdj": 1.0,
-      "status": ""
+      "status": "Questionable",
+      "auto": true
     },
     {
       "sleeperId": "10236",
@@ -811,24 +813,24 @@
       "auto": true
     },
     {
-      "auto": true,
-      "dynastyAdj": 1.0,
-      "name": "Rashid Shaheed",
-      "note": "Sleeper now lists him questionable (hip) as of 4:42 PM PT Oct 21.",
-      "redraftAdj": 0.98,
       "sleeperId": "8676",
-      "status": "Questionable",
-      "tag": "injury"
+      "name": "Rashid Shaheed",
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 4:41 PM PT Oct 22.",
+      "tag": "injury",
+      "redraftAdj": 1.0,
+      "dynastyAdj": 1.0,
+      "status": null,
+      "auto": true
     },
     {
-      "auto": true,
-      "dynastyAdj": 0.99,
-      "name": "Dontayvion Wicks",
-      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 12:53 AM PT Oct 21.",
-      "redraftAdj": 1.0,
       "sleeperId": "9486",
-      "status": null,
-      "tag": "injury"
+      "name": "Dontayvion Wicks",
+      "note": "Sleeper now lists him questionable (ankle) as of 4:41 PM PT Oct 22.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
+      "dynastyAdj": 0.99,
+      "status": "Questionable",
+      "auto": true
     },
     {
       "auto": true,
@@ -859,7 +861,17 @@
       "dynastyAdj": 1.0,
       "status": "Questionable",
       "auto": true
+    },
+    {
+      "sleeperId": "7525",
+      "name": "DeVonta Smith",
+      "note": "Sleeper now lists him questionable (hamstring) as of 4:41 PM PT Oct 22.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
+      "status": "Questionable",
+      "auto": true
     }
   ],
-  "statusChecked": "3:42 PM PT Oct 22"
+  "statusChecked": "4:41 PM PT Oct 22"
 }
