@@ -4,29 +4,32 @@
     {
       "sleeperId": "4892",
       "name": "Baker Mayfield",
-      "note": "Mayfield (dislocated right thumb) practiced fully again on Thursday, Oct 22, and said he expects to start Sunday at Carolina barring a setback. Todd Bowles had not officially confirmed it, with a decision due Friday.",
-      "tag": "return",
-      "redraftAdj": 1.1,
-      "dynastyAdj": 1.0,
-      "status": "Questionable"
+      "tag": "role_up",
+      "redraftAdj": 1.2,
+      "dynastyAdj": 1.05,
+      "status": "Questionable",
+      "auto": true,
+      "note": "Sleeper's depth chart now has him as TB's starting QB as of 12:43 PM PT Oct 23."
     },
     {
       "sleeperId": "13425",
       "name": "Jalon Daniels",
-      "note": "Baker Mayfield practiced fully Wednesday and Thursday (Oct 21-22) and expects to start Week 7 at Carolina, so Daniels is likely headed back to the bench pending Bowles' Friday decision.",
       "tag": "role_down",
-      "redraftAdj": 0.6,
-      "dynastyAdj": 0.98,
-      "status": ""
+      "redraftAdj": 0.8,
+      "dynastyAdj": 0.95,
+      "status": "",
+      "auto": true,
+      "note": "Sleeper's depth chart now has him as TB's backup QB as of 12:43 PM PT Oct 23."
     },
     {
       "sleeperId": "4881",
       "name": "Lamar Jackson",
-      "note": "Jackson (ankle) was limited again on Thursday, Oct 22. He did more work than Wednesday, though one report said he limped out of practice, and Jesse Minter calls him day-to-day for Sunday vs. Cincinnati.",
-      "tag": "injury",
-      "redraftAdj": 0.85,
-      "dynastyAdj": 1.0,
-      "status": "Questionable"
+      "tag": "role_up",
+      "redraftAdj": 1.2,
+      "dynastyAdj": 1.05,
+      "status": "Questionable",
+      "auto": true,
+      "note": "Sleeper's depth chart now has him as BAL's starting QB as of 12:43 PM PT Oct 23."
     },
     {
       "sleeperId": "13272",
@@ -49,20 +52,22 @@
     {
       "sleeperId": "11565",
       "name": "J.J. McCarthy",
-      "note": "McCarthy was named the Giants' Week 7 starter at Houston on Oct 21, replacing the benched Jameis Winston. Harbaugh has not called the change permanent, and the Giants are on bye after this game.",
       "tag": "role_up",
-      "redraftAdj": 1.25,
-      "dynastyAdj": 1.06,
-      "status": ""
+      "redraftAdj": 1.2,
+      "dynastyAdj": 1.05,
+      "status": "",
+      "auto": true,
+      "note": "Sleeper's depth chart now has him as NYG's starting QB as of 12:43 PM PT Oct 23."
     },
     {
       "sleeperId": "2306",
       "name": "Jameis Winston",
-      "note": "Winston was benched on Oct 21 and will back up J.J. McCarthy for the Giants' Week 7 game at Houston.",
       "tag": "role_down",
-      "redraftAdj": 0.4,
+      "redraftAdj": 0.8,
       "dynastyAdj": 0.95,
-      "status": ""
+      "status": "",
+      "auto": true,
+      "note": "Sleeper's depth chart now has him as NYG's backup QB as of 12:43 PM PT Oct 23."
     },
     {
       "sleeperId": "6790",
@@ -598,11 +603,12 @@
     {
       "sleeperId": "1466",
       "name": "Travis Kelce",
-      "note": "Kelce (ankle) was limited again Thursday, Oct 22, and is still expected to play Sunday night at Seattle unless something changes at Friday's practice.",
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 12:43 PM PT Oct 23. Earlier: Kelce (ankle) was limited again Thursday, Oct 22, and is still expected to play Sunday night at Seattle unless something changes at Friday's practice.",
       "tag": "injury",
-      "redraftAdj": 0.97,
+      "redraftAdj": 1.0,
       "dynastyAdj": 1.0,
-      "status": "Questionable"
+      "status": null,
+      "auto": true
     },
     {
       "sleeperId": "5844",
@@ -920,5 +926,5 @@
       "tag": "injury"
     }
   ],
-  "statusChecked": "11:52 AM PT Oct 23"
+  "statusChecked": "12:43 PM PT Oct 23"
 }

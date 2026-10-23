@@ -108,10 +108,19 @@
    "t": "NE"
   },
   "11565": {
-   "changed": null,
-   "entry": null,
+   "changed": "2026-10-23T19:43:26.095658+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.05,
+    "name": "J.J. McCarthy",
+    "note": "Sleeper's depth chart now has him as NYG's starting QB as of 12:43 PM PT Oct 23.",
+    "redraftAdj": 1.2,
+    "sleeperId": "11565",
+    "status": "",
+    "tag": "role_up"
+   },
    "i": null,
-   "qb1": false,
+   "qb1": true,
    "t": "NYG"
   },
   "11566": {
@@ -1012,10 +1021,19 @@
    "t": "IND"
   },
   "13425": {
-   "changed": null,
-   "entry": null,
+   "changed": "2026-10-23T19:43:26.095658+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 0.95,
+    "name": "Jalon Daniels",
+    "note": "Sleeper's depth chart now has him as TB's backup QB as of 12:43 PM PT Oct 23.",
+    "redraftAdj": 0.8,
+    "sleeperId": "13425",
+    "status": "",
+    "tag": "role_down"
+   },
    "i": null,
-   "qb1": true,
+   "qb1": false,
    "t": "TB"
   },
   "13533": {
@@ -1049,18 +1067,18 @@
    "t": "NYJ"
   },
   "1466": {
-   "changed": "2026-10-21T23:42:31.750924+00:00",
+   "changed": "2026-10-23T19:43:26.095658+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 1.0,
     "name": "Travis Kelce",
-    "note": "Sleeper now lists him questionable (ankle) as of 4:42 PM PT Oct 21.",
-    "redraftAdj": 0.98,
+    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 12:43 PM PT Oct 23. Earlier: Kelce (ankle) was limited again Thursday, Oct 22, and is still expected to play Sunday night at Seattle unless something changes at Friday's practice.",
+    "redraftAdj": 1.0,
     "sleeperId": "1466",
-    "status": "Questionable",
+    "status": null,
     "tag": "injury"
    },
-   "i": "Questionable",
+   "i": null,
    "qb1": null,
    "t": "KC"
   },
@@ -1103,10 +1121,19 @@
    "t": "SF"
   },
   "2306": {
-   "changed": null,
-   "entry": null,
+   "changed": "2026-10-23T19:43:26.095658+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 0.95,
+    "name": "Jameis Winston",
+    "note": "Sleeper's depth chart now has him as NYG's backup QB as of 12:43 PM PT Oct 23.",
+    "redraftAdj": 0.8,
+    "sleeperId": "2306",
+    "status": "",
+    "tag": "role_down"
+   },
    "i": null,
-   "qb1": true,
+   "qb1": false,
    "t": "NYG"
   },
   "2449": {
@@ -1278,35 +1305,35 @@
    "t": "PHI"
   },
   "4881": {
-   "changed": "2026-10-21T07:53:53.206089+00:00",
+   "changed": "2026-10-23T19:43:26.095658+00:00",
    "entry": {
     "auto": true,
-    "dynastyAdj": 1.0,
+    "dynastyAdj": 1.05,
     "name": "Lamar Jackson",
-    "note": "Sleeper now lists him questionable (ankle) as of 12:53 AM PT Oct 21. Earlier: Jackson (left ankle) hasn't practiced since Oct 4 and missed the 13-10 loss to Cleveland on Oct 18. Coach Jesse Minter said Monday (Oct 19) the ankle has improved and he could 'potentially' practice this week, with Wednesday key for the Oct 25 game vs. Cincinnati.",
-    "redraftAdj": 0.98,
+    "note": "Sleeper's depth chart now has him as BAL's starting QB as of 12:43 PM PT Oct 23.",
+    "redraftAdj": 1.2,
     "sleeperId": "4881",
     "status": "Questionable",
-    "tag": "injury"
+    "tag": "role_up"
    },
    "i": "Questionable",
-   "qb1": false,
+   "qb1": true,
    "t": "BAL"
   },
   "4892": {
-   "changed": "2026-10-21T07:53:53.206089+00:00",
+   "changed": "2026-10-23T19:43:26.095658+00:00",
    "entry": {
     "auto": true,
-    "dynastyAdj": 1.0,
+    "dynastyAdj": 1.05,
     "name": "Baker Mayfield",
-    "note": "Sleeper now lists him questionable (thumb) as of 12:53 AM PT Oct 21. Earlier: Todd Bowles said Oct 19 that Mayfield threw Monday but his thumb swelled up, and he is 'supposed to practice Wednesday.' Tampa Bay is game-planning as if Jalon Daniels will start Week 7 at Carolina.",
-    "redraftAdj": 0.98,
+    "note": "Sleeper's depth chart now has him as TB's starting QB as of 12:43 PM PT Oct 23.",
+    "redraftAdj": 1.2,
     "sleeperId": "4892",
     "status": "Questionable",
-    "tag": "injury"
+    "tag": "role_up"
    },
    "i": "Questionable",
-   "qb1": false,
+   "qb1": true,
    "t": "TB"
   },
   "4943": {
