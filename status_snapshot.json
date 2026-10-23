@@ -1656,18 +1656,18 @@
    "t": "PHI"
   },
   "7526": {
-   "changed": "2026-10-21T23:42:31.750924+00:00",
+   "changed": "2026-10-23T21:43:24.260033+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 0.99,
     "name": "Jaylen Waddle",
-    "note": "Sleeper now lists him questionable (chest) as of 4:42 PM PT Oct 21.",
-    "redraftAdj": 0.98,
+    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 2:43 PM PT Oct 23. Earlier: Sleeper listed him questionable (chest) as of Oct 21 heading into Week 7.",
+    "redraftAdj": 1.0,
     "sleeperId": "7526",
-    "status": "Questionable",
+    "status": null,
     "tag": "injury"
    },
-   "i": "Questionable",
+   "i": null,
    "qb1": null,
    "t": "DEN"
   },
@@ -2144,18 +2144,18 @@
    "t": "PIT"
   },
   "9753": {
-   "changed": "2026-10-22T18:52:45.113712+00:00",
+   "changed": "2026-10-23T21:43:24.260033+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 1.0,
     "name": "Zach Charbonnet",
-    "note": "Sleeper now lists him questionable (knee - acl) as of 11:52 AM PT Oct 22. Earlier: Charbonnet (knee) logged his first full practice Wednesday (Oct 21), and Mike Macdonald said he has a 'good chance' to debut Sunday vs. Kansas City; he still must be activated from PUP and may have a limited first-game workload.",
-    "redraftAdj": 0.98,
+    "note": "Sleeper now lists him out (knee - acl) as of 2:43 PM PT Oct 23. Earlier: Seattle activated Charbonnet (ACL) from the PUP list on Thursday (Oct 22); Mike Macdonald says a Week 7 debut vs. Kansas City is a real possibility but not guaranteed, and a big initial workload is unlikely.",
+    "redraftAdj": 0.9,
     "sleeperId": "9753",
-    "status": "Questionable",
+    "status": "Out",
     "tag": "injury"
    },
-   "i": "Questionable",
+   "i": "Out",
    "qb1": null,
    "t": "SEA"
   },
