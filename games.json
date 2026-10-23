@@ -1,7 +1,7 @@
 {
  "season": "2026",
  "week": 7,
- "updated": "2026-10-22 9:16 PM PT",
+ "updated": "2026-10-23 12:27 AM PT",
  "games": [
   {
    "id": "401873010",
@@ -32,14 +32,14 @@
    "awayScore": "0",
    "venue": "Stade de France",
    "tv": "NFL Net",
-   "details": "PIT -3.5",
+   "details": "PIT -3",
    "total": 44.5,
    "fav": "PIT",
-   "spread": 3.5,
+   "spread": 3.0,
    "homeML": null,
    "awayML": null,
-   "homeImplied": 20.5,
-   "awayImplied": 24.0,
+   "homeImplied": 20.8,
+   "awayImplied": 23.8,
    "weather": {
     "roof": "dome"
    }
@@ -64,10 +64,10 @@
    "awayImplied": 26.0,
    "weather": {
     "roof": "retract",
-    "temp": 66.8,
+    "temp": 67.4,
     "precip": 0,
     "code": 0,
-    "wind": 11.0,
+    "wind": 11.5,
     "night": false
    }
   },
@@ -94,7 +94,7 @@
     "temp": 72.2,
     "precip": 0,
     "code": 0,
-    "wind": 3.4,
+    "wind": 3.5,
     "night": false
    }
   },
@@ -140,10 +140,10 @@
    "awayImplied": 17.5,
    "weather": {
     "roof": "open",
-    "temp": 63.8,
+    "temp": 63.7,
     "precip": 0,
     "code": 0,
-    "wind": 4.5,
+    "wind": 3.7,
     "night": false
    }
   },
@@ -167,10 +167,10 @@
    "awayImplied": 20.8,
    "weather": {
     "roof": "open",
-    "temp": 64.6,
+    "temp": 65.8,
     "precip": 0,
     "code": 0,
-    "wind": 8.2,
+    "wind": 9.2,
     "night": false
    }
   },
@@ -194,10 +194,10 @@
    "awayImplied": 23.5,
    "weather": {
     "roof": "open",
-    "temp": 63.5,
+    "temp": 62.8,
     "precip": 0,
     "code": 0,
-    "wind": 3.0,
+    "wind": 3.4,
     "night": false
    }
   },
@@ -221,10 +221,10 @@
    "awayImplied": 16.0,
    "weather": {
     "roof": "retract",
-    "temp": 78.3,
+    "temp": 77.9,
     "precip": 0,
     "code": 3,
-    "wind": 9.9,
+    "wind": 10.6,
     "night": false
    }
   },
@@ -248,10 +248,10 @@
    "awayImplied": 24.0,
    "weather": {
     "roof": "retract",
-    "temp": 77.9,
+    "temp": 77.3,
     "precip": 0,
     "code": 0,
-    "wind": 1.4,
+    "wind": 4.3,
     "night": false
    }
   },
@@ -319,10 +319,10 @@
    "awayImplied": 19.8,
    "weather": {
     "roof": "open",
-    "temp": 54.9,
+    "temp": 52.9,
     "precip": 29,
     "code": 3,
-    "wind": 6.7,
+    "wind": 8.8,
     "night": false
    }
   },
@@ -346,10 +346,10 @@
    "awayImplied": 24.5,
    "weather": {
     "roof": "open",
-    "temp": 61.6,
+    "temp": 61.3,
     "precip": 0,
     "code": 0,
-    "wind": 4.7,
+    "wind": 4.4,
     "night": true
    }
   }
@@ -537,8 +537,8 @@
   },
   "12817": {
    "half": 0.53,
-   "ppr": 0.68,
-   "std": 0.39,
+   "ppr": 0.67,
+   "std": 0.38,
    "opp": "SEA"
   },
   "13277": {
@@ -560,9 +560,9 @@
    "opp": "TEN"
   },
   "4046": {
-   "half": 16.07,
-   "ppr": 16.07,
-   "std": 16.07,
+   "half": 15.98,
+   "ppr": 15.98,
+   "std": 15.98,
    "opp": "SEA"
   },
   "4892": {
@@ -674,9 +674,9 @@
    "opp": "DEN"
   },
   "8151": {
-   "half": 17.48,
-   "ppr": 19.39,
-   "std": 15.57,
+   "half": 17.59,
+   "ppr": 19.48,
+   "std": 15.7,
    "opp": "SEA"
   },
   "8154": {
@@ -692,9 +692,9 @@
    "opp": "LAR"
   },
   "8676": {
-   "half": 4.85,
-   "ppr": 5.85,
-   "std": 3.85,
+   "half": 4.82,
+   "ppr": 5.8,
+   "std": 3.83,
    "opp": "KC"
   },
   "9228": {
@@ -728,9 +728,9 @@
    "opp": "SF"
   },
   "9753": {
-   "half": 5.01,
-   "ppr": 5.54,
-   "std": 4.47,
+   "half": 5.04,
+   "ppr": 5.57,
+   "std": 4.51,
    "opp": "KC"
   },
   "9757": {
@@ -776,15 +776,15 @@
    "opp": "BAL"
   },
   "11603": {
-   "half": 5.97,
-   "ppr": 7.5,
-   "std": 4.43,
+   "half": 5.91,
+   "ppr": 7.43,
+   "std": 4.39,
    "opp": "KC"
   },
   "12048": {
-   "half": 5.12,
+   "half": 5.14,
    "ppr": 5.93,
-   "std": 4.32,
+   "std": 4.34,
    "opp": "KC"
   },
   "12473": {
@@ -794,9 +794,9 @@
    "opp": "TB"
   },
   "12497": {
-   "half": 2.78,
-   "ppr": 3.39,
-   "std": 2.18,
+   "half": 2.75,
+   "ppr": 3.35,
+   "std": 2.16,
    "opp": "KC"
   },
   "12501": {
@@ -806,9 +806,9 @@
    "opp": "DET"
   },
   "12505": {
-   "half": 1.96,
-   "ppr": 2.47,
-   "std": 1.46,
+   "half": 1.94,
+   "ppr": 2.44,
+   "std": 1.44,
    "opp": "SEA"
   },
   "12514": {
@@ -837,7 +837,7 @@
   },
   "13337": {
    "half": 2.79,
-   "ppr": 3.3,
+   "ppr": 3.29,
    "std": 2.29,
    "opp": "SEA"
   },
@@ -998,9 +998,9 @@
    "opp": "TEN"
   },
   "11624": {
-   "half": 7.34,
-   "ppr": 9.13,
-   "std": 5.56,
+   "half": 7.28,
+   "ppr": 9.05,
+   "std": 5.52,
    "opp": "SEA"
   },
   "11627": {
@@ -1112,8 +1112,8 @@
    "opp": "MIA"
   },
   "13413": {
-   "half": 0.74,
-   "ppr": 0.92,
+   "half": 0.73,
+   "ppr": 0.91,
    "std": 0.56,
    "opp": "SEA"
   },
@@ -1130,9 +1130,9 @@
    "opp": "BAL"
   },
   "1466": {
-   "half": 9.37,
-   "ppr": 11.62,
-   "std": 7.13,
+   "half": 9.27,
+   "ppr": 11.49,
+   "std": 7.05,
    "opp": "SEA"
   },
   "4054": {
@@ -1142,9 +1142,9 @@
    "opp": "MIN"
   },
   "4189": {
-   "half": 1.12,
-   "ppr": 1.42,
-   "std": 0.82,
+   "half": 1.11,
+   "ppr": 1.4,
+   "std": 0.81,
    "opp": "KC"
   },
   "4993": {
@@ -1166,9 +1166,9 @@
    "opp": "CIN"
   },
   "7828": {
-   "half": 2.83,
-   "ppr": 3.67,
-   "std": 1.98,
+   "half": 2.8,
+   "ppr": 3.63,
+   "std": 1.96,
    "opp": "SEA"
   },
   "8117": {
@@ -1388,9 +1388,9 @@
    "opp": "MIA"
   },
   "4943": {
-   "half": 14.39,
-   "ppr": 14.39,
-   "std": 14.39,
+   "half": 14.28,
+   "ppr": 14.28,
+   "std": 14.28,
    "opp": "KC"
   },
   "6770": {
@@ -1568,9 +1568,9 @@
    "opp": "SF"
   },
   "4039": {
-   "half": 5.6,
-   "ppr": 6.88,
-   "std": 4.31,
+   "half": 5.54,
+   "ppr": 6.81,
+   "std": 4.27,
    "opp": "KC"
   },
   "5857": {
@@ -1670,9 +1670,9 @@
    "opp": "LAR"
   },
   "10229": {
-   "half": 10.39,
-   "ppr": 12.75,
-   "std": 8.04,
+   "half": 10.29,
+   "ppr": 12.61,
+   "std": 7.96,
    "opp": "SEA"
   },
   "10859": {
@@ -1688,9 +1688,9 @@
    "opp": "NYJ"
   },
   "11435": {
-   "half": 7.27,
-   "ppr": 7.76,
-   "std": 6.78,
+   "half": 7.33,
+   "ppr": 7.81,
+   "std": 6.85,
    "opp": "KC"
   },
   "11439": {
@@ -1940,9 +1940,9 @@
    "opp": "DET"
   },
   "9488": {
-   "half": 20.12,
-   "ppr": 23.74,
-   "std": 16.5,
+   "half": 19.9,
+   "ppr": 23.48,
+   "std": 16.32,
    "opp": "KC"
   },
   "96": {
