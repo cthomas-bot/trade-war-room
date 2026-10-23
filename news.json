@@ -175,11 +175,12 @@
     {
       "sleeperId": "13287",
       "name": "Jeremiyah Love",
-      "note": "Love (ankle) did not practice Thursday (Oct 22), working on the side with trainers, and CBS's Matt Zenitz reports he will likely miss Week 7 vs. Denver after also sitting Week 6.",
+      "note": "Sleeper now lists him out (ankle) as of 11:52 AM PT Oct 23. Earlier: Love (ankle) did not practice Thursday (Oct 22), working on the side with trainers, and CBS's Matt Zenitz reports he will likely miss Week 7 vs. Denver after also sitting Week 6.",
       "tag": "injury",
       "redraftAdj": 0.75,
       "dynastyAdj": 0.98,
-      "status": "Questionable"
+      "status": "Out",
+      "auto": true
     },
     {
       "sleeperId": "8132",
@@ -193,11 +194,12 @@
     {
       "sleeperId": "12512",
       "name": "Quinshon Judkins",
-      "note": "Judkins (ankle) was limited again Thursday (Oct 22), and Todd Monken is optimistic he plays Week 7 vs. Tennessee; he would likely resume a lead role, possibly run-focused.",
-      "tag": "return",
-      "redraftAdj": 1.1,
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 11:52 AM PT Oct 23. Earlier: Judkins (ankle) was limited again Thursday (Oct 22), and Todd Monken is optimistic he plays Week 7 vs. Tennessee; he would likely resume a lead role, possibly run-focused.",
+      "tag": "injury",
+      "redraftAdj": 1.0,
       "dynastyAdj": 1.02,
-      "status": "Questionable"
+      "status": null,
+      "auto": true
     },
     {
       "sleeperId": "12469",
@@ -394,11 +396,12 @@
     {
       "sleeperId": "13346",
       "name": "Denzel Boston",
-      "note": "Sleeper listed him questionable (foot) as of Oct 21 heading into Week 7. The same foot issue limited him before Week 6, but he played that week.",
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 11:52 AM PT Oct 23. Earlier: Sleeper listed him questionable (foot) as of Oct 21 heading into Week 7. The same foot issue limited him before Week 6, but he played that week.",
       "tag": "injury",
-      "redraftAdj": 0.98,
+      "redraftAdj": 1.0,
       "dynastyAdj": 1.0,
-      "status": "Questionable"
+      "status": null,
+      "auto": true
     },
     {
       "sleeperId": "13380",
@@ -430,11 +433,12 @@
     {
       "sleeperId": "10229",
       "name": "Rashee Rice",
-      "note": "Rice (hamstring/knee) did not practice Thursday, Oct 22, his second straight DNP ahead of Sunday night's game at Seattle. Reid called him a fast healer but has not committed to him playing.",
+      "note": "Sleeper now lists him out (hamstring) as of 11:52 AM PT Oct 23. Earlier: Rice (hamstring/knee) did not practice Thursday, Oct 22, his second straight DNP ahead of Sunday night's game at Seattle. Reid called him a fast healer but has not committed to him playing.",
       "tag": "injury",
       "redraftAdj": 0.7,
       "dynastyAdj": 0.99,
-      "status": "Questionable"
+      "status": "Out",
+      "auto": true
     },
     {
       "sleeperId": "9493",
@@ -502,11 +506,12 @@
     {
       "sleeperId": "13298",
       "name": "KC Concepcion Jr.",
-      "note": "Concepcion (calf/quadriceps) was limited in practice again on Thursday, Oct 22, his second straight limited session. His status for Sunday against Tennessee depends on Friday's report.",
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 11:52 AM PT Oct 23. Earlier: Concepcion (calf/quadriceps) was limited in practice again on Thursday, Oct 22, his second straight limited session. His status for Sunday against Tennessee depends on Friday's report.",
       "tag": "injury",
-      "redraftAdj": 0.9,
+      "redraftAdj": 1.0,
       "dynastyAdj": 1.0,
-      "status": "Questionable"
+      "status": null,
+      "auto": true
     },
     {
       "sleeperId": "5927",
@@ -915,5 +920,5 @@
       "tag": "injury"
     }
   ],
-  "statusChecked": "10:42 AM PT Oct 23"
+  "statusChecked": "11:52 AM PT Oct 23"
 }
