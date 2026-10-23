@@ -229,20 +229,22 @@
     {
       "sleeperId": "11584",
       "name": "Bucky Irving",
-      "note": "Irving (illness) returned to practice as a limited participant Thursday (Oct 22) after sitting Wednesday, and his availability for Week 7 at Carolina does not appear to be in danger.",
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 10:42 AM PT Oct 23. Earlier: Irving (illness) returned to practice as a limited participant Thursday (Oct 22) after sitting Wednesday, and his availability for Week 7 at Carolina does not appear to be in danger.",
       "tag": "injury",
       "redraftAdj": 1.0,
       "dynastyAdj": 1.0,
-      "status": "Questionable"
+      "status": null,
+      "auto": true
     },
     {
       "sleeperId": "8154",
       "name": "Brian Robinson Jr.",
-      "note": "Robinson (hamstring) did not practice Thursday (Oct 22) after being limited Wednesday, putting his Week 7 availability vs. San Francisco in more doubt.",
+      "note": "Sleeper now lists him out (hamstring) as of 10:42 AM PT Oct 23. Earlier: Robinson (hamstring) did not practice Thursday (Oct 22) after being limited Wednesday, putting his Week 7 availability vs. San Francisco in more doubt.",
       "tag": "injury",
       "redraftAdj": 0.8,
       "dynastyAdj": 0.98,
-      "status": "Questionable"
+      "status": "Out",
+      "auto": true
     },
     {
       "sleeperId": "12533",
@@ -274,11 +276,12 @@
     {
       "sleeperId": "12514",
       "name": "Emeka Egbuka",
-      "note": "He is in the concussion protocol and did not practice Wednesday, Oct 21 (concussion/foot) ahead of Week 7 at Carolina. No later update has been confirmed, and he is trending toward missing the game.",
+      "note": "Sleeper now lists him out (concussion) as of 10:42 AM PT Oct 23. Earlier: He is in the concussion protocol and did not practice Wednesday, Oct 21 (concussion/foot) ahead of Week 7 at Carolina. No later update has been confirmed, and he is trending toward missing the game.",
       "tag": "injury",
       "redraftAdj": 0.75,
       "dynastyAdj": 0.99,
-      "status": "Questionable"
+      "status": "Out",
+      "auto": true
     },
     {
       "sleeperId": "9756",
@@ -571,11 +574,12 @@
     {
       "sleeperId": "12518",
       "name": "Tyler Warren",
-      "note": "Warren (groin) did not practice Wednesday or Thursday (Oct 21-22) after sitting out Week 6, so he is at real risk of missing Sunday's game at Minnesota. Friday's designation is still pending.",
+      "note": "Sleeper now lists him out (groin) as of 10:42 AM PT Oct 23. Earlier: Warren (groin) did not practice Wednesday or Thursday (Oct 21-22) after sitting out Week 6, so he is at real risk of missing Sunday's game at Minnesota. Friday's designation is still pending.",
       "tag": "injury",
       "redraftAdj": 0.7,
       "dynastyAdj": 1.0,
-      "status": "Questionable"
+      "status": "Out",
+      "auto": true
     },
     {
       "sleeperId": "5022",
@@ -911,5 +915,5 @@
       "tag": "injury"
     }
   ],
-  "statusChecked": "6:51 AM PT Oct 23"
+  "statusChecked": "10:42 AM PT Oct 23"
 }
