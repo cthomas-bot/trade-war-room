@@ -843,9 +843,18 @@
    "t": "MIA"
   },
   "13345": {
-   "changed": null,
-   "entry": null,
-   "i": "IR",
+   "changed": "2026-10-24T21:41:52.903005+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Jonah Coleman",
+    "note": "Sleeper now lists him questionable (ankle) as of 2:41 PM PT Oct 24. Earlier: Coleman (ankle) logged a third straight full practice and is questionable for Sunday at Arizona (Oct 23 report); he is expected to be activated from IR Saturday, but Sean Payton said he'll be 'mindful' of his snaps.",
+    "redraftAdj": 0.98,
+    "sleeperId": "13345",
+    "status": "Questionable",
+    "tag": "injury"
+   },
+   "i": "Questionable",
    "qb1": null,
    "t": "DEN"
   },
@@ -1806,9 +1815,18 @@
    "t": "PIT"
   },
   "8408": {
-   "changed": null,
-   "entry": null,
-   "i": "IR",
+   "changed": "2026-10-24T21:41:52.903005+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.03,
+    "name": "Jordan Mason",
+    "note": "Cleared: no longer on Sleeper's injury report (was on injured reserve) as of 2:41 PM PT Oct 24. Earlier: Mason (thumb) practiced fully all week and is questionable on the Friday (Oct 23) report only because he is still on IR; Kevin O'Connell expects him to be activated and play Sunday vs. Indianapolis.",
+    "redraftAdj": 0.98,
+    "sleeperId": "8408",
+    "status": null,
+    "tag": "injury"
+   },
+   "i": null,
    "qb1": null,
    "t": "MIN"
   },
@@ -1936,18 +1954,18 @@
    "t": "NE"
   },
   "9502": {
-   "changed": "2026-10-24T20:39:43.488750+00:00",
+   "changed": "2026-10-24T21:41:52.903005+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 1.0,
     "name": "Tank Dell",
-    "note": "Sleeper now lists him questionable (knee - acl + mcl) as of 1:39 PM PT Oct 24. Earlier: Dell was a full participant all week and is listed as questionable for Sunday vs. the Giants, with DeMeco Ryans expecting him to make his first appearance since his December 2024 knee injury. Expect a light snap count in his debut.",
-    "redraftAdj": 0.98,
+    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 2:41 PM PT Oct 24.",
+    "redraftAdj": 1.0,
     "sleeperId": "9502",
-    "status": "Questionable",
+    "status": null,
     "tag": "injury"
    },
-   "i": "Questionable",
+   "i": null,
    "qb1": null,
    "t": "HOU"
   },

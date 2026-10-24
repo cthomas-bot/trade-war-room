@@ -113,11 +113,12 @@
     {
       "sleeperId": "8408",
       "name": "Jordan Mason",
-      "note": "Mason (thumb) practiced fully all week and is questionable on the Friday (Oct 23) report only because he is still on IR; Kevin O'Connell expects him to be activated and play Sunday vs. Indianapolis.",
-      "tag": "return",
-      "redraftAdj": 1.15,
+      "note": "Cleared: no longer on Sleeper's injury report (was on injured reserve) as of 2:41 PM PT Oct 24. Earlier: Mason (thumb) practiced fully all week and is questionable on the Friday (Oct 23) report only because he is still on IR; Kevin O'Connell expects him to be activated and play Sunday vs. Indianapolis.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
       "dynastyAdj": 1.03,
-      "status": "Questionable"
+      "status": null,
+      "auto": true
     },
     {
       "sleeperId": "4199",
@@ -159,11 +160,12 @@
     {
       "sleeperId": "13345",
       "name": "Jonah Coleman",
-      "note": "Coleman (ankle) logged a third straight full practice and is questionable for Sunday at Arizona (Oct 23 report); he is expected to be activated from IR Saturday, but Sean Payton said he'll be 'mindful' of his snaps.",
-      "tag": "return",
-      "redraftAdj": 1.05,
-      "dynastyAdj": 1.02,
-      "status": "Questionable"
+      "note": "Sleeper now lists him questionable (ankle) as of 2:41 PM PT Oct 24. Earlier: Coleman (ankle) logged a third straight full practice and is questionable for Sunday at Arizona (Oct 23 report); he is expected to be activated from IR Saturday, but Sean Payton said he'll be 'mindful' of his snaps.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
+      "status": "Questionable",
+      "auto": true
     },
     {
       "sleeperId": "9753",
@@ -421,11 +423,11 @@
     {
       "sleeperId": "9502",
       "name": "Tank Dell",
-      "note": "Sleeper now lists him questionable (knee - acl + mcl) as of 1:39 PM PT Oct 24. Earlier: Dell was a full participant all week and is listed as questionable for Sunday vs. the Giants, with DeMeco Ryans expecting him to make his first appearance since his December 2024 knee injury. Expect a light snap count in his debut.",
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 2:41 PM PT Oct 24.",
       "tag": "injury",
-      "redraftAdj": 0.98,
+      "redraftAdj": 1.0,
       "dynastyAdj": 1.0,
-      "status": "Questionable",
+      "status": null,
       "auto": true
     },
     {
@@ -786,5 +788,5 @@
       "auto": true
     }
   ],
-  "statusChecked": "1:39 PM PT Oct 24"
+  "statusChecked": "2:41 PM PT Oct 24"
 }
