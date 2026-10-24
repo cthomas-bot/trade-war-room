@@ -1,57 +1,7 @@
 {
  "date": "Sat Oct 24",
- "scanned": "Oct 24, 8:10 AM PT",
+ "scanned": "Oct 24, 3:00 PM PT · recheck",
  "slate": [
-  {
-   "sport": "CFB",
-   "game": "Kansas St. @ Arizona St.",
-   "time": "12:45 PM PT",
-   "pick": "YES on “Over 51.5”",
-   "price": "51¢",
-   "call": "YES",
-   "why": "Books 53.5–56.5 (FanDuel 53.5, Athlon/247 56.5); Kalshi centered ~3 points low.",
-   "recheck": "12:15 PM PT: still YES if books ≥53.5 and Over 51.5 ≤53¢. Confirm books still ≥53.5 before betting; $5 stake."
-  },
-  {
-   "sport": "CFB",
-   "game": "Iowa @ Minnesota",
-   "time": "12:30 PM PT",
-   "pick": "NO on “Iowa wins by over 6.5” (= MINN +6.5)",
-   "price": "44¢",
-   "call": "LEAN",
-   "why": "Books Iowa -6 to -7.5, total ~40.5; low-total game makes +6.5 worth ~50%.",
-   "recheck": "Noon PT: YES if consensus settles Iowa -6.5 or better and NO ≤45¢."
-  },
-  {
-   "sport": "CFB",
-   "game": "Baylor @ Kansas",
-   "time": "10:00 AM PT",
-   "pick": "YES on “Baylor wins by over 2.5”",
-   "price": "48¢",
-   "call": "LEAN",
-   "why": "Baylor -2.5 (FanDuel -115), ML -133 to -145; fair ~51% vs 48¢.",
-   "recheck": "9:30 AM PT: YES if books move to Baylor -3."
-  },
-  {
-   "sport": "CFB",
-   "game": "Indiana @ Michigan",
-   "time": "9:00 AM PT",
-   "pick": "NO on “Over 42.5” (= Under 42.5)",
-   "price": "50¢",
-   "call": "LEAN",
-   "why": "Books total 41.5 (opened 43.5); Indiana -7/-7.5, ML ~-285 to -345, ML fairly priced.",
-   "recheck": "8:45 AM PT: YES if books drop to 40.5 with NO ≤50¢."
-  },
-  {
-   "sport": "CFB",
-   "game": "Texas Tech @ Cincinnati",
-   "time": "9:00 AM PT",
-   "pick": "NO on “Texas Tech wins by over 13.5” (= CIN +13.5)",
-   "price": "53¢",
-   "call": "LEAN",
-   "why": "Books TTU -10.5 (BetMGM)/-11.5 (FanDuel); +13.5 worth ~55–57%.",
-   "recheck": "8:45 AM PT: YES if NO ≤51¢ with line ≤-11.5."
-  },
   {
    "sport": "CFB",
    "game": "UTSA @ Tulane",
@@ -60,7 +10,7 @@
    "price": "46¢",
    "call": "LEAN",
    "why": "Line bet down from UTSA -4 to -2.5 (CBS/CFN); Kalshi still prices UTSA -3.",
-   "recheck": "4:30 PM PT: YES if books reach UTSA -1.5 and NO ≤47¢."
+   "recheck": "No fresh book line found at 3 PM; skip if NO is above 46¢."
   },
   {
    "sport": "NBA",
@@ -68,9 +18,9 @@
    "time": "5:30 PM PT",
    "pick": "YES on “Over 228.5”",
    "price": "48¢",
-   "call": "LEAN",
-   "why": "Books total 229.5–230.5 (ATL −1.5); Over 228.5 a couple cents cheap.",
-   "recheck": "Adams/Sheppard status; YES if books ≥230.5 and YES ≤46¢ ~5:00 PM PT"
+   "call": "PASS",
+   "why": "Books show 227.5 and 230.5; can't confirm the over edge.",
+   "recheck": ""
   },
   {
    "sport": "NBA",
@@ -78,9 +28,9 @@
    "time": "6:00 PM PT",
    "pick": "NO on “Over 239.5” (= Under 239.5)",
    "price": "50¢",
-   "call": "LEAN",
-   "why": "Books total 237.5–238, DEN −11.5; Denver missing Cam Johnson, Strawther.",
-   "recheck": "Missi (knee)/Murray (toe) status ~5:30 PM PT"
+   "call": "PASS",
+   "why": "ESPN shows 239.5, same as Kalshi; no edge.",
+   "recheck": ""
   },
   {
    "sport": "NBA",
@@ -88,19 +38,9 @@
    "time": "7:00 PM PT",
    "pick": "NO on “Over 221.5” (= Under 221.5)",
    "price": "49¢",
-   "call": "LEAN",
-   "why": "FanDuel and Pick Dawgz total 219.5, PHX −9.5; one outlier at 224.5.",
-   "recheck": "Curry/Butler/Moody status ~6:30 PM PT; YES if NO ≤47¢"
-  },
-  {
-   "sport": "CFB",
-   "game": "Oklahoma @ Mississippi St.",
-   "time": "12:30 PM PT",
-   "pick": "NO on “Over 47.5” (= Under 47.5)",
-   "price": "50¢",
-   "call": "WAIT",
-   "why": "DK/BetMGM total 46.5, OU -2.5/-3.5; MSU QB Kamario Taylor questionable.",
-   "recheck": "Noon PT: if Taylor OUT and total ≤46.5, upgrade under to YES ≤50¢."
+   "call": "PASS",
+   "why": "Books now disagree (219.5 to 224.5); under edge no longer clear.",
+   "recheck": ""
   },
   {
    "sport": "NBA",
@@ -108,69 +48,9 @@
    "time": "4:30 PM PT",
    "pick": "YES on “Over 229.5”",
    "price": "46¢",
-   "call": "WAIT",
-   "why": "FanDuel/Covers books total 231–232.5, Kalshi ~228; one source lower, line unconfirmed.",
-   "recheck": "YES if books still ≥231 and Kalshi YES ≤47¢ ~4:00 PM PT"
-  },
-  {
-   "sport": "CFB",
-   "game": "LSU @ Auburn",
-   "time": "9:00 AM PT",
-   "pick": "NO on “Over 52.5” (= Under 52.5)",
-   "price": "52¢",
    "call": "PASS",
-   "why": "LSU -7 (ESPN, ML -285), total 50.5–51.5; LSU ML 72¢ is fair.",
-   "recheck": "8:45 AM PT: LEAN under if NO on Over 52.5 ≤50¢."
-  },
-  {
-   "sport": "CFB",
-   "game": "Texas A&M @ Alabama",
-   "time": "12:30 PM PT",
-   "pick": "Alabama ML",
-   "price": "84¢",
-   "call": "PASS",
-   "why": "Bama -13.5 to -14.5, ML -575/-650 de-vigs to ~82–83%; spreads/total all fair.",
-   "recheck": "Noon PT: TAMU ML if ≤14¢."
-  },
-  {
-   "sport": "CFB",
-   "game": "Oregon @ Illinois",
-   "time": "12:00 PM PT",
-   "pick": "NO on “Oregon wins by over 9.5” (= ILL +9.5)",
-   "price": "49¢",
-   "call": "PASS",
-   "why": "Oregon -8.5 to -10; both starting QBs out (Moore concussion, Houser hand); near fair.",
-   "recheck": "11:30 AM PT: LEAN if books settle Oregon -8.5 and NO ≤49¢."
-  },
-  {
-   "sport": "CFB",
-   "game": "Tennessee @ South Carolina",
-   "time": "12:30 PM PT",
-   "pick": "YES on “South Carolina wins by over 2.5”",
-   "price": "50¢",
-   "call": "PASS",
-   "why": "Books split: SC -2.5 (Athlon/CBS) vs TEN -2 (BetMGM); no clear side.",
-   "recheck": "Noon PT: recheck consensus line and QB status."
-  },
-  {
-   "sport": "CFB",
-   "game": "BYU @ UCF",
-   "time": "12:30 PM PT",
-   "pick": "NO on “BYU wins by over 7.5” (= UCF +7.5)",
-   "price": "53¢",
-   "call": "PASS",
-   "why": "BetMGM BYU -6.5, total 43.5, ML -250; Kalshi matches the books.",
-   "recheck": "Noon PT: LEAN UCF +7.5 if NO ≤50¢."
-  },
-  {
-   "sport": "CFB",
-   "game": "Hawai'i @ Northern Illinois",
-   "time": "12:30 PM PT",
-   "pick": "Hawai'i ML",
-   "price": "62¢",
-   "call": "PASS",
-   "why": "Hawai'i -3.5/-4.5, ML ~-182 to -198 (~63–64%); total 47.5 matches Kalshi.",
-   "recheck": "Noon PT: LEAN if Hawai'i ML ≤59¢."
+   "why": "Books 228.5–231.5 (BetMGM 228.5); the 231+ trigger wasn't met.",
+   "recheck": ""
   },
   {
    "sport": "CFB",
@@ -191,16 +71,6 @@
    "call": "PASS",
    "why": "USC -2.5/-3 (BetMGM), total 49.5–50.5, ML -150; no edge at 57¢.",
    "recheck": "4:00 PM PT: LEAN WIS +3.5 if NO ≤53¢."
-  },
-  {
-   "sport": "NBA",
-   "game": "Heat @ Hornets",
-   "time": "3:00 PM PT",
-   "pick": "NO on “Miami wins by over 3.5” (= CHA +3.5)",
-   "price": "51¢",
-   "call": "PASS",
-   "why": "Books Heat −3.5 (ML −145/−156); Kalshi priced fair, no edge after fees.",
-   "recheck": "Hornets' Knueppel/White/G. Williams status ~2:30 PM PT"
   },
   {
    "sport": "NBA",
@@ -280,46 +150,6 @@
  },
  "props": [
   {
-   "slate": "College · Morning (9 AM PT)",
-   "picks": [
-    {
-     "pick": "Darian Mensah (Miami) Over 267.5 passing yards vs Pitt",
-     "odds": "-115",
-     "why": "80.8% completions, 1,764 yds in 6 games; Pitt's elite run D pushes Miami to pass.",
-     "call": "LEAN"
-    },
-    {
-     "pick": "Cole Tabb (Texas Tech) Over 51.5 rushing yards at Cincinnati",
-     "odds": "-114 (FanDuel)",
-     "why": "448 yds on 49 carries (9.1 YPC); clears this on modest volume.",
-     "call": "LEAN"
-    },
-    {
-     "pick": "Josh Hoover (Indiana) 2+ passing TDs at Michigan",
-     "odds": "-134 (DraftKings)",
-     "why": "18 TD passes in 7 games (2.57/gm), though Michigan allows just 16.2 PPG.",
-     "call": "LEAN"
-    }
-   ]
-  },
-  {
-   "slate": "College · Afternoon (12:30 PM PT)",
-   "picks": [
-    {
-     "pick": "DeSean Bishop (Tennessee) anytime TD at South Carolina",
-     "odds": "-310 (FanDuel)",
-     "why": "Bellcow back; Dimers model ~76% vs ~76% implied, so fairly priced.",
-     "call": "LEAN"
-    },
-    {
-     "pick": "DeSean Bishop (Tennessee) Over 101.5 rushing yards",
-     "odds": "-115",
-     "why": "Lead back in a close 50.5-total SEC game; high line, needs full workload.",
-     "call": "LEAN"
-    }
-   ]
-  },
-  {
    "slate": "College · Night (4 PM PT+)",
    "picks": [
     {
@@ -337,68 +167,7 @@
    ]
   }
  ],
- "parlays": [
-  {
-   "name": "Safe favorites",
-   "legs": [
-    {
-     "leg": "Indiana ML at Michigan (9 AM PT)",
-     "odds": "-290"
-    },
-    {
-     "leg": "Texas Tech ML at Cincinnati (9 AM PT)",
-     "odds": "-440"
-    },
-    {
-     "leg": "LSU ML at Auburn (9 AM PT)",
-     "odds": "-285"
-    }
-   ],
-   "odds": "+123",
-   "why": "Three solid road favorites, all settled by early afternoon.",
-   "call": "FUN"
-  },
-  {
-   "name": "CFB props",
-   "legs": [
-    {
-     "leg": "DeSean Bishop anytime TD",
-     "odds": "-310"
-    },
-    {
-     "leg": "Darian Mensah Over 267.5 passing yards",
-     "odds": "-115"
-    },
-    {
-     "leg": "Cole Tabb Over 51.5 rushing yards",
-     "odds": "-114"
-    }
-   ],
-   "odds": "+364",
-   "why": "Heavy-usage stars in favorable spots; under the +400 cap.",
-   "call": "FUN"
-  },
-  {
-   "name": "Mix",
-   "legs": [
-    {
-     "leg": "Alabama ML vs Texas A&M (12:30 PM PT)",
-     "odds": "-600"
-    },
-    {
-     "leg": "Josh Hoover 2+ passing TDs",
-     "odds": "-134"
-    },
-    {
-     "leg": "Aiden Flora Over 74.5 rushing yards",
-     "odds": "-114"
-    }
-   ],
-   "odds": "+282",
-   "why": "Big home favorite plus two high-volume player overs across slates.",
-   "call": "FUN"
-  }
- ],
+ "parlays": [],
  "sources": [
   {
    "title": "Sharp Football Analysis – Week 8 CFB odds",
@@ -703,6 +472,18 @@
   {
    "title": "Indiana vs Michigan kickoff (FOX, noon ET)",
    "url": "https://michigan.rivals.com/news/michigan-vs-indiana-kickoff-time-television-channel-revealed"
+  },
+  {
+   "title": "Yahoo Sports: Nets vs Cavaliers prediction and odds",
+   "url": "https://sports.yahoo.com/articles/nets-vs-cavaliers-prediction-pick-134553610.html"
+  },
+  {
+   "title": "BetMGM: Nets vs Cavaliers odds",
+   "url": "https://sports.betmgm.com/en/blog/nba/nets-cavaliers-prediction-odds-lines-picks-nba-oct-24-jaa/"
+  },
+  {
+   "title": "ESPN NBA odds",
+   "url": "https://www.espn.com/nba/odds"
   }
  ]
 }
