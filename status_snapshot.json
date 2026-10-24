@@ -556,16 +556,6 @@
   },
   "12534": {
    "changed": "2026-10-21T19:44:25.037870+00:00",
-   "entry": {
-    "auto": true,
-    "dynastyAdj": 0.99,
-    "name": "Kyle Monangai",
-    "note": "Sleeper now lists him out (toe) as of 12:44 PM PT Oct 21. Earlier: Monangai (turf toe) has missed Weeks 5 and 6, was last reported in a boot and week-to-week, and is listed questionable as of Oct 21. The short week to Thursday's game vs. New England (Oct 22) makes a return unlikely.",
-    "redraftAdj": 0.6,
-    "sleeperId": "12534",
-    "status": "Out",
-    "tag": "injury"
-   },
    "i": "Out",
    "qb1": null,
    "t": "CHI"
@@ -1190,18 +1180,18 @@
    "t": "PHI"
   },
   "4881": {
-   "changed": "2026-10-23T19:43:26.095658+00:00",
+   "changed": "2026-10-24T20:39:43.488750+00:00",
    "entry": {
     "auto": true,
-    "dynastyAdj": 1.05,
+    "dynastyAdj": 0.99,
     "name": "Lamar Jackson",
-    "note": "Sleeper's depth chart now has him as BAL's starting QB as of 12:43 PM PT Oct 23.",
-    "redraftAdj": 1.2,
+    "note": "Sleeper now lists him out (ankle) as of 1:39 PM PT Oct 24. Earlier: Jackson (high-ankle sprain) was limited all week and is officially questionable for Sunday vs. Cincinnati after missing the last two games; the Ravens call him a game-time decision, with Tyler Huntley starting if he can't go.",
+    "redraftAdj": 0.85,
     "sleeperId": "4881",
-    "status": "Questionable",
-    "tag": "role_up"
+    "status": "Out",
+    "tag": "injury"
    },
-   "i": "Questionable",
+   "i": "Out",
    "qb1": true,
    "t": "BAL"
   },
@@ -1249,18 +1239,18 @@
    "t": "BAL"
   },
   "5022": {
-   "changed": "2026-10-22T23:41:26.531107+00:00",
+   "changed": "2026-10-24T20:39:43.488750+00:00",
    "entry": {
     "auto": true,
-    "dynastyAdj": 1.0,
+    "dynastyAdj": 0.99,
     "name": "Dallas Goedert",
-    "note": "Sleeper now lists him questionable (knee) as of 4:41 PM PT Oct 22. Earlier: Jalen Hurts (calf blood clot) is headed to IR, so Tanner McKee is in line to start Week 7 vs. Dallas. Goedert's volume is safe while Eli Stowers is on IR, but the QB downgrade caps his ceiling.",
-    "redraftAdj": 0.92,
+    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 1:39 PM PT Oct 24. Earlier: Goedert (knee) missed practice again Friday, Oct 23, so he has not practiced at all ahead of Monday night's game vs. Dallas. The Eagles' final report comes Saturday, and he is on the wrong side of questionable.",
+    "redraftAdj": 1.0,
     "sleeperId": "5022",
-    "status": "Questionable",
+    "status": null,
     "tag": "injury"
    },
-   "i": "Questionable",
+   "i": null,
    "qb1": null,
    "t": "PHI"
   },
@@ -1308,16 +1298,6 @@
   },
   "5859": {
    "changed": "2026-10-21T19:44:25.037870+00:00",
-   "entry": {
-    "auto": true,
-    "dynastyAdj": 1.0,
-    "name": "A.J. Brown",
-    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 12:44 PM PT Oct 21. Earlier: He was limited (ankle) on the Patriots' Oct 20 practice report before Thursday's game at Chicago. With Romeo Doubs (shoulder) on IR, he should see more targets if he plays.",
-    "redraftAdj": 1.0,
-    "sleeperId": "5859",
-    "status": null,
-    "tag": "injury"
-   },
    "i": null,
    "qb1": null,
    "t": "NE"
@@ -1506,18 +1486,18 @@
    "t": "JAX"
   },
   "7525": {
-   "changed": "2026-10-22T23:41:26.531107+00:00",
+   "changed": "2026-10-24T20:39:43.488750+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 1.0,
     "name": "DeVonta Smith",
-    "note": "Sleeper now lists him questionable (hamstring) as of 4:41 PM PT Oct 22.",
-    "redraftAdj": 0.98,
+    "note": "Sleeper now lists him out (hamstring) as of 1:39 PM PT Oct 24. Earlier: He is listed questionable (hamstring) on the final Week 7 injury report heading into Sunday's game against Dallas. Check inactives before lineups lock.",
+    "redraftAdj": 0.9,
     "sleeperId": "7525",
-    "status": "Questionable",
+    "status": "Out",
     "tag": "injury"
    },
-   "i": "Questionable",
+   "i": "Out",
    "qb1": null,
    "t": "PHI"
   },
@@ -1898,18 +1878,18 @@
    "t": "GB"
   },
   "9486": {
-   "changed": "2026-10-22T23:41:26.531107+00:00",
+   "changed": "2026-10-24T20:39:43.488750+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 0.99,
     "name": "Dontayvion Wicks",
-    "note": "Sleeper now lists him questionable (ankle) as of 4:41 PM PT Oct 22.",
-    "redraftAdj": 0.98,
+    "note": "Sleeper now lists him out (ankle) as of 1:39 PM PT Oct 24.",
+    "redraftAdj": 0.9,
     "sleeperId": "9486",
-    "status": "Questionable",
+    "status": "Out",
     "tag": "injury"
    },
-   "i": "Questionable",
+   "i": "Out",
    "qb1": null,
    "t": "PHI"
   },
@@ -1956,9 +1936,18 @@
    "t": "NE"
   },
   "9502": {
-   "changed": null,
-   "entry": null,
-   "i": "IR",
+   "changed": "2026-10-24T20:39:43.488750+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Tank Dell",
+    "note": "Sleeper now lists him questionable (knee - acl + mcl) as of 1:39 PM PT Oct 24. Earlier: Dell was a full participant all week and is listed as questionable for Sunday vs. the Giants, with DeMeco Ryans expecting him to make his first appearance since his December 2024 knee injury. Expect a light snap count in his debut.",
+    "redraftAdj": 0.98,
+    "sleeperId": "9502",
+    "status": "Questionable",
+    "tag": "injury"
+   },
+   "i": "Questionable",
    "qb1": null,
    "t": "HOU"
   },

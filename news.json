@@ -4,11 +4,12 @@
     {
       "sleeperId": "4881",
       "name": "Lamar Jackson",
-      "note": "Jackson (high-ankle sprain) was limited all week and is officially questionable for Sunday vs. Cincinnati after missing the last two games; the Ravens call him a game-time decision, with Tyler Huntley starting if he can't go.",
+      "note": "Sleeper now lists him out (ankle) as of 1:39 PM PT Oct 24. Earlier: Jackson (high-ankle sprain) was limited all week and is officially questionable for Sunday vs. Cincinnati after missing the last two games; the Ravens call him a game-time decision, with Tyler Huntley starting if he can't go.",
       "tag": "injury",
       "redraftAdj": 0.85,
       "dynastyAdj": 0.99,
-      "status": "Questionable"
+      "status": "Out",
+      "auto": true
     },
     {
       "sleeperId": "4892",
@@ -284,11 +285,12 @@
     {
       "sleeperId": "7525",
       "name": "DeVonta Smith",
-      "note": "He is listed questionable (hamstring) on the final Week 7 injury report heading into Sunday's game against Dallas. Check inactives before lineups lock.",
+      "note": "Sleeper now lists him out (hamstring) as of 1:39 PM PT Oct 24. Earlier: He is listed questionable (hamstring) on the final Week 7 injury report heading into Sunday's game against Dallas. Check inactives before lineups lock.",
       "tag": "injury",
-      "redraftAdj": 0.93,
+      "redraftAdj": 0.9,
       "dynastyAdj": 1.0,
-      "status": "Questionable"
+      "status": "Out",
+      "auto": true
     },
     {
       "sleeperId": "2133",
@@ -419,11 +421,12 @@
     {
       "sleeperId": "9502",
       "name": "Tank Dell",
-      "note": "Dell was a full participant all week and is listed as questionable for Sunday vs. the Giants, with DeMeco Ryans expecting him to make his first appearance since his December 2024 knee injury. Expect a light snap count in his debut.",
-      "tag": "return",
-      "redraftAdj": 1.15,
-      "dynastyAdj": 1.03,
-      "status": "Questionable"
+      "note": "Sleeper now lists him questionable (knee - acl + mcl) as of 1:39 PM PT Oct 24. Earlier: Dell was a full participant all week and is listed as questionable for Sunday vs. the Giants, with DeMeco Ryans expecting him to make his first appearance since his December 2024 knee injury. Expect a light snap count in his debut.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
+      "status": "Questionable",
+      "auto": true
     },
     {
       "sleeperId": "13317",
@@ -527,11 +530,12 @@
     {
       "sleeperId": "5022",
       "name": "Dallas Goedert",
-      "note": "Goedert (knee) missed practice again Friday, Oct 23, so he has not practiced at all ahead of Monday night's game vs. Dallas. The Eagles' final report comes Saturday, and he is on the wrong side of questionable.",
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 1:39 PM PT Oct 24. Earlier: Goedert (knee) missed practice again Friday, Oct 23, so he has not practiced at all ahead of Monday night's game vs. Dallas. The Eagles' final report comes Saturday, and he is on the wrong side of questionable.",
       "tag": "injury",
-      "redraftAdj": 0.75,
+      "redraftAdj": 1.0,
       "dynastyAdj": 0.99,
-      "status": "Questionable"
+      "status": null,
+      "auto": true
     },
     {
       "sleeperId": "12518",
@@ -772,15 +776,15 @@
       "tag": "injury"
     },
     {
-      "auto": true,
-      "dynastyAdj": 0.99,
-      "name": "Dontayvion Wicks",
-      "note": "Sleeper now lists him questionable (ankle) as of 4:41 PM PT Oct 22.",
-      "redraftAdj": 0.98,
       "sleeperId": "9486",
-      "status": "Questionable",
-      "tag": "injury"
+      "name": "Dontayvion Wicks",
+      "note": "Sleeper now lists him out (ankle) as of 1:39 PM PT Oct 24.",
+      "tag": "injury",
+      "redraftAdj": 0.9,
+      "dynastyAdj": 0.99,
+      "status": "Out",
+      "auto": true
     }
   ],
-  "statusChecked": "9:43 AM PT Oct 24"
+  "statusChecked": "1:39 PM PT Oct 24"
 }
