@@ -1,376 +1,708 @@
 {
- "date": "Fri Oct 23",
- "scanned": "Oct 23, 3:00 PM PT · recheck",
+ "date": "Sat Oct 24",
+ "scanned": "Oct 24, 8:10 AM PT",
  "slate": [
   {
-   "sport": "NBA",
-   "game": "Mavericks @ Pacers",
-   "time": "4:00 PM PT",
-   "pick": "NO on “Indiana wins by over 6.5” (= DAL +6.5)",
-   "price": "47¢",
-   "call": "LEAN",
-   "why": "DraftKings IND −6.5, Covers −5.5; Dallas +6.5 sits just above a coin flip.",
-   "recheck": "YES if NO ≤45¢ and books still IND ≤-6.5; ~3:30 PM PT"
+   "sport": "CFB",
+   "game": "Kansas St. @ Arizona St.",
+   "time": "12:45 PM PT",
+   "pick": "YES on “Over 51.5”",
+   "price": "51¢",
+   "call": "YES",
+   "why": "Books 53.5–56.5 (FanDuel 53.5, Athlon/247 56.5); Kalshi centered ~3 points low.",
+   "recheck": "12:15 PM PT: still YES if books ≥53.5 and Over 51.5 ≤53¢. Confirm books still ≥53.5 before betting; $5 stake."
   },
   {
-   "sport": "NBA",
-   "game": "Grizzlies @ Warriors",
-   "time": "7:00 PM PT",
-   "pick": "NO on “Golden State wins by over 3.5” (= MEM +3.5)",
-   "price": "46¢",
+   "sport": "CFB",
+   "game": "Iowa @ Minnesota",
+   "time": "12:30 PM PT",
+   "pick": "NO on “Iowa wins by over 6.5” (= MINN +6.5)",
+   "price": "44¢",
    "call": "LEAN",
-   "why": "Books split GSW −3.5/−4.5; Memphis +3.5 near fair, slight value at 46¢.",
-   "recheck": "Curry/Podziemski status; YES if NO ≤44¢ ~6:30 PM PT"
+   "why": "Books Iowa -6 to -7.5, total ~40.5; low-total game makes +6.5 worth ~50%.",
+   "recheck": "Noon PT: YES if consensus settles Iowa -6.5 or better and NO ≤45¢."
   },
   {
-   "sport": "NBA",
-   "game": "Trail Blazers @ Kings",
-   "time": "7:00 PM PT",
-   "pick": "NO on “Portland wins by over 9.5” (= SAC +9.5)",
+   "sport": "CFB",
+   "game": "Baylor @ Kansas",
+   "time": "10:00 AM PT",
+   "pick": "YES on “Baylor wins by over 2.5”",
    "price": "48¢",
    "call": "LEAN",
-   "why": "Covers has POR −8.5; Kings +9.5 a bit underpriced, only one book seen.",
-   "recheck": "Monk status; YES if books stay POR -7.5 ~6:30 PM PT"
+   "why": "Baylor -2.5 (FanDuel -115), ML -133 to -145; fair ~51% vs 48¢.",
+   "recheck": "9:30 AM PT: YES if books move to Baylor -3."
+  },
+  {
+   "sport": "CFB",
+   "game": "Indiana @ Michigan",
+   "time": "9:00 AM PT",
+   "pick": "NO on “Over 42.5” (= Under 42.5)",
+   "price": "50¢",
+   "call": "LEAN",
+   "why": "Books total 41.5 (opened 43.5); Indiana -7/-7.5, ML ~-285 to -345, ML fairly priced.",
+   "recheck": "8:45 AM PT: YES if books drop to 40.5 with NO ≤50¢."
+  },
+  {
+   "sport": "CFB",
+   "game": "Texas Tech @ Cincinnati",
+   "time": "9:00 AM PT",
+   "pick": "NO on “Texas Tech wins by over 13.5” (= CIN +13.5)",
+   "price": "53¢",
+   "call": "LEAN",
+   "why": "Books TTU -10.5 (BetMGM)/-11.5 (FanDuel); +13.5 worth ~55–57%.",
+   "recheck": "8:45 AM PT: YES if NO ≤51¢ with line ≤-11.5."
+  },
+  {
+   "sport": "CFB",
+   "game": "UTSA @ Tulane",
+   "time": "5:00 PM PT",
+   "pick": "NO on “UTSA wins by over 2.5” (= TUL +2.5)",
+   "price": "46¢",
+   "call": "LEAN",
+   "why": "Line bet down from UTSA -4 to -2.5 (CBS/CFN); Kalshi still prices UTSA -3.",
+   "recheck": "4:30 PM PT: YES if books reach UTSA -1.5 and NO ≤47¢."
   },
   {
    "sport": "NBA",
-   "game": "Rockets @ Spurs",
-   "time": "6:30 PM PT",
-   "pick": "YES on “San Antonio wins by over 5.5”",
-   "price": "47¢",
+   "game": "Rockets @ Hawks",
+   "time": "5:30 PM PT",
+   "pick": "YES on “Over 228.5”",
+   "price": "48¢",
+   "call": "LEAN",
+   "why": "Books total 229.5–230.5 (ATL −1.5); Over 228.5 a couple cents cheap.",
+   "recheck": "Adams/Sheppard status; YES if books ≥230.5 and YES ≤46¢ ~5:00 PM PT"
+  },
+  {
+   "sport": "NBA",
+   "game": "Pelicans @ Nuggets",
+   "time": "6:00 PM PT",
+   "pick": "NO on “Over 239.5” (= Under 239.5)",
+   "price": "50¢",
+   "call": "LEAN",
+   "why": "Books total 237.5–238, DEN −11.5; Denver missing Cam Johnson, Strawther.",
+   "recheck": "Missi (knee)/Murray (toe) status ~5:30 PM PT"
+  },
+  {
+   "sport": "NBA",
+   "game": "Warriors @ Suns",
+   "time": "7:00 PM PT",
+   "pick": "NO on “Over 221.5” (= Under 221.5)",
+   "price": "49¢",
+   "call": "LEAN",
+   "why": "FanDuel and Pick Dawgz total 219.5, PHX −9.5; one outlier at 224.5.",
+   "recheck": "Curry/Butler/Moody status ~6:30 PM PT; YES if NO ≤47¢"
+  },
+  {
+   "sport": "CFB",
+   "game": "Oklahoma @ Mississippi St.",
+   "time": "12:30 PM PT",
+   "pick": "NO on “Over 47.5” (= Under 47.5)",
+   "price": "50¢",
    "call": "WAIT",
-   "why": "Line fell from SAS −7.5 to −5.5; Fox (wrist) still questionable.",
-   "recheck": "Bet only if Fox is active and YES ≤47¢ at tip (6:30 PM PT)."
+   "why": "DK/BetMGM total 46.5, OU -2.5/-3.5; MSU QB Kamario Taylor questionable.",
+   "recheck": "Noon PT: if Taylor OUT and total ≤46.5, upgrade under to YES ≤50¢."
+  },
+  {
+   "sport": "NBA",
+   "game": "Nets @ Cavaliers",
+   "time": "4:30 PM PT",
+   "pick": "YES on “Over 229.5”",
+   "price": "46¢",
+   "call": "WAIT",
+   "why": "FanDuel/Covers books total 231–232.5, Kalshi ~228; one source lower, line unconfirmed.",
+   "recheck": "YES if books still ≥231 and Kalshi YES ≤47¢ ~4:00 PM PT"
+  },
+  {
+   "sport": "CFB",
+   "game": "LSU @ Auburn",
+   "time": "9:00 AM PT",
+   "pick": "NO on “Over 52.5” (= Under 52.5)",
+   "price": "52¢",
+   "call": "PASS",
+   "why": "LSU -7 (ESPN, ML -285), total 50.5–51.5; LSU ML 72¢ is fair.",
+   "recheck": "8:45 AM PT: LEAN under if NO on Over 52.5 ≤50¢."
+  },
+  {
+   "sport": "CFB",
+   "game": "Texas A&M @ Alabama",
+   "time": "12:30 PM PT",
+   "pick": "Alabama ML",
+   "price": "84¢",
+   "call": "PASS",
+   "why": "Bama -13.5 to -14.5, ML -575/-650 de-vigs to ~82–83%; spreads/total all fair.",
+   "recheck": "Noon PT: TAMU ML if ≤14¢."
+  },
+  {
+   "sport": "CFB",
+   "game": "Oregon @ Illinois",
+   "time": "12:00 PM PT",
+   "pick": "NO on “Oregon wins by over 9.5” (= ILL +9.5)",
+   "price": "49¢",
+   "call": "PASS",
+   "why": "Oregon -8.5 to -10; both starting QBs out (Moore concussion, Houser hand); near fair.",
+   "recheck": "11:30 AM PT: LEAN if books settle Oregon -8.5 and NO ≤49¢."
+  },
+  {
+   "sport": "CFB",
+   "game": "Tennessee @ South Carolina",
+   "time": "12:30 PM PT",
+   "pick": "YES on “South Carolina wins by over 2.5”",
+   "price": "50¢",
+   "call": "PASS",
+   "why": "Books split: SC -2.5 (Athlon/CBS) vs TEN -2 (BetMGM); no clear side.",
+   "recheck": "Noon PT: recheck consensus line and QB status."
+  },
+  {
+   "sport": "CFB",
+   "game": "BYU @ UCF",
+   "time": "12:30 PM PT",
+   "pick": "NO on “BYU wins by over 7.5” (= UCF +7.5)",
+   "price": "53¢",
+   "call": "PASS",
+   "why": "BetMGM BYU -6.5, total 43.5, ML -250; Kalshi matches the books.",
+   "recheck": "Noon PT: LEAN UCF +7.5 if NO ≤50¢."
+  },
+  {
+   "sport": "CFB",
+   "game": "Hawai'i @ Northern Illinois",
+   "time": "12:30 PM PT",
+   "pick": "Hawai'i ML",
+   "price": "62¢",
+   "call": "PASS",
+   "why": "Hawai'i -3.5/-4.5, ML ~-182 to -198 (~63–64%); total 47.5 matches Kalshi.",
+   "recheck": "Noon PT: LEAN if Hawai'i ML ≤59¢."
+  },
+  {
+   "sport": "CFB",
+   "game": "Virginia Tech @ Clemson",
+   "time": "4:00 PM PT",
+   "pick": "YES on “Clemson wins by over 2.5”",
+   "price": "52¢",
+   "call": "PASS",
+   "why": "Clemson -2.5 (DK -120), total 49.5, ML ~-145; Kalshi fair.",
+   "recheck": "3:30 PM PT: recheck if line moves off 2.5."
+  },
+  {
+   "sport": "CFB",
+   "game": "USC @ Wisconsin",
+   "time": "4:30 PM PT",
+   "pick": "NO on “USC wins by over 3.5” (= WIS +3.5)",
+   "price": "57¢",
+   "call": "PASS",
+   "why": "USC -2.5/-3 (BetMGM), total 49.5–50.5, ML -150; no edge at 57¢.",
+   "recheck": "4:00 PM PT: LEAN WIS +3.5 if NO ≤53¢."
+  },
+  {
+   "sport": "NBA",
+   "game": "Heat @ Hornets",
+   "time": "3:00 PM PT",
+   "pick": "NO on “Miami wins by over 3.5” (= CHA +3.5)",
+   "price": "51¢",
+   "call": "PASS",
+   "why": "Books Heat −3.5 (ML −145/−156); Kalshi priced fair, no edge after fees.",
+   "recheck": "Hornets' Knueppel/White/G. Williams status ~2:30 PM PT"
+  },
+  {
+   "sport": "NBA",
+   "game": "Bucks @ 76ers",
+   "time": "4:30 PM PT",
+   "pick": "NO on “Philadelphia wins by over 12.5” (= MIL +12.5)",
+   "price": "51¢",
+   "call": "PASS",
+   "why": "Books PHI −12/−12.5, total 233.5–234.5; Kalshi matches, LeBron questionable (back).",
+   "recheck": "LeBron/Embiid status ~4:00 PM PT"
+  },
+  {
+   "sport": "NBA",
+   "game": "Wizards @ Bulls",
+   "time": "5:00 PM PT",
+   "pick": "Washington ML",
+   "price": "49¢",
+   "call": "PASS",
+   "why": "Books WAS −1.5 (−112), total 243.5–244.5; both on back-to-back, Kalshi fair.",
+   "recheck": ""
+  },
+  {
+   "sport": "NBA",
+   "game": "Spurs @ Mavericks",
+   "time": "5:00 PM PT",
+   "pick": "NO on “San Antonio wins by over 12.5” (= DAL +12.5)",
+   "price": "51¢",
+   "call": "PASS",
+   "why": "Books SAS −11.5/−12.5; Flagg (shoulder) questionable, Harris (calf) likely out.",
+   "recheck": "Flagg status ~4:30 PM PT; LEAN DAL if Flagg plays and NO ≤48¢"
   },
   {
    "sport": "MLB",
-   "game": "Rays @ Brewers · World Series G1",
+   "game": "Rays @ Brewers · World Series G2 (MIL leads 1-0)",
    "time": "5:00 PM PT",
-   "pick": "Brewers ML",
-   "price": "63¢",
-   "call": "WAIT",
-   "why": "Brewers ~59–63% at books; Rays starter reports conflict (Martinez vs Rasmussen).",
-   "recheck": "YES if Brewers ≤59¢; recheck lineups ~4:15 PM PT"
-  },
-  {
-   "sport": "NBA",
-   "game": "Bulls @ Bucks",
-   "time": "1:00 PM PT",
-   "pick": "Bucks ML",
-   "price": "52¢",
+   "pick": "Rays ML",
+   "price": "47¢",
    "call": "PASS",
-   "why": "Books split (MIL -116 vs CHI -119); Kalshi near pick'em, no edge.",
-   "recheck": "Bulls Hawkins/Swain status ~12:30 PM PT"
-  },
-  {
-   "sport": "NBA",
-   "game": "Hawks @ Hornets",
-   "time": "4:00 PM PT",
-   "pick": "NO on “Atlanta wins by over 2.5” (= CHA +2.5)",
-   "price": "48¢",
-   "call": "PASS",
-   "why": "ATL -142/+120 de-vigs ~56%, matching Kalshi 57¢; +2.5 fair ~50%, fee eats it.",
-   "recheck": "Knueppel/White status ~3:30 PM PT"
-  },
-  {
-   "sport": "NBA",
-   "game": "Timberwolves @ Magic",
-   "time": "4:00 PM PT",
-   "pick": "Timberwolves ML",
-   "price": "54¢",
-   "call": "PASS",
-   "why": "MIN -125/+105 de-vigs ~53%; Kalshi 54¢ is fair.",
-   "recheck": "Jonathan Isaac status ~3:30 PM PT"
-  },
-  {
-   "sport": "NBA",
-   "game": "Knicks @ Celtics",
-   "time": "4:00 PM PT",
-   "pick": "NO on “Boston wins by over 2.5” (= NYK +2.5)",
-   "price": "49¢",
-   "call": "PASS",
-   "why": "BOS -135 to -140 de-vigs ~55-56%; spread and total match Kalshi.",
-   "recheck": "Josh Hart ankle report ~3:30 PM PT"
-  },
-  {
-   "sport": "NBA",
-   "game": "Raptors @ Wizards",
-   "time": "4:00 PM PT",
-   "pick": "NO on “Toronto wins by over 7.5” (= WAS +7.5)",
-   "price": "46¢",
-   "call": "PASS",
-   "why": "Steam moved TOR -4.5 to -7.5 (+Dybantsa out); BetRivers +7.5 ~44%, no edge.",
-   "recheck": "If books fall back to TOR -6.5, NO ≤46¢ becomes a look; ~3:30 PM PT"
-  },
-  {
-   "sport": "NBA",
-   "game": "Pistons @ Heat",
-   "time": "5:00 PM PT",
-   "pick": "Pistons ML",
-   "price": "52¢",
-   "call": "PASS",
-   "why": "True pick'em (-110/-106 both sides); Kalshi 52¢ offers nothing.",
-   "recheck": "Taurean Prince status ~4:30 PM PT"
-  },
-  {
-   "sport": "NBA",
-   "game": "Pelicans @ Jazz",
-   "time": "6:30 PM PT",
-   "pick": "Jazz ML",
-   "price": "51¢",
-   "call": "PASS",
-   "why": "Line collapsed UTA -5.5 to -1.5; books now near Kalshi, too volatile.",
-   "recheck": "Murray/Bradley status ~6:00 PM PT"
-  },
-  {
-   "sport": "NBA",
-   "game": "Clippers @ Lakers",
-   "time": "7:00 PM PT",
-   "pick": "YES on “Los Angeles L wins by over 9.5”",
-   "price": "49¢",
-   "call": "PASS",
-   "why": "LAL -390/+310 de-vigs ~76.5%, Kalshi 77¢; -9.5 fair ~51%, fee eats edge.",
-   "recheck": "Beal/Ingram and LaRavia status ~6:30 PM PT"
-  },
-  {
-   "sport": "CFB",
-   "game": "Duke @ Virginia",
-   "time": "4:00 PM PT",
-   "pick": "NO on “Virginia wins by over 2.5” (= DUKE +2.5)",
-   "price": "51¢",
-   "call": "PASS",
-   "why": "Most books UVA -2.5 (DK -1.5), ML ~-130/+110; Kalshi matches the market.",
-   "recheck": "YES if Duke +2.5 drops to ≤46¢ before 3:45 PM PT"
-  },
-  {
-   "sport": "CFB",
-   "game": "UMass @ UConn",
-   "time": "4:00 PM PT",
-   "pick": "NO on “UConn wins by over 14.5” (= UMASS +14.5)",
-   "price": "50¢",
-   "call": "PASS",
-   "why": "Books UConn -14.5, total 50.5; FanDuel/Bovada ML de-vig ~84–85%, matches Kalshi.",
-   "recheck": "Only if UMass +14.5 ≤46¢"
-  },
-  {
-   "sport": "CFB",
-   "game": "Army @ Tulsa",
-   "time": "5:30 PM PT",
-   "pick": "YES on “Over 54.5”",
-   "price": "49¢",
-   "call": "PASS",
-   "why": "FanDuel 54.5 (o-114) but others 53.5; ~1 point edge after fee, too thin.",
-   "recheck": "If books move to 55.5+ while Kalshi stays ≤49¢"
-  },
-  {
-   "sport": "CFB",
-   "game": "Air Force @ Wyoming",
-   "time": "6:00 PM PT",
-   "pick": "NO on “Air Force wins by over 5.5” (= WYO +5.5)",
-   "price": "49¢",
-   "call": "PASS",
-   "why": "Books AF -4.5/-5.5, ML -205/+168; Wyoming +5.5 de-vigs ~51%, fee erases edge.",
-   "recheck": "Laramie wind/snow forecast; YES if WYO +5.5 ≤46¢"
-  },
-  {
-   "sport": "CFB",
-   "game": "NC State @ Stanford",
-   "time": "7:30 PM PT",
-   "pick": "NO on “Over 55.5” (= UNDER 55.5)",
-   "price": "51¢",
-   "call": "PASS",
-   "why": "Books NCSU -6.5/-7, total 55.5 (u-118 one book); under ~52% fair, no edge.",
-   "recheck": "YES if Under 55.5 ≤47¢ before 7:15 PM PT"
+   "why": "Rasmussen vs Henderson; books MIL −122/−127 (~53% de-vig), O/U 6.5; Kalshi fair.",
+   "recheck": "Lineups ~3:30 PM PT; LEAN Rays only if ≤44¢"
   }
  ],
  "upcoming": [],
- "primetime": null,
- "props": [],
- "parlays": [],
+ "primetime": {
+  "games": [
+   {
+    "slot": "SNF",
+    "game": "Chiefs @ Seahawks",
+    "kickoff": "Sun Oct 25, 5:20 PM PT · NBC",
+    "call": "SKIP",
+    "why": "No Seahawks picks"
+   },
+   {
+    "slot": "MNF",
+    "game": "Cowboys @ Eagles",
+    "kickoff": "Mon Oct 26, 5:15 PM PT · ESPN/ABC",
+    "line": "DAL −4.5 (Betcris −5) · O/U 44.5 · ML DAL −196 to −225",
+    "pick": "NO on “Dallas wins by over 4.5” (= PHI +4.5)",
+    "price": "51¢",
+    "call": "WAIT",
+    "why": "Kalshi matches books; Barkley (hamstring) limited Friday, expected back; Goedert (knee) missed Thu/Fri.",
+    "props": [
+     {
+      "pick": "CeeDee Lamb anytime TD",
+      "odds": "+120",
+      "why": "Four receiving TDs, 48 catches; Polymarket ~45¢ agrees."
+     },
+     {
+      "pick": "Dak Prescott over 268.5 passing yards",
+      "odds": "-138",
+      "why": "Dallas road favorite vs McKee-led Eagles with injured pass rushers."
+     }
+    ],
+    "recheck": "Sat/Mon injury reports: Barkley active + NO ≤48¢ → LEAN PHI; Goedert out lowers Eagles passing ~3:30 PM PT Mon"
+   }
+  ]
+ },
+ "props": [
+  {
+   "slate": "College · Morning (9 AM PT)",
+   "picks": [
+    {
+     "pick": "Darian Mensah (Miami) Over 267.5 passing yards vs Pitt",
+     "odds": "-115",
+     "why": "80.8% completions, 1,764 yds in 6 games; Pitt's elite run D pushes Miami to pass.",
+     "call": "LEAN"
+    },
+    {
+     "pick": "Cole Tabb (Texas Tech) Over 51.5 rushing yards at Cincinnati",
+     "odds": "-114 (FanDuel)",
+     "why": "448 yds on 49 carries (9.1 YPC); clears this on modest volume.",
+     "call": "LEAN"
+    },
+    {
+     "pick": "Josh Hoover (Indiana) 2+ passing TDs at Michigan",
+     "odds": "-134 (DraftKings)",
+     "why": "18 TD passes in 7 games (2.57/gm), though Michigan allows just 16.2 PPG.",
+     "call": "LEAN"
+    }
+   ]
+  },
+  {
+   "slate": "College · Afternoon (12:30 PM PT)",
+   "picks": [
+    {
+     "pick": "DeSean Bishop (Tennessee) anytime TD at South Carolina",
+     "odds": "-310 (FanDuel)",
+     "why": "Bellcow back; Dimers model ~76% vs ~76% implied, so fairly priced.",
+     "call": "LEAN"
+    },
+    {
+     "pick": "DeSean Bishop (Tennessee) Over 101.5 rushing yards",
+     "odds": "-115",
+     "why": "Lead back in a close 50.5-total SEC game; high line, needs full workload.",
+     "call": "LEAN"
+    }
+   ]
+  },
+  {
+   "slate": "College · Night (4 PM PT+)",
+   "picks": [
+    {
+     "pick": "Aiden Flora (Iowa State) Over 74.5 rushing yards at Arizona (4:30 PT)",
+     "odds": "-114 (FanDuel)",
+     "why": "7.6 YPC, 17.3 carries/gm last three; Arizona allows 175 rush yds vs Big 12.",
+     "call": "LEAN"
+    },
+    {
+     "pick": "Re'Shaun Sanford II (Houston) Over 43.5 rushing yards at Utah (7:15 PT)",
+     "odds": "-114 (FanDuel)",
+     "why": "404 yds on 75 carries (5.4 YPC); low bar for Houston's lead back.",
+     "call": "LEAN"
+    }
+   ]
+  }
+ ],
+ "parlays": [
+  {
+   "name": "Safe favorites",
+   "legs": [
+    {
+     "leg": "Indiana ML at Michigan (9 AM PT)",
+     "odds": "-290"
+    },
+    {
+     "leg": "Texas Tech ML at Cincinnati (9 AM PT)",
+     "odds": "-440"
+    },
+    {
+     "leg": "LSU ML at Auburn (9 AM PT)",
+     "odds": "-285"
+    }
+   ],
+   "odds": "+123",
+   "why": "Three solid road favorites, all settled by early afternoon.",
+   "call": "FUN"
+  },
+  {
+   "name": "CFB props",
+   "legs": [
+    {
+     "leg": "DeSean Bishop anytime TD",
+     "odds": "-310"
+    },
+    {
+     "leg": "Darian Mensah Over 267.5 passing yards",
+     "odds": "-115"
+    },
+    {
+     "leg": "Cole Tabb Over 51.5 rushing yards",
+     "odds": "-114"
+    }
+   ],
+   "odds": "+364",
+   "why": "Heavy-usage stars in favorable spots; under the +400 cap.",
+   "call": "FUN"
+  },
+  {
+   "name": "Mix",
+   "legs": [
+    {
+     "leg": "Alabama ML vs Texas A&M (12:30 PM PT)",
+     "odds": "-600"
+    },
+    {
+     "leg": "Josh Hoover 2+ passing TDs",
+     "odds": "-134"
+    },
+    {
+     "leg": "Aiden Flora Over 74.5 rushing yards",
+     "odds": "-114"
+    }
+   ],
+   "odds": "+282",
+   "why": "Big home favorite plus two high-volume player overs across slates.",
+   "call": "FUN"
+  }
+ ],
  "sources": [
   {
-   "title": "Covers – NBA ATS Picks Fri Oct 23",
-   "url": "https://www.covers.com/nba/against-the-spread-predictions-picks-friday-oct-23-2026"
+   "title": "Sharp Football Analysis – Week 8 CFB odds",
+   "url": "https://www.sharpfootballanalysis.com/betting/college-football-odds-picks-predictions/"
   },
   {
-   "title": "Bleacher Report – Clippers vs Lakers Oct 23, 2026",
-   "url": "https://bleacherreport.com/game/los-angeles-clippers-vs-los-angeles-lakers-2026-10-23-18-00"
+   "title": "ESPN – 2026 CFB Week 8 Top 25 betting lines",
+   "url": "https://www.espn.com/espn/betting/story/_/id/50216670/2026-college-football-week-8-top-25-betting-lines-odds"
   },
   {
-   "title": "WagerTalk – Clippers vs Lakers Oct 23",
-   "url": "https://www.wagertalk.com/news/nba/clippers-vs-lakers-prediction-picks-odds-for-october-23-2026/"
+   "title": "VegasInsider – 2026 CFB Week 8 odds",
+   "url": "https://www.vegasinsider.com/college-football/college-football-odds-week-8-2026/"
   },
   {
-   "title": "SI – Rockets vs Spurs Oct 23",
-   "url": "https://www.si.com/betting/rockets-vs-spurs-prediction-odds-and-best-nba-prop-bets-for-friday-oct-23-2026"
+   "title": "CBS Sports – 2026 Week 8 odds, lines, start times",
+   "url": "https://www.cbssports.com/betting/news/2026-week-8-college-football-odds-betting-lines-spreads-start-times-picks-predictions-best-bets/"
   },
   {
-   "title": "Pick Dawgz – Rockets vs Spurs 10/23/2026",
-   "url": "https://pickdawgz.com/nba-picks/rockets-vs-spurs-prediction-10-23-2026-todays-nba-picks/"
+   "title": "Sports Betting Dime – Opening Week 8 odds",
+   "url": "https://www.sportsbettingdime.com/news/college-football/opening-week-8-odds-spreads-lines-indiana-michigan-2026/"
   },
   {
-   "title": "TheSpread – Bulls vs Bucks Oct 23",
-   "url": "https://www.thespread.com/nba-articles/bulls-vs-bucks-prediction-october-23-2026/"
+   "title": "Bettors Insider – Week 8 betting guide",
+   "url": "https://bettorsinsider.com/college-football/2026/10/23/college-football-week-8-betting-guide-indiana-michigan-byu-ucf-ole-miss-texas-and-houston-utah-picks/"
   },
   {
-   "title": "Fox Sports 1070 – Bulls vs Bucks odds",
-   "url": "https://foxsports1070.iheart.com/content/2026-10-22-bulls-vs-bucks-predictions-odds-stats-oct-23/"
+   "title": "SI – Indiana vs Michigan odds",
+   "url": "https://www.si.com/betting/indiana-vs-michigan-prediction-odds-and-key-players-to-watch-for-college-football-week-8-2026"
   },
   {
-   "title": "Leans.ai – Mavericks vs Pacers Oct 23",
-   "url": "https://leans.ai/nba/game-preview/2026-10-23/dallas-mavericks-vs-indiana-pacers/"
+   "title": "CBS Sports – LSU vs Auburn odds",
+   "url": "https://www.cbssports.com/betting/news/lsu-auburn-prediction-odds-time-2026-week-8-college-football-picks/"
   },
   {
-   "title": "Pick Dawgz – Mavericks vs Pacers 10/23/2026",
-   "url": "https://pickdawgz.com/nba-picks/mavericks-vs-pacers-prediction-10-23-2026-todays-nba-picks/"
+   "title": "Dimers – LSU vs Auburn",
+   "url": "https://www.dimers.com/cfb/news/lsu-vs-auburn-prediction-week-8-2026-ac"
   },
   {
-   "title": "SI – Knicks vs Celtics Oct 23",
-   "url": "https://www.si.com/betting/knicks-vs-celtics-prediction-odds-and-best-nba-prop-bets-for-friday-oct-23-2026"
+   "title": "SI – BYU vs UCF odds (BetMGM)",
+   "url": "https://www.si.com/betting/byu-vs-ucf-prediction-odds-and-key-players-to-watch-for-college-football-week-8-01m5dmrvrdw2"
   },
   {
-   "title": "TheSpread – Knicks vs Celtics Oct 23",
-   "url": "https://www.thespread.com/nba-articles/knicks-vs-celtics-prediction-october-23-2026/"
+   "title": "SI – Oklahoma vs Mississippi State odds",
+   "url": "https://www.si.com/betting/oklahoma-vs-mississippi-state-prediction-odds-and-key-players-to-watch-for-college-football-week-8-2026"
   },
   {
-   "title": "SI – Hawks vs Hornets Oct 23",
-   "url": "https://www.si.com/betting/hawks-vs-hornets-prediction-odds-and-best-nba-prop-bets-for-friday-oct-23-01m5k94hf7as"
+   "title": "BetMGM – Oklahoma vs Mississippi State",
+   "url": "https://sports.betmgm.com/en/blog/college-football/oklahoma-mississippi-state-prediction-odds-player-prop-bets-picks-ncaaf-week-8-jaa/"
   },
   {
-   "title": "Leans.ai – Hawks vs Hornets Oct 23",
-   "url": "https://leans.ai/nba/game-preview/2026-10-23/atlanta-hawks-vs-charlotte-hornets/"
+   "title": "SI – USC vs Wisconsin odds",
+   "url": "https://www.si.com/betting/usc-vs-wisconsin-prediction-odds-and-key-players-to-watch-for-college-football-week-8-2026"
   },
   {
-   "title": "Bettors Insider – Raptors vs Wizards prediction market",
-   "url": "https://bettorsinsider.com/prediction-markets/2026/10/23/raptors-vs-wizards-odds-prediction-market-gives-toronto-74-5-win-chance/"
+   "title": "BetMGM – USC vs Wisconsin",
+   "url": "https://sports.betmgm.com/en/blog/college-football/usc-wisconsin-prediction-odds-player-prop-bets-picks-ncaaf-week-8-jaa/"
   },
   {
-   "title": "Dimers – Raptors vs Wizards Oct 23",
-   "url": "https://www.dimers.com/nba/news/toronto-raptors-vs-washington-wizards-prediction-10-23-2026-ac"
+   "title": "SI – Virginia Tech vs Clemson odds",
+   "url": "https://www.si.com/betting/virginia-tech-vs-clemson-prediction-odds-and-key-players-to-watch-for-college-football-week-8-01m5g32xc89d"
   },
   {
-   "title": "Newsweek – Dybantsa out vs Raptors",
-   "url": "https://www.newsweek.com/sports/nba/wizards-get-more-bad-news-on-aj-dybantsa-ahead-of-raptors-game-12608031"
+   "title": "Action Network – K-State vs Arizona St",
+   "url": "https://www.actionnetwork.com/ncaaf-game/kansas-state-arizona-state-score-odds-october-24-2026/289656"
   },
   {
-   "title": "KFAN – Timberwolves vs Magic odds",
-   "url": "https://kfan.iheart.com/content/2026-10-22-timberwolves-vs-magic-predictions-odds-stats-oct-23/"
+   "title": "FanDuel Research – K-State vs Arizona St",
+   "url": "https://www.fanduel.com/research/kansas-state-vs-arizona-state-college-football-odds-picks-best-bets-for-10-24-2026"
   },
   {
-   "title": "TheSpread – Timberwolves vs Magic Oct 23",
-   "url": "https://thespread.com/nba-articles/timberwolves-vs-magic-prediction-october-23-2026"
+   "title": "Athlon – K-State at Arizona St",
+   "url": "https://athlonsports.com/college-football/kansas-state-wildcats-at-arizona-state-sun-devils-ncaaf-prediction-picks-odds-week8-2026"
   },
   {
-   "title": "SI – Pistons vs Heat Oct 23",
-   "url": "https://www.si.com/betting/pistons-vs-heat-prediction-odds-and-best-nba-prop-bets-for-friday-oct-23-01m5k8zvqknw"
+   "title": "Athlon – Iowa at Minnesota",
+   "url": "https://athlonsports.com/college-football/iowa-hawkeyes-at-minnesota-golden-gophers-ncaaf-prediction-picks-odds-week8-2026"
   },
   {
-   "title": "Bleacher Report – Pistons vs Heat Oct 23, 2026",
-   "url": "https://bleacherreport.com/game/detroit-pistons-vs-miami-heat-2026-10-23-19-00"
+   "title": "BetMGM – Iowa vs Minnesota",
+   "url": "https://sports.betmgm.com/en/blog/college-football/iowa-minnesota-prediction-odds-player-prop-bets-picks-ncaaf-week-8-jaa/"
   },
   {
-   "title": "WagerTalk – Pelicans vs Jazz Oct 23",
-   "url": "https://www.wagertalk.com/news/nba/pelicans-vs-jazz-prediction-picks-odds-for-october-23-2026/"
+   "title": "FanDuel Research – Baylor vs Kansas",
+   "url": "https://www.fanduel.com/research/baylor-vs-kansas-college-football-odds-picks-best-bets-for-10-24-2026"
   },
   {
-   "title": "Pick Dawgz – Pelicans vs Jazz 10/23/2026",
-   "url": "https://pickdawgz.com/nba-picks/pelicans-vs-jazz-prediction-10-23-2026-todays-nba-picks/"
+   "title": "Athlon – Baylor at Kansas",
+   "url": "https://athlonsports.com/college-football/baylor-bears-at-kansas-jayhawks-ncaaf-prediction-picks-odds-week8-2026"
   },
   {
-   "title": "Covers – Grizzlies vs Warriors odds Oct 23",
-   "url": "https://www.covers.com/sport/basketball/nba/matchup/388588/odds"
+   "title": "SI – Texas Tech vs Cincinnati odds",
+   "url": "https://www.si.com/betting/texas-tech-vs-cincinnati-prediction-odds-and-key-players-to-watch-for-college-football-week-8-01m5dkv5s8w1"
   },
   {
-   "title": "TheSpread – Grizzlies vs Warriors Oct 23",
-   "url": "https://www.thespread.com/nba-articles/grizzlies-vs-warriors-prediction-october-23-2026/"
+   "title": "FanDuel Research – Texas Tech vs Cincinnati",
+   "url": "https://fanduel.com/research/texas-tech-vs-cincinnati-college-football-odds-picks-best-bets-for-10-24-2026"
   },
   {
-   "title": "WagerTalk – Trail Blazers vs Kings Oct 23",
-   "url": "https://www.wagertalk.com/news/nba/trail-blazers-vs-kings-prediction-picks-odds-for-october-23-2026/"
+   "title": "Yahoo – UTSA vs Tulane",
+   "url": "https://sports.yahoo.com/articles/utsa-vs-tulane-prediction-pick-102616790.html"
   },
   {
-   "title": "Rip City Radio – Trail Blazers vs Kings injury report",
-   "url": "https://ripcityradio.iheart.com/content/2026-10-23-trail-blazers-vs-kings-injury-report-oct-23/"
+   "title": "CFN – Week 8 predictions",
+   "url": "https://collegefootballnews.com/college-football/college-football-week-8-predictions-cfn-2026"
   },
   {
-   "title": "FOX Sports – 2026 college football Friday schedule",
-   "url": "https://www.foxnews.com/sports/2026-college-football-friday-schedule-dates-times-tv-channels"
+   "title": "Athlon – Hawai'i at Northern Illinois",
+   "url": "https://athlonsports.com/college-football/hawaii-rainbow-warriors-at-northern-illinois-huskies-ncaaf-prediction-picks-odds-week8-2026"
   },
   {
-   "title": "The CW 2026 college football schedule (Air Force at Wyoming, Fri Oct 23)",
-   "url": "https://www.nexstar.tv/the-cw-network-unveils-2026-college-football-schedule/"
+   "title": "Dimers – Hawai'i vs Northern Illinois",
+   "url": "https://www.dimers.com/cfb/predictions/2026_8_niu_haw"
   },
   {
-   "title": "fbschedules – ACC Friday games 2026",
-   "url": "https://fbschedules.com/?p=226185"
+   "title": "Athlon – Tennessee at South Carolina",
+   "url": "https://athlonsports.com/college-football/tennessee-volunteers-at-south-carolina-gamecocks-ncaaf-prediction-picks-odds-week8-2026"
   },
   {
-   "title": "CBS Sports – Nick Martinez gets WS Game 1 start",
-   "url": "https://www.cbssports.com/mlb/news/2026-world-series-rays-game-1-start-nick-martinez/"
+   "title": "BetMGM – Tennessee vs South Carolina",
+   "url": "https://sports.betmgm.com/en/blog/college-football/tennessee-south-carolina-prediction-odds-player-prop-bets-picks-ncaaf-week-8-jaa/"
   },
   {
-   "title": "SI – Rays vs Brewers G1 odds, probable pitchers",
-   "url": "https://www.si.com/betting/rays-vs-brewers-prediction-odds-probable-pitchers-prop-bets-for-world-series-game-1-01m5jv9j65df"
+   "title": "Covers – Oregon vs Illinois",
+   "url": "https://www.covers.com/ncaaf/oregon-vs-illinois-prediction-picks-odds-oct-24-2026"
   },
   {
-   "title": "TheLines – Rays vs Brewers G1 odds",
-   "url": "https://www.thelines.com/mlb/picks/rays-vs-brewers-prediction-odds-and-props-for-oct-23-milwaukee-takes-game-1/"
+   "title": "Yahoo – Illinois vs Oregon injuries/odds",
+   "url": "https://sports.yahoo.com/articles/illinois-football-vs-oregon-watch-100006862.html"
   },
   {
-   "title": "Predictem – Rays vs Brewers G1 line movement",
-   "url": "https://www.predictem.com/mlb/rays-vs-brewers-prediction-world-series-game-1-best-bet/"
+   "title": "ESPN: Brewers 3-2 Rays (Oct 23, 2026) Final Score",
+   "url": "https://www.espn.com/mlb/game/_/gameId/401908042/rays-brewers"
   },
   {
-   "title": "SI – Duke vs Virginia Week 8 odds (FanDuel)",
-   "url": "https://www.si.com/betting/duke-vs-virginia-prediction-odds-and-key-players-to-watch-for-college-football-week-8-2026"
+   "title": "Fox Sports: Brewers take 1-0 lead into World Series Game 2",
+   "url": "https://www.foxsports.com/articles/mlb/brewers-take-10-lead-into-world-series-game-2-against-rays"
   },
   {
-   "title": "Covers – Duke vs Virginia Oct 23 2026",
-   "url": "https://www.covers.com/ncaaf/duke-vs-virginia-prediction-picks-odds-oct-23-2026"
+   "title": "NBC Sports: How to watch Rays vs. Brewers Game 2",
+   "url": "https://www.nbcsports.com/mlb/news/how-to-watch-rays-vs-brewers-game-2-of-2026-mlb-world-series-tv-channel-streaming-info-schedule-preview"
   },
   {
-   "title": "FanDuel Research – UConn vs UMass 10/23/2026",
-   "url": "https://www.fanduel.com/research/uconn-vs-umass-college-football-odds-picks-best-bets-for-10-23-2026"
+   "title": "SI: Rays vs. Brewers prediction, odds, probable pitchers G2",
+   "url": "https://www.si.com/betting/rays-vs-brewers-prediction-odds-probable-pitchers-prop-bets-for-world-series-game-2-2026"
   },
   {
-   "title": "CBS Sports – UMass vs UConn Week 8",
-   "url": "https://www.cbssports.com/betting/news/umass-uconn-prediction-odds-time-week-8-friday-college-football-picks/"
+   "title": "Fox13: Rays vs. Brewers World Series schedule",
+   "url": "https://www.fox13news.com/sports/tampa-bay-rays-milwaukee-brewers-world-series-schedule-tickets-watch-parties-mlb-playoffs"
   },
   {
-   "title": "FanDuel Research – Tulsa vs Army 10/23/2026",
-   "url": "https://fanduel.com/research/tulsa-vs-army-college-football-odds-picks-best-bets-for-10-23-2026"
+   "title": "DIRECTV Insider: NBA games on TV today",
+   "url": "https://www.directv.com/insider/nba-games-on-tv-today/"
   },
   {
-   "title": "Bleacher Nation – Tulsa vs Army Oct 23 2026",
-   "url": "https://www.bleachernation.com/picks/2026/10/21/tulsa-vs-army-prediction-live-odds-stats-history-and-picks-october-23-2026/"
+   "title": "TheSpread: Heat vs Hornets prediction Oct 24",
+   "url": "https://www.thespread.com/nba-articles/heat-vs-hornets-prediction-october-24-2026/"
   },
   {
-   "title": "FanDuel Research – Air Force vs Wyoming 10/23/2026",
-   "url": "https://fanduel.com/research/air-force-vs-wyoming-college-football-odds-picks-best-bets-for-10-23-2026"
+   "title": "Dimers: Heat vs. Hornets prediction Oct 24",
+   "url": "https://www.dimers.com/nba/news/miami-heat-vs-charlotte-hornets-prediction-10-24-2026-ac"
   },
   {
-   "title": "Bleacher Nation – Air Force vs Wyoming Oct 23 2026",
-   "url": "https://www.bleachernation.com/picks/2026/10/21/air-force-vs-wyoming-prediction-odds-picks-best-bets-october-23-2026/"
+   "title": "FanDuel Research: Cavaliers vs. Nets Oct 24",
+   "url": "https://www.fanduel.com/research/cavaliers-vs-nets-prediction-nba-odds-spread-best-bets-for-10-24-2026"
   },
   {
-   "title": "FanDuel Research – NC State vs Stanford 10/23/2026",
-   "url": "https://fanduel.com/research/nc-state-vs-stanford-college-football-odds-picks-best-bets-for-10-23-2026"
+   "title": "Covers: Nets vs Cavaliers odds Oct 24",
+   "url": "https://www.covers.com/sport/basketball/nba/matchup/388592/odds"
   },
   {
-   "title": "WagerTalk – NC State vs Stanford Oct 23 2026",
-   "url": "https://www.wagertalk.com/news/college-football/nc-state-vs-stanford-prediction-picks-odds-october-23-2026/"
+   "title": "Fear the Sword: Cavs vs. Nets injury report",
+   "url": "https://www.fearthesword.com/cavs-injury-report/53389/cavs-vs-nets-how-to-watch-odds-and-injury-report"
   },
   {
-   "title": "WagerTalk: Rockets vs Spurs prediction and odds, Oct 23",
-   "url": "https://www.wagertalk.com/news/nba/rockets-vs-spurs-prediction-picks-odds-for-october-23-2026/"
+   "title": "TheSpread: Bucks vs 76ers prediction Oct 24",
+   "url": "https://www.thespread.com/nba-articles/bucks-vs-76ers-prediction-october-24-2026/"
   },
   {
-   "title": "Yahoo Sports: Grizzlies vs Warriors prediction and odds",
-   "url": "https://sports.yahoo.com/articles/grizzlies-vs-warriors-prediction-pick-164351374.html"
+   "title": "Bleacher Nation: 76ers vs. Bucks odds Oct 24",
+   "url": "https://www.bleachernation.com/picks/2026/10/24/76ers-vs-bucks-predictions-best-bets-and-odds-saturday-october-24-2026/"
   },
   {
-   "title": "SI: Rays vs Brewers Game 1 opening odds",
-   "url": "https://www.si.com/betting/rays-vs-brewers-game-1-opening-odds-for-2026-world-series-milwaukee-set-as-home-favorite"
+   "title": "FanDuel Research: Bulls vs. Wizards Oct 24",
+   "url": "https://www.fanduel.com/research/bulls-vs-wizards-prediction-nba-odds-spread-best-bets-for-10-24-2026"
+  },
+  {
+   "title": "Pick Dawgz: Wizards vs Bulls 10/24/2026",
+   "url": "https://pickdawgz.com/nba-picks/wizards-vs-bulls-prediction-10-24-2026-todays-nba-picks/"
+  },
+  {
+   "title": "Predictem: Spurs vs Mavericks odds Oct 24",
+   "url": "https://www.predictem.com/mlb/spurs-vs-mavericks-odds-prediction-and-best-bet-oct-24/"
+  },
+  {
+   "title": "CBS Sports: Spurs injury report",
+   "url": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/injuries/"
+  },
+  {
+   "title": "FanDuel Research: Hawks vs. Rockets Oct 24",
+   "url": "https://www.fanduel.com/research/hawks-vs-rockets-prediction-nba-odds-spread-best-bets-for-10-24-2026"
+  },
+  {
+   "title": "Pick Dawgz: Rockets vs Hawks 10/24/2026",
+   "url": "https://pickdawgz.com/nba-picks/rockets-vs-hawks-prediction-10-24-2026-todays-nba-picks/"
+  },
+  {
+   "title": "Predictem: Pelicans vs Nuggets picks",
+   "url": "https://www.predictem.com/nba/pelicans-vs-nuggets-picks-jokic-and-denvers-home-opener/"
+  },
+  {
+   "title": "SI: Nuggets injury report before Pelicans game",
+   "url": "https://www.si.com/nba/nuggets/onsi/nuggets-injury-report-concern-grows-for-denver-before-pelicans-game"
+  },
+  {
+   "title": "FanDuel Research: Suns vs. Warriors Oct 24",
+   "url": "https://www.fanduel.com/research/suns-vs-warriors-prediction-nba-odds-spread-best-bets-for-10-24-2026"
+  },
+  {
+   "title": "Pick Dawgz: Warriors vs Suns 10/24/2026",
+   "url": "https://pickdawgz.com/nba-picks/warriors-vs-suns-prediction-10-24-2026-todays-nba-picks/"
+  },
+  {
+   "title": "NBC: Chiefs-Seahawks SNF Week 7 how to watch",
+   "url": "https://www.nbcchicago.com/news/sports/nfl/chiefs-seahawks-sunday-night-football-week-7-how-to-watch-nbc-peacock/"
+  },
+  {
+   "title": "SI: Cowboys vs. Eagles prediction, odds, injuries Week 7",
+   "url": "https://www.si.com/betting/cowboys-vs-eagles-prediction-odds-spread-injuries-trends-for-nfl-week-7-2026"
+  },
+  {
+   "title": "FanDuel Research: Cowboys vs Eagles MNF",
+   "url": "https://www.fanduel.com/research/cowboys-vs-eagles-predictions-odds-picks-best-bets-for-nfl-week-7-monday-night-football-2026"
+  },
+  {
+   "title": "Inquirer: Eagles 4.5-point underdogs vs Dallas",
+   "url": "https://inquirer.com/eagles/eagles-cowboys-week-7-odds-20261022.html"
+  },
+  {
+   "title": "NBC Philadelphia: Cowboys vs Eagles betting guide",
+   "url": "https://www.nbcphiladelphia.com/news/local/cowboys-vs-eagles-betting-guide-odds-props-picks/4484286/"
+  },
+  {
+   "title": "ATS.io: Cowboys vs Eagles MNF player props",
+   "url": "https://ats.io/nfl/cowboys-vs-eagles-monday-night-football-player-props-10-26-2026/"
+  },
+  {
+   "title": "Philadelphia Eagles: Cowboys vs. Eagles injury report",
+   "url": "https://www.philadelphiaeagles.com/news/cowboys-vs-eagles-injury-report-2026-nfl-week-7-saquon-barkley-jalyx-hunt"
+  },
+  {
+   "title": "NBC Sports: Dallas Goedert (knee) does not practice Friday",
+   "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-10-23/dallas-goedert-knee-does-not-practice-on-friday"
+  },
+  {
+   "title": "FanDuel Research: CFB Props Today, 4 Best Player Prop Bets for Saturday (Oct 24)",
+   "url": "https://www.fanduel.com/research/college-football-props-today-4-best-player-prop-bets-for-saturday-oct-24"
+  },
+  {
+   "title": "SI: Best CFB Prop Bets Week 8 (Aiden Flora vs Arizona)",
+   "url": "https://www.si.com/betting/best-college-football-prop-bets-today-for-week-8-bet-on-aiden-flora-to-have-huge-performance-vs-arizona-01m5n28y4bs0"
+  },
+  {
+   "title": "RotoWire: Best Week 8 Player Prop Bets on ReBet",
+   "url": "https://www.rotowire.com/cfootball/article/college-football-picks-best-week-8-player-prop-bets-on-rebet-143362"
+  },
+  {
+   "title": "Pittsburgh vs Miami CFB Props on Darian Mensah",
+   "url": "https://lasvegassportsbetting.com/pittsburgh-at-miami-cfb-props-predictions-on-darian-mensah-2026-10-23"
+  },
+  {
+   "title": "DK Network: Best prop bets Indiana vs Michigan 10/24/26",
+   "url": "https://dknetwork.draftkings.com/2026/10/24/best-college-football-prop-bets-for-indiana-hoosiers-vs-michigan-wolverines-on-saturday-10-24-26/"
+  },
+  {
+   "title": "Covers: Tennessee vs South Carolina picks & props",
+   "url": "https://www.covers.com/sport/football/ncaaf/matchup/378545/picks"
+  },
+  {
+   "title": "Dimers: CFB player props today, Week 8 Saturday 10/24/2026",
+   "url": "https://www.dimers.com/cfb/news/college-football-player-props-10-24-2026-ac"
+  },
+  {
+   "title": "CBS Sports: Re'Shaun Sanford II player page",
+   "url": "https://www.cbssports.com/college-football/players/29136899/"
+  },
+  {
+   "title": "ESPN: 2026 CFB Week 8 top-25 betting lines",
+   "url": "https://www.espn.com/espn/betting/story/_/id/50216670/2026-college-football-week-8-top-25-betting-lines-odds"
+  },
+  {
+   "title": "Sharp Football Analysis: Week 8 CFB odds (LSU at Auburn)",
+   "url": "https://www.sharpfootballanalysis.com/betting/college-football-odds-picks-predictions/"
+  },
+  {
+   "title": "TheSpread: Texas A&M vs Alabama prediction Oct 24",
+   "url": "https://www.thespread.com/ncaaf-articles/texas-am-vs-alabama-prediction-and-best-bet-for-october-24/"
+  },
+  {
+   "title": "FBSchedules: 2026 Week 8 TV and kickoff times",
+   "url": "https://fbschedules.com/college-football-schedule-2026-week-8-matchups-tv-kickoff-times/"
+  },
+  {
+   "title": "Indiana vs Michigan kickoff (FOX, noon ET)",
+   "url": "https://michigan.rivals.com/news/michigan-vs-indiana-kickoff-time-television-channel-revealed"
   }
  ]
 }
