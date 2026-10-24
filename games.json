@@ -1,7 +1,7 @@
 {
  "season": "2026",
  "week": 7,
- "updated": "2026-10-24 2:53 PM PT",
+ "updated": "2026-10-24 3:06 PM PT",
  "games": [
   {
    "id": "401873010",
@@ -245,15 +245,7 @@
    "homeML": null,
    "awayML": null,
    "homeImplied": 19.5,
-   "awayImplied": 24.0,
-   "weather": {
-    "roof": "retract",
-    "temp": 80.2,
-    "precip": 0,
-    "code": 0,
-    "wind": 2.9,
-    "night": false
-   }
+   "awayImplied": 24.0
   },
   {
    "id": "401873020",
@@ -320,7 +312,7 @@
    "weather": {
     "roof": "open",
     "temp": 52.5,
-    "precip": 30,
+    "precip": 20,
     "code": 3,
     "wind": 6.2,
     "night": false
@@ -2053,5 +2045,8 @@
    "std": 11.3,
    "opp": "PHI"
   }
- }
+ },
+ "errors": [
+  "weather ARI: <urlopen error _ssl.c:993: The handshake operation timed out>"
+ ]
 }
