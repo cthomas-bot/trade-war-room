@@ -130,11 +130,12 @@
     {
       "sleeperId": "12469",
       "name": "Dylan Sampson",
-      "note": "Sampson (knee) is questionable for Sunday at Tennessee on the Oct 23 report and must be activated from IR by Saturday evening; with Judkins back, he would likely fill a passing-down role.",
-      "tag": "return",
-      "redraftAdj": 1.05,
+      "note": "Cleared: no longer on Sleeper's injury report (was on injured reserve) as of 9:43 AM PT Oct 24. Earlier: Sampson (knee) is questionable for Sunday at Tennessee on the Oct 23 report and must be activated from IR by Saturday evening; with Judkins back, he would likely fill a passing-down role.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
       "dynastyAdj": 1.01,
-      "status": "Questionable"
+      "status": null,
+      "auto": true
     },
     {
       "sleeperId": "12512",
@@ -781,5 +782,5 @@
       "tag": "injury"
     }
   ],
-  "statusChecked": "6:41 AM PT Oct 24"
+  "statusChecked": "9:43 AM PT Oct 24"
 }
