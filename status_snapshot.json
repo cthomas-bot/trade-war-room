@@ -596,16 +596,6 @@
   },
   "13272": {
    "changed": "2026-10-21T23:42:31.750924+00:00",
-   "entry": {
-    "auto": true,
-    "dynastyAdj": 1.0,
-    "name": "Carson Beck",
-    "note": "Sleeper now lists him questionable (back) as of 4:42 PM PT Oct 21.",
-    "redraftAdj": 0.98,
-    "sleeperId": "13272",
-    "status": "Questionable",
-    "tag": "injury"
-   },
    "i": "Questionable",
    "qb1": false,
    "t": "ARI"
@@ -758,16 +748,6 @@
   },
   "13305": {
    "changed": "2026-10-21T23:42:31.750924+00:00",
-   "entry": {
-    "auto": true,
-    "dynastyAdj": 1.0,
-    "name": "Mike Washington Jr.",
-    "note": "Sleeper now lists him questionable (foot) as of 4:42 PM PT Oct 21.",
-    "redraftAdj": 0.98,
-    "sleeperId": "13305",
-    "status": "Questionable",
-    "tag": "injury"
-   },
    "i": "Questionable",
    "qb1": null,
    "t": "LV"
@@ -1189,19 +1169,19 @@
    "t": "PHI"
   },
   "4881": {
-   "changed": "2026-10-24T20:39:43.488750+00:00",
+   "changed": "2026-10-25T00:52:44.103766+00:00",
    "entry": {
     "auto": true,
-    "dynastyAdj": 0.99,
+    "dynastyAdj": 0.95,
     "name": "Lamar Jackson",
-    "note": "Sleeper now lists him out (ankle) as of 1:39 PM PT Oct 24. Earlier: Jackson (high-ankle sprain) was limited all week and is officially questionable for Sunday vs. Cincinnati after missing the last two games; the Ravens call him a game-time decision, with Tyler Huntley starting if he can't go.",
-    "redraftAdj": 0.85,
+    "note": "Sleeper's depth chart now has him as BAL's backup QB as of 5:52 PM PT Oct 24.",
+    "redraftAdj": 0.8,
     "sleeperId": "4881",
     "status": "Out",
-    "tag": "injury"
+    "tag": "role_down"
    },
    "i": "Out",
-   "qb1": true,
+   "qb1": false,
    "t": "BAL"
   },
   "4892": {

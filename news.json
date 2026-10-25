@@ -4,12 +4,12 @@
     {
       "sleeperId": "4881",
       "name": "Lamar Jackson",
-      "note": "Sleeper now lists him out (ankle) as of 1:39 PM PT Oct 24. Earlier: Jackson (high-ankle sprain) was limited all week and is officially questionable for Sunday vs. Cincinnati after missing the last two games; the Ravens call him a game-time decision, with Tyler Huntley starting if he can't go.",
-      "tag": "injury",
-      "redraftAdj": 0.85,
-      "dynastyAdj": 0.99,
+      "tag": "role_down",
+      "redraftAdj": 0.8,
+      "dynastyAdj": 0.95,
       "status": "Out",
-      "auto": true
+      "auto": true,
+      "note": "Sleeper's depth chart now has him as BAL's backup QB as of 5:52 PM PT Oct 24."
     },
     {
       "sleeperId": "4892",
@@ -788,5 +788,5 @@
       "auto": true
     }
   ],
-  "statusChecked": "2:41 PM PT Oct 24"
+  "statusChecked": "5:52 PM PT Oct 24"
 }
