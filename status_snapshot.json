@@ -574,6 +574,11 @@
    "qb1": null,
    "t": "LAR"
   },
+  "13150": {
+   "i": null,
+   "qb1": null,
+   "t": "PHI"
+  },
   "13268": {
    "changed": "2026-10-25T15:43:18.101635+00:00",
    "entry": {
@@ -888,9 +893,18 @@
    "t": "CLE"
   },
   "13347": {
-   "changed": null,
-   "entry": null,
-   "i": null,
+   "changed": "2026-10-25T16:44:01.335296+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Demond Claiborne",
+    "note": "Sleeper now lists him out (coach's decision) as of 9:44 AM PT Oct 25.",
+    "redraftAdj": 0.9,
+    "sleeperId": "13347",
+    "status": "Out",
+    "tag": "injury"
+   },
+   "i": "Out",
    "qb1": null,
    "t": "MIN"
   },
@@ -903,16 +917,6 @@
   },
   "13380": {
    "changed": "2026-10-22T15:46:37.250025+00:00",
-   "entry": {
-    "auto": true,
-    "dynastyAdj": 1.0,
-    "name": "Brenen Thompson",
-    "note": "Sleeper now lists him questionable (quadriceps) as of 8:46 AM PT Oct 22.",
-    "redraftAdj": 0.98,
-    "sleeperId": "13380",
-    "status": "Questionable",
-    "tag": "injury"
-   },
    "i": "Questionable",
    "qb1": null,
    "t": "LAC"
@@ -981,8 +985,18 @@
    "t": "NO"
   },
   "13602": {
-   "changed": "2026-10-21T07:53:53.206089+00:00",
-   "i": null,
+   "changed": "2026-10-25T16:44:01.335296+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Jack Strand",
+    "note": "Sleeper now lists him out (coach's decision) as of 9:44 AM PT Oct 25.",
+    "redraftAdj": 0.9,
+    "sleeperId": "13602",
+    "status": "Out",
+    "tag": "injury"
+   },
+   "i": "Out",
    "qb1": false,
    "t": "ATL"
   },
@@ -1208,18 +1222,18 @@
    "t": "BAL"
   },
   "4892": {
-   "changed": "2026-10-23T19:43:26.095658+00:00",
+   "changed": "2026-10-25T16:44:01.335296+00:00",
    "entry": {
     "auto": true,
-    "dynastyAdj": 1.05,
+    "dynastyAdj": 1.03,
     "name": "Baker Mayfield",
-    "note": "Sleeper's depth chart now has him as TB's starting QB as of 12:43 PM PT Oct 23.",
-    "redraftAdj": 1.2,
+    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 9:44 AM PT Oct 25. Earlier: Mayfield (right thumb) practiced fully all week and is set to start Sunday, Oct. 25, at Carolina after missing three games, per Todd Bowles and NFL.com. He still carries a questionable tag.",
+    "redraftAdj": 1.0,
     "sleeperId": "4892",
-    "status": "Questionable",
-    "tag": "role_up"
+    "status": null,
+    "tag": "injury"
    },
-   "i": "Questionable",
+   "i": null,
    "qb1": true,
    "t": "TB"
   },
@@ -1782,8 +1796,18 @@
    "t": "ATL"
   },
   "8155": {
-   "changed": "2026-10-21T07:53:53.206089+00:00",
-   "i": "Questionable",
+   "changed": "2026-10-25T16:44:01.335296+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 0.97,
+    "name": "Breece Hall",
+    "note": "Sleeper now lists him out (quadriceps) as of 9:44 AM PT Oct 25. Earlier: Ian Rapoport reported Sun Oct 25 that Hall (quad) is unlikely to play vs. Miami, though he may test it in a pregame workout. He remains officially questionable, so check inactives before kickoff.",
+    "redraftAdj": 0.6,
+    "sleeperId": "8155",
+    "status": "Out",
+    "tag": "injury"
+   },
+   "i": "Out",
    "qb1": null,
    "t": "NYJ"
   },

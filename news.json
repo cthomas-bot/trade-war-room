@@ -13,11 +13,12 @@
     {
       "sleeperId": "4892",
       "name": "Baker Mayfield",
-      "note": "Mayfield (right thumb) practiced fully all week and is set to start Sunday, Oct. 25, at Carolina after missing three games, per Todd Bowles and NFL.com. He still carries a questionable tag.",
-      "tag": "return",
-      "redraftAdj": 1.25,
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 9:44 AM PT Oct 25. Earlier: Mayfield (right thumb) practiced fully all week and is set to start Sunday, Oct. 25, at Carolina after missing three games, per Todd Bowles and NFL.com. He still carries a questionable tag.",
+      "tag": "injury",
+      "redraftAdj": 1.0,
       "dynastyAdj": 1.03,
-      "status": "Questionable"
+      "status": null,
+      "auto": true
     },
     {
       "sleeperId": "13425",
@@ -58,11 +59,12 @@
     {
       "sleeperId": "8155",
       "name": "Breece Hall",
-      "note": "Ian Rapoport reported Sun Oct 25 that Hall (quad) is unlikely to play vs. Miami, though he may test it in a pregame workout. He remains officially questionable, so check inactives before kickoff.",
+      "note": "Sleeper now lists him out (quadriceps) as of 9:44 AM PT Oct 25. Earlier: Ian Rapoport reported Sun Oct 25 that Hall (quad) is unlikely to play vs. Miami, though he may test it in a pregame workout. He remains officially questionable, so check inactives before kickoff.",
       "tag": "injury",
       "redraftAdj": 0.6,
       "dynastyAdj": 0.97,
-      "status": "Questionable"
+      "status": "Out",
+      "auto": true
     },
     {
       "sleeperId": "11576",
@@ -771,7 +773,27 @@
       "dynastyAdj": 1.0,
       "status": "Out",
       "auto": true
+    },
+    {
+      "sleeperId": "13347",
+      "name": "Demond Claiborne",
+      "note": "Sleeper now lists him out (coach's decision) as of 9:44 AM PT Oct 25.",
+      "tag": "injury",
+      "redraftAdj": 0.9,
+      "dynastyAdj": 1.0,
+      "status": "Out",
+      "auto": true
+    },
+    {
+      "sleeperId": "13602",
+      "name": "Jack Strand",
+      "note": "Sleeper now lists him out (coach's decision) as of 9:44 AM PT Oct 25.",
+      "tag": "injury",
+      "redraftAdj": 0.9,
+      "dynastyAdj": 1.0,
+      "status": "Out",
+      "auto": true
     }
   ],
-  "statusChecked": "8:43 AM PT Oct 25"
+  "statusChecked": "9:44 AM PT Oct 25"
 }
