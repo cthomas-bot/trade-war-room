@@ -130,11 +130,12 @@
     {
       "sleeperId": "9508",
       "name": "Tyjae Spears",
-      "note": "Spears (knee) was limited Friday (Oct 23) after a full Thursday session and is questionable vs. Cleveland. He has played through the tag twice this season, but his role is minor behind Tony Pollard.",
+      "note": "Sleeper now lists him out (knee) as of 8:43 AM PT Oct 25. Earlier: Spears (knee) was limited Friday (Oct 23) after a full Thursday session and is questionable vs. Cleveland. He has played through the tag twice this season, but his role is minor behind Tony Pollard.",
       "tag": "injury",
       "redraftAdj": 0.85,
       "dynastyAdj": 0.99,
-      "status": "Questionable"
+      "status": "Out",
+      "auto": true
     },
     {
       "sleeperId": "13287",
@@ -740,7 +741,37 @@
       "sleeperId": "9486",
       "status": "Out",
       "tag": "injury"
+    },
+    {
+      "sleeperId": "13268",
+      "name": "Elijah Sarratt",
+      "note": "Sleeper now lists him out (coach's decision) as of 8:43 AM PT Oct 25.",
+      "tag": "injury",
+      "redraftAdj": 0.9,
+      "dynastyAdj": 1.0,
+      "status": "Out",
+      "auto": true
+    },
+    {
+      "sleeperId": "13288",
+      "name": "Nicholas Singleton",
+      "note": "Sleeper now lists him out (coach's decision) as of 8:43 AM PT Oct 25.",
+      "tag": "injury",
+      "redraftAdj": 0.9,
+      "dynastyAdj": 1.0,
+      "status": "Out",
+      "auto": true
+    },
+    {
+      "sleeperId": "13306",
+      "name": "Taylen Green",
+      "note": "Sleeper now lists him out (coach's decision) as of 8:43 AM PT Oct 25.",
+      "tag": "injury",
+      "redraftAdj": 0.9,
+      "dynastyAdj": 1.0,
+      "status": "Out",
+      "auto": true
     }
   ],
-  "statusChecked": "6:42 AM PT Oct 25"
+  "statusChecked": "8:43 AM PT Oct 25"
 }
