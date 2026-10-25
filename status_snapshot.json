@@ -270,18 +270,18 @@
    "t": "SF"
   },
   "11643": {
-   "changed": "2026-10-23T20:46:17.650166+00:00",
+   "changed": "2026-10-25T20:40:17.937650+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 1.0,
     "name": "Jaylen Wright",
-    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 1:46 PM PT Oct 23.",
-    "redraftAdj": 1.0,
+    "note": "Sleeper now lists him questionable (quadriceps) as of 1:40 PM PT Oct 25.",
+    "redraftAdj": 0.98,
     "sleeperId": "11643",
-    "status": null,
+    "status": "Questionable",
     "tag": "injury"
    },
-   "i": null,
+   "i": "Questionable",
    "qb1": null,
    "t": "MIA"
   },
@@ -565,9 +565,18 @@
    "t": "CHI"
   },
   "12536": {
-   "changed": null,
-   "entry": null,
-   "i": null,
+   "changed": "2026-10-25T20:40:17.937650+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 0.97,
+    "name": "Jaylin Noel",
+    "note": "Sleeper now lists him questionable (toe) as of 1:40 PM PT Oct 25. Earlier: DeMeco Ryans said Tank Dell will make his 2026 debut on Sunday, Oct 25, against the Giants. Along with the Oct 12 trade for Marvin Harrison Jr., that crowds Noel out of targets.",
+    "redraftAdj": 0.9,
+    "sleeperId": "12536",
+    "status": "Questionable",
+    "tag": "injury"
+   },
+   "i": "Questionable",
    "qb1": null,
    "t": "HOU"
   },
