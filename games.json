@@ -1,7 +1,7 @@
 {
  "season": "2026",
  "week": 7,
- "updated": "2026-10-25 12:22 AM PT",
+ "updated": "2026-10-25 3:08 AM PT",
  "games": [
   {
    "id": "401873011",
@@ -45,10 +45,10 @@
    "awayImplied": 26.5,
    "weather": {
     "roof": "retract",
-    "temp": 65.7,
+    "temp": 66.0,
     "precip": 0,
     "code": 0,
-    "wind": 12.1,
+    "wind": 12.4,
     "night": false
    }
   },
@@ -72,10 +72,10 @@
    "awayImplied": 19.0,
    "weather": {
     "roof": "open",
-    "temp": 71.2,
+    "temp": 71.1,
     "precip": 0,
     "code": 0,
-    "wind": 2.2,
+    "wind": 1.5,
     "night": false
    }
   },
@@ -121,10 +121,10 @@
    "awayImplied": 17.5,
    "weather": {
     "roof": "open",
-    "temp": 63.8,
+    "temp": 63.7,
     "precip": 0,
     "code": 0,
-    "wind": 4.3,
+    "wind": 5.0,
     "night": false
    }
   },
@@ -148,10 +148,10 @@
    "awayImplied": 20.8,
    "weather": {
     "roof": "open",
-    "temp": 63.4,
+    "temp": 64.1,
     "precip": 0,
-    "code": 1,
-    "wind": 10.9,
+    "code": 0,
+    "wind": 11.1,
     "night": false
    }
   },
@@ -175,10 +175,10 @@
    "awayImplied": 24.8,
    "weather": {
     "roof": "open",
-    "temp": 60.9,
+    "temp": 60.4,
     "precip": 0,
     "code": 0,
-    "wind": 3.2,
+    "wind": 3.8,
     "night": false
    }
   },
@@ -202,10 +202,10 @@
    "awayImplied": 16.0,
    "weather": {
     "roof": "retract",
-    "temp": 79.5,
+    "temp": 80.1,
     "precip": 0,
     "code": 3,
-    "wind": 10.0,
+    "wind": 9.7,
     "night": false
    }
   },
@@ -229,10 +229,10 @@
    "awayImplied": 24.0,
    "weather": {
     "roof": "retract",
-    "temp": 79.6,
+    "temp": 79.7,
     "precip": 0,
     "code": 0,
-    "wind": 4.4,
+    "wind": 3.5,
     "night": false
    }
   },
@@ -300,10 +300,10 @@
    "awayImplied": 19.8,
    "weather": {
     "roof": "open",
-    "temp": 53.2,
-    "precip": 24,
-    "code": 3,
-    "wind": 6.2,
+    "temp": 50.9,
+    "precip": 34,
+    "code": 55,
+    "wind": 7.2,
     "night": false
    }
   },
@@ -337,19 +337,19 @@
    "venue": "Lincoln Financial Field",
    "tv": "ESPN",
    "details": "DAL -4.5",
-   "total": 44.5,
+   "total": 43.5,
    "fav": "DAL",
    "spread": 4.5,
    "homeML": null,
    "awayML": null,
-   "homeImplied": 20.0,
-   "awayImplied": 24.5,
+   "homeImplied": 19.5,
+   "awayImplied": 24.0,
    "weather": {
     "roof": "open",
-    "temp": 61.1,
+    "temp": 57.0,
     "precip": 0,
     "code": 0,
-    "wind": 4.9,
+    "wind": 4.8,
     "night": true
    }
   }
@@ -537,7 +537,7 @@
   },
   "12817": {
    "half": 0.53,
-   "ppr": 0.68,
+   "ppr": 0.67,
    "std": 0.39,
    "opp": "SEA"
   },
@@ -560,9 +560,9 @@
    "opp": "TEN"
   },
   "4046": {
-   "half": 16.3,
-   "ppr": 16.3,
-   "std": 16.3,
+   "half": 16.29,
+   "ppr": 16.29,
+   "std": 16.29,
    "opp": "SEA"
   },
   "4892": {
@@ -674,9 +674,9 @@
    "opp": "DEN"
   },
   "8151": {
-   "half": 17.37,
-   "ppr": 19.28,
-   "std": 15.47,
+   "half": 17.39,
+   "ppr": 19.3,
+   "std": 15.49,
    "opp": "SEA"
   },
   "8181": {
@@ -686,8 +686,8 @@
    "opp": "LAR"
   },
   "8676": {
-   "half": 4.9,
-   "ppr": 5.9,
+   "half": 4.89,
+   "ppr": 5.89,
    "std": 3.9,
    "opp": "KC"
   },
@@ -770,8 +770,8 @@
    "opp": "BAL"
   },
   "11603": {
-   "half": 6.24,
-   "ppr": 7.83,
+   "half": 6.23,
+   "ppr": 7.81,
    "std": 4.64,
    "opp": "KC"
   },
@@ -788,8 +788,8 @@
    "opp": "TB"
   },
   "12497": {
-   "half": 2.83,
-   "ppr": 3.43,
+   "half": 2.82,
+   "ppr": 3.42,
    "std": 2.22,
    "opp": "KC"
   },
@@ -800,9 +800,9 @@
    "opp": "DET"
   },
   "12505": {
-   "half": 5.04,
-   "ppr": 6.35,
-   "std": 3.73,
+   "half": 5.03,
+   "ppr": 6.34,
+   "std": 3.72,
    "opp": "SEA"
   },
   "12543": {
@@ -992,9 +992,9 @@
    "opp": "TEN"
   },
   "11624": {
-   "half": 8.87,
-   "ppr": 11.07,
-   "std": 6.66,
+   "half": 8.85,
+   "ppr": 11.06,
+   "std": 6.65,
    "opp": "SEA"
   },
   "11627": {
@@ -1107,8 +1107,8 @@
   },
   "13413": {
    "half": 1.69,
-   "ppr": 2.1,
-   "std": 1.29,
+   "ppr": 2.09,
+   "std": 1.28,
    "opp": "SEA"
   },
   "13420": {
@@ -1124,9 +1124,9 @@
    "opp": "BAL"
   },
   "1466": {
-   "half": 9.72,
-   "ppr": 12.06,
-   "std": 7.39,
+   "half": 9.71,
+   "ppr": 12.04,
+   "std": 7.37,
    "opp": "SEA"
   },
   "4054": {
@@ -1136,9 +1136,9 @@
    "opp": "MIN"
   },
   "4189": {
-   "half": 1.26,
+   "half": 1.25,
    "ppr": 1.58,
-   "std": 0.93,
+   "std": 0.92,
    "opp": "KC"
   },
   "4993": {
@@ -1161,8 +1161,8 @@
   },
   "7828": {
    "half": 3.19,
-   "ppr": 4.15,
-   "std": 2.24,
+   "ppr": 4.14,
+   "std": 2.23,
    "opp": "SEA"
   },
   "8117": {
@@ -1376,9 +1376,9 @@
    "opp": "MIA"
   },
   "4943": {
-   "half": 15.06,
-   "ppr": 15.06,
-   "std": 15.06,
+   "half": 15.04,
+   "ppr": 15.04,
+   "std": 15.04,
    "opp": "KC"
   },
   "6770": {
@@ -1502,8 +1502,8 @@
    "opp": "LAR"
   },
   "12863": {
-   "half": 2.65,
-   "ppr": 3.3,
+   "half": 2.64,
+   "ppr": 3.29,
    "std": 2.0,
    "opp": "SEA"
   },
@@ -1556,9 +1556,9 @@
    "opp": "SF"
   },
   "4039": {
-   "half": 5.66,
-   "ppr": 6.94,
-   "std": 4.38,
+   "half": 5.65,
+   "ppr": 6.93,
+   "std": 4.37,
    "opp": "KC"
   },
   "5857": {
@@ -1670,9 +1670,9 @@
    "opp": "NYJ"
   },
   "11435": {
-   "half": 9.28,
-   "ppr": 10.01,
-   "std": 8.55,
+   "half": 9.29,
+   "ppr": 10.02,
+   "std": 8.56,
    "opp": "KC"
   },
   "11439": {
@@ -1894,7 +1894,7 @@
   "8223": {
    "half": 1.75,
    "ppr": 1.77,
-   "std": 1.72,
+   "std": 1.73,
    "opp": "KC"
   },
   "8408": {
@@ -1928,9 +1928,9 @@
    "opp": "DET"
   },
   "9488": {
-   "half": 20.45,
-   "ppr": 24.06,
-   "std": 16.83,
+   "half": 20.41,
+   "ppr": 24.01,
+   "std": 16.8,
    "opp": "KC"
   },
   "96": {
