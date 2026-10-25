@@ -1492,16 +1492,6 @@
   },
   "6794": {
    "changed": "2026-10-22T22:42:14.517499+00:00",
-   "entry": {
-    "auto": true,
-    "dynastyAdj": 1.0,
-    "name": "Justin Jefferson",
-    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 3:42 PM PT Oct 22. Earlier: Jefferson (ankle) was limited in practice on Wed Oct 21 before Sunday's game against the Colts, which reports described as a maintenance day. He said afterward that the ankle feels good.",
-    "redraftAdj": 1.0,
-    "sleeperId": "6794",
-    "status": null,
-    "tag": "injury"
-   },
    "i": null,
    "qb1": null,
    "t": "MIN"
@@ -1605,18 +1595,18 @@
    "t": "PHI"
   },
   "7526": {
-   "changed": "2026-10-23T21:43:24.260033+00:00",
+   "changed": "2026-10-25T23:37:44.358559+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 0.99,
     "name": "Jaylen Waddle",
-    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 2:43 PM PT Oct 23. Earlier: Sleeper listed him questionable (chest) as of Oct 21 heading into Week 7.",
-    "redraftAdj": 1.0,
+    "note": "Sleeper now lists him questionable (undisclosed) as of 4:37 PM PT Oct 25.",
+    "redraftAdj": 0.98,
     "sleeperId": "7526",
-    "status": null,
+    "status": "Questionable",
     "tag": "injury"
    },
-   "i": null,
+   "i": "Questionable",
    "qb1": null,
    "t": "DEN"
   },

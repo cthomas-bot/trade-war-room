@@ -692,14 +692,14 @@
       "tag": "injury"
     },
     {
-      "auto": true,
-      "dynastyAdj": 0.99,
-      "name": "Jaylen Waddle",
-      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 2:43 PM PT Oct 23. Earlier: Sleeper listed him questionable (chest) as of Oct 21 heading into Week 7.",
-      "redraftAdj": 1.0,
       "sleeperId": "7526",
-      "status": null,
-      "tag": "injury"
+      "name": "Jaylen Waddle",
+      "note": "Sleeper now lists him questionable (undisclosed) as of 4:37 PM PT Oct 25.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
+      "dynastyAdj": 0.99,
+      "status": "Questionable",
+      "auto": true
     },
     {
       "auto": true,
@@ -872,5 +872,5 @@
       "auto": true
     }
   ],
-  "statusChecked": "2:41 PM PT Oct 25"
+  "statusChecked": "4:37 PM PT Oct 25"
 }
