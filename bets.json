@@ -1,45 +1,15 @@
 {
  "date": "Sun Oct 25",
- "scanned": "Oct 25, 12:30 PM PT · recheck",
+ "scanned": "Oct 25, 3:00 PM PT · recheck",
  "slate": [
-  {
-   "sport": "NFL",
-   "game": "Packers @ Lions",
-   "time": "1:25 PM PT",
-   "pick": "NO on “Over 53.5” (= Under 53.5)",
-   "price": "44¢",
-   "call": "LEAN",
-   "why": "DK/FanDuel 53.5 de-vig under ~48–49%; Kalshi prices total near 55.5.",
-   "recheck": "YES only if books still 53.5 and NO ≤43¢ (now 44¢)."
-  },
-  {
-   "sport": "NBA",
-   "game": "Pacers @ Nets",
-   "time": "3:00 PM PT",
-   "pick": "NO on “Over 232.5”",
-   "price": "50¢",
-   "call": "LEAN",
-   "why": "DK total 231.5; Nets on back-to-back; edge ~2 pts, thin after fee.",
-   "recheck": "2:30 PM PT: Nets rest news; skip if book total rises to 233+."
-  },
   {
    "sport": "NBA",
    "game": "Raptors @ Timberwolves",
    "time": "4:00 PM PT",
    "pick": "Minnesota ML",
    "price": "51¢",
-   "call": "LEAN",
-   "why": "Wolves -1.5 at home (DK) implies ~53-54%; DiVincenzo out; edge ~1 pt after fee.",
-   "recheck": "3:30 PM PT: upgrade only if Kalshi MIN ≤ 48¢."
-  },
-  {
-   "sport": "NFL",
-   "game": "Rams @ Raiders",
-   "time": "1:25 PM PT",
-   "pick": "Rams ML",
-   "price": "62¢",
-   "call": "LEAN",
-   "why": "Nacua (calf) is active; books ~65% Rams vs Kalshi's price, small edge.",
+   "call": "PASS",
+   "why": "Books MIN −1.5, ML −115/−105 (~52%); no edge after fees.",
    "recheck": ""
   },
   {
@@ -47,20 +17,10 @@
    "game": "Pistons @ 76ers",
    "time": "4:30 PM PT",
    "pick": "Philadelphia ML",
-   "price": "51¢",
-   "call": "WAIT",
-   "why": "Books PHI -2.5/-3.5 (~56% de-vig) vs 51¢, but Embiid status conflicting; Duren out.",
-   "recheck": "~4:00 PM PT: if Embiid confirmed playing and PHI ≤ 51¢ → YES; if out → PASS."
-  },
-  {
-   "sport": "NFL",
-   "game": "Broncos @ Cardinals",
-   "time": "1:05 PM PT",
-   "pick": "Broncos ML",
-   "price": "67¢",
+   "price": "46¢",
    "call": "PASS",
-   "why": "Love out; books Broncos 67–68%, -4.5 and 43.5 match Kalshi.",
-   "recheck": "YES on Broncos ML only if ≤62¢ by 12:30 PM PT."
+   "why": "Embiid ruled out (back-to-back); trigger said PASS if he sits.",
+   "recheck": ""
   },
   {
    "sport": "NFL",
@@ -71,16 +31,6 @@
    "call": "PASS",
    "why": "SKIP — no Seahawks picks.",
    "recheck": ""
-  },
-  {
-   "sport": "NBA",
-   "game": "Lakers @ Jazz",
-   "time": "2:00 PM PT",
-   "pick": "Lakers ML",
-   "price": "69¢",
-   "call": "PASS",
-   "why": "Books de-vig LAL 66-69%; spread -5.5/-6.5 and total 237.5 match Kalshi exactly.",
-   "recheck": "Only if Kalshi LAL drops to ≤63¢ before tip."
   },
   {
    "sport": "NBA",
@@ -154,31 +104,7 @@
    }
   ]
  },
- "props": [
-  {
-   "slate": "Afternoon · 1 PM PT",
-   "picks": [
-    {
-     "pick": "Jahmyr Gibbs anytime TD (Packers @ Lions)",
-     "odds": "-340",
-     "why": "Leads the NFL with nine TDs in a 53.5 total; pricey but the most reliable scorer.",
-     "call": "LEAN"
-    },
-    {
-     "pick": "Kyren Williams anytime TD (Rams @ Raiders)",
-     "odds": "-175",
-     "why": "Rams are 6-point favorites and Williams gets goal-line work while Nacua is limited (BetMGM -175).",
-     "call": "LEAN"
-    },
-    {
-     "pick": "Kirk Cousins under 241.5 passing yards (Rams @ Raiders)",
-     "odds": "-110",
-     "why": "Davante Adams is out and the Raiders offense is weak against the Rams' pass rush.",
-     "call": "LEAN"
-    }
-   ]
-  }
- ],
+ "props": [],
  "parlays": [],
  "sources": [
   {
@@ -408,6 +334,14 @@
   {
    "title": "Packers.com: Packers-Lions Week 7 inactives",
    "url": "https://www.packers.com/news/packers-lions-week-7-inactives-oct-25-2026"
+  },
+  {
+   "title": "Athlon: Final injury report for Pistons-76ers",
+   "url": "https://athlonsports.com/nba/philadelphia-76ers/final-injury-report-for-pistons-76ers-will-lebron-james-jalen-duren-play"
+  },
+  {
+   "title": "SI: Raptors vs. Timberwolves odds, Oct. 25",
+   "url": "https://www.si.com/betting/raptors-vs-timberwolves-prediction-odds-and-best-nba-prop-bets-for-sunday-oct-25-2026"
   }
  ]
 }
