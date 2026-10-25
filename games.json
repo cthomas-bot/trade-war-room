@@ -1,70 +1,40 @@
 {
  "season": "2026",
  "week": 7,
- "updated": "2026-10-25 9:08 AM PT",
+ "updated": "2026-10-25 12:13 PM PT",
  "games": [
-  {
-   "id": "401873011",
-   "kickoff": "2026-10-25T13:30Z",
-   "state": "in",
-   "home": "NO",
-   "away": "PIT",
-   "homeScore": "10",
-   "awayScore": "16",
-   "venue": "Stade de France",
-   "tv": "NFL Net",
-   "weather": {
-    "roof": "dome"
-   }
-  },
   {
    "id": "401873017",
    "kickoff": "2026-10-25T17:00Z",
-   "state": "pre",
+   "state": "in",
    "home": "ATL",
    "away": "SF",
-   "homeScore": "0",
-   "awayScore": "0",
+   "homeScore": "26",
+   "awayScore": "14",
    "venue": "Mercedes-Benz Stadium",
    "tv": "Fox",
-   "details": "SF -2.5",
-   "total": 50.5,
-   "fav": "SF",
-   "spread": 2.5,
-   "homeML": null,
-   "awayML": null,
-   "homeImplied": 24.0,
-   "awayImplied": 26.5,
    "weather": {
     "roof": "retract",
-    "temp": 66.6,
+    "temp": 67.8,
     "precip": 0,
     "code": 0,
-    "wind": 11.7,
+    "wind": 10.0,
     "night": false
    }
   },
   {
    "id": "401873013",
    "kickoff": "2026-10-25T17:00Z",
-   "state": "pre",
+   "state": "in",
    "home": "TEN",
    "away": "CLE",
-   "homeScore": "0",
-   "awayScore": "0",
+   "homeScore": "14",
+   "awayScore": "17",
    "venue": "Nissan Stadium",
    "tv": "CBS",
-   "details": "CLE -2.5",
-   "total": 36.5,
-   "fav": "CLE",
-   "spread": 2.5,
-   "homeML": null,
-   "awayML": null,
-   "homeImplied": 17.0,
-   "awayImplied": 19.5,
    "weather": {
     "roof": "open",
-    "temp": 70.4,
+    "temp": 73.6,
     "precip": 0,
     "code": 0,
     "wind": 0.5,
@@ -74,21 +44,13 @@
   {
    "id": "401873014",
    "kickoff": "2026-10-25T17:00Z",
-   "state": "pre",
+   "state": "in",
    "home": "MIN",
    "away": "IND",
-   "homeScore": "0",
-   "awayScore": "0",
+   "homeScore": "13",
+   "awayScore": "10",
    "venue": "U.S. Bank Stadium",
    "tv": "CBS",
-   "details": "MIN -6.5",
-   "total": 41.5,
-   "fav": "MIN",
-   "spread": 6.5,
-   "homeML": null,
-   "awayML": null,
-   "homeImplied": 24.0,
-   "awayImplied": 17.5,
    "weather": {
     "roof": "dome"
    }
@@ -96,109 +58,91 @@
   {
    "id": "401873015",
    "kickoff": "2026-10-25T17:00Z",
-   "state": "pre",
+   "state": "in",
    "home": "NYJ",
    "away": "MIA",
-   "homeScore": "0",
-   "awayScore": "0",
+   "homeScore": "14",
+   "awayScore": "21",
    "venue": "MetLife Stadium",
    "tv": "CBS",
-   "details": "NYJ -3.5",
-   "total": 39.5,
-   "fav": "NYJ",
-   "spread": 3.5,
-   "homeML": null,
-   "awayML": null,
-   "homeImplied": 21.5,
-   "awayImplied": 18.0,
    "weather": {
     "roof": "open",
-    "temp": 64.9,
+    "temp": 66.4,
     "precip": 0,
     "code": 0,
-    "wind": 2.2,
+    "wind": 1.5,
     "night": false
    }
   },
   {
    "id": "401873018",
    "kickoff": "2026-10-25T17:00Z",
-   "state": "pre",
+   "state": "in",
    "home": "CAR",
    "away": "TB",
-   "homeScore": "0",
-   "awayScore": "0",
+   "homeScore": "6",
+   "awayScore": "36",
    "venue": "Bank of America Stadium",
    "tv": "Fox",
-   "details": "CAR -3",
-   "total": 44.5,
-   "fav": "CAR",
-   "spread": 3.0,
-   "homeML": null,
-   "awayML": null,
-   "homeImplied": 23.8,
-   "awayImplied": 20.8,
    "weather": {
     "roof": "open",
-    "temp": 64.3,
+    "temp": 65.9,
     "precip": 0,
     "code": 0,
-    "wind": 11.9,
+    "wind": 9.9,
     "night": false
    }
   },
   {
    "id": "401873012",
    "kickoff": "2026-10-25T17:00Z",
-   "state": "pre",
+   "state": "in",
    "home": "BAL",
    "away": "CIN",
-   "homeScore": "0",
-   "awayScore": "0",
+   "homeScore": "13",
+   "awayScore": "14",
    "venue": "M&T Bank Stadium",
    "tv": "CBS",
-   "details": "CIN -3",
-   "total": 46.5,
-   "fav": "CIN",
-   "spread": 3.0,
-   "homeML": null,
-   "awayML": null,
-   "homeImplied": 21.8,
-   "awayImplied": 24.8,
    "weather": {
     "roof": "open",
-    "temp": 63.1,
+    "temp": 64.6,
     "precip": 0,
-    "code": 1,
-    "wind": 1.4,
+    "code": 0,
+    "wind": 1.6,
     "night": false
    }
   },
   {
    "id": "401873016",
    "kickoff": "2026-10-25T17:00Z",
-   "state": "pre",
+   "state": "in",
    "home": "HOU",
    "away": "NYG",
-   "homeScore": "0",
-   "awayScore": "0",
+   "homeScore": "14",
+   "awayScore": "14",
    "venue": "Reliant Stadium",
    "tv": "Fox",
-   "details": "HOU -10",
-   "total": 42.5,
-   "fav": "HOU",
-   "spread": 10.0,
-   "homeML": null,
-   "awayML": null,
-   "homeImplied": 26.2,
-   "awayImplied": 16.2,
    "weather": {
     "roof": "retract",
-    "temp": 80.5,
+    "temp": 80.9,
     "precip": 0,
     "code": 3,
-    "wind": 11.5,
+    "wind": 9.4,
     "night": false
+   }
+  },
+  {
+   "id": "401873011",
+   "kickoff": "2026-10-25T13:30Z",
+   "state": "post",
+   "home": "NO",
+   "away": "PIT",
+   "homeScore": "10",
+   "awayScore": "16",
+   "venue": "Stade de France",
+   "tv": "NFL Net",
+   "weather": {
+    "roof": "dome"
    }
   },
   {
@@ -212,19 +156,19 @@
    "venue": "State Farm Stadium",
    "tv": "CBS",
    "details": "DEN -4.5",
-   "total": 42.5,
+   "total": 43.5,
    "fav": "DEN",
    "spread": 4.5,
    "homeML": null,
    "awayML": null,
-   "homeImplied": 19.0,
-   "awayImplied": 23.5,
+   "homeImplied": 19.5,
+   "awayImplied": 24.0,
    "weather": {
     "roof": "retract",
-    "temp": 79.5,
+    "temp": 80.0,
     "precip": 0,
     "code": 0,
-    "wind": 2.1,
+    "wind": 3.2,
     "night": false
    }
   },
@@ -292,10 +236,10 @@
    "awayImplied": 19.8,
    "weather": {
     "roof": "open",
-    "temp": 52.0,
-    "precip": 12,
-    "code": 3,
-    "wind": 7.9,
+    "temp": 53.2,
+    "precip": 21,
+    "code": 1,
+    "wind": 6.5,
     "night": false
    }
   },
@@ -474,9 +418,9 @@
    "opp": "DEN"
   },
   "11599": {
-   "half": 0.74,
-   "ppr": 0.92,
-   "std": 0.55,
+   "half": 0.95,
+   "ppr": 1.2,
+   "std": 0.7,
    "opp": "NYG"
   },
   "11604": {
@@ -492,9 +436,9 @@
    "opp": "ATL"
   },
   "11629": {
-   "half": 3.54,
-   "ppr": 4.08,
-   "std": 2.99,
+   "half": 3.55,
+   "ppr": 4.1,
+   "std": 3.01,
    "opp": "CIN"
   },
   "12467": {
@@ -504,15 +448,15 @@
    "opp": "ATL"
   },
   "12469": {
-   "half": 5.77,
-   "ppr": 6.67,
-   "std": 4.87,
+   "half": 5.75,
+   "ppr": 6.65,
+   "std": 4.85,
    "opp": "TEN"
   },
   "12503": {
    "half": 2.05,
    "ppr": 2.47,
-   "std": 1.63,
+   "std": 1.62,
    "opp": "TEN"
   },
   "12535": {
@@ -523,7 +467,7 @@
   },
   "12817": {
    "half": 0.53,
-   "ppr": 0.68,
+   "ppr": 0.67,
    "std": 0.39,
    "opp": "SEA"
   },
@@ -540,9 +484,9 @@
    "opp": "LV"
   },
   "4017": {
-   "half": 14.31,
-   "ppr": 14.31,
-   "std": 14.31,
+   "half": 14.24,
+   "ppr": 14.24,
+   "std": 14.24,
    "opp": "TEN"
   },
   "4046": {
@@ -570,14 +514,14 @@
    "opp": "DET"
   },
   "5967": {
-   "half": 13.26,
-   "ppr": 14.64,
-   "std": 11.87,
+   "half": 13.31,
+   "ppr": 14.69,
+   "std": 11.93,
    "opp": "CLE"
   },
   "6001": {
-   "half": 2.33,
-   "ppr": 3.09,
+   "half": 2.34,
+   "ppr": 3.1,
    "std": 1.57,
    "opp": "BAL"
   },
@@ -589,7 +533,7 @@
   },
   "6806": {
    "half": 9.17,
-   "ppr": 9.94,
+   "ppr": 9.95,
    "std": 8.4,
    "opp": "ARI"
   },
@@ -618,9 +562,9 @@
    "opp": "GB"
   },
   "7564": {
-   "half": 15.59,
-   "ppr": 18.72,
-   "std": 12.45,
+   "half": 15.67,
+   "ppr": 18.81,
+   "std": 12.53,
    "opp": "BAL"
   },
   "7567": {
@@ -630,9 +574,9 @@
    "opp": "CAR"
   },
   "7571": {
-   "half": 4.49,
-   "ppr": 5.41,
-   "std": 3.57,
+   "half": 4.51,
+   "ppr": 5.43,
+   "std": 3.58,
    "opp": "CIN"
   },
   "7594": {
@@ -656,7 +600,7 @@
   "8151": {
    "half": 17.37,
    "ppr": 19.27,
-   "std": 15.47,
+   "std": 15.46,
    "opp": "SEA"
   },
   "8181": {
@@ -720,9 +664,9 @@
    "opp": "SF"
   },
   "11563": {
-   "half": 19.23,
-   "ppr": 19.23,
-   "std": 19.23,
+   "half": 19.24,
+   "ppr": 19.24,
+   "std": 19.24,
    "opp": "ARI"
   },
   "11581": {
@@ -738,8 +682,8 @@
    "opp": "CAR"
   },
   "11592": {
-   "half": 1.48,
-   "ppr": 1.89,
+   "half": 1.49,
+   "ppr": 1.9,
    "std": 1.07,
    "opp": "BAL"
   },
@@ -774,9 +718,9 @@
    "opp": "DET"
   },
   "12505": {
-   "half": 5.03,
-   "ppr": 6.34,
-   "std": 3.72,
+   "half": 4.95,
+   "ppr": 6.24,
+   "std": 3.66,
    "opp": "SEA"
   },
   "12543": {
@@ -806,13 +750,13 @@
   "13345": {
    "half": 4.15,
    "ppr": 4.74,
-   "std": 3.56,
+   "std": 3.57,
    "opp": "ARI"
   },
   "13346": {
-   "half": 9.33,
-   "ppr": 10.87,
-   "std": 7.79,
+   "half": 9.31,
+   "ppr": 10.85,
+   "std": 7.76,
    "opp": "TEN"
   },
   "1479": {
@@ -828,38 +772,38 @@
    "opp": "GB"
   },
   "4066": {
-   "half": 4.72,
+   "half": 4.73,
    "ppr": 5.76,
-   "std": 3.68,
+   "std": 3.69,
    "opp": "ARI"
   },
   "4147": {
-   "half": 4.92,
-   "ppr": 5.74,
-   "std": 4.1,
+   "half": 4.93,
+   "ppr": 5.75,
+   "std": 4.11,
    "opp": "BAL"
   },
   "4718": {
-   "half": 5.81,
-   "ppr": 6.26,
-   "std": 5.35,
+   "half": 5.73,
+   "ppr": 6.19,
+   "std": 5.28,
    "opp": "NYG"
   },
   "5001": {
-   "half": 6.66,
-   "ppr": 8.5,
-   "std": 4.82,
+   "half": 6.61,
+   "ppr": 8.45,
+   "std": 4.76,
    "opp": "NYG"
   },
   "5045": {
    "half": 7.56,
    "ppr": 9.0,
-   "std": 6.12,
+   "std": 6.13,
    "opp": "ARI"
   },
   "5938": {
    "half": 1.49,
-   "ppr": 1.8,
+   "ppr": 1.81,
    "std": 1.18,
    "opp": "ARI"
   },
@@ -870,9 +814,9 @@
    "opp": "LAR"
   },
   "7083": {
-   "half": 14.17,
-   "ppr": 14.17,
-   "std": 14.17,
+   "half": 14.24,
+   "ppr": 14.24,
+   "std": 14.24,
    "opp": "CIN"
   },
   "7608": {
@@ -882,8 +826,8 @@
    "opp": "SF"
   },
   "8145": {
-   "half": 2.15,
-   "ppr": 2.76,
+   "half": 2.14,
+   "ppr": 2.75,
    "std": 1.53,
    "opp": "MIA"
   },
@@ -900,9 +844,9 @@
    "opp": "NYJ"
   },
   "9224": {
-   "half": 13.15,
-   "ppr": 15.12,
-   "std": 11.18,
+   "half": 13.18,
+   "ppr": 15.15,
+   "std": 11.21,
    "opp": "BAL"
   },
   "9500": {
@@ -918,9 +862,9 @@
    "opp": "IND"
   },
   "9997": {
-   "half": 15.75,
-   "ppr": 18.69,
-   "std": 12.81,
+   "half": 15.82,
+   "ppr": 18.77,
+   "std": 12.88,
    "opp": "CIN"
   },
   "10214": {
@@ -930,9 +874,9 @@
    "opp": "LV"
   },
   "10218": {
-   "half": 1.87,
-   "ppr": 2.27,
-   "std": 1.46,
+   "half": 1.85,
+   "ppr": 2.25,
+   "std": 1.45,
    "opp": "NYG"
   },
   "10227": {
@@ -956,25 +900,25 @@
   "11201": {
    "half": 1.79,
    "ppr": 2.21,
-   "std": 1.37,
+   "std": 1.36,
    "opp": "TEN"
   },
   "11624": {
    "half": 8.85,
-   "ppr": 11.06,
+   "ppr": 11.05,
    "std": 6.65,
    "opp": "SEA"
   },
   "11627": {
    "half": 4.41,
-   "ppr": 5.27,
+   "ppr": 5.28,
    "std": 3.55,
    "opp": "ARI"
   },
   "11628": {
-   "half": 3.01,
-   "ppr": 3.53,
-   "std": 2.48,
+   "half": 2.98,
+   "ppr": 3.5,
+   "std": 2.45,
    "opp": "NYG"
   },
   "1166": {
@@ -996,27 +940,27 @@
    "opp": "ARI"
   },
   "12499": {
-   "half": 5.77,
-   "ppr": 6.75,
-   "std": 4.8,
+   "half": 5.8,
+   "ppr": 6.78,
+   "std": 4.82,
    "opp": "CLE"
   },
   "12512": {
-   "half": 10.2,
-   "ppr": 11.26,
-   "std": 9.14,
+   "half": 10.14,
+   "ppr": 11.21,
+   "std": 9.08,
    "opp": "TEN"
   },
   "12536": {
-   "half": 7.49,
-   "ppr": 8.88,
-   "std": 6.09,
+   "half": 7.42,
+   "ppr": 8.81,
+   "std": 6.02,
    "opp": "NYG"
   },
   "12540": {
-   "half": 2.26,
-   "ppr": 2.82,
-   "std": 1.7,
+   "half": 2.27,
+   "ppr": 2.83,
+   "std": 1.71,
    "opp": "CLE"
   },
   "12545": {
@@ -1051,25 +995,25 @@
   },
   "13276": {
    "half": 7.7,
-   "ppr": 9.43,
+   "ppr": 9.42,
    "std": 5.98,
    "opp": "MIA"
   },
   "13279": {
-   "half": 9.93,
-   "ppr": 12.41,
-   "std": 7.45,
+   "half": 9.95,
+   "ppr": 12.44,
+   "std": 7.47,
    "opp": "CLE"
   },
   "13293": {
-   "half": 5.16,
-   "ppr": 6.25,
-   "std": 4.08,
+   "half": 5.19,
+   "ppr": 6.28,
+   "std": 4.1,
    "opp": "CIN"
   },
   "13330": {
    "half": 3.93,
-   "ppr": 4.86,
+   "ppr": 4.85,
    "std": 3.01,
    "opp": "MIA"
   },
@@ -1087,8 +1031,8 @@
   },
   "13477": {
    "half": 1.48,
-   "ppr": 1.92,
-   "std": 1.03,
+   "ppr": 1.93,
+   "std": 1.04,
    "opp": "BAL"
   },
   "1466": {
@@ -1110,9 +1054,9 @@
    "opp": "KC"
   },
   "4993": {
-   "half": 6.73,
-   "ppr": 8.15,
-   "std": 5.31,
+   "half": 6.77,
+   "ppr": 8.19,
+   "std": 5.34,
    "opp": "BAL"
   },
   "5849": {
@@ -1122,9 +1066,9 @@
    "opp": "IND"
   },
   "5995": {
-   "half": 6.88,
-   "ppr": 7.75,
-   "std": 6.01,
+   "half": 6.9,
+   "ppr": 7.77,
+   "std": 6.03,
    "opp": "CIN"
   },
   "7828": {
@@ -1176,15 +1120,15 @@
    "opp": "CAR"
   },
   "11565": {
-   "half": 13.39,
-   "ppr": 13.39,
-   "std": 13.39,
+   "half": 13.62,
+   "ppr": 13.62,
+   "std": 13.62,
    "opp": "HOU"
   },
   "11571": {
-   "half": 5.54,
-   "ppr": 6.23,
-   "std": 4.85,
+   "half": 5.53,
+   "ppr": 6.22,
+   "std": 4.84,
    "opp": "MIA"
   },
   "11623": {
@@ -1194,15 +1138,15 @@
    "opp": "LV"
   },
   "11625": {
-   "half": 5.37,
+   "half": 5.36,
    "ppr": 6.56,
-   "std": 4.17,
+   "std": 4.16,
    "opp": "MIA"
   },
   "11655": {
-   "half": 4.73,
-   "ppr": 5.41,
-   "std": 4.05,
+   "half": 4.8,
+   "ppr": 5.48,
+   "std": 4.12,
    "opp": "HOU"
   },
   "11729": {
@@ -1236,21 +1180,21 @@
    "opp": "NYJ"
   },
   "12502": {
-   "half": 3.87,
-   "ppr": 5.1,
-   "std": 2.63,
+   "half": 4.26,
+   "ppr": 5.62,
+   "std": 2.9,
    "opp": "CLE"
   },
   "12516": {
    "half": 1.2,
-   "ppr": 1.31,
-   "std": 1.08,
+   "ppr": 1.32,
+   "std": 1.09,
    "opp": "CLE"
   },
   "12522": {
-   "half": 13.55,
-   "ppr": 13.55,
-   "std": 13.55,
+   "half": 13.62,
+   "ppr": 13.62,
+   "std": 13.62,
    "opp": "CLE"
   },
   "12526": {
@@ -1260,9 +1204,9 @@
    "opp": "TB"
   },
   "13285": {
-   "half": 4.3,
-   "ppr": 5.26,
-   "std": 3.34,
+   "half": 4.35,
+   "ppr": 5.32,
+   "std": 3.39,
    "opp": "HOU"
   },
   "13296": {
@@ -1272,9 +1216,9 @@
    "opp": "NYJ"
   },
   "13298": {
-   "half": 7.68,
-   "ppr": 9.72,
-   "std": 5.65,
+   "half": 7.67,
+   "ppr": 9.71,
+   "std": 5.63,
    "opp": "TEN"
   },
   "13311": {
@@ -1296,9 +1240,9 @@
    "opp": "TB"
   },
   "3198": {
-   "half": 16.1,
-   "ppr": 16.73,
-   "std": 15.46,
+   "half": 16.15,
+   "ppr": 16.78,
+   "std": 15.51,
    "opp": "CIN"
   },
   "3257": {
@@ -1344,13 +1288,13 @@
    "opp": "KC"
   },
   "6770": {
-   "half": 19.61,
-   "ppr": 19.61,
-   "std": 19.61,
+   "half": 19.73,
+   "ppr": 19.73,
+   "std": 19.73,
    "opp": "BAL"
   },
   "6783": {
-   "half": 2.49,
+   "half": 2.48,
    "ppr": 3.11,
    "std": 1.86,
    "opp": "TEN"
@@ -1374,9 +1318,9 @@
    "opp": "CAR"
   },
   "8146": {
-   "half": 13.74,
-   "ppr": 16.75,
-   "std": 10.72,
+   "half": 13.72,
+   "ppr": 16.74,
+   "std": 10.71,
    "opp": "MIA"
   },
   "8161": {
@@ -1398,15 +1342,15 @@
    "opp": "DET"
   },
   "8225": {
-   "half": 1.55,
-   "ppr": 1.99,
-   "std": 1.12,
+   "half": 1.78,
+   "ppr": 2.28,
+   "std": 1.28,
    "opp": "CLE"
   },
   "9502": {
-   "half": 1.6,
-   "ppr": 1.96,
-   "std": 1.24,
+   "half": 1.58,
+   "ppr": 1.94,
+   "std": 1.22,
    "opp": "NYG"
   },
   "10231": {
@@ -1422,9 +1366,9 @@
    "opp": "TB"
   },
   "11576": {
-   "half": 14.09,
-   "ppr": 15.43,
-   "std": 12.76,
+   "half": 14.37,
+   "ppr": 15.77,
+   "std": 12.97,
    "opp": "MIA"
   },
   "11586": {
@@ -1446,14 +1390,14 @@
    "opp": "NYJ"
   },
   "12481": {
-   "half": 6.16,
-   "ppr": 6.87,
-   "std": 5.44,
+   "half": 6.25,
+   "ppr": 6.96,
+   "std": 5.53,
    "opp": "HOU"
   },
   "12498": {
    "half": 3.36,
-   "ppr": 4.35,
+   "ppr": 4.34,
    "std": 2.37,
    "opp": "MIA"
   },
@@ -1488,9 +1432,9 @@
    "opp": "MIN"
   },
   "1373": {
-   "half": 16.05,
-   "ppr": 16.05,
-   "std": 16.05,
+   "half": 16.03,
+   "ppr": 16.03,
+   "std": 16.03,
    "opp": "MIA"
   },
   "1379": {
@@ -1504,6 +1448,12 @@
    "ppr": 1.13,
    "std": 0.67,
    "opp": "NYJ"
+  },
+  "3048": {
+   "half": 0.5,
+   "ppr": 0.63,
+   "std": 0.37,
+   "opp": "HOU"
   },
   "3155": {
    "half": 3.94,
@@ -1530,9 +1480,9 @@
    "opp": "PIT"
   },
   "6801": {
-   "half": 12.61,
-   "ppr": 15.03,
-   "std": 10.19,
+   "half": 12.66,
+   "ppr": 15.09,
+   "std": 10.24,
    "opp": "BAL"
   },
   "7075": {
@@ -1542,9 +1492,9 @@
    "opp": "SF"
   },
   "7090": {
-   "half": 2.63,
-   "ppr": 3.24,
-   "std": 2.02,
+   "half": 2.66,
+   "ppr": 3.27,
+   "std": 2.05,
    "opp": "HOU"
   },
   "7600": {
@@ -1578,15 +1528,15 @@
    "opp": "SF"
   },
   "8126": {
-   "half": 8.18,
-   "ppr": 10.28,
-   "std": 6.07,
+   "half": 8.2,
+   "ppr": 10.31,
+   "std": 6.1,
    "opp": "CLE"
   },
   "8131": {
-   "half": 10.07,
-   "ppr": 12.72,
-   "std": 7.42,
+   "half": 10.19,
+   "ppr": 12.84,
+   "std": 7.53,
    "opp": "HOU"
   },
   "8150": {
@@ -1614,9 +1564,9 @@
    "opp": "NO"
   },
   "9504": {
-   "half": 2.23,
-   "ppr": 2.72,
-   "std": 1.73,
+   "half": 2.21,
+   "ppr": 2.71,
+   "std": 1.71,
    "opp": "NYG"
   },
   "10213": {
@@ -1645,14 +1595,14 @@
   },
   "11439": {
    "half": 1.22,
-   "ppr": 1.34,
-   "std": 1.11,
+   "ppr": 1.33,
+   "std": 1.1,
    "opp": "TEN"
   },
   "11632": {
-   "half": 11.25,
-   "ppr": 14.06,
-   "std": 8.44,
+   "half": 11.38,
+   "ppr": 14.19,
+   "std": 8.57,
    "opp": "HOU"
   },
   "11646": {
@@ -1662,9 +1612,9 @@
    "opp": "TB"
   },
   "12474": {
-   "half": 14.04,
-   "ppr": 14.92,
-   "std": 13.15,
+   "half": 13.84,
+   "ppr": 14.73,
+   "std": 12.96,
    "opp": "NYG"
   },
   "12496": {
@@ -1674,9 +1624,9 @@
    "opp": "IND"
   },
   "12506": {
-   "half": 8.93,
-   "ppr": 11.01,
-   "std": 6.86,
+   "half": 8.9,
+   "ppr": 10.98,
+   "std": 6.83,
    "opp": "TEN"
   },
   "12531": {
@@ -1686,20 +1636,20 @@
    "opp": "TB"
   },
   "13264": {
-   "half": 2.47,
-   "ppr": 3.07,
-   "std": 1.88,
+   "half": 2.49,
+   "ppr": 3.08,
+   "std": 1.89,
    "opp": "BAL"
   },
   "13273": {
-   "half": 1.46,
-   "ppr": 1.82,
-   "std": 1.1,
+   "half": 1.47,
+   "ppr": 1.83,
+   "std": 1.11,
    "opp": "CIN"
   },
   "13324": {
-   "half": 2.09,
-   "ppr": 2.57,
+   "half": 2.1,
+   "ppr": 2.58,
    "std": 1.62,
    "opp": "CIN"
   },
@@ -1764,9 +1714,9 @@
    "opp": "DEN"
   },
   "5012": {
-   "half": 7.33,
-   "ppr": 9.1,
-   "std": 5.57,
+   "half": 7.37,
+   "ppr": 9.14,
+   "std": 5.6,
    "opp": "CIN"
   },
   "5844": {
@@ -1788,15 +1738,15 @@
    "opp": "MIN"
   },
   "5985": {
-   "half": 2.58,
-   "ppr": 3.18,
-   "std": 1.98,
+   "half": 3.07,
+   "ppr": 3.79,
+   "std": 2.35,
    "opp": "NYG"
   },
   "6130": {
-   "half": 3.75,
-   "ppr": 4.24,
-   "std": 3.25,
+   "half": 3.8,
+   "ppr": 4.3,
+   "std": 3.31,
    "opp": "HOU"
   },
   "6813": {
@@ -1818,7 +1768,7 @@
    "opp": "IND"
   },
   "7526": {
-   "half": 10.49,
+   "half": 10.5,
    "ppr": 12.65,
    "std": 8.34,
    "opp": "ARI"
@@ -1830,9 +1780,9 @@
    "opp": "SF"
   },
   "7569": {
-   "half": 14.6,
-   "ppr": 17.25,
-   "std": 11.94,
+   "half": 14.46,
+   "ppr": 17.11,
+   "std": 11.8,
    "opp": "NYG"
   },
   "7595": {
@@ -1860,8 +1810,8 @@
    "opp": "KC"
   },
   "8254": {
-   "half": 1.1,
-   "ppr": 1.2,
+   "half": 1.11,
+   "ppr": 1.21,
    "std": 1.0,
    "opp": "CLE"
   },
@@ -1908,9 +1858,9 @@
    "opp": "NO"
   },
   "9758": {
-   "half": 18.48,
-   "ppr": 18.48,
-   "std": 18.48,
+   "half": 18.24,
+   "ppr": 18.24,
+   "std": 18.24,
    "opp": "NYG"
   },
   "8207": {
