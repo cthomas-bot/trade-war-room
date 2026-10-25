@@ -292,9 +292,18 @@
    "t": "CAR"
   },
   "11655": {
-   "changed": null,
-   "entry": null,
-   "i": null,
+   "changed": "2026-10-25T18:46:13.710861+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Tyrone Tracy Jr.",
+    "note": "Sleeper now lists him questionable (hamstring) as of 11:46 AM PT Oct 25.",
+    "redraftAdj": 0.98,
+    "sleeperId": "11655",
+    "status": "Questionable",
+    "tag": "injury"
+   },
+   "i": "Questionable",
    "qb1": null,
    "t": "NYG"
   },
@@ -1131,9 +1140,18 @@
    "t": "CLE"
   },
   "4034": {
-   "changed": null,
-   "entry": null,
-   "i": null,
+   "changed": "2026-10-25T18:46:13.710861+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Christian McCaffrey",
+    "note": "Sleeper now lists him questionable (calf) as of 11:46 AM PT Oct 25.",
+    "redraftAdj": 0.98,
+    "sleeperId": "4034",
+    "status": "Questionable",
+    "tag": "injury"
+   },
+   "i": "Questionable",
    "qb1": null,
    "t": "SF"
   },
@@ -1656,6 +1674,8 @@
    "t": "NE"
   },
   "8122": {
+   "changed": null,
+   "entry": null,
    "i": null,
    "qb1": null,
    "t": "ARI"
