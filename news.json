@@ -251,11 +251,12 @@
     {
       "sleeperId": "7021",
       "name": "Rico Dowdle",
-      "note": "Dowdle (knee) was limited Friday (Oct 23) and is questionable for Sunday vs. New Orleans, though reports don't view him as at serious risk of missing the game.",
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 5:50 AM PT Oct 25. Earlier: Dowdle (knee) was limited Friday (Oct 23) and is questionable for Sunday vs. New Orleans, though reports don't view him as at serious risk of missing the game.",
       "tag": "injury",
-      "redraftAdj": 0.95,
+      "redraftAdj": 1.0,
       "dynastyAdj": 1.0,
-      "status": "Questionable"
+      "status": null,
+      "auto": true
     },
     {
       "sleeperId": "9508",
@@ -786,7 +787,17 @@
       "dynastyAdj": 0.99,
       "status": "Out",
       "auto": true
+    },
+    {
+      "sleeperId": "13289",
+      "name": "Drew Allar",
+      "note": "Sleeper now lists him out (coach's decision) as of 5:50 AM PT Oct 25.",
+      "tag": "injury",
+      "redraftAdj": 0.9,
+      "dynastyAdj": 1.0,
+      "status": "Out",
+      "auto": true
     }
   ],
-  "statusChecked": "5:52 PM PT Oct 24"
+  "statusChecked": "5:50 AM PT Oct 25"
 }

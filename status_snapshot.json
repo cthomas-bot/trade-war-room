@@ -669,8 +669,18 @@
    "t": "TEN"
   },
   "13289": {
-   "changed": "2026-10-21T07:53:53.206089+00:00",
-   "i": null,
+   "changed": "2026-10-25T12:50:43.699397+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Drew Allar",
+    "note": "Sleeper now lists him out (coach's decision) as of 5:50 AM PT Oct 25.",
+    "redraftAdj": 0.9,
+    "sleeperId": "13289",
+    "status": "Out",
+    "tag": "injury"
+   },
+   "i": "Out",
    "qb1": false,
    "t": "PIT"
   },
@@ -1435,8 +1445,18 @@
    "t": "NO"
   },
   "7021": {
-   "changed": "2026-10-21T21:46:27.707308+00:00",
-   "i": "Questionable",
+   "changed": "2026-10-25T12:50:43.699397+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Rico Dowdle",
+    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 5:50 AM PT Oct 25. Earlier: Dowdle (knee) was limited Friday (Oct 23) and is questionable for Sunday vs. New Orleans, though reports don't view him as at serious risk of missing the game.",
+    "redraftAdj": 1.0,
+    "sleeperId": "7021",
+    "status": null,
+    "tag": "injury"
+   },
+   "i": null,
    "qb1": null,
    "t": "PIT"
   },
