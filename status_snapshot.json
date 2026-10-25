@@ -1070,16 +1070,6 @@
   },
   "3321": {
    "changed": "2026-10-22T02:44:46.280199+00:00",
-   "entry": {
-    "auto": true,
-    "dynastyAdj": 1.0,
-    "name": "Tyreek Hill",
-    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 7:44 PM PT Oct 21.",
-    "redraftAdj": 1.0,
-    "sleeperId": "3321",
-    "status": null,
-    "tag": "injury"
-   },
    "i": null,
    "qb1": null,
    "t": null
@@ -1219,6 +1209,11 @@
    "i": null,
    "qb1": true,
    "t": "BUF"
+  },
+  "4993": {
+   "i": null,
+   "qb1": null,
+   "t": "CIN"
   },
   "5012": {
    "changed": null,
