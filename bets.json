@@ -1,27 +1,7 @@
 {
  "date": "Sun Oct 25",
- "scanned": "Oct 25, 8:15 AM PT",
+ "scanned": "Oct 25, 12:30 PM PT · recheck",
  "slate": [
-  {
-   "sport": "NFL",
-   "game": "Browns @ Titans",
-   "time": "10:00 AM PT",
-   "pick": "YES on “Over 37.5”",
-   "price": "48¢",
-   "call": "LEAN",
-   "why": "DK/FanDuel total 38.5 in calm, dry weather; small edge, Dimers 36.5 dissents.",
-   "recheck": "Drop if books fall to 37.5 or lower by 9:45 AM PT."
-  },
-  {
-   "sport": "NFL",
-   "game": "Colts @ Vikings",
-   "time": "10:00 AM PT",
-   "pick": "NO on “Minnesota wins by over 6.5” (= IND +6.5)",
-   "price": "48¢",
-   "call": "LEAN",
-   "why": "Books MIN -6/-6.5 make +6.5 ~50–51%; Kalshi MIN ML 74¢ also rich.",
-   "recheck": "YES if NO ≤45¢ with books still MIN -6.5 or shorter, by 9:45 AM PT."
-  },
   {
    "sport": "NFL",
    "game": "Packers @ Lions",
@@ -30,7 +10,7 @@
    "price": "44¢",
    "call": "LEAN",
    "why": "DK/FanDuel 53.5 de-vig under ~48–49%; Kalshi prices total near 55.5.",
-   "recheck": "YES if books still 53.5 and NO ≤43¢ at ~12:20 PM PT; drop if books hit 54.5+."
+   "recheck": "YES only if books still 53.5 and NO ≤43¢ (now 44¢)."
   },
   {
    "sport": "NBA",
@@ -58,9 +38,9 @@
    "time": "1:25 PM PT",
    "pick": "Rams ML",
    "price": "62¢",
-   "call": "WAIT",
-   "why": "DK/BetMGM Rams ~65%, but bet365 -3.5; Nacua game-time decision, Adams out.",
-   "recheck": "Inactives ~11:55 AM PT: Nacua active and Rams ≤61¢ → LEAN/YES; Nacua out → PASS."
+   "call": "LEAN",
+   "why": "Nacua (calf) is active; books ~65% Rams vs Kalshi's price, small edge.",
+   "recheck": ""
   },
   {
    "sport": "NBA",
@@ -71,56 +51,6 @@
    "call": "WAIT",
    "why": "Books PHI -2.5/-3.5 (~56% de-vig) vs 51¢, but Embiid status conflicting; Duren out.",
    "recheck": "~4:00 PM PT: if Embiid confirmed playing and PHI ≤ 51¢ → YES; if out → PASS."
-  },
-  {
-   "sport": "NFL",
-   "game": "Bengals @ Ravens",
-   "time": "10:00 AM PT",
-   "pick": "Bengals ML",
-   "price": "59¢",
-   "call": "PASS",
-   "why": "Huntley starts; books de-vig Bengals 57–59%, Kalshi 59¢ is fair.",
-   "recheck": "YES on Bengals ML only if Kalshi drops to ≤54¢ before 10 AM PT."
-  },
-  {
-   "sport": "NFL",
-   "game": "Dolphins @ Jets",
-   "time": "10:00 AM PT",
-   "pick": "Jets ML",
-   "price": "67¢",
-   "call": "PASS",
-   "why": "Books de-vig Jets 66–67% with Hall unlikely; Kalshi matches, total 39.5 fair.",
-   "recheck": "Recheck Hall inactive status ~8:30 AM PT; YES only if Jets ≤62¢."
-  },
-  {
-   "sport": "NFL",
-   "game": "Giants @ Texans",
-   "time": "10:00 AM PT",
-   "pick": "Texans ML",
-   "price": "81¢",
-   "call": "PASS",
-   "why": "McCarthy starts; books Texans ~80%, -10.5 and 42.5 all match Kalshi.",
-   "recheck": ""
-  },
-  {
-   "sport": "NFL",
-   "game": "49ers @ Falcons",
-   "time": "10:00 AM PT",
-   "pick": "49ers ML",
-   "price": "58¢",
-   "call": "PASS",
-   "why": "Evans and Samuel out; line fell to SF -2.5, books ~58% equals Kalshi.",
-   "recheck": "YES on 49ers ML only if ≤54¢ before 10 AM PT."
-  },
-  {
-   "sport": "NFL",
-   "game": "Buccaneers @ Panthers",
-   "time": "10:00 AM PT",
-   "pick": "NO on “Over 44.5” (= Under 44.5)",
-   "price": "50¢",
-   "call": "PASS",
-   "why": "Books 44.5 everywhere; 10–12 mph gusty wind is only a mild under nudge.",
-   "recheck": "Confirm Mayfield active ~8:30 AM PT; if he sits, Panthers side may open up."
   },
   {
    "sport": "NFL",
@@ -226,35 +156,6 @@
  },
  "props": [
   {
-   "slate": "Morning · 10 AM PT",
-   "picks": [
-    {
-     "pick": "Jonathan Taylor anytime TD (Colts @ Vikings)",
-     "odds": "-130",
-     "why": "Seven rushing TDs already; DK/Fanatics -130 still beats his red-zone workload.",
-     "call": "LEAN"
-    },
-    {
-     "pick": "Woody Marks anytime TD (Giants @ Texans)",
-     "odds": "-120",
-     "why": "Montgomery out; Marks has had 15 carries in each of his last two games and Houston is a heavy favorite.",
-     "call": "LEAN"
-    },
-    {
-     "pick": "Braelon Allen anytime TD (Dolphins @ Jets)",
-     "odds": "-110",
-     "why": "Hall unlikely; Allen has averaged 84 rush yards a game as the lead back (DK -110).",
-     "call": "LEAN"
-    },
-    {
-     "pick": "Nico Collins over 65.5 receiving yards (Giants @ Texans)",
-     "odds": "-111",
-     "why": "Houston's top target against a weak Giants team; DK line sits below his usual output.",
-     "call": "LEAN"
-    }
-   ]
-  },
-  {
    "slate": "Afternoon · 1 PM PT",
    "picks": [
     {
@@ -278,68 +179,7 @@
    ]
   }
  ],
- "parlays": [
-  {
-   "name": "Safe favorites",
-   "legs": [
-    {
-     "leg": "Texans ML vs Giants",
-     "odds": "-481"
-    },
-    {
-     "leg": "49ers ML at Falcons",
-     "odds": "-200"
-    },
-    {
-     "leg": "Rams ML at Raiders",
-     "odds": "-215"
-    }
-   ],
-   "odds": "+165",
-   "why": "Three clear favorites: Houston against McCarthy's Giants, the unbeaten 49ers, and the Rams against a Raiders team without Adams.",
-   "call": "FUN"
-  },
-  {
-   "name": "Props",
-   "legs": [
-    {
-     "leg": "Jahmyr Gibbs anytime TD",
-     "odds": "-340"
-    },
-    {
-     "leg": "Kyren Williams anytime TD",
-     "odds": "-205"
-    },
-    {
-     "leg": "Jonathan Taylor anytime TD",
-     "odds": "-130"
-    }
-   ],
-   "odds": "+241",
-   "why": "Three high-volume goal-line backs on favored or competitive offenses.",
-   "call": "FUN"
-  },
-  {
-   "name": "Mix",
-   "legs": [
-    {
-     "leg": "49ers ML at Falcons",
-     "odds": "-200"
-    },
-    {
-     "leg": "Christian McCaffrey anytime TD",
-     "odds": "-205"
-    },
-    {
-     "leg": "Woody Marks anytime TD",
-     "odds": "-120"
-    }
-   ],
-   "odds": "+309",
-   "why": "If the 49ers win, McCaffrey likely scores; Marks is Houston's lead back.",
-   "call": "FUN"
-  }
- ],
+ "parlays": [],
  "sources": [
   {
    "title": "VegasInsider — NFL Week 7 Odds 2026",
@@ -560,6 +400,14 @@
   {
    "title": "SI: 49ers vs Falcons prediction and odds Week 7 2026",
    "url": "https://www.si.com/betting/49ers-vs-falcons-prediction-odds-spread-injuries-trends-for-nfl-week-7-2026"
+  },
+  {
+   "title": "NFL.com: Rams WR Puka Nacua (calf) active vs. Raiders",
+   "url": "https://www.nfl.com/news/rams-wr-puka-nacua-calf-active-sunday-game-vs-raiders"
+  },
+  {
+   "title": "Packers.com: Packers-Lions Week 7 inactives",
+   "url": "https://www.packers.com/news/packers-lions-week-7-inactives-oct-25-2026"
   }
  ]
 }
