@@ -236,8 +236,18 @@
    "t": "MIA"
   },
   "11646": {
-   "changed": "2026-10-14T20:43:11.456667+00:00",
-   "i": null,
+   "changed": "2026-10-26T21:44:13.439965+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Jalen Coker",
+    "note": "Sleeper now lists him questionable (shoulder) as of 2:44 PM PT Oct 26.",
+    "redraftAdj": 0.98,
+    "sleeperId": "11646",
+    "status": "Questionable",
+    "tag": "injury"
+   },
+   "i": "Questionable",
    "qb1": null,
    "t": "CAR"
   },
@@ -1912,16 +1922,6 @@
   },
   "9753": {
    "changed": "2026-10-23T21:43:24.260033+00:00",
-   "entry": {
-    "auto": true,
-    "dynastyAdj": 1.0,
-    "name": "Zach Charbonnet",
-    "note": "Sleeper now lists him out (knee - acl) as of 2:43 PM PT Oct 23. Earlier: Seattle activated Charbonnet (ACL) from the PUP list on Thursday (Oct 22); Mike Macdonald says a Week 7 debut vs. Kansas City is a real possibility but not guaranteed, and a big initial workload is unlikely.",
-    "redraftAdj": 0.9,
-    "sleeperId": "9753",
-    "status": "Out",
-    "tag": "injury"
-   },
    "i": "Out",
    "qb1": null,
    "t": "SEA"
