@@ -1329,7 +1329,7 @@ function renderBets(){
   const yes=slate.filter(x=>x.call==='YES').length+((b.primetime&&b.primetime.games)||[]).filter(x=>x.call==='YES').length;
   const hero='<section class="hero"><div class="av">◎</div><div style="position:relative;z-index:1;min-width:0"><h1>Bet <em>Desk</em></h1><div class="sub">Today’s calls, primetime picks and props — green YES means bet it.</div></div>'+
     '<div class="pills">'+[[yes,'YES calls'],[slate.length,'Games'],['$'+fmt(+bk.week||0),'Week'],[money(+bk.week-st.wkStake),'Left'],[(st.w||st.l)?st.w+'-'+st.l:'—','Record']].map(([v,l])=>'<div class="pill"><b>'+esc(v)+'</b><small>'+esc(l)+'</small></div>').join('')+'</div></section>';
-  return hero+'<div class="grid"><div class="col colA">'+bankPanel(bk,st)+resultsPanel(BETS.r)+rulesPanel()+'</div><div class="col colB">'+slatePanel(b)+primePanel(b)+propsPanel(b)+parlayPanel(b)+'</div><div class="col colC">'+boardPanel(BETS.k)+sourcesPanel(b)+'</div></div>';
+  return hero+'<div class="grid"><div class="col colA">'+bankPanel(bk,st)+resultsPanel(BETS.r)+rulesPanel()+'</div><div class="col colB">'+slatePanel(b)+primePanel(b)+propsPanel(b)+parlayPanel(b)+'</div><div class="col colC">'+sourcesPanel(b)+'</div></div>';
 }
 function slatePanel(b){
   const s=b.slate||[];
