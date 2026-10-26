@@ -22,6 +22,26 @@ Compare Kalshi prices (kalshi.json snapshot; recheck live before betting) with d
 
 **Keep text short:** each "why" is one sentence (~15 words max). No essays.
 
+## How we think: Market → Trends → Matchup
+Every YES/LEAN/WAIT pick (games and props) is built in this order, and the pick JSON carries one short line for each: `"market"`, `"trend"`, `"matchup"` (≤ ~25 words each; omit a field only if nothing real was found). PASS games don't need them.
+
+1. **📈 Market (most weight): follow the sharp money, then shop for a stale number.**
+   - Anchor on the sharp book (Pinnacle; Circa/BetOnline if Pinnacle isn't findable). Report the opening → current line and price, e.g. "SEA −1.5 → −3, no tick back; KC ML +116 → +136".
+   - Compare public splits (tickets % vs money %, from Action Network / VSiN / DraftKings splits) with the move. **Reverse line movement** (line moves against the side with most tickets) is the strongest signal; a move with the public is weak.
+   - Edge = a retail book **or Kalshi** still showing the old number after the sharp book moved (e.g. Pinnacle 78.5, DraftKings still 80.5). Price Kalshi against the sharp book's no-vig line, not the retail average.
+   - Steam/firming prices (−110 → −133 on the same number) count as a move.
+2. **📊 Trends (support only, never the sole reason):** state the record and sample, e.g. "SNF teams with ≤25% of tickets are 6-2 ATS". Prefer situational/market trends (low-ticket side, line moving toward the low-ticket side, primetime road favorites/dogs), QB/coach ATS records, and **player game logs vs the line** ("lead backs vs SEA: 51, 29, 36, 45, 68, 41 — none reached 70"). Small samples (<20) are tiebreakers only.
+3. **🔍 Matchup (unit vs unit):** the specific mismatch that explains the market: pressure rate, rush/pass EPA, yards per carry allowed, RB yards allowed per game, red-zone TD rate, pace, weather, injuries/inactives. One concrete chain: "If KC can't run (SEA 3.65 ypc allowed, #3 rush EPA), Mahomes throws into the #2 pass D."
+
+**Totals (game and team totals):** same three lines, plus a totals checklist:
+- Market: total moving *against* the heavy side (e.g. 66% of tickets / 74% of money on the Over, yet 44.5 → 42.5 and Pinnacle 43 → 42) is reverse line movement on a total; note the lowest/highest number available (42 at BetMGM vs 42.5 elsewhere) and whether Kalshi still shows the old number.
+- Trends to check: primetime unders when 65%+ of tickets are on the Over; small home favorites (≤3) in primetime vs the total; totals that dropped 2+ points with the public on the Over; the QBs'/teams' over-under records; **the referee crew's** over-under record (especially primetime).
+- Matchup: both defenses' EPA and points allowed (season and last 3), red-zone TD rate allowed, offensive pace and PROE (pass rate over expected: a run-first team that can't run = slow game), and weather at kickoff (temperature, wind, rain).
+
+**Props:** same three lines. Favor props where the sharp book moved and a retail book (or Kalshi) lags, and where the game log hit rate agrees (e.g. "4 of 5 lead backs under 52.5 vs KC"). Correlate with the game read (a slow, low-total game → RB unders, QB scramble overs vs heavy-pressure defenses).
+
+**Honesty rules:** only report splits, line moves and trends you actually found with a source (put the URLs in `sources`). If sharp-book movement or split data isn't findable, say "no sharp-line data found" in `market` and don't upgrade past LEAN on trends alone. Never invent percentages or records.
+
 ## Extra sections
 - **Primetime** (on days with an upcoming TNF/SNF/MNF this week): one card per game with line, pick, call, 1–2 solid props, recheck. TNF: also report the season's real TNF underdog record (straight up / ATS) with a source.
 - **Sunday props** (NFL Sundays): best props split into Morning (10 AM PT), Afternoon (1 PM PT) and Late (SNF) slates, 2–4 per slate, realistic lines with odds.
@@ -38,13 +58,14 @@ Compare Kalshi prices (kalshi.json snapshot; recheck live before betting) with d
  "date": "Wed Oct 14", "scanned": "Oct 14, 7:50 AM PT",
  "slate": [{"sport": "MLB", "game": "Brewers @ Dodgers · NLCS G3", "time": "5:00 PM PT",
             "pick": "Dodgers ML", "price": "62¢", "call": "YES|LEAN|WAIT|PASS",
-            "why": "one short sentence", "recheck": "short trigger + time, or empty"}],
+            "why": "one short sentence", "recheck": "short trigger + time, or empty",
+            "market": "📈 sharp move / splits / stale number", "trend": "📊 record + sample", "matchup": "🔍 unit-vs-unit edge"}],
  "upcoming": [ same shape — notable games in the next few days, usually WAIT ],
  "primetime": {"tnf": {"game": "...", "kickoff": "Thu 5:15 PM PT · Prime", "trend": "...", "note": "...", "call": "SKIP|YES|LEAN|PASS"},
                "games": [{"slot": "SNF", "game": "...", "kickoff": "...", "line": "GB -1.5 · O/U 52.5",
                           "pick": "...", "price": "...", "call": "...", "why": "...",
                           "props": [{"pick": "...", "odds": "-150", "why": "..."}], "recheck": "..."}]},
- "props": [{"slate": "Morning · 10 AM PT", "picks": [{"pick": "...", "odds": "...", "why": "...", "call": "YES|LEAN"}]}],
+ "props": [{"slate": "Morning · 10 AM PT", "picks": [{"pick": "...", "odds": "...", "why": "...", "call": "YES|LEAN", "market": "...", "trend": "...", "matchup": "..."}]}],
  "parlay": {"legs": [{"leg": "...", "odds": "-150"}], "odds": "+300", "why": "...", "call": "FUN"},
  "sources": [{"title": "...", "url": "https://..."}]
 }

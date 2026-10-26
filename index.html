@@ -1334,10 +1334,10 @@ function renderBets(){
 function slatePanel(b){
   const s=b.slate||[];
   const rows=s.map(x=>'<div class="sl"><div class="sl-top">'+sportTag(x.sport)+'<b>'+esc(x.game)+'</b><span class="muted">'+esc(x.time||'')+'</span>'+call(x.call)+'</div>'+
-    '<div class="sl-pick">'+(x.pick?'<b>'+esc(x.pick)+'</b>'+(x.price?' <span class="muted">'+esc(x.price)+'</span>':''):'')+(x.why?' — '+esc(x.why):'')+'</div>'+
+    '<div class="sl-pick">'+(x.pick?'<b>'+esc(x.pick)+'</b>'+(x.price?' <span class="muted">'+esc(x.price)+'</span>':''):'')+(x.why?' — '+esc(x.why):'')+'</div>'+why3(x)+
     (x.recheck?'<div class="sl-re">⏰ '+esc(x.recheck)+'</div>':'')+'</div>').join('');
   const up=(b.upcoming||[]).map(x=>'<div class="sl"><div class="sl-top">'+sportTag(x.sport)+'<b>'+esc(x.game)+'</b><span class="muted">'+esc(x.time||'')+'</span>'+call(x.call)+'</div>'+
-    '<div class="sl-pick">'+(x.pick?'<b>'+esc(x.pick)+'</b>'+(x.price?' <span class="muted">'+esc(x.price)+'</span>':''):'')+(x.why?' — '+esc(x.why):'')+'</div>'+(x.recheck?'<div class="sl-re">⏰ '+esc(x.recheck)+'</div>':'')+'</div>').join('');
+    '<div class="sl-pick">'+(x.pick?'<b>'+esc(x.pick)+'</b>'+(x.price?' <span class="muted">'+esc(x.price)+'</span>':''):'')+(x.why?' — '+esc(x.why):'')+'</div>'+why3(x)+(x.recheck?'<div class="sl-re">⏰ '+esc(x.recheck)+'</div>':'')+'</div>').join('');
   return panel('Today’s Slate'+(b.date?' · '+b.date:''),'◎',(rows+(up?'<div class="ev-h" style="margin-top:12px">COMING UP</div>'+up:''))||'<p class="muted">Calls post around 8 AM PT and are rechecked around 3 PM PT (plus 12:30 PM on Sundays).</p>',{glow:true,right:b.scanned?'<small>updated '+esc(b.scanned)+'</small>':''});
 }
 function primePanel(b){
@@ -1345,16 +1345,22 @@ function primePanel(b){
   const t=p.tnf;
   const g=(p.games||[]).map(x=>'<div class="pt"><div class="sl-top"><span class="slot3">'+esc(x.slot||'')+'</span><b>'+esc(x.game)+'</b><span class="muted">'+esc(x.kickoff||'')+'</span>'+call(x.call)+'</div>'+
     (x.line?'<div class="muted" style="font-size:12px;margin-top:2px">'+esc(x.line)+'</div>':'')+
-    '<div class="sl-pick"><b>'+esc(x.pick||'')+'</b>'+(x.price?' <span class="muted">'+esc(x.price)+'</span>':'')+(x.why?' — '+esc(x.why):'')+'</div>'+
+    '<div class="sl-pick"><b>'+esc(x.pick||'')+'</b>'+(x.price?' <span class="muted">'+esc(x.price)+'</span>':'')+(x.why?' — '+esc(x.why):'')+'</div>'+why3(x)+
     ((x.props||[]).length?'<div class="props">'+x.props.map(pp=>'<span class="prop"><b>'+esc(pp.pick)+'</b>'+(pp.odds?' '+esc(pp.odds):'')+(pp.why?'<small>'+esc(pp.why)+'</small>':'')+'</span>').join('')+'</div>':'')+
     (x.recheck?'<div class="sl-re">⏰ '+esc(x.recheck)+'</div>':'')+'</div>').join('');
   const tn=t?'<div class="pt tnf"><div class="sl-top"><span class="slot3">TNF</span><b>'+esc(t.game)+'</b><span class="muted">'+esc(t.kickoff||'')+'</span>'+(t.call?call(t.call):'<span class="call c-pass">SKIP</span>')+'</div>'+
     (t.trend?'<div class="sl-pick">📈 '+esc(t.trend)+'</div>':'')+(t.note?'<div class="muted" style="font-size:12px">'+esc(t.note)+'</div>':'')+'</div>':'';
   return panel('Primetime','★',tn+g,{right:'<small>TNF · SNF · MNF</small>'});
 }
+/* Market / Trends / Matchup breakdown for a pick (shown when the scan provides it) */
+function why3(x){
+  const L=[['📈','Market',x.market],['📊','Trends',x.trend],['🔍','Matchup',x.matchup]].filter(r=>r[2]);
+  if(!L.length)return '';
+  return '<details class="more why3"><summary>Why: '+L.map(r=>r[0]+' '+r[1]).join(' · ')+'</summary><ul>'+L.map(r=>'<li><b>'+r[0]+' '+r[1]+':</b> '+esc(r[2])+'</li>').join('')+'</ul></details>';
+}
 function propsPanel(b){
   const p=b.props||[];
-  const body=p.length?p.map(s=>'<div class="ev-h">'+esc(s.slate)+'</div>'+(s.picks||[]).map(x=>'<div class="km" style="grid-template-columns:minmax(0,1fr) auto"><span><b>'+esc(x.pick)+'</b>'+(x.odds?' <span class="muted">'+esc(x.odds)+'</span>':'')+(x.why?'<br><small class="muted">'+esc(x.why)+'</small>':'')+'</span>'+call(x.call||'LEAN')+'</div>').join('')).join('')
+  const body=p.length?p.map(s=>'<div class="ev-h">'+esc(s.slate)+'</div>'+(s.picks||[]).map(x=>'<div class="km" style="grid-template-columns:minmax(0,1fr) auto"><span><b>'+esc(x.pick)+'</b>'+(x.odds?' <span class="muted">'+esc(x.odds)+'</span>':'')+(x.why?'<br><small class="muted">'+esc(x.why)+'</small>':'')+why3(x)+'</span>'+call(x.call||'LEAN')+'</div>').join('')).join('')
     :'<p class="muted" style="font-size:13px">Props post with the morning scan on college Saturdays and NFL Sundays.</p>';
   return panel('Props','✚',body);
 }
