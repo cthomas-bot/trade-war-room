@@ -1303,7 +1303,7 @@ const BETS={loaded:false};
 const jget=(k,d)=>{try{return JSON.parse(store.get(k)||'')||d}catch(e){return d}};
 const jset=(k,v)=>store.set(k,JSON.stringify(v));
 const money=x=>(x<0?'−$':'$')+Math.abs(x).toFixed(2);
-async function ensureBets(){if(!BETS.loaded){const [k,b]=await Promise.all([local('kalshi.json'),local('bets.json')]);BETS.k=k;BETS.b=b;BETS.loaded=true;}}
+async function ensureBets(){if(!BETS.loaded){const [k,b,r]=await Promise.all([local('kalshi.json'),local('bets.json'),local('results.json')]);BETS.k=k;BETS.b=b;BETS.r=r;BETS.loaded=true;}}
 function bank(){const b=jget('bank',{});return {week:b.week??'50',day:b.day??'10',ledger:b.ledger||[]};}
 function saveBank(b){jset('bank',b);}
 const today=()=>new Date().toLocaleDateString('en-CA',{timeZone:'America/Los_Angeles'});
@@ -1329,7 +1329,7 @@ function renderBets(){
   const yes=slate.filter(x=>x.call==='YES').length+((b.primetime&&b.primetime.games)||[]).filter(x=>x.call==='YES').length;
   const hero='<section class="hero"><div class="av">◎</div><div style="position:relative;z-index:1;min-width:0"><h1>Bet <em>Desk</em></h1><div class="sub">Today’s calls, primetime picks and props — green YES means bet it.</div></div>'+
     '<div class="pills">'+[[yes,'YES calls'],[slate.length,'Games'],['$'+fmt(+bk.week||0),'Week'],[money(+bk.week-st.wkStake),'Left'],[(st.w||st.l)?st.w+'-'+st.l:'—','Record']].map(([v,l])=>'<div class="pill"><b>'+esc(v)+'</b><small>'+esc(l)+'</small></div>').join('')+'</div></section>';
-  return hero+'<div class="grid"><div class="col colA">'+bankPanel(bk,st)+rulesPanel()+'</div><div class="col colB">'+slatePanel(b)+primePanel(b)+propsPanel(b)+parlayPanel(b)+'</div><div class="col colC">'+boardPanel(BETS.k)+sourcesPanel(b)+'</div></div>';
+  return hero+'<div class="grid"><div class="col colA">'+bankPanel(bk,st)+resultsPanel(BETS.r)+rulesPanel()+'</div><div class="col colB">'+slatePanel(b)+primePanel(b)+propsPanel(b)+parlayPanel(b)+'</div><div class="col colC">'+boardPanel(BETS.k)+sourcesPanel(b)+'</div></div>';
 }
 function slatePanel(b){
   const s=b.slate||[];
@@ -1351,6 +1351,20 @@ function primePanel(b){
   const tn=t?'<div class="pt tnf"><div class="sl-top"><span class="slot3">TNF</span><b>'+esc(t.game)+'</b><span class="muted">'+esc(t.kickoff||'')+'</span>'+(t.call?call(t.call):'<span class="call c-pass">SKIP</span>')+'</div>'+
     (t.trend?'<div class="sl-pick">📈 '+esc(t.trend)+'</div>':'')+(t.note?'<div class="muted" style="font-size:12px">'+esc(t.note)+'</div>':'')+'</div>':'';
   return panel('Primetime','★',tn+g,{right:'<small>TNF · SNF · MNF</small>'});
+}
+/* Results tracker: graded YES/LEAN calls with record and $ at the flat stake */
+function resultsPanel(R){
+  const P=(R&&R.picks||[]).filter(x=>x.result==='W'||x.result==='L'||x.result==='P');
+  if(!P.length)return '';
+  const rec=a=>{const w=a.filter(x=>x.result==='W').length,l=a.filter(x=>x.result==='L').length,p=a.filter(x=>x.result==='P').length;return w+'–'+l+(p?'–'+p:'');};
+  const money=a=>{const s=a.reduce((t,x)=>t+(+x.pl||0),0);return '<b class="'+(s>=0?'up':'down')+'">'+(s>=0?'+$':'−$')+Math.abs(s).toFixed(2)+'</b>';};
+  const by=f=>[...new Set(P.map(f))].map(k=>{const a=P.filter(x=>f(x)===k);return '<div class="km" style="grid-template-columns:minmax(0,1fr) auto auto"><span>'+esc(k)+'</span><span class="q">'+rec(a)+'</span><span class="q">'+money(a)+'</span></div>';}).join('');
+  const kind=x=>/Over|Under|“Over/.test(x.pick)?'Totals':/wins by over|[+−-]\d/.test(x.pick)?'Spreads':'Moneylines';
+  const last=P.slice(-8).reverse().map(x=>'<div class="km" style="grid-template-columns:auto minmax(0,1fr) auto"><span class="'+(x.result==='W'?'up':x.result==='L'?'down':'muted')+'"><b>'+x.result+'</b></span><span><b>'+esc(x.pick)+'</b> <span class="muted">'+esc(x.price||'')+'</span><br><small class="muted">'+esc(x.game)+' · '+esc(x.final||'')+'</small></span><span class="q">'+((+x.pl)>=0?'+':'−')+'$'+Math.abs(+x.pl||0).toFixed(2)+'</span></div>').join('');
+  return panel('Results','✓','<div class="sl-pick" style="margin:2px 0 8px">Record <b>'+rec(P)+'</b> · '+money(P)+' at $'+(R.stake||5)+'/pick</div>'+
+    '<div class="ev-h">By call</div>'+by(x=>x.call)+'<div class="ev-h">By bet type</div>'+by(kind)+
+    '<details class="more"><summary>Last '+Math.min(8,P.length)+' graded</summary>'+last+'</details>'+
+    '<p class="muted" style="font-size:12px;margin:8px 0 0">'+esc(R.note||'')+' Updated '+esc(R.updated||'')+'.</p>');
 }
 /* Market / Trends / Matchup breakdown for a pick (shown when the scan provides it) */
 function why3(x){

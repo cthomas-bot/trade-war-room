@@ -52,6 +52,13 @@ Every YES/LEAN/WAIT pick (games and props) is built in this order, and the pick 
 - **Morning scan** (~7:50 AM PT daily): full scan, written fresh.
 - **Recheck** (~2:50 PM PT daily, plus ~12:20 PM PT Sundays): light update of the existing bets.json, with no rewrite. Recheck only games that haven't started, mainly WAIT/LEAN calls and anything hit by new injuries, lineups or starters, or line moves. Upgrade or downgrade calls, update price and recheck, and drop finished games. Set `"scanned"` to e.g. "Oct 15, 2:52 PM PT · recheck". On Sundays, also refresh the Afternoon/Late props for NFL inactives. If nothing changed, update only `scanned`. If no games are left today, make no commit.
 
+## Results tracker: `results.json`
+The morning scan grades yesterday's picks first, before writing the new bets.json.
+- Take every YES/LEAN game pick (and primetime pick) from the previous day's last bets.json version that had it before kickoff (`git log -- bets.json`). Use the call it had at kickoff.
+- Find each final score (WebSearch, two sources if possible) and grade W / L / P (push, refund). Moneyline = winner; "X wins by over N" YES needs margin > N, NO needs margin < N; totals vs the line.
+- $5 per pick at the listed price: win pays 5/p − 5, loss −5, push 0; subtract the Kalshi taker fee 0.07 × (5/p) × p × (1−p). Round to cents.
+- Append to `picks` as {date, sport, game, pick, price, call, result, final, pl}; skip games already in the file; set "updated". If a final can't be found, leave it out and try again the next day.
+
 ## Output: `bets.json` at the repo root
 ```json
 {
