@@ -1,53 +1,25 @@
 {
  "season": "2026",
  "week": 7,
- "updated": "2026-10-25 3:05 PM PT",
+ "updated": "2026-10-25 6:29 PM PT",
  "games": [
   {
-   "id": "401873019",
-   "kickoff": "2026-10-25T20:05Z",
+   "id": "401873022",
+   "kickoff": "2026-10-26T00:20Z",
    "state": "in",
-   "home": "ARI",
-   "away": "DEN",
-   "homeScore": "6",
-   "awayScore": "13",
-   "venue": "State Farm Stadium",
-   "tv": "CBS",
-   "weather": {
-    "roof": "retract",
-    "temp": 79.6,
-    "precip": 0,
-    "code": 0,
-    "wind": 2.1,
-    "night": false
-   }
-  },
-  {
-   "id": "401873020",
-   "kickoff": "2026-10-25T20:25Z",
-   "state": "in",
-   "home": "DET",
-   "away": "GB",
+   "home": "SEA",
+   "away": "KC",
    "homeScore": "10",
-   "awayScore": "7",
-   "venue": "Ford Field",
-   "tv": "Fox",
+   "awayScore": "0",
+   "venue": "Lumen Field",
+   "tv": "NBC",
    "weather": {
-    "roof": "dome"
-   }
-  },
-  {
-   "id": "401873021",
-   "kickoff": "2026-10-25T20:25Z",
-   "state": "in",
-   "home": "LV",
-   "away": "LAR",
-   "homeScore": "6",
-   "awayScore": "28",
-   "venue": "Allegiant Stadium",
-   "tv": "Fox",
-   "weather": {
-    "roof": "dome"
+    "roof": "open",
+    "temp": 55.1,
+    "precip": 8,
+    "code": 2,
+    "wind": 1.3,
+    "night": false
    }
   },
   {
@@ -193,30 +165,50 @@
    }
   },
   {
-   "id": "401873022",
-   "kickoff": "2026-10-26T00:20Z",
-   "state": "pre",
-   "home": "SEA",
-   "away": "KC",
-   "homeScore": "0",
-   "awayScore": "0",
-   "venue": "Lumen Field",
-   "tv": "NBC",
-   "details": "SEA -3",
-   "total": 42.5,
-   "fav": "SEA",
-   "spread": 3.0,
-   "homeML": null,
-   "awayML": null,
-   "homeImplied": 22.8,
-   "awayImplied": 19.8,
+   "id": "401873019",
+   "kickoff": "2026-10-25T20:05Z",
+   "state": "post",
+   "home": "ARI",
+   "away": "DEN",
+   "homeScore": "16",
+   "awayScore": "30",
+   "venue": "State Farm Stadium",
+   "tv": "CBS",
    "weather": {
-    "roof": "open",
-    "temp": 53.6,
-    "precip": 12,
+    "roof": "retract",
+    "temp": 79.6,
+    "precip": 0,
     "code": 0,
-    "wind": 1.7,
+    "wind": 2.1,
     "night": false
+   }
+  },
+  {
+   "id": "401873020",
+   "kickoff": "2026-10-25T20:25Z",
+   "state": "post",
+   "home": "DET",
+   "away": "GB",
+   "homeScore": "20",
+   "awayScore": "17",
+   "venue": "Ford Field",
+   "tv": "Fox",
+   "weather": {
+    "roof": "dome"
+   }
+  },
+  {
+   "id": "401873021",
+   "kickoff": "2026-10-25T20:25Z",
+   "state": "post",
+   "home": "LV",
+   "away": "LAR",
+   "homeScore": "21",
+   "awayScore": "35",
+   "venue": "Allegiant Stadium",
+   "tv": "Fox",
+   "weather": {
+    "roof": "dome"
    }
   },
   {
@@ -442,7 +434,7 @@
    "opp": "GB"
   },
   "12817": {
-   "half": 0.53,
+   "half": 0.54,
    "ppr": 0.68,
    "std": 0.39,
    "opp": "SEA"
@@ -466,9 +458,9 @@
    "opp": "TEN"
   },
   "4046": {
-   "half": 16.28,
-   "ppr": 16.28,
-   "std": 16.28,
+   "half": 16.5,
+   "ppr": 16.5,
+   "std": 16.5,
    "opp": "SEA"
   },
   "4892": {
@@ -574,9 +566,9 @@
    "opp": "DEN"
   },
   "8151": {
-   "half": 17.36,
-   "ppr": 19.26,
-   "std": 15.46,
+   "half": 17.46,
+   "ppr": 19.38,
+   "std": 15.55,
    "opp": "SEA"
   },
   "8181": {
@@ -586,9 +578,9 @@
    "opp": "LAR"
   },
   "8676": {
-   "half": 4.9,
-   "ppr": 5.89,
-   "std": 3.9,
+   "half": 4.93,
+   "ppr": 5.93,
+   "std": 3.93,
    "opp": "KC"
   },
   "9228": {
@@ -664,15 +656,15 @@
    "opp": "BAL"
   },
   "11603": {
-   "half": 6.23,
-   "ppr": 7.82,
-   "std": 4.64,
+   "half": 6.29,
+   "ppr": 7.88,
+   "std": 4.69,
    "opp": "KC"
   },
   "12048": {
-   "half": 5.96,
-   "ppr": 7.03,
-   "std": 4.89,
+   "half": 5.99,
+   "ppr": 7.07,
+   "std": 4.92,
    "opp": "KC"
   },
   "12473": {
@@ -682,9 +674,9 @@
    "opp": "TB"
   },
   "12497": {
-   "half": 2.82,
-   "ppr": 3.42,
-   "std": 2.22,
+   "half": 2.85,
+   "ppr": 3.46,
+   "std": 2.25,
    "opp": "KC"
   },
   "12501": {
@@ -694,9 +686,9 @@
    "opp": "DET"
   },
   "12505": {
-   "half": 4.95,
-   "ppr": 6.24,
-   "std": 3.66,
+   "half": 5.01,
+   "ppr": 6.31,
+   "std": 3.72,
    "opp": "SEA"
   },
   "12543": {
@@ -718,9 +710,9 @@
    "opp": "PIT"
   },
   "13337": {
-   "half": 3.16,
-   "ppr": 3.77,
-   "std": 2.55,
+   "half": 3.18,
+   "ppr": 3.79,
+   "std": 2.57,
    "opp": "SEA"
   },
   "13345": {
@@ -880,9 +872,9 @@
    "opp": "TEN"
   },
   "11624": {
-   "half": 8.86,
-   "ppr": 11.06,
-   "std": 6.65,
+   "half": 8.94,
+   "ppr": 11.15,
+   "std": 6.72,
    "opp": "SEA"
   },
   "11627": {
@@ -994,9 +986,9 @@
    "opp": "MIA"
   },
   "13413": {
-   "half": 1.69,
-   "ppr": 2.09,
-   "std": 1.28,
+   "half": 1.71,
+   "ppr": 2.11,
+   "std": 1.3,
    "opp": "SEA"
   },
   "13420": {
@@ -1012,9 +1004,9 @@
    "opp": "BAL"
   },
   "1466": {
-   "half": 9.71,
-   "ppr": 12.05,
-   "std": 7.38,
+   "half": 9.81,
+   "ppr": 12.15,
+   "std": 7.46,
    "opp": "SEA"
   },
   "4054": {
@@ -1024,9 +1016,9 @@
    "opp": "MIN"
   },
   "4189": {
-   "half": 1.25,
-   "ppr": 1.58,
-   "std": 0.93,
+   "half": 1.27,
+   "ppr": 1.6,
+   "std": 0.94,
    "opp": "KC"
   },
   "4993": {
@@ -1048,9 +1040,9 @@
    "opp": "CIN"
   },
   "7828": {
-   "half": 3.19,
-   "ppr": 4.14,
-   "std": 2.24,
+   "half": 3.22,
+   "ppr": 4.17,
+   "std": 2.26,
    "opp": "SEA"
   },
   "8119": {
@@ -1258,9 +1250,9 @@
    "opp": "MIA"
   },
   "4943": {
-   "half": 15.05,
-   "ppr": 15.05,
-   "std": 15.05,
+   "half": 15.23,
+   "ppr": 15.23,
+   "std": 15.23,
    "opp": "KC"
   },
   "6770": {
@@ -1384,9 +1376,9 @@
    "opp": "LAR"
   },
   "12863": {
-   "half": 2.64,
-   "ppr": 3.29,
-   "std": 2.0,
+   "half": 2.67,
+   "ppr": 3.32,
+   "std": 2.02,
    "opp": "SEA"
   },
   "13317": {
@@ -1444,9 +1436,9 @@
    "opp": "SF"
   },
   "4039": {
-   "half": 5.65,
-   "ppr": 6.93,
-   "std": 4.37,
+   "half": 5.7,
+   "ppr": 6.99,
+   "std": 4.42,
    "opp": "KC"
   },
   "5857": {
@@ -1564,9 +1556,9 @@
    "opp": "NYJ"
   },
   "11435": {
-   "half": 9.29,
-   "ppr": 10.02,
-   "std": 8.56,
+   "half": 9.35,
+   "ppr": 10.08,
+   "std": 8.62,
    "opp": "KC"
   },
   "11439": {
@@ -1780,8 +1772,8 @@
    "opp": "DEN"
   },
   "8223": {
-   "half": 1.75,
-   "ppr": 1.77,
+   "half": 1.76,
+   "ppr": 1.78,
    "std": 1.73,
    "opp": "KC"
   },
@@ -1822,9 +1814,9 @@
    "opp": "DET"
   },
   "9488": {
-   "half": 20.43,
-   "ppr": 24.03,
-   "std": 16.82,
+   "half": 20.66,
+   "ppr": 24.28,
+   "std": 17.03,
    "opp": "KC"
   },
   "96": {
