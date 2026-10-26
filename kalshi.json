@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-26 7:54 AM PT",
- "quotedAt": "2026-10-26T14:54:11.833364+00:00",
+ "updated": "2026-10-26 8:05 AM PT",
+ "quotedAt": "2026-10-26T15:05:27.942919+00:00",
  "series": [
   "KXNFLGAME",
   "KXNFLSPREAD",
@@ -39,7 +39,7 @@
    "rules": "If Cleveland wins the Minnesota vs Cleveland Pro Basketball game originally scheduled for Oct 26, 2026, then the market resolves to Yes.",
    "open": 0.58,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.59
+   "prev": 0.63
   },
   {
    "ticker": "KXNBAGAME-26OCT26MINCLE-MIN",
@@ -63,7 +63,7 @@
    "rules": "If Minnesota wins the Minnesota vs Cleveland Pro Basketball game originally scheduled for Oct 26, 2026, then the market resolves to Yes.",
    "open": 0.44,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.42
+   "prev": 0.39
   },
   {
    "ticker": "KXNBAGAME-26OCT26WASCHA-CHA",
@@ -77,7 +77,7 @@
    "yesAsk": 0.56,
    "noBid": 0.44,
    "noAsk": 0.45,
-   "last": 0.56,
+   "last": 0.55,
    "volume": null,
    "openInterest": null,
    "close": "2026-10-28T23:00:00Z",
@@ -87,7 +87,7 @@
    "rules": "If Charlotte wins the Washington vs Charlotte Pro Basketball game originally scheduled for Oct 26, 2026, then the market resolves to Yes.",
    "open": 0.54,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.54
+   "prev": 0.56
   },
   {
    "ticker": "KXNBAGAME-26OCT26WASCHA-WAS",
@@ -111,7 +111,7 @@
    "rules": "If Washington wins the Washington vs Charlotte Pro Basketball game originally scheduled for Oct 26, 2026, then the market resolves to Yes.",
    "open": 0.47,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.47
+   "prev": 0.45
   },
   {
    "ticker": "KXNBASPREAD-26OCT26MINCLE-CLE4",
@@ -135,7 +135,7 @@
    "rules": "If Cleveland wins by more than 3.5 points in the Minnesota vs Cleveland Pro Basketball game originally scheduled for Oct 26, 2026, then the market resolves to Yes.",
    "open": 0.51,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.5
+   "prev": 0.54
   },
   {
    "ticker": "KXNBASPREAD-26OCT26MINCLE-CLE5",
@@ -146,8 +146,8 @@
    "yes": "Cleveland wins by over 4.5 points",
    "no": "Cleveland wins by over 4.5 points",
    "yesBid": 0.48,
-   "yesAsk": 0.5,
-   "noBid": 0.5,
+   "yesAsk": 0.49,
+   "noBid": 0.51,
    "noAsk": 0.52,
    "last": 0.5,
    "volume": null,
@@ -159,7 +159,7 @@
    "rules": "If Cleveland wins by more than 4.5 points in the Minnesota vs Cleveland Pro Basketball game originally scheduled for Oct 26, 2026, then the market resolves to Yes.",
    "open": 0.47,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.46
+   "prev": 0.5
   },
   {
    "ticker": "KXNBASPREAD-26OCT26MINCLE-CLE6",
@@ -170,8 +170,8 @@
    "yes": "Cleveland wins by over 5.5 points",
    "no": "Cleveland wins by over 5.5 points",
    "yesBid": 0.44,
-   "yesAsk": 0.45,
-   "noBid": 0.55,
+   "yesAsk": 0.46,
+   "noBid": 0.54,
    "noAsk": 0.56,
    "last": 0.44,
    "volume": null,
@@ -207,7 +207,7 @@
    "rules": "If Charlotte wins by more than 1.5 points in the Washington vs Charlotte Pro Basketball game originally scheduled for Oct 26, 2026, then the market resolves to Yes.",
    "open": 0.53,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.53
+   "prev": 0.54
   },
   {
    "ticker": "KXNBASPREAD-26OCT26WASCHA-CHA3",
@@ -231,7 +231,7 @@
    "rules": "If Charlotte wins by more than 2.5 points in the Washington vs Charlotte Pro Basketball game originally scheduled for Oct 26, 2026, then the market resolves to Yes.",
    "open": 0.49,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.49
+   "prev": 0.5
   },
   {
    "ticker": "KXNBASPREAD-26OCT26WASCHA-CHA4",
@@ -279,7 +279,7 @@
    "rules": "If over 232.5 total points are scored in the Minnesota vs Cleveland Pro Basketball game originally scheduled for Oct 26, 2026, then the market resolves to Yes.",
    "open": 0.52,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.52
+   "prev": 0.54
   },
   {
    "ticker": "KXNBATOTAL-26OCT26MINCLE-235",
@@ -293,7 +293,7 @@
    "yesAsk": 0.49,
    "noBid": 0.51,
    "noAsk": 0.52,
-   "last": 0.49,
+   "last": 0.48,
    "volume": null,
    "openInterest": null,
    "close": "2026-10-28T23:00:00Z",
@@ -303,7 +303,7 @@
    "rules": "If over 234.5 total points are scored in the Minnesota vs Cleveland Pro Basketball game originally scheduled for Oct 26, 2026, then the market resolves to Yes.",
    "open": 0.49,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.48
+   "prev": 0.49
   },
   {
    "ticker": "KXNBATOTAL-26OCT26MINCLE-237",
@@ -327,7 +327,7 @@
    "rules": "If over 236.5 total points are scored in the Minnesota vs Cleveland Pro Basketball game originally scheduled for Oct 26, 2026, then the market resolves to Yes.",
    "open": 0.44,
    "openAt": "Oct 26 3:23 AM",
-   "prev": 0.44
+   "prev": 0.45
   },
   {
    "ticker": "KXNBATOTAL-26OCT26WASCHA-227",
@@ -337,10 +337,10 @@
    "title": "Full Game: Over 226.5 points scored",
    "yes": "Over 226.5 points",
    "no": "Over 226.5 points",
-   "yesBid": 0.54,
+   "yesBid": 0.53,
    "yesAsk": 0.55,
    "noBid": 0.45,
-   "noAsk": 0.46,
+   "noAsk": 0.47,
    "last": 0.55,
    "volume": null,
    "openInterest": null,
@@ -351,7 +351,7 @@
    "rules": "If over 226.5 total points are scored in the Washington vs Charlotte Pro Basketball game originally scheduled for Oct 26, 2026, then the market resolves to Yes.",
    "open": 0.56,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.57
+   "prev": 0.55
   },
   {
    "ticker": "KXNBATOTAL-26OCT26WASCHA-229",
@@ -365,7 +365,7 @@
    "yesAsk": 0.49,
    "noBid": 0.51,
    "noAsk": 0.52,
-   "last": 0.48,
+   "last": 0.49,
    "volume": null,
    "openInterest": null,
    "close": "2026-10-28T23:00:00Z",
@@ -375,7 +375,7 @@
    "rules": "If over 228.5 total points are scored in the Washington vs Charlotte Pro Basketball game originally scheduled for Oct 26, 2026, then the market resolves to Yes.",
    "open": 0.51,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.51
+   "prev": 0.49
   },
   {
    "ticker": "KXNBATOTAL-26OCT26WASCHA-231",
@@ -399,7 +399,7 @@
    "rules": "If over 230.5 total points are scored in the Washington vs Charlotte Pro Basketball game originally scheduled for Oct 26, 2026, then the market resolves to Yes.",
    "open": 0.46,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.47
+   "prev": 0.45
   },
   {
    "ticker": "KXNBAGAME-26OCT26CHIBOS-BOS",
@@ -423,7 +423,7 @@
    "rules": "If Boston wins the Chicago vs Boston Pro Basketball game originally scheduled for Oct 26, 2026, then the market resolves to Yes.",
    "open": 0.87,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.86
+   "prev": 0.87
   },
   {
    "ticker": "KXNBAGAME-26OCT26CHIBOS-CHI",
@@ -471,7 +471,7 @@
    "rules": "If Dallas wins the Dallas vs Miami Pro Basketball game originally scheduled for Oct 26, 2026, then the market resolves to Yes.",
    "open": 0.26,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.26
+   "prev": 0.27
   },
   {
    "ticker": "KXNBAGAME-26OCT26DALMIA-MIA",
@@ -495,7 +495,7 @@
    "rules": "If Miami wins the Dallas vs Miami Pro Basketball game originally scheduled for Oct 26, 2026, then the market resolves to Yes.",
    "open": 0.76,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.75
+   "prev": 0.74
   },
   {
    "ticker": "KXNBASPREAD-26OCT26CHIBOS-BOS14",
@@ -519,7 +519,7 @@
    "rules": "If Boston wins by more than 13.5 points in the Chicago vs Boston Pro Basketball game originally scheduled for Oct 26, 2026, then the market resolves to Yes.",
    "open": 0.53,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.53
+   "prev": 0.54
   },
   {
    "ticker": "KXNBASPREAD-26OCT26CHIBOS-BOS15",
@@ -591,7 +591,7 @@
    "rules": "If Miami wins by more than 9.5 points in the Dallas vs Miami Pro Basketball game originally scheduled for Oct 26, 2026, then the market resolves to Yes.",
    "open": 0.47,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.47
+   "prev": 0.46
   },
   {
    "ticker": "KXNBASPREAD-26OCT26DALMIA-MIA8",
@@ -639,7 +639,7 @@
    "rules": "If Miami wins by more than 8.5 points in the Dallas vs Miami Pro Basketball game originally scheduled for Oct 26, 2026, then the market resolves to Yes.",
    "open": 0.5,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.51
+   "prev": 0.5
   },
   {
    "ticker": "KXNBATOTAL-26OCT26CHIBOS-232",
@@ -649,11 +649,11 @@
    "title": "Full Game: Over 231.5 points scored",
    "yes": "Over 231.5 points",
    "no": "Over 231.5 points",
-   "yesBid": 0.52,
+   "yesBid": 0.53,
    "yesAsk": 0.54,
    "noBid": 0.46,
-   "noAsk": 0.48,
-   "last": 0.52,
+   "noAsk": 0.47,
+   "last": 0.54,
    "volume": null,
    "openInterest": null,
    "close": "2026-10-28T23:30:00Z",
@@ -663,7 +663,7 @@
    "rules": "If over 231.5 total points are scored in the Chicago vs Boston Pro Basketball game originally scheduled for Oct 26, 2026, then the market resolves to Yes.",
    "open": 0.54,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.55
+   "prev": 0.54
   },
   {
    "ticker": "KXNBATOTAL-26OCT26CHIBOS-234",
@@ -687,7 +687,7 @@
    "rules": "If over 233.5 total points are scored in the Chicago vs Boston Pro Basketball game originally scheduled for Oct 26, 2026, then the market resolves to Yes.",
    "open": 0.5,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.5
+   "prev": 0.49
   },
   {
    "ticker": "KXNBATOTAL-26OCT26CHIBOS-236",
@@ -711,7 +711,7 @@
    "rules": "If over 235.5 total points are scored in the Chicago vs Boston Pro Basketball game originally scheduled for Oct 26, 2026, then the market resolves to Yes.",
    "open": 0.45,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.45
+   "prev": 0.44
   },
   {
    "ticker": "KXNBATOTAL-26OCT26DALMIA-238",
@@ -735,7 +735,7 @@
    "rules": "If over 237.5 total points are scored in the Dallas vs Miami Pro Basketball game originally scheduled for Oct 26, 2026, then the market resolves to Yes.",
    "open": 0.49,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.51
+   "prev": 0.57
   },
   {
    "ticker": "KXNBATOTAL-26OCT26DALMIA-240",
@@ -759,7 +759,7 @@
    "rules": "If over 239.5 total points are scored in the Dallas vs Miami Pro Basketball game originally scheduled for Oct 26, 2026, then the market resolves to Yes.",
    "open": 0.45,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.46
+   "prev": 0.52
   },
   {
    "ticker": "KXNBATOTAL-26OCT26DALMIA-242",
@@ -855,7 +855,7 @@
    "rules": "If Milwaukee wins by more than 1.5 runs in the Milwaukee vs Tampa Bay professional baseball game originally scheduled for Oct 26, 2026 at 8:00 PM EDT, then the market resolves to Yes.",
    "open": 0.34,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.34
+   "prev": 0.35
   },
   {
    "ticker": "KXMLBSPREAD-26OCT262000MILTB-TB2",
@@ -927,7 +927,7 @@
    "rules": "If Milwaukee and Tampa Bay collectively score more 6.5 runs in the Milwaukee vs Tampa Bay professional baseball game originally scheduled for Oct 26, 2026 at 8:00 PM EDT, then the market resolves to Yes.",
    "open": 0.57,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.57
+   "prev": 0.58
   },
   {
    "ticker": "KXMLBTOTAL-26OCT262000MILTB-8",
@@ -951,7 +951,7 @@
    "rules": "If Milwaukee and Tampa Bay collectively score more 7.5 runs in the Milwaukee vs Tampa Bay professional baseball game originally scheduled for Oct 26, 2026 at 8:00 PM EDT, then the market resolves to Yes.",
    "open": 0.44,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.44
+   "prev": 0.45
   },
   {
    "ticker": "KXMLBTOTAL-26OCT262000MILTB-9",
@@ -999,7 +999,7 @@
    "rules": "If Indiana wins the Indiana vs Milwaukee Pro Basketball game originally scheduled for Oct 26, 2026, then the market resolves to Yes.",
    "open": 0.6,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.61
+   "prev": 0.62
   },
   {
    "ticker": "KXNBAGAME-26OCT26INDMIL-MIL",
@@ -1023,7 +1023,7 @@
    "rules": "If Milwaukee wins the Indiana vs Milwaukee Pro Basketball game originally scheduled for Oct 26, 2026, then the market resolves to Yes.",
    "open": 0.4,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.4
+   "prev": 0.39
   },
   {
    "ticker": "KXNBAGAME-26OCT26PHXOKC-OKC",
@@ -1085,7 +1085,7 @@
    "yesAsk": 0.54,
    "noBid": 0.46,
    "noAsk": 0.47,
-   "last": 0.55,
+   "last": 0.54,
    "volume": null,
    "openInterest": null,
    "close": "2026-10-29T00:00:00Z",
@@ -1095,7 +1095,7 @@
    "rules": "If Indiana wins by more than 3.5 points in the Indiana vs Milwaukee Pro Basketball game originally scheduled for Oct 26, 2026, then the market resolves to Yes.",
    "open": 0.53,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.55
+   "prev": 0.54
   },
   {
    "ticker": "KXNBASPREAD-26OCT26INDMIL-IND5",
@@ -1119,7 +1119,7 @@
    "rules": "If Indiana wins by more than 4.5 points in the Indiana vs Milwaukee Pro Basketball game originally scheduled for Oct 26, 2026, then the market resolves to Yes.",
    "open": 0.5,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.51
+   "prev": 0.52
   },
   {
    "ticker": "KXNBASPREAD-26OCT26INDMIL-IND6",
@@ -1143,7 +1143,7 @@
    "rules": "If Indiana wins by more than 5.5 points in the Indiana vs Milwaukee Pro Basketball game originally scheduled for Oct 26, 2026, then the market resolves to Yes.",
    "open": 0.47,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.47
+   "prev": 0.46
   },
   {
    "ticker": "KXNBASPREAD-26OCT26PHXOKC-OKC10",
@@ -1194,28 +1194,28 @@
    "prev": 0.47
   },
   {
-   "ticker": "KXNBASPREAD-26OCT26PHXOKC-OKC9",
+   "ticker": "KXNBASPREAD-26OCT26PHXOKC-OKC12",
    "event": "KXNBASPREAD-26OCT26PHXOKC",
    "series": "KXNBASPREAD",
    "sport": "NBA",
-   "title": "Oklahoma City wins by over 8.5 points",
-   "yes": "Oklahoma City wins by over 8.5 points",
-   "no": "Oklahoma City wins by over 8.5 points",
-   "yesBid": 0.54,
-   "yesAsk": 0.55,
-   "noBid": 0.45,
-   "noAsk": 0.46,
-   "last": 0.56,
+   "title": "Oklahoma City wins by over 11.5 points",
+   "yes": "Oklahoma City wins by over 11.5 points",
+   "no": "Oklahoma City wins by over 11.5 points",
+   "yesBid": 0.42,
+   "yesAsk": 0.44,
+   "noBid": 0.56,
+   "noAsk": 0.58,
+   "last": 0.42,
    "volume": null,
    "openInterest": null,
    "close": "2026-10-29T00:00:00Z",
    "expectedEnd": "2026-10-27T03:00:00Z",
    "game": "Phoenix vs Oklahoma City",
    "kind": "SPREAD",
-   "rules": "If Oklahoma City wins by more than 8.5 points in the Phoenix vs Oklahoma City Pro Basketball game originally scheduled for Oct 26, 2026, then the market resolves to Yes.",
-   "open": 0.55,
-   "openAt": "Oct 26 3:23 AM",
-   "prev": 0.55
+   "rules": "If Oklahoma City wins by more than 11.5 points in the Phoenix vs Oklahoma City Pro Basketball game originally scheduled for Oct 26, 2026, then the market resolves to Yes.",
+   "open": 0.44,
+   "openAt": "Oct 26 8:05 AM",
+   "prev": 0.44
   },
   {
    "ticker": "KXNBATOTAL-26OCT26INDMIL-237",
@@ -1263,7 +1263,7 @@
    "rules": "If over 238.5 total points are scored in the Indiana vs Milwaukee Pro Basketball game originally scheduled for Oct 26, 2026, then the market resolves to Yes.",
    "open": 0.55,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.55
+   "prev": 0.51
   },
   {
    "ticker": "KXNBATOTAL-26OCT26INDMIL-241",
@@ -1287,7 +1287,7 @@
    "rules": "If over 240.5 total points are scored in the Indiana vs Milwaukee Pro Basketball game originally scheduled for Oct 26, 2026, then the market resolves to Yes.",
    "open": 0.49,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.5
+   "prev": 0.46
   },
   {
    "ticker": "KXNBATOTAL-26OCT26PHXOKC-219",
@@ -1311,7 +1311,7 @@
    "rules": "If over 218.5 total points are scored in the Phoenix vs Oklahoma City Pro Basketball game originally scheduled for Oct 26, 2026, then the market resolves to Yes.",
    "open": 0.51,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.53
+   "prev": 0.56
   },
   {
    "ticker": "KXNBATOTAL-26OCT26PHXOKC-221",
@@ -1325,7 +1325,7 @@
    "yesAsk": 0.52,
    "noBid": 0.48,
    "noAsk": 0.49,
-   "last": 0.51,
+   "last": 0.52,
    "volume": null,
    "openInterest": null,
    "close": "2026-10-29T00:00:00Z",
@@ -1335,7 +1335,7 @@
    "rules": "If over 220.5 total points are scored in the Phoenix vs Oklahoma City Pro Basketball game originally scheduled for Oct 26, 2026, then the market resolves to Yes.",
    "open": 0.48,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.49
+   "prev": 0.52
   },
   {
    "ticker": "KXNBATOTAL-26OCT26PHXOKC-223",
@@ -1359,7 +1359,7 @@
    "rules": "If over 222.5 total points are scored in the Phoenix vs Oklahoma City Pro Basketball game originally scheduled for Oct 26, 2026, then the market resolves to Yes.",
    "open": 0.44,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.44
+   "prev": 0.47
   },
   {
    "ticker": "KXNFLGAME-26OCT26DALPHI-DAL",
@@ -1393,11 +1393,11 @@
    "title": "Philadelphia wins",
    "yes": "Philadelphia",
    "no": "Philadelphia",
-   "yesBid": 0.32,
-   "yesAsk": 0.33,
-   "noBid": 0.67,
-   "noAsk": 0.68,
-   "last": 0.33,
+   "yesBid": 0.33,
+   "yesAsk": 0.34,
+   "noBid": 0.66,
+   "noAsk": 0.67,
+   "last": 0.34,
    "volume": null,
    "openInterest": null,
    "close": "2026-10-29T00:15:00Z",
@@ -1407,7 +1407,7 @@
    "rules": "If Philadelphia wins the Dallas vs Philadelphia Pro Football game originally scheduled for Oct 26, 2026, then the market resolves to Yes.",
    "open": 0.32,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.32
+   "prev": 0.33
   },
   {
    "ticker": "KXNFLSPREAD-26OCT26DALPHI-DAL4",
@@ -1421,7 +1421,7 @@
    "yesAsk": 0.54,
    "noBid": 0.46,
    "noAsk": 0.47,
-   "last": 0.54,
+   "last": 0.53,
    "volume": null,
    "openInterest": null,
    "close": "2026-10-29T00:15:00Z",
@@ -1445,7 +1445,7 @@
    "yesAsk": 0.5,
    "noBid": 0.5,
    "noAsk": 0.51,
-   "last": 0.5,
+   "last": 0.49,
    "volume": null,
    "openInterest": null,
    "close": "2026-10-29T00:15:00Z",
@@ -1517,7 +1517,7 @@
    "yesAsk": 0.48,
    "noBid": 0.52,
    "noAsk": 0.53,
-   "last": 0.48,
+   "last": 0.47,
    "volume": null,
    "openInterest": null,
    "close": "2026-10-29T00:15:00Z",
@@ -1541,7 +1541,7 @@
    "yesAsk": 0.45,
    "noBid": 0.55,
    "noAsk": 0.56,
-   "last": 0.44,
+   "last": 0.45,
    "volume": null,
    "openInterest": null,
    "close": "2026-10-29T00:15:00Z",
@@ -1575,7 +1575,7 @@
    "rules": "If Atlanta wins the Atlanta vs Houston Pro Basketball game originally scheduled for Oct 26, 2026, then the market resolves to Yes.",
    "open": 0.36,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.35
+   "prev": 0.34
   },
   {
    "ticker": "KXNBAGAME-26OCT26ATLHOU-HOU",
@@ -1599,7 +1599,7 @@
    "rules": "If Houston wins the Atlanta vs Houston Pro Basketball game originally scheduled for Oct 26, 2026, then the market resolves to Yes.",
    "open": 0.66,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.66
+   "prev": 0.67
   },
   {
    "ticker": "KXNBASPREAD-26OCT26ATLHOU-HOU5",
@@ -1609,11 +1609,11 @@
    "title": "Houston wins by over 4.5 points",
    "yes": "Houston wins by over 4.5 points",
    "no": "Houston wins by over 4.5 points",
-   "yesBid": 0.51,
+   "yesBid": 0.5,
    "yesAsk": 0.52,
    "noBid": 0.48,
-   "noAsk": 0.49,
-   "last": 0.51,
+   "noAsk": 0.5,
+   "last": 0.5,
    "volume": null,
    "openInterest": null,
    "close": "2026-10-29T00:30:00Z",
@@ -1623,7 +1623,7 @@
    "rules": "If Houston wins by more than 4.5 points in the Atlanta vs Houston Pro Basketball game originally scheduled for Oct 26, 2026, then the market resolves to Yes.",
    "open": 0.52,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.54
+   "prev": 0.52
   },
   {
    "ticker": "KXNBASPREAD-26OCT26ATLHOU-HOU6",
@@ -1637,7 +1637,7 @@
    "yesAsk": 0.48,
    "noBid": 0.52,
    "noAsk": 0.54,
-   "last": 0.47,
+   "last": 0.46,
    "volume": null,
    "openInterest": null,
    "close": "2026-10-29T00:30:00Z",
@@ -1647,7 +1647,7 @@
    "rules": "If Houston wins by more than 5.5 points in the Atlanta vs Houston Pro Basketball game originally scheduled for Oct 26, 2026, then the market resolves to Yes.",
    "open": 0.48,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.49
+   "prev": 0.48
   },
   {
    "ticker": "KXNBASPREAD-26OCT26ATLHOU-HOU7",
@@ -1671,7 +1671,7 @@
    "rules": "If Houston wins by more than 6.5 points in the Atlanta vs Houston Pro Basketball game originally scheduled for Oct 26, 2026, then the market resolves to Yes.",
    "open": 0.45,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.46
+   "prev": 0.45
   },
   {
    "ticker": "KXNBATOTAL-26OCT26ATLHOU-230",
@@ -1685,7 +1685,7 @@
    "yesAsk": 0.51,
    "noBid": 0.49,
    "noAsk": 0.5,
-   "last": 0.51,
+   "last": 0.5,
    "volume": null,
    "openInterest": null,
    "close": "2026-10-29T00:30:00Z",
@@ -1767,7 +1767,7 @@
    "rules": "If Memphis wins the Memphis vs Utah Pro Basketball game originally scheduled for Oct 26, 2026, then the market resolves to Yes.",
    "open": 0.49,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.5
+   "prev": 0.51
   },
   {
    "ticker": "KXNBAGAME-26OCT26MEMUTA-UTA",
@@ -1791,7 +1791,7 @@
    "rules": "If Utah wins the Memphis vs Utah Pro Basketball game originally scheduled for Oct 26, 2026, then the market resolves to Yes.",
    "open": 0.53,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.52
+   "prev": 0.5
   },
   {
    "ticker": "KXNBASPREAD-26OCT26MEMUTA-MEM2",
@@ -1815,7 +1815,7 @@
    "rules": "If Memphis wins by more than 1.5 points in the Memphis vs Utah Pro Basketball game originally scheduled for Oct 26, 2026, then the market resolves to Yes.",
    "open": 0.49,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.46
+   "prev": 0.48
   },
   {
    "ticker": "KXNBASPREAD-26OCT26MEMUTA-UTA2",
@@ -1839,7 +1839,7 @@
    "rules": "If Utah wins by more than 1.5 points in the Memphis vs Utah Pro Basketball game originally scheduled for Oct 26, 2026, then the market resolves to Yes.",
    "open": 0.5,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.5
+   "prev": 0.48
   },
   {
    "ticker": "KXNBASPREAD-26OCT26MEMUTA-UTA3",
@@ -1863,7 +1863,7 @@
    "rules": "If Utah wins by more than 2.5 points in the Memphis vs Utah Pro Basketball game originally scheduled for Oct 26, 2026, then the market resolves to Yes.",
    "open": 0.47,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.46
+   "prev": 0.45
   },
   {
    "ticker": "KXNBATOTAL-26OCT26MEMUTA-237",
@@ -1911,7 +1911,7 @@
    "rules": "If over 238.5 total points are scored in the Memphis vs Utah Pro Basketball game originally scheduled for Oct 26, 2026, then the market resolves to Yes.",
    "open": 0.5,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.52
+   "prev": 0.51
   },
   {
    "ticker": "KXNBATOTAL-26OCT26MEMUTA-241",
@@ -1959,7 +1959,7 @@
    "rules": "If Denver wins the Golden State vs Denver Pro Basketball game originally scheduled for Oct 26, 2026, then the market resolves to Yes.",
    "open": 0.73,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.73
+   "prev": 0.72
   },
   {
    "ticker": "KXNBAGAME-26OCT26GSWDEN-GSW",
@@ -1983,7 +1983,7 @@
    "rules": "If Golden State wins the Golden State vs Denver Pro Basketball game originally scheduled for Oct 26, 2026, then the market resolves to Yes.",
    "open": 0.29,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.28
+   "prev": 0.29
   },
   {
    "ticker": "KXNBASPREAD-26OCT26GSWDEN-DEN7",
@@ -2021,7 +2021,7 @@
    "yesAsk": 0.5,
    "noBid": 0.5,
    "noAsk": 0.51,
-   "last": 0.5,
+   "last": 0.49,
    "volume": null,
    "openInterest": null,
    "close": "2026-10-29T02:00:00Z",
@@ -2031,7 +2031,7 @@
    "rules": "If Denver wins by more than 7.5 points in the Golden State vs Denver Pro Basketball game originally scheduled for Oct 26, 2026, then the market resolves to Yes.",
    "open": 0.53,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.52
+   "prev": 0.5
   },
   {
    "ticker": "KXNBASPREAD-26OCT26GSWDEN-DEN9",
@@ -2055,7 +2055,7 @@
    "rules": "If Denver wins by more than 8.5 points in the Golden State vs Denver Pro Basketball game originally scheduled for Oct 26, 2026, then the market resolves to Yes.",
    "open": 0.47,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.47
+   "prev": 0.46
   },
   {
    "ticker": "KXNBATOTAL-26OCT26GSWDEN-236",
@@ -2069,7 +2069,7 @@
    "yesAsk": 0.53,
    "noBid": 0.47,
    "noAsk": 0.48,
-   "last": 0.53,
+   "last": 0.52,
    "volume": null,
    "openInterest": null,
    "close": "2026-10-29T02:00:00Z",
@@ -2079,7 +2079,7 @@
    "rules": "If over 235.5 total points are scored in the Golden State vs Denver Pro Basketball game originally scheduled for Oct 26, 2026, then the market resolves to Yes.",
    "open": 0.46,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.47
+   "prev": 0.53
   },
   {
    "ticker": "KXNBATOTAL-26OCT26GSWDEN-238",
@@ -2103,7 +2103,7 @@
    "rules": "If over 237.5 total points are scored in the Golden State vs Denver Pro Basketball game originally scheduled for Oct 26, 2026, then the market resolves to Yes.",
    "open": 0.45,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.44
+   "prev": 0.48
   },
   {
    "ticker": "KXNBATOTAL-26OCT26GSWDEN-240",
@@ -2199,7 +2199,7 @@
    "rules": "If Delaware wins by more than 1.5 points in the Delaware vs Western Kentucky college football game originally scheduled for Oct 27, 2026, then the market resolves to Yes.",
    "open": 0.46,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.45
+   "prev": 0.46
   },
   {
    "ticker": "KXNCAAFSPREAD-26OCT27DELWKU-WKU2",
@@ -2295,7 +2295,7 @@
    "rules": "If the teams collectively score more than 56.5 points in the Delaware vs Western Kentucky college football game originally scheduled for Oct 27, 2026, then the market resolves to Yes.",
    "open": 0.49,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.49
+   "prev": 0.52
   },
   {
    "ticker": "KXNCAAFTOTAL-26OCT27DELWKU-58",
@@ -2319,7 +2319,7 @@
    "rules": "If the teams collectively score more than 57.5 points in the Delaware vs Western Kentucky college football game originally scheduled for Oct 27, 2026, then the market resolves to Yes.",
    "open": 0.46,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.46
+   "prev": 0.48
   },
   {
    "ticker": "KXNBAGAME-26OCT27BKNBOS-BKN",
@@ -2330,8 +2330,8 @@
    "yes": "Brooklyn",
    "no": "Brooklyn",
    "yesBid": 0.19,
-   "yesAsk": 0.22,
-   "noBid": 0.78,
+   "yesAsk": 0.21,
+   "noBid": 0.79,
    "noAsk": 0.81,
    "last": 0.22,
    "volume": null,
@@ -2343,7 +2343,7 @@
    "rules": "If Brooklyn wins the Brooklyn vs Boston Pro Basketball game originally scheduled for Oct 27, 2026, then the market resolves to Yes.",
    "open": 0.19,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.19
+   "prev": 0.22
   },
   {
    "ticker": "KXNBAGAME-26OCT27BKNBOS-BOS",
@@ -2367,7 +2367,7 @@
    "rules": "If Boston wins the Brooklyn vs Boston Pro Basketball game originally scheduled for Oct 27, 2026, then the market resolves to Yes.",
    "open": 0.83,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.83
+   "prev": 0.81
   },
   {
    "ticker": "KXMLBGAME-26OCT272000MILTB-MIL",
@@ -2402,8 +2402,8 @@
    "yes": "Tampa Bay",
    "no": "Tampa Bay",
    "yesBid": 0.47,
-   "yesAsk": 0.49,
-   "noBid": 0.51,
+   "yesAsk": 0.48,
+   "noBid": 0.52,
    "noAsk": 0.53,
    "last": 0.49,
    "volume": null,
@@ -2429,7 +2429,7 @@
    "yesAsk": 0.42,
    "noBid": 0.58,
    "noAsk": 0.61,
-   "last": 0.41,
+   "last": 0.42,
    "volume": null,
    "openInterest": null,
    "close": "2026-10-30T00:00:00Z",
@@ -2439,7 +2439,7 @@
    "rules": "If Detroit wins the Detroit vs New York Pro Basketball game originally scheduled for Oct 27, 2026, then the market resolves to Yes.",
    "open": 0.48,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.45
+   "prev": 0.42
   },
   {
    "ticker": "KXNBAGAME-26OCT27DETNYK-NYK",
@@ -2453,7 +2453,7 @@
    "yesAsk": 0.6,
    "noBid": 0.4,
    "noAsk": 0.42,
-   "last": 0.59,
+   "last": 0.6,
    "volume": null,
    "openInterest": null,
    "close": "2026-10-30T00:00:00Z",
@@ -2463,7 +2463,7 @@
    "rules": "If New York wins the Detroit vs New York Pro Basketball game originally scheduled for Oct 27, 2026, then the market resolves to Yes.",
    "open": 0.56,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.56
+   "prev": 0.6
   },
   {
    "ticker": "KXNBAGAME-26OCT27SACSAS-SAC",
@@ -2535,7 +2535,7 @@
    "rules": "If Missouri St. wins the Sam Houston vs Missouri St. college football game originally scheduled for Oct 27, 2026, then the market resolves to Yes.",
    "open": 0.68,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.68
+   "prev": 0.67
   },
   {
    "ticker": "KXNCAAFGAME-26OCT27SHSUMOSU-SHSU",
@@ -2559,7 +2559,7 @@
    "rules": "If Sam Houston wins the Sam Houston vs Missouri St. college football game originally scheduled for Oct 27, 2026, then the market resolves to Yes.",
    "open": 0.34,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.34
+   "prev": 0.35
   },
   {
    "ticker": "KXNCAAFSPREAD-26OCT27SHSUMOSU-MOSU5",
@@ -2583,7 +2583,7 @@
    "rules": "If Missouri St. wins by more than 4.5 points in the Sam Houston vs Missouri St. college football game originally scheduled for Oct 27, 2026, then the market resolves to Yes.",
    "open": 0.55,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.55
+   "prev": 0.53
   },
   {
    "ticker": "KXNCAAFSPREAD-26OCT27SHSUMOSU-MOSU6",
@@ -2607,7 +2607,7 @@
    "rules": "If Missouri St. wins by more than 5.5 points in the Sam Houston vs Missouri St. college football game originally scheduled for Oct 27, 2026, then the market resolves to Yes.",
    "open": 0.53,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.53
+   "prev": 0.5
   },
   {
    "ticker": "KXNCAAFSPREAD-26OCT27SHSUMOSU-MOSU7",
@@ -2631,7 +2631,7 @@
    "rules": "If Missouri St. wins by more than 6.5 points in the Sam Houston vs Missouri St. college football game originally scheduled for Oct 27, 2026, then the market resolves to Yes.",
    "open": 0.49,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.49
+   "prev": 0.47
   },
   {
    "ticker": "KXNCAAFTOTAL-26OCT27SHSUMOSU-49",
@@ -2665,11 +2665,11 @@
    "title": "Full Game: Over 49.5 points scored",
    "yes": "Over 49.5 points",
    "no": "Over 49.5 points",
-   "yesBid": 0.49,
+   "yesBid": 0.5,
    "yesAsk": 0.51,
    "noBid": 0.49,
-   "noAsk": 0.51,
-   "last": 0.5,
+   "noAsk": 0.5,
+   "last": 0.51,
    "volume": null,
    "openInterest": null,
    "close": "2026-10-30T00:00:00Z",
@@ -2717,7 +2717,7 @@
    "yesAsk": 0.58,
    "noBid": 0.42,
    "noAsk": 0.43,
-   "last": 0.57,
+   "last": 0.58,
    "volume": null,
    "openInterest": null,
    "close": "2026-10-30T03:00:00Z",
@@ -2727,7 +2727,7 @@
    "rules": "If Los Angeles L wins the Portland vs Los Angeles L Pro Basketball game originally scheduled for Oct 27, 2026, then the market resolves to Yes.",
    "open": 0.53,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.56
+   "prev": 0.58
   },
   {
    "ticker": "KXNBAGAME-26OCT27PORLAL-POR",
@@ -2751,7 +2751,7 @@
    "rules": "If Portland wins the Portland vs Los Angeles L Pro Basketball game originally scheduled for Oct 27, 2026, then the market resolves to Yes.",
    "open": 0.48,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.45
+   "prev": 0.43
   },
   {
    "ticker": "KXNBAGAME-26OCT28CHADET-CHA",
@@ -2799,7 +2799,7 @@
    "rules": "If Detroit wins the Charlotte vs Detroit Pro Basketball game originally scheduled for Oct 28, 2026, then the market resolves to Yes.",
    "open": 0.74,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.74
+   "prev": 0.75
   },
   {
    "ticker": "KXNBAGAME-26OCT28MIAATL-ATL",
@@ -2823,7 +2823,7 @@
    "rules": "If Atlanta wins the Miami vs Atlanta Pro Basketball game originally scheduled for Oct 28, 2026, then the market resolves to Yes.",
    "open": 0.58,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.6
+   "prev": 0.59
   },
   {
    "ticker": "KXNBAGAME-26OCT28MIAATL-MIA",
@@ -2847,7 +2847,7 @@
    "rules": "If Miami wins the Miami vs Atlanta Pro Basketball game originally scheduled for Oct 28, 2026, then the market resolves to Yes.",
    "open": 0.44,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.44
+   "prev": 0.42
   },
   {
    "ticker": "KXNBAGAME-26OCT28PHIIND-IND",
@@ -2871,7 +2871,7 @@
    "rules": "If Indiana wins the Philadelphia vs Indiana Pro Basketball game originally scheduled for Oct 28, 2026, then the market resolves to Yes.",
    "open": 0.42,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.47
+   "prev": 0.46
   },
   {
    "ticker": "KXNBAGAME-26OCT28PHIIND-PHI",
@@ -2895,7 +2895,7 @@
    "rules": "If Philadelphia wins the Philadelphia vs Indiana Pro Basketball game originally scheduled for Oct 28, 2026, then the market resolves to Yes.",
    "open": 0.6,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.56
+   "prev": 0.55
   },
   {
    "ticker": "KXNBAGAME-26OCT28WASCLE-CLE",
@@ -2905,10 +2905,10 @@
    "title": "Cleveland wins",
    "yes": "Cleveland",
    "no": "Cleveland",
-   "yesBid": 0.71,
+   "yesBid": 0.7,
    "yesAsk": 0.73,
    "noBid": 0.27,
-   "noAsk": 0.29,
+   "noAsk": 0.3,
    "last": 0.73,
    "volume": null,
    "openInterest": null,
@@ -2919,7 +2919,7 @@
    "rules": "If Cleveland wins the Washington vs Cleveland Pro Basketball game originally scheduled for Oct 28, 2026, then the market resolves to Yes.",
    "open": 0.74,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.74
+   "prev": 0.73
   },
   {
    "ticker": "KXNBAGAME-26OCT28WASCLE-WAS",
@@ -2946,17 +2946,17 @@
    "prev": 0.29
   },
   {
-   "ticker": "KXNBASPREAD-26OCT28PHIIND-PHI4",
+   "ticker": "KXNBASPREAD-26OCT28PHIIND-IND2",
    "event": "KXNBASPREAD-26OCT28PHIIND",
    "series": "KXNBASPREAD",
    "sport": "NBA",
-   "title": "Philadelphia wins by over 3.5 points",
-   "yes": "Philadelphia wins by over 3.5 points",
-   "no": "Philadelphia wins by over 3.5 points",
-   "yesBid": 0.33,
-   "yesAsk": 0.52,
-   "noBid": 0.48,
-   "noAsk": 0.67,
+   "title": "Indiana wins by over 1.5 points",
+   "yes": "Indiana wins by over 1.5 points",
+   "no": "Indiana wins by over 1.5 points",
+   "yesBid": 0.32,
+   "yesAsk": 0.48,
+   "noBid": 0.52,
+   "noAsk": 0.68,
    "last": 0.0,
    "volume": null,
    "openInterest": null,
@@ -2964,10 +2964,10 @@
    "expectedEnd": "2026-10-29T02:00:00Z",
    "game": "Philadelphia vs Indiana",
    "kind": "SPREAD",
-   "rules": "If Philadelphia wins by more than 3.5 points in the Philadelphia vs Indiana Pro Basketball game originally scheduled for Oct 28, 2026, then the market resolves to Yes.",
-   "open": 0.53,
-   "openAt": "Oct 26 3:23 AM",
-   "prev": 0.53
+   "rules": "If Indiana wins by more than 1.5 points in the Philadelphia vs Indiana Pro Basketball game originally scheduled for Oct 28, 2026, then the market resolves to Yes.",
+   "open": 0.48,
+   "openAt": "Oct 26 8:05 AM",
+   "prev": 0.48
   },
   {
    "ticker": "KXNBASPREAD-26OCT28PHIIND-PHI5",
@@ -2977,10 +2977,10 @@
    "title": "Philadelphia wins by over 4.5 points",
    "yes": "Philadelphia wins by over 4.5 points",
    "no": "Philadelphia wins by over 4.5 points",
-   "yesBid": 0.29,
-   "yesAsk": 0.52,
-   "noBid": 0.48,
-   "noAsk": 0.71,
+   "yesBid": 0.3,
+   "yesAsk": 0.51,
+   "noBid": 0.49,
+   "noAsk": 0.7,
    "last": 0.0,
    "volume": null,
    "openInterest": null,
@@ -3002,8 +3002,8 @@
    "yes": "Philadelphia wins by over 5.5 points",
    "no": "Philadelphia wins by over 5.5 points",
    "yesBid": 0.27,
-   "yesAsk": 0.48,
-   "noBid": 0.52,
+   "yesAsk": 0.49,
+   "noBid": 0.51,
    "noAsk": 0.73,
    "last": 0.0,
    "volume": null,
@@ -3039,7 +3039,7 @@
    "rules": "If over 247.5 total points are scored in the Philadelphia vs Indiana Pro Basketball game originally scheduled for Oct 28, 2026, then the market resolves to Yes.",
    "open": 0.51,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.5
+   "prev": 0.51
   },
   {
    "ticker": "KXNBATOTAL-26OCT28PHIIND-250",
@@ -3063,7 +3063,7 @@
    "rules": "If over 249.5 total points are scored in the Philadelphia vs Indiana Pro Basketball game originally scheduled for Oct 28, 2026, then the market resolves to Yes.",
    "open": 0.47,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.46
+   "prev": 0.47
   },
   {
    "ticker": "KXNBATOTAL-26OCT28PHIIND-262",
@@ -3074,8 +3074,8 @@
    "yes": "Over 261.5 points",
    "no": "Over 261.5 points",
    "yesBid": 0.06,
-   "yesAsk": 0.51,
-   "noBid": 0.49,
+   "yesAsk": 0.5,
+   "noBid": 0.5,
    "noAsk": 0.94,
    "last": 0.0,
    "volume": null,
@@ -3111,7 +3111,7 @@
    "rules": "If Kennesaw St. wins the Kennesaw St. vs Middle Tennessee college football game originally scheduled for Oct 28, 2026, then the market resolves to Yes.",
    "open": 0.42,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.41
+   "prev": 0.43
   },
   {
    "ticker": "KXNCAAFGAME-26OCT28KENNMTU-MTU",
@@ -3169,10 +3169,10 @@
    "title": "Middle Tennessee wins by over 2.5 points",
    "yes": "Middle Tennessee wins by over 2.5 points",
    "no": "Middle Tennessee wins by over 2.5 points",
-   "yesBid": 0.53,
+   "yesBid": 0.52,
    "yesAsk": 0.54,
    "noBid": 0.46,
-   "noAsk": 0.47,
+   "noAsk": 0.48,
    "last": 0.54,
    "volume": null,
    "openInterest": null,
@@ -3193,10 +3193,10 @@
    "title": "Middle Tennessee wins by over 3.5 points",
    "yes": "Middle Tennessee wins by over 3.5 points",
    "no": "Middle Tennessee wins by over 3.5 points",
-   "yesBid": 0.45,
+   "yesBid": 0.44,
    "yesAsk": 0.46,
    "noBid": 0.54,
-   "noAsk": 0.55,
+   "noAsk": 0.56,
    "last": 0.45,
    "volume": null,
    "openInterest": null,
@@ -3217,10 +3217,10 @@
    "title": "Full Game: Over 51.5 points scored",
    "yes": "Over 51.5 points",
    "no": "Over 51.5 points",
-   "yesBid": 0.47,
+   "yesBid": 0.48,
    "yesAsk": 0.5,
    "noBid": 0.5,
-   "noAsk": 0.53,
+   "noAsk": 0.52,
    "last": 0.48,
    "volume": null,
    "openInterest": null,
@@ -3231,7 +3231,7 @@
    "rules": "If the teams collectively score more than 51.5 points in the Kennesaw St. vs Middle Tennessee college football game originally scheduled for Oct 28, 2026, then the market resolves to Yes.",
    "open": 0.48,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.48
+   "prev": 0.5
   },
   {
    "ticker": "KXNCAAFTOTAL-26OCT28KENNMTU-53",
@@ -3255,7 +3255,7 @@
    "rules": "If the teams collectively score more than 52.5 points in the Kennesaw St. vs Middle Tennessee college football game originally scheduled for Oct 28, 2026, then the market resolves to Yes.",
    "open": 0.46,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.46
+   "prev": 0.47
   },
   {
    "ticker": "KXNCAAFTOTAL-26OCT28KENNMTU-54",
@@ -3303,7 +3303,7 @@
    "rules": "If Orlando wins the Orlando vs Toronto Pro Basketball game originally scheduled for Oct 28, 2026, then the market resolves to Yes.",
    "open": 0.35,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.34
+   "prev": 0.31
   },
   {
    "ticker": "KXNBAGAME-26OCT28ORLTOR-TOR",
@@ -3327,7 +3327,7 @@
    "rules": "If Toronto wins the Orlando vs Toronto Pro Basketball game originally scheduled for Oct 28, 2026, then the market resolves to Yes.",
    "open": 0.76,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.74
+   "prev": 0.72
   },
   {
    "ticker": "KXNBAGAME-26OCT28DENNOP-DEN",
@@ -3375,7 +3375,7 @@
    "rules": "If New Orleans wins the Denver vs New Orleans Pro Basketball game originally scheduled for Oct 28, 2026, then the market resolves to Yes.",
    "open": 0.33,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.32
+   "prev": 0.34
   },
   {
    "ticker": "KXNBAGAME-26OCT28GSWMIN-GSW",
@@ -3495,7 +3495,7 @@
    "rules": "If Chicago wins the New York vs Chicago Pro Basketball game originally scheduled for Oct 28, 2026, then the market resolves to Yes.",
    "open": 0.26,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.25
+   "prev": 0.23
   },
   {
    "ticker": "KXNBAGAME-26OCT28NYKCHI-NYK",
@@ -3543,7 +3543,7 @@
    "rules": "If Jacksonville St. wins the Jacksonville St. vs New Mexico St. college football game originally scheduled for Oct 28, 2026, then the market resolves to Yes.",
    "open": 0.58,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.58
+   "prev": 0.6
   },
   {
    "ticker": "KXNCAAFGAME-26OCT28JVSTNMSU-NMSU",
@@ -3567,7 +3567,7 @@
    "rules": "If New Mexico St. wins the Jacksonville St. vs New Mexico St. college football game originally scheduled for Oct 28, 2026, then the market resolves to Yes.",
    "open": 0.43,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.42
+   "prev": 0.43
   },
   {
    "ticker": "KXNCAAFSPREAD-26OCT28JVSTNMSU-JVST3",
@@ -3591,7 +3591,7 @@
    "rules": "If Jacksonville St. wins by more than 2.5 points in the Jacksonville St. vs New Mexico St. college football game originally scheduled for Oct 28, 2026, then the market resolves to Yes.",
    "open": 0.54,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.54
+   "prev": 0.56
   },
   {
    "ticker": "KXNCAAFSPREAD-26OCT28JVSTNMSU-JVST4",
@@ -3615,7 +3615,7 @@
    "rules": "If Jacksonville St. wins by more than 3.5 points in the Jacksonville St. vs New Mexico St. college football game originally scheduled for Oct 28, 2026, then the market resolves to Yes.",
    "open": 0.47,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.47
+   "prev": 0.48
   },
   {
    "ticker": "KXNCAAFSPREAD-26OCT28JVSTNMSU-JVST5",
@@ -3639,7 +3639,7 @@
    "rules": "If Jacksonville St. wins by more than 4.5 points in the Jacksonville St. vs New Mexico St. college football game originally scheduled for Oct 28, 2026, then the market resolves to Yes.",
    "open": 0.44,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.44
+   "prev": 0.45
   },
   {
    "ticker": "KXNCAAFTOTAL-26OCT28JVSTNMSU-50",
@@ -3735,7 +3735,7 @@
    "rules": "If San Antonio wins the San Antonio vs Utah Pro Basketball game originally scheduled for Oct 28, 2026, then the market resolves to Yes.",
    "open": 0.77,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.77
+   "prev": 0.75
   },
   {
    "ticker": "KXNBAGAME-26OCT28SASUTA-UTA",
@@ -3831,7 +3831,7 @@
    "rules": "If Los Angeles C wins the Los Angeles L vs Los Angeles C Pro Basketball game originally scheduled for Oct 28, 2026, then the market resolves to Yes.",
    "open": 0.35,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.34
+   "prev": 0.31
   },
   {
    "ticker": "KXNBAGAME-26OCT28LALLAC-LAL",
@@ -3842,8 +3842,8 @@
    "yes": "Los Angeles L",
    "no": "Los Angeles L",
    "yesBid": 0.69,
-   "yesAsk": 0.71,
-   "noBid": 0.29,
+   "yesAsk": 0.72,
+   "noBid": 0.28,
    "noAsk": 0.31,
    "last": 0.71,
    "volume": null,
@@ -3855,7 +3855,7 @@
    "rules": "If Los Angeles L wins the Los Angeles L vs Los Angeles C Pro Basketball game originally scheduled for Oct 28, 2026, then the market resolves to Yes.",
    "open": 0.74,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.74
+   "prev": 0.71
   },
   {
    "ticker": "KXNBAGAME-26OCT29CLEATL-ATL",
@@ -3879,7 +3879,7 @@
    "rules": "If Atlanta wins the Cleveland vs Atlanta Pro Basketball game originally scheduled for Oct 29, 2026, then the market resolves to Yes.",
    "open": 0.74,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.65
+   "prev": 0.62
   },
   {
    "ticker": "KXNBAGAME-26OCT29CLEATL-CLE",
@@ -3903,7 +3903,7 @@
    "rules": "If Cleveland wins the Cleveland vs Atlanta Pro Basketball game originally scheduled for Oct 29, 2026, then the market resolves to Yes.",
    "open": 0.65,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.64
+   "prev": 0.48
   },
   {
    "ticker": "KXNCAAFGAME-26OCT29SCSTMORG-MORG",
@@ -3914,8 +3914,8 @@
    "yes": "Morgan St.",
    "no": "Morgan St.",
    "yesBid": 0.27,
-   "yesAsk": 0.3,
-   "noBid": 0.7,
+   "yesAsk": 0.29,
+   "noBid": 0.71,
    "noAsk": 0.73,
    "last": 0.32,
    "volume": null,
@@ -3927,7 +3927,7 @@
    "rules": "If Morgan St. wins the South Carolina St. vs Morgan St. college football game originally scheduled for Oct 29, 2026, then the market resolves to Yes.",
    "open": 0.32,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.29
+   "prev": 0.3
   },
   {
    "ticker": "KXNCAAFGAME-26OCT29SCSTMORG-SCST",
@@ -3937,10 +3937,10 @@
    "title": "South Carolina St. wins",
    "yes": "South Carolina St.",
    "no": "South Carolina St.",
-   "yesBid": 0.71,
-   "yesAsk": 0.75,
-   "noBid": 0.25,
-   "noAsk": 0.29,
+   "yesBid": 0.72,
+   "yesAsk": 0.74,
+   "noBid": 0.26,
+   "noAsk": 0.28,
    "last": 0.7,
    "volume": null,
    "openInterest": null,
@@ -3961,10 +3961,10 @@
    "title": "Florida Atlantic wins",
    "yes": "Florida Atlantic",
    "no": "Florida Atlantic",
-   "yesBid": 0.18,
-   "yesAsk": 0.19,
-   "noBid": 0.81,
-   "noAsk": 0.82,
+   "yesBid": 0.19,
+   "yesAsk": 0.2,
+   "noBid": 0.8,
+   "noAsk": 0.81,
    "last": 0.2,
    "volume": null,
    "openInterest": null,
@@ -3975,7 +3975,7 @@
    "rules": "If Florida Atlantic wins the Florida Atlantic vs North Texas college football game originally scheduled for Oct 29, 2026, then the market resolves to Yes.",
    "open": 0.2,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.2
+   "prev": 0.19
   },
   {
    "ticker": "KXNCAAFGAME-26OCT29FAUUNT-UNT",
@@ -4071,7 +4071,7 @@
    "rules": "If North Texas wins by more than 12.5 points in the Florida Atlantic vs North Texas college football game originally scheduled for Oct 29, 2026, then the market resolves to Yes.",
    "open": 0.53,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.53
+   "prev": 0.54
   },
   {
    "ticker": "KXNCAAFSPREAD-26OCT29FAUUNT-UNT14",
@@ -4081,11 +4081,11 @@
    "title": "North Texas wins by over 13.5 points",
    "yes": "North Texas wins by over 13.5 points",
    "no": "North Texas wins by over 13.5 points",
-   "yesBid": 0.47,
-   "yesAsk": 0.48,
-   "noBid": 0.52,
-   "noAsk": 0.53,
-   "last": 0.48,
+   "yesBid": 0.51,
+   "yesAsk": 0.52,
+   "noBid": 0.48,
+   "noAsk": 0.49,
+   "last": 0.52,
    "volume": null,
    "openInterest": null,
    "close": "2026-10-31T23:30:00Z",
@@ -4106,8 +4106,8 @@
    "yes": "North Texas wins by over 14.5 points",
    "no": "North Texas wins by over 14.5 points",
    "yesBid": 0.45,
-   "yesAsk": 0.46,
-   "noBid": 0.54,
+   "yesAsk": 0.47,
+   "noBid": 0.53,
    "noAsk": 0.55,
    "last": 0.44,
    "volume": null,
@@ -4167,7 +4167,7 @@
    "rules": "If James Madison wins by more than 21.5 points in the Troy vs James Madison college football game originally scheduled for Oct 29, 2026, then the market resolves to Yes.",
    "open": 0.47,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.48
+   "prev": 0.47
   },
   {
    "ticker": "KXNCAAFSPREAD-26OCT29TROYJMU-JMU24",
@@ -4215,7 +4215,7 @@
    "rules": "If the teams collectively score more than 73.5 points in the Florida Atlantic vs North Texas college football game originally scheduled for Oct 29, 2026, then the market resolves to Yes.",
    "open": 0.55,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.55
+   "prev": 0.56
   },
   {
    "ticker": "KXNCAAFTOTAL-26OCT29FAUUNT-77",
@@ -4311,7 +4311,7 @@
    "rules": "If the teams collectively score more than 51.5 points in the Troy vs James Madison college football game originally scheduled for Oct 29, 2026, then the market resolves to Yes.",
    "open": 0.53,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.53
+   "prev": 0.49
   },
   {
    "ticker": "KXNCAAFTOTAL-26OCT29TROYJMU-53",
@@ -4335,7 +4335,7 @@
    "rules": "If the teams collectively score more than 52.5 points in the Troy vs James Madison college football game originally scheduled for Oct 29, 2026, then the market resolves to Yes.",
    "open": 0.49,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.49
+   "prev": 0.46
   },
   {
    "ticker": "KXNBAGAME-26OCT29SACNOP-NOP",
@@ -4359,7 +4359,7 @@
    "rules": "If New Orleans wins the Sacramento vs New Orleans Pro Basketball game originally scheduled for Oct 29, 2026, then the market resolves to Yes.",
    "open": 0.85,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.77
+   "prev": 0.76
   },
   {
    "ticker": "KXNBAGAME-26OCT29SACNOP-SAC",
@@ -4383,7 +4383,7 @@
    "rules": "If Sacramento wins the Sacramento vs New Orleans Pro Basketball game originally scheduled for Oct 29, 2026, then the market resolves to Yes.",
    "open": 0.68,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.55
+   "prev": 0.46
   },
   {
    "ticker": "KXNFLGAME-26OCT29CARGB-CAR",
@@ -4431,7 +4431,7 @@
    "rules": "If Green Bay wins the Carolina vs Green Bay Pro Football game originally scheduled for Oct 29, 2026, then the market resolves to Yes.",
    "open": 0.66,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.65
+   "prev": 0.66
   },
   {
    "ticker": "KXNFLSPREAD-26OCT29CARGB-GB4",
@@ -4445,7 +4445,7 @@
    "yesAsk": 0.52,
    "noBid": 0.48,
    "noAsk": 0.49,
-   "last": 0.52,
+   "last": 0.51,
    "volume": null,
    "openInterest": null,
    "close": "2026-11-01T00:15:00Z",
@@ -4455,7 +4455,7 @@
    "rules": "If Green Bay wins by more than 3.5 points in the Carolina vs Green Bay Pro Football game originally scheduled for Oct 29, 2026, then the market resolves to Yes.",
    "open": 0.53,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.53
+   "prev": 0.52
   },
   {
    "ticker": "KXNFLSPREAD-26OCT29CARGB-GB5",
@@ -4489,10 +4489,10 @@
    "title": "Green Bay wins by over 5.5 points?",
    "yes": "Green Bay wins by over 5.5 points",
    "no": "Green Bay wins by over 5.5 points",
-   "yesBid": 0.45,
+   "yesBid": 0.44,
    "yesAsk": 0.46,
    "noBid": 0.54,
-   "noAsk": 0.55,
+   "noAsk": 0.56,
    "last": 0.45,
    "volume": null,
    "openInterest": null,
@@ -4575,7 +4575,7 @@
    "rules": "If Carolina and Green Bay collectively score more than 49.5 points in the Carolina vs Green Bay Pro Football game originally scheduled for Oct 29, 2026, then the market resolves to Yes.",
    "open": 0.45,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.45
+   "prev": 0.46
   },
   {
    "ticker": "KXNBAGAME-26OCT29MEMPOR-MEM",
@@ -4599,7 +4599,7 @@
    "rules": "If Memphis wins the Memphis vs Portland Pro Basketball game originally scheduled for Oct 29, 2026, then the market resolves to Yes.",
    "open": 0.49,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.47
+   "prev": 0.39
   },
   {
    "ticker": "KXNBAGAME-26OCT29MEMPOR-POR",
@@ -4623,7 +4623,7 @@
    "rules": "If Portland wins the Memphis vs Portland Pro Basketball game originally scheduled for Oct 29, 2026, then the market resolves to Yes.",
    "open": 0.82,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.78
+   "prev": 0.75
   },
   {
    "ticker": "KXNCAAFGAME-26OCT30HARVDART-DART",
@@ -4633,10 +4633,10 @@
    "title": "Dartmouth wins",
    "yes": "Dartmouth",
    "no": "Dartmouth",
-   "yesBid": 0.19,
-   "yesAsk": 0.27,
-   "noBid": 0.73,
-   "noAsk": 0.81,
+   "yesBid": 0.2,
+   "yesAsk": 0.26,
+   "noBid": 0.74,
+   "noAsk": 0.8,
    "last": 0.24,
    "volume": null,
    "openInterest": null,
@@ -4647,7 +4647,7 @@
    "rules": "If Dartmouth wins the Harvard vs Dartmouth college football game originally scheduled for Oct 30, 2026, then the market resolves to Yes.",
    "open": 0.31,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.31
+   "prev": 0.27
   },
   {
    "ticker": "KXNCAAFGAME-26OCT30HARVDART-HARV",
@@ -4657,11 +4657,11 @@
    "title": "Harvard wins",
    "yes": "Harvard",
    "no": "Harvard",
-   "yesBid": 0.74,
+   "yesBid": 0.73,
    "yesAsk": 0.79,
    "noBid": 0.21,
-   "noAsk": 0.26,
-   "last": 0.79,
+   "noAsk": 0.27,
+   "last": 0.72,
    "volume": null,
    "openInterest": null,
    "close": "2026-11-01T23:00:00Z",
@@ -4671,7 +4671,7 @@
    "rules": "If Harvard wins the Harvard vs Dartmouth college football game originally scheduled for Oct 30, 2026, then the market resolves to Yes.",
    "open": 0.78,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.75
+   "prev": 0.79
   },
   {
    "ticker": "KXNCAAFGAME-26OCT30TULNCHAR-CHAR",
@@ -4791,7 +4791,7 @@
    "rules": "If Tulane wins by more than 11.5 points in the Tulane vs Charlotte college football game originally scheduled for Oct 30, 2026, then the market resolves to Yes.",
    "open": 0.49,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.48
+   "prev": 0.47
   },
   {
    "ticker": "KXNCAAFTOTAL-26OCT30TULNCHAR-46",
@@ -4839,7 +4839,7 @@
    "rules": "If the teams collectively score more than 46.5 points in the Tulane vs Charlotte college football game originally scheduled for Oct 30, 2026, then the market resolves to Yes.",
    "open": 0.51,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.52
+   "prev": 0.5
   },
   {
    "ticker": "KXNCAAFTOTAL-26OCT30TULNCHAR-48",
@@ -4877,7 +4877,7 @@
    "yesAsk": 0.5,
    "noBid": 0.5,
    "noAsk": 0.51,
-   "last": 0.52,
+   "last": 0.5,
    "volume": null,
    "openInterest": null,
    "close": "2026-11-01T23:30:00Z",
@@ -4887,7 +4887,7 @@
    "rules": "If Baylor wins the Baylor vs UCF college football game originally scheduled for Oct 30, 2026, then the market resolves to Yes.",
    "open": 0.53,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.51
+   "prev": 0.5
   },
   {
    "ticker": "KXNCAAFGAME-26OCT30BAYUCF-UCF",
@@ -4897,11 +4897,11 @@
    "title": "UCF wins",
    "yes": "UCF",
    "no": "UCF",
-   "yesBid": 0.48,
-   "yesAsk": 0.49,
-   "noBid": 0.51,
-   "noAsk": 0.52,
-   "last": 0.49,
+   "yesBid": 0.49,
+   "yesAsk": 0.5,
+   "noBid": 0.5,
+   "noAsk": 0.51,
+   "last": 0.5,
    "volume": null,
    "openInterest": null,
    "close": "2026-11-01T23:30:00Z",
@@ -4921,10 +4921,10 @@
    "title": "Baylor wins by over 1.5 points",
    "yes": "Baylor wins by over 1.5 points",
    "no": "Baylor wins by over 1.5 points",
-   "yesBid": 0.46,
-   "yesAsk": 0.48,
-   "noBid": 0.52,
-   "noAsk": 0.54,
+   "yesBid": 0.45,
+   "yesAsk": 0.47,
+   "noBid": 0.53,
+   "noAsk": 0.55,
    "last": 0.48,
    "volume": null,
    "openInterest": null,
@@ -4935,31 +4935,7 @@
    "rules": "If Baylor wins by more than 1.5 points in the Baylor vs UCF college football game originally scheduled for Oct 30, 2026, then the market resolves to Yes.",
    "open": 0.49,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.5
-  },
-  {
-   "ticker": "KXNCAAFSPREAD-26OCT30BAYUCF-BAY3",
-   "event": "KXNCAAFSPREAD-26OCT30BAYUCF",
-   "series": "KXNCAAFSPREAD",
-   "sport": "CFB",
-   "title": "Baylor wins by over 2.5 points",
-   "yes": "Baylor wins by over 2.5 points",
-   "no": "Baylor wins by over 2.5 points",
-   "yesBid": 0.44,
-   "yesAsk": 0.46,
-   "noBid": 0.54,
-   "noAsk": 0.56,
-   "last": 0.0,
-   "volume": null,
-   "openInterest": null,
-   "close": "2026-11-01T23:30:00Z",
-   "expectedEnd": "2026-10-31T02:30:00Z",
-   "game": "Baylor vs UCF",
-   "kind": "SPREAD",
-   "rules": "If Baylor wins by more than 2.5 points in the Baylor vs UCF college football game originally scheduled for Oct 30, 2026, then the market resolves to Yes.",
-   "open": 0.48,
-   "openAt": "Oct 26 12:26 AM",
-   "prev": 0.49
+   "prev": 0.48
   },
   {
    "ticker": "KXNCAAFSPREAD-26OCT30BAYUCF-UCF2",
@@ -4983,6 +4959,30 @@
    "rules": "If UCF wins by more than 1.5 points in the Baylor vs UCF college football game originally scheduled for Oct 30, 2026, then the market resolves to Yes.",
    "open": 0.46,
    "openAt": "Oct 26 12:35 AM",
+   "prev": 0.47
+  },
+  {
+   "ticker": "KXNCAAFSPREAD-26OCT30BAYUCF-UCF3",
+   "event": "KXNCAAFSPREAD-26OCT30BAYUCF",
+   "series": "KXNCAAFSPREAD",
+   "sport": "CFB",
+   "title": "UCF wins by over 2.5 points",
+   "yes": "UCF wins by over 2.5 points",
+   "no": "UCF wins by over 2.5 points",
+   "yesBid": 0.45,
+   "yesAsk": 0.46,
+   "noBid": 0.54,
+   "noAsk": 0.55,
+   "last": 0.44,
+   "volume": null,
+   "openInterest": null,
+   "close": "2026-11-01T23:30:00Z",
+   "expectedEnd": "2026-10-31T02:30:00Z",
+   "game": "Baylor vs UCF",
+   "kind": "SPREAD",
+   "rules": "If UCF wins by more than 2.5 points in the Baylor vs UCF college football game originally scheduled for Oct 30, 2026, then the market resolves to Yes.",
+   "open": 0.46,
+   "openAt": "Oct 26 8:05 AM",
    "prev": 0.46
   },
   {
@@ -5031,7 +5031,7 @@
    "rules": "If the teams collectively score more than 48.5 points in the Baylor vs UCF college football game originally scheduled for Oct 30, 2026, then the market resolves to Yes.",
    "open": 0.48,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.49
+   "prev": 0.48
   },
   {
    "ticker": "KXNCAAFTOTAL-26OCT30BAYUCF-51",
@@ -5055,7 +5055,7 @@
    "rules": "If the teams collectively score more than 50.5 points in the Baylor vs UCF college football game originally scheduled for Oct 30, 2026, then the market resolves to Yes.",
    "open": 0.47,
    "openAt": "Oct 26 3:23 AM",
-   "prev": 0.47
+   "prev": 0.46
   },
   {
    "ticker": "KXNCAAFGAME-26OCT30APPGASO-APP",
@@ -5117,7 +5117,7 @@
    "yesAsk": 0.41,
    "noBid": 0.59,
    "noAsk": 0.6,
-   "last": 0.41,
+   "last": 0.4,
    "volume": null,
    "openInterest": null,
    "close": "2026-11-02T00:00:00Z",
@@ -5127,7 +5127,7 @@
    "rules": "If Arizona wins the Arizona vs Texas Tech college football game originally scheduled for Oct 30, 2026, then the market resolves to Yes.",
    "open": 0.39,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.4
+   "prev": 0.41
   },
   {
    "ticker": "KXNCAAFGAME-26OCT30ARIZTTU-TTU",
@@ -5151,7 +5151,7 @@
    "rules": "If Texas Tech wins the Arizona vs Texas Tech college football game originally scheduled for Oct 30, 2026, then the market resolves to Yes.",
    "open": 0.63,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.63
+   "prev": 0.62
   },
   {
    "ticker": "KXNCAAFGAME-26OCT30ARMYMEM-ARMY",
@@ -5175,7 +5175,7 @@
    "rules": "If Army wins the Army vs Memphis college football game originally scheduled for Oct 30, 2026, then the market resolves to Yes.",
    "open": 0.32,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.32
+   "prev": 0.33
   },
   {
    "ticker": "KXNCAAFGAME-26OCT30ARMYMEM-MEM",
@@ -5199,7 +5199,7 @@
    "rules": "If Memphis wins the Army vs Memphis college football game originally scheduled for Oct 30, 2026, then the market resolves to Yes.",
    "open": 0.71,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.71
+   "prev": 0.69
   },
   {
    "ticker": "KXNCAAFGAME-26OCT30ASUBYU-ASU",
@@ -5261,7 +5261,7 @@
    "yesAsk": 0.19,
    "noBid": 0.81,
    "noAsk": 0.82,
-   "last": 0.19,
+   "last": 0.18,
    "volume": null,
    "openInterest": null,
    "close": "2026-11-02T00:00:00Z",
@@ -5271,7 +5271,7 @@
    "rules": "If Auburn wins the Auburn vs Ole Miss college football game originally scheduled for Oct 30, 2026, then the market resolves to Yes.",
    "open": 0.18,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.18
+   "prev": 0.19
   },
   {
    "ticker": "KXNCAAFGAME-26OCT30AUBMISS-MISS",
@@ -5285,7 +5285,7 @@
    "yesAsk": 0.82,
    "noBid": 0.18,
    "noAsk": 0.2,
-   "last": 0.8,
+   "last": 0.82,
    "volume": null,
    "openInterest": null,
    "close": "2026-11-02T00:00:00Z",
@@ -5319,7 +5319,7 @@
    "rules": "If Boston College wins the Boston College vs Duke college football game originally scheduled for Oct 30, 2026, then the market resolves to Yes.",
    "open": 0.28,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.27
+   "prev": 0.3
   },
   {
    "ticker": "KXNCAAFGAME-26OCT30BCDUKE-DUKE",
@@ -5343,7 +5343,7 @@
    "rules": "If Duke wins the Boston College vs Duke college football game originally scheduled for Oct 30, 2026, then the market resolves to Yes.",
    "open": 0.73,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.73
+   "prev": 0.7
   },
   {
    "ticker": "KXNCAAFGAME-26OCT30CALNCST-CAL",
@@ -5367,7 +5367,7 @@
    "rules": "If California wins the California vs NC St. college football game originally scheduled for Oct 30, 2026, then the market resolves to Yes.",
    "open": 0.28,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.28
+   "prev": 0.3
   },
   {
    "ticker": "KXNCAAFGAME-26OCT30CALNCST-NCST",
@@ -5391,7 +5391,7 @@
    "rules": "If NC St. wins the California vs NC St. college football game originally scheduled for Oct 30, 2026, then the market resolves to Yes.",
    "open": 0.73,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.73
+   "prev": 0.72
   },
   {
    "ticker": "KXNCAAFGAME-26OCT30GTPITT-GT",
@@ -5415,7 +5415,7 @@
    "rules": "If Georgia Tech wins the Georgia Tech vs Pittsburgh college football game originally scheduled for Oct 30, 2026, then the market resolves to Yes.",
    "open": 0.29,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.29
+   "prev": 0.28
   },
   {
    "ticker": "KXNCAAFGAME-26OCT30GTPITT-PITT",
@@ -5453,7 +5453,7 @@
    "yesAsk": 0.57,
    "noBid": 0.43,
    "noAsk": 0.44,
-   "last": 0.56,
+   "last": 0.57,
    "volume": null,
    "openInterest": null,
    "close": "2026-11-02T00:00:00Z",
@@ -5498,8 +5498,8 @@
    "yes": "Colorado",
    "no": "Colorado",
    "yesBid": 0.44,
-   "yesAsk": 0.45,
-   "noBid": 0.55,
+   "yesAsk": 0.46,
+   "noBid": 0.54,
    "noAsk": 0.56,
    "last": 0.45,
    "volume": null,
@@ -5559,7 +5559,7 @@
    "rules": "If Kansas wins the Kansas vs TCU college football game originally scheduled for Oct 30, 2026, then the market resolves to Yes.",
    "open": 0.36,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.35
+   "prev": 0.34
   },
   {
    "ticker": "KXNCAAFGAME-26OCT30KUTCU-TCU",
@@ -5583,7 +5583,7 @@
    "rules": "If TCU wins the Kansas vs TCU college football game originally scheduled for Oct 30, 2026, then the market resolves to Yes.",
    "open": 0.66,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.66
+   "prev": 0.68
   },
   {
    "ticker": "KXNCAAFGAME-26OCT30LTUSA-LT",
@@ -5607,7 +5607,7 @@
    "rules": "If Louisiana Tech wins the Louisiana Tech vs South Alabama college football game originally scheduled for Oct 30, 2026, then the market resolves to Yes.",
    "open": 0.63,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.63
+   "prev": 0.64
   },
   {
    "ticker": "KXNCAAFGAME-26OCT30LTUSA-USA",
@@ -5617,11 +5617,11 @@
    "title": "South Alabama wins",
    "yes": "South Alabama",
    "no": "South Alabama",
-   "yesBid": 0.33,
-   "yesAsk": 0.35,
-   "noBid": 0.65,
-   "noAsk": 0.67,
-   "last": 0.33,
+   "yesBid": 0.34,
+   "yesAsk": 0.36,
+   "noBid": 0.64,
+   "noAsk": 0.66,
+   "last": 0.35,
    "volume": null,
    "openInterest": null,
    "close": "2026-11-02T00:00:00Z",
@@ -5631,7 +5631,7 @@
    "rules": "If South Alabama wins the Louisiana Tech vs South Alabama college football game originally scheduled for Oct 30, 2026, then the market resolves to Yes.",
    "open": 0.36,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.36
+   "prev": 0.35
   },
   {
    "ticker": "KXNCAAFGAME-26OCT30MIAUNC-MIA",
@@ -5655,7 +5655,7 @@
    "rules": "If Miami (FL) wins the Miami (FL) vs North Carolina college football game originally scheduled for Oct 30, 2026, then the market resolves to Yes.",
    "open": 0.86,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.85
+   "prev": 0.86
   },
   {
    "ticker": "KXNCAAFGAME-26OCT30MIAUNC-UNC",
@@ -5727,7 +5727,7 @@
    "rules": "If Rutgers wins the Michigan vs Rutgers college football game originally scheduled for Oct 30, 2026, then the market resolves to Yes.",
    "open": 0.17,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.16
+   "prev": 0.17
   },
   {
    "ticker": "KXNCAAFGAME-26OCT30MINNIND-IND",
@@ -5775,7 +5775,7 @@
    "rules": "If Minnesota wins the Minnesota vs Indiana college football game originally scheduled for Oct 30, 2026, then the market resolves to Yes.",
    "open": 0.1,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.1
+   "prev": 0.09
   },
   {
    "ticker": "KXNCAAFGAME-26OCT30MIZZARK-ARK",
@@ -5799,7 +5799,7 @@
    "rules": "If Arkansas wins the Missouri vs Arkansas college football game originally scheduled for Oct 30, 2026, then the market resolves to Yes.",
    "open": 0.23,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.23
+   "prev": 0.24
   },
   {
    "ticker": "KXNCAAFGAME-26OCT30MIZZARK-MIZZ",
@@ -5833,10 +5833,10 @@
    "title": "Marshall wins",
    "yes": "Marshall",
    "no": "Marshall",
-   "yesBid": 0.56,
-   "yesAsk": 0.58,
-   "noBid": 0.42,
-   "noAsk": 0.44,
+   "yesBid": 0.55,
+   "yesAsk": 0.57,
+   "noBid": 0.43,
+   "noAsk": 0.45,
    "last": 0.58,
    "volume": null,
    "openInterest": null,
@@ -5858,8 +5858,8 @@
    "yes": "Old Dominion",
    "no": "Old Dominion",
    "yesBid": 0.42,
-   "yesAsk": 0.43,
-   "noBid": 0.57,
+   "yesAsk": 0.44,
+   "noBid": 0.56,
    "noAsk": 0.58,
    "last": 0.43,
    "volume": null,
@@ -5885,7 +5885,7 @@
    "yesAsk": 0.09,
    "noBid": 0.91,
    "noAsk": 0.92,
-   "last": 0.08,
+   "last": 0.09,
    "volume": null,
    "openInterest": null,
    "close": "2026-11-02T00:00:00Z",
@@ -5895,7 +5895,7 @@
    "rules": "If Mississippi St. wins the Mississippi St. vs Texas college football game originally scheduled for Oct 30, 2026, then the market resolves to Yes.",
    "open": 0.1,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.1
+   "prev": 0.09
   },
   {
    "ticker": "KXNCAAFGAME-26OCT30MSSTTEX-TEX",
@@ -5919,7 +5919,7 @@
    "rules": "If Texas wins the Mississippi St. vs Texas college football game originally scheduled for Oct 30, 2026, then the market resolves to Yes.",
    "open": 0.91,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.91
+   "prev": 0.92
   },
   {
    "ticker": "KXNCAAFGAME-26OCT30NEVUCLA-NEV",
@@ -6015,7 +6015,7 @@
    "rules": "If Oregon wins the Northwestern vs Oregon college football game originally scheduled for Oct 30, 2026, then the market resolves to Yes.",
    "open": 0.61,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.6
+   "prev": 0.59
   },
   {
    "ticker": "KXNCAAFGAME-26OCT30OKSTISU-ISU",
@@ -6025,10 +6025,10 @@
    "title": "Iowa St. wins",
    "yes": "Iowa St.",
    "no": "Iowa St.",
-   "yesBid": 0.23,
+   "yesBid": 0.24,
    "yesAsk": 0.25,
    "noBid": 0.75,
-   "noAsk": 0.77,
+   "noAsk": 0.76,
    "last": 0.25,
    "volume": null,
    "openInterest": null,
@@ -6159,7 +6159,7 @@
    "rules": "If South Carolina wins the South Carolina vs Oklahoma college football game originally scheduled for Oct 30, 2026, then the market resolves to Yes.",
    "open": 0.36,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.35
+   "prev": 0.36
   },
   {
    "ticker": "KXNCAAFGAME-26OCT30SMUSYR-SMU",
@@ -6207,7 +6207,7 @@
    "rules": "If Syracuse wins the SMU vs Syracuse college football game originally scheduled for Oct 30, 2026, then the market resolves to Yes.",
    "open": 0.25,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.25
+   "prev": 0.26
   },
   {
    "ticker": "KXNCAAFGAME-26OCT30STANLOU-LOU",
@@ -6351,7 +6351,7 @@
    "rules": "If South Florida wins the UAB vs South Florida college football game originally scheduled for Oct 30, 2026, then the market resolves to Yes.",
    "open": 0.74,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.73
+   "prev": 0.74
   },
   {
    "ticker": "KXNCAAFGAME-26OCT30USMULM-ULM",
@@ -6375,7 +6375,7 @@
    "rules": "If Louisiana-Monroe wins the Southern Miss vs Louisiana-Monroe college football game originally scheduled for Oct 30, 2026, then the market resolves to Yes.",
    "open": 0.42,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.42
+   "prev": 0.4
   },
   {
    "ticker": "KXNCAAFGAME-26OCT30USMULM-USM",
@@ -6399,7 +6399,7 @@
    "rules": "If Southern Miss wins the Southern Miss vs Louisiana-Monroe college football game originally scheduled for Oct 30, 2026, then the market resolves to Yes.",
    "open": 0.59,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.59
+   "prev": 0.6
   },
   {
    "ticker": "KXNCAAFGAME-26OCT30UTAHCIN-CIN",
@@ -6543,7 +6543,7 @@
    "rules": "If Washington wins the Washington vs Nebraska college football game originally scheduled for Oct 30, 2026, then the market resolves to Yes.",
    "open": 0.26,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.26
+   "prev": 0.25
   },
   {
    "ticker": "KXNCAAFGAME-26OCT30WISIOWA-IOWA",
@@ -6557,7 +6557,7 @@
    "yesAsk": 0.62,
    "noBid": 0.38,
    "noAsk": 0.4,
-   "last": 0.61,
+   "last": 0.62,
    "volume": null,
    "openInterest": null,
    "close": "2026-11-02T00:00:00Z",
@@ -6567,7 +6567,7 @@
    "rules": "If Iowa wins the Wisconsin vs Iowa college football game originally scheduled for Oct 30, 2026, then the market resolves to Yes.",
    "open": 0.6,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.61
+   "prev": 0.62
   },
   {
    "ticker": "KXNCAAFGAME-26OCT30WISIOWA-WIS",
@@ -6615,7 +6615,7 @@
    "rules": "If Kent St. wins the Kent St. vs Sacramento St. college football game originally scheduled for Oct 30, 2026, then the market resolves to Yes.",
    "open": 0.8,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.79
+   "prev": 0.78
   },
   {
    "ticker": "KXNCAAFGAME-26OCT30KENTSAC-SAC",
@@ -6735,7 +6735,7 @@
    "rules": "If the teams collectively score more than 46.5 points in the Kent St. vs Sacramento St. college football game originally scheduled for Oct 30, 2026, then the market resolves to Yes.",
    "open": 0.51,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.51
+   "prev": 0.5
   },
   {
    "ticker": "KXNCAAFTOTAL-26OCT30KENTSAC-48",
@@ -6807,7 +6807,7 @@
    "rules": "If Bowling Green wins the Bowling Green vs Western Michigan college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.16,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.17
+   "prev": 0.18
   },
   {
    "ticker": "KXNCAAFGAME-26OCT31BGSUWMU-WMU",
@@ -6817,10 +6817,10 @@
    "title": "Western Michigan wins",
    "yes": "Western Michigan",
    "no": "Western Michigan",
-   "yesBid": 0.82,
+   "yesBid": 0.81,
    "yesAsk": 0.83,
    "noBid": 0.17,
-   "noAsk": 0.18,
+   "noAsk": 0.19,
    "last": 0.85,
    "volume": null,
    "openInterest": null,
@@ -6831,7 +6831,7 @@
    "rules": "If Western Michigan wins the Bowling Green vs Western Michigan college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.85,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.85
+   "prev": 0.83
   },
   {
    "ticker": "KXNCAAFGAME-26OCT31BUCKLEH-BUCK",
@@ -6841,11 +6841,11 @@
    "title": "Bucknell wins",
    "yes": "Bucknell",
    "no": "Bucknell",
-   "yesBid": 0.09,
-   "yesAsk": 0.1,
-   "noBid": 0.9,
-   "noAsk": 0.91,
-   "last": 0.1,
+   "yesBid": 0.1,
+   "yesAsk": 0.11,
+   "noBid": 0.89,
+   "noAsk": 0.9,
+   "last": 0.12,
    "volume": null,
    "openInterest": null,
    "close": "2026-11-02T16:00:00Z",
@@ -6855,7 +6855,7 @@
    "rules": "If Bucknell wins the Bucknell vs Lehigh college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.08,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.09
+   "prev": 0.1
   },
   {
    "ticker": "KXNCAAFGAME-26OCT31BUCKLEH-LEH",
@@ -6865,10 +6865,10 @@
    "title": "Lehigh wins",
    "yes": "Lehigh",
    "no": "Lehigh",
-   "yesBid": 0.9,
-   "yesAsk": 0.93,
-   "noBid": 0.07,
-   "noAsk": 0.1,
+   "yesBid": 0.89,
+   "yesAsk": 0.91,
+   "noBid": 0.09,
+   "noAsk": 0.11,
    "last": 0.93,
    "volume": null,
    "openInterest": null,
@@ -6879,7 +6879,7 @@
    "rules": "If Lehigh wins the Bucknell vs Lehigh college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.94,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.94
+   "prev": 0.93
   },
   {
    "ticker": "KXNCAAFGAME-26OCT31CAMPALBY-ALBY",
@@ -6903,7 +6903,7 @@
    "rules": "If University at Albany wins the Campbell vs University at Albany college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.55,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.52
+   "prev": 0.51
   },
   {
    "ticker": "KXNCAAFGAME-26OCT31CAMPALBY-CAMP",
@@ -6975,7 +6975,7 @@
    "rules": "If Princeton wins the Cornell vs Princeton college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.58,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.58
+   "prev": 0.59
   },
   {
    "ticker": "KXNCAAFGAME-26OCT31DUQNHC-DUQ",
@@ -6999,7 +6999,7 @@
    "rules": "If Duquesne wins the Duquesne vs New Haven college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.61,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.61
+   "prev": 0.59
   },
   {
    "ticker": "KXNCAAFGAME-26OCT31DUQNHC-NHC",
@@ -7023,7 +7023,7 @@
    "rules": "If New Haven wins the Duquesne vs New Haven college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.45,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.45
+   "prev": 0.44
   },
   {
    "ticker": "KXNCAAFGAME-26OCT31MEURI-ME",
@@ -7034,8 +7034,8 @@
    "yes": "Maine",
    "no": "Maine",
    "yesBid": 0.17,
-   "yesAsk": 0.21,
-   "noBid": 0.79,
+   "yesAsk": 0.2,
+   "noBid": 0.8,
    "noAsk": 0.83,
    "last": 0.21,
    "volume": null,
@@ -7047,7 +7047,7 @@
    "rules": "If Maine wins the Maine vs Rhode Island college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.17,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.16
+   "prev": 0.21
   },
   {
    "ticker": "KXNCAAFGAME-26OCT31MEURI-URI",
@@ -7071,7 +7071,7 @@
    "rules": "If Rhode Island wins the Maine vs Rhode Island college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.86,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.88
+   "prev": 0.84
   },
   {
    "ticker": "KXNCAAFGAME-26OCT31MHUSTNH-MHU",
@@ -7081,10 +7081,10 @@
    "title": "Mercyhurst wins",
    "yes": "Mercyhurst",
    "no": "Mercyhurst",
-   "yesBid": 0.27,
-   "yesAsk": 0.34,
-   "noBid": 0.66,
-   "noAsk": 0.73,
+   "yesBid": 0.25,
+   "yesAsk": 0.35,
+   "noBid": 0.65,
+   "noAsk": 0.75,
    "last": 0.21,
    "volume": null,
    "openInterest": null,
@@ -7106,8 +7106,8 @@
    "yes": "Stonehill",
    "no": "Stonehill",
    "yesBid": 0.63,
-   "yesAsk": 0.69,
-   "noBid": 0.31,
+   "yesAsk": 0.71,
+   "noBid": 0.29,
    "noAsk": 0.37,
    "last": 0.71,
    "volume": null,
@@ -7119,7 +7119,7 @@
    "rules": "If Stonehill wins the Mercyhurst vs Stonehill college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.69,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.71
+   "prev": 0.69
   },
   {
    "ticker": "KXNCAAFGAME-26OCT31NDNAVY-NAVY",
@@ -7177,10 +7177,10 @@
    "title": "Brown wins",
    "yes": "Brown",
    "no": "Brown",
-   "yesBid": 0.5,
+   "yesBid": 0.54,
    "yesAsk": 0.68,
    "noBid": 0.32,
-   "noAsk": 0.5,
+   "noAsk": 0.46,
    "last": 0.68,
    "volume": null,
    "openInterest": null,
@@ -7191,7 +7191,7 @@
    "rules": "If Brown wins the Penn vs Brown college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.68,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.63
+   "prev": 0.68
   },
   {
    "ticker": "KXNCAAFGAME-26OCT31PENNBRWN-PENN",
@@ -7201,10 +7201,10 @@
    "title": "Penn wins",
    "yes": "Penn",
    "no": "Penn",
-   "yesBid": 0.33,
-   "yesAsk": 0.47,
-   "noBid": 0.53,
-   "noAsk": 0.67,
+   "yesBid": 0.34,
+   "yesAsk": 0.42,
+   "noBid": 0.58,
+   "noAsk": 0.66,
    "last": 0.43,
    "volume": null,
    "openInterest": null,
@@ -7215,7 +7215,7 @@
    "rules": "If Penn wins the Penn vs Brown college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.4,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.44
+   "prev": 0.47
   },
   {
    "ticker": "KXNCAAFGAME-26OCT31RMUCCSU-CCSU",
@@ -7225,10 +7225,10 @@
    "title": "Central Connecticut St. wins",
    "yes": "Central Connecticut St.",
    "no": "Central Connecticut St.",
-   "yesBid": 0.69,
-   "yesAsk": 0.75,
-   "noBid": 0.25,
-   "noAsk": 0.31,
+   "yesBid": 0.65,
+   "yesAsk": 0.77,
+   "noBid": 0.23,
+   "noAsk": 0.35,
    "last": 0.76,
    "volume": null,
    "openInterest": null,
@@ -7239,7 +7239,7 @@
    "rules": "If Central Connecticut St. wins the Robert Morris vs Central Connecticut St. college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.76,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.73
+   "prev": 0.75
   },
   {
    "ticker": "KXNCAAFGAME-26OCT31RMUCCSU-RMU",
@@ -7249,10 +7249,10 @@
    "title": "Robert Morris wins",
    "yes": "Robert Morris",
    "no": "Robert Morris",
-   "yesBid": 0.25,
-   "yesAsk": 0.32,
-   "noBid": 0.68,
-   "noAsk": 0.75,
+   "yesBid": 0.23,
+   "yesAsk": 0.37,
+   "noBid": 0.63,
+   "noAsk": 0.77,
    "last": 0.24,
    "volume": null,
    "openInterest": null,
@@ -7263,7 +7263,7 @@
    "rules": "If Robert Morris wins the Robert Morris vs Central Connecticut St. college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.38,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.36
+   "prev": 0.32
   },
   {
    "ticker": "KXNCAAFGAME-26OCT31SHUSTON-SHU",
@@ -7287,7 +7287,7 @@
    "rules": "If Sacred Heart wins the Sacred Heart vs Stony Brook college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.31,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.3
+   "prev": 0.29
   },
   {
    "ticker": "KXNCAAFGAME-26OCT31SHUSTON-STON",
@@ -7311,7 +7311,7 @@
    "rules": "If Stony Brook wins the Sacred Heart vs Stony Brook college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.76,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.76
+   "prev": 0.77
   },
   {
    "ticker": "KXNCAAFGAME-26OCT31UNDYSU-UND",
@@ -7322,8 +7322,8 @@
    "yes": "North Dakota",
    "no": "North Dakota",
    "yesBid": 0.34,
-   "yesAsk": 0.44,
-   "noBid": 0.56,
+   "yesAsk": 0.4,
+   "noBid": 0.6,
    "noAsk": 0.66,
    "last": 0.43,
    "volume": null,
@@ -7335,7 +7335,7 @@
    "rules": "If North Dakota wins the North Dakota vs Youngstown St. college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.42,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.4
+   "prev": 0.44
   },
   {
    "ticker": "KXNCAAFGAME-26OCT31UNDYSU-YSU",
@@ -7345,10 +7345,10 @@
    "title": "Youngstown St. wins",
    "yes": "Youngstown St.",
    "no": "Youngstown St.",
-   "yesBid": 0.51,
+   "yesBid": 0.55,
    "yesAsk": 0.68,
    "noBid": 0.32,
-   "noAsk": 0.49,
+   "noAsk": 0.45,
    "last": 0.68,
    "volume": null,
    "openInterest": null,
@@ -7383,7 +7383,7 @@
    "rules": "If Merrimack wins the Wagner vs Merrimack college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.85,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.85
+   "prev": 0.86
   },
   {
    "ticker": "KXNCAAFGAME-26OCT31WAGMRMK-WAG",
@@ -7431,7 +7431,7 @@
    "rules": "If Columbia wins the Yale vs Columbia college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.34,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.34
+   "prev": 0.33
   },
   {
    "ticker": "KXNCAAFGAME-26OCT31YALECLMB-YALE",
@@ -7455,7 +7455,7 @@
    "rules": "If Yale wins the Yale vs Columbia college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.76,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.74
+   "prev": 0.71
   },
   {
    "ticker": "KXNCAAFSPREAD-26OCT31ARIZTTU-TTU4",
@@ -7469,7 +7469,7 @@
    "yesAsk": 0.5,
    "noBid": 0.5,
    "noAsk": 0.54,
-   "last": 0.49,
+   "last": 0.46,
    "volume": null,
    "openInterest": null,
    "close": "2026-11-02T16:00:00Z",
@@ -7479,7 +7479,7 @@
    "rules": "If Texas Tech wins by more than 3.5 points in the Arizona vs Texas Tech college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.52,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.52
+   "prev": 0.5
   },
   {
    "ticker": "KXNCAAFSPREAD-26OCT31ARIZTTU-TTU5",
@@ -7503,7 +7503,7 @@
    "rules": "If Texas Tech wins by more than 4.5 points in the Arizona vs Texas Tech college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.49,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.48
+   "prev": 0.45
   },
   {
    "ticker": "KXNCAAFSPREAD-26OCT31ARIZTTU-TTU6",
@@ -7513,10 +7513,10 @@
    "title": "Texas Tech wins by over 5.5 points",
    "yes": "Texas Tech wins by over 5.5 points",
    "no": "Texas Tech wins by over 5.5 points",
-   "yesBid": 0.41,
+   "yesBid": 0.4,
    "yesAsk": 0.45,
    "noBid": 0.55,
-   "noAsk": 0.59,
+   "noAsk": 0.6,
    "last": 0.42,
    "volume": null,
    "openInterest": null,
@@ -7527,7 +7527,7 @@
    "rules": "If Texas Tech wins by more than 5.5 points in the Arizona vs Texas Tech college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.47,
    "openAt": "Oct 26 3:23 AM",
-   "prev": 0.47
+   "prev": 0.45
   },
   {
    "ticker": "KXNCAAFSPREAD-26OCT31BCDUKE-DUKE10",
@@ -7551,7 +7551,7 @@
    "rules": "If Duke wins by more than 9.5 points in the Boston College vs Duke college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.44,
    "openAt": "Oct 26 3:23 AM",
-   "prev": 0.44
+   "prev": 0.46
   },
   {
    "ticker": "KXNCAAFSPREAD-26OCT31BCDUKE-DUKE7",
@@ -7575,7 +7575,7 @@
    "rules": "If Duke wins by more than 6.5 points in the Boston College vs Duke college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.55,
    "openAt": "Oct 26 3:23 AM",
-   "prev": 0.55
+   "prev": 0.54
   },
   {
    "ticker": "KXNCAAFSPREAD-26OCT31BCDUKE-DUKE8",
@@ -7599,7 +7599,7 @@
    "rules": "If Duke wins by more than 7.5 points in the Boston College vs Duke college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.49,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.49
+   "prev": 0.48
   },
   {
    "ticker": "KXNCAAFSPREAD-26OCT31BGSUWMU-WMU14",
@@ -7623,7 +7623,7 @@
    "rules": "If Western Michigan wins by more than 13.5 points in the Bowling Green vs Western Michigan college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.55,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.56
+   "prev": 0.52
   },
   {
    "ticker": "KXNCAAFSPREAD-26OCT31BGSUWMU-WMU15",
@@ -7647,7 +7647,7 @@
    "rules": "If Western Michigan wins by more than 14.5 points in the Bowling Green vs Western Michigan college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.49,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.49
+   "prev": 0.46
   },
   {
    "ticker": "KXNCAAFSPREAD-26OCT31BGSUWMU-WMU17",
@@ -7671,7 +7671,7 @@
    "rules": "If Western Michigan wins by more than 16.5 points in the Bowling Green vs Western Michigan college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.48,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.47
+   "prev": 0.45
   },
   {
    "ticker": "KXNCAAFSPREAD-26OCT31CALNCST-NCST10",
@@ -7695,7 +7695,7 @@
    "rules": "If NC St. wins by more than 9.5 points in the California vs NC St. college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.5,
    "openAt": "Oct 26 3:23 AM",
-   "prev": 0.5
+   "prev": 0.47
   },
   {
    "ticker": "KXNCAAFSPREAD-26OCT31CALNCST-NCST11",
@@ -7705,10 +7705,10 @@
    "title": "NC St. wins by over 10.5 points",
    "yes": "NC St. wins by over 10.5 points",
    "no": "NC St. wins by over 10.5 points",
-   "yesBid": 0.4,
+   "yesBid": 0.39,
    "yesAsk": 0.44,
    "noBid": 0.56,
-   "noAsk": 0.6,
+   "noAsk": 0.61,
    "last": 0.43,
    "volume": null,
    "openInterest": null,
@@ -7719,7 +7719,7 @@
    "rules": "If NC St. wins by more than 10.5 points in the California vs NC St. college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.46,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.46
+   "prev": 0.44
   },
   {
    "ticker": "KXNCAAFSPREAD-26OCT31CALNCST-NCST8",
@@ -7743,7 +7743,7 @@
    "rules": "If NC St. wins by more than 7.5 points in the California vs NC St. college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.54,
    "openAt": "Oct 26 3:23 AM",
-   "prev": 0.54
+   "prev": 0.5
   },
   {
    "ticker": "KXNCAAFSPREAD-26OCT31ILLMD-ILL3",
@@ -7826,10 +7826,10 @@
    "yes": "Notre Dame wins by over 29.5 points",
    "no": "Notre Dame wins by over 29.5 points",
    "yesBid": 0.51,
-   "yesAsk": 0.52,
-   "noBid": 0.48,
+   "yesAsk": 0.53,
+   "noBid": 0.47,
    "noAsk": 0.49,
-   "last": 0.51,
+   "last": 0.53,
    "volume": null,
    "openInterest": null,
    "close": "2026-11-02T16:00:00Z",
@@ -7983,7 +7983,7 @@
    "rules": "If South Florida wins by more than 9.5 points in the UAB vs South Florida college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.49,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.48
+   "prev": 0.49
   },
   {
    "ticker": "KXNCAAFSPREAD-26OCT31UABUSF-USF11",
@@ -8007,7 +8007,7 @@
    "rules": "If South Florida wins by more than 10.5 points in the UAB vs South Florida college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.44,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.45
+   "prev": 0.46
   },
   {
    "ticker": "KXNCAAFSPREAD-26OCT31UABUSF-USF8",
@@ -8055,7 +8055,7 @@
    "rules": "If Iowa wins by more than 3.5 points in the Wisconsin vs Iowa college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.48,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.49
+   "prev": 0.48
   },
   {
    "ticker": "KXNCAAFSPREAD-26OCT31WISIOWA-IOWA5",
@@ -8079,7 +8079,7 @@
    "rules": "If Iowa wins by more than 4.5 points in the Wisconsin vs Iowa college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.46,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.46
+   "prev": 0.47
   },
   {
    "ticker": "KXNCAAFSPREAD-26OCT31WISIOWA-IOWA6",
@@ -8090,8 +8090,8 @@
    "yes": "Iowa wins by over 5.5 points",
    "no": "Iowa wins by over 5.5 points",
    "yesBid": 0.43,
-   "yesAsk": 0.45,
-   "noBid": 0.55,
+   "yesAsk": 0.44,
+   "noBid": 0.56,
    "noAsk": 0.57,
    "last": 0.45,
    "volume": null,
@@ -8103,7 +8103,7 @@
    "rules": "If Iowa wins by more than 5.5 points in the Wisconsin vs Iowa college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.45,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.44
+   "prev": 0.45
   },
   {
    "ticker": "KXNCAAFTOTAL-26OCT31ARIZTTU-56",
@@ -8127,7 +8127,7 @@
    "rules": "If the teams collectively score more than 55.5 points in the Arizona vs Texas Tech college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.48,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.49
+   "prev": 0.48
   },
   {
    "ticker": "KXNCAAFTOTAL-26OCT31ARIZTTU-57",
@@ -8199,7 +8199,7 @@
    "rules": "If the teams collectively score more than 48.5 points in the Boston College vs Duke college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.49,
    "openAt": "Oct 26 3:23 AM",
-   "prev": 0.49
+   "prev": 0.5
   },
   {
    "ticker": "KXNCAAFTOTAL-26OCT31BCDUKE-50",
@@ -8223,7 +8223,7 @@
    "rules": "If the teams collectively score more than 49.5 points in the Boston College vs Duke college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.51,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.49
+   "prev": 0.48
   },
   {
    "ticker": "KXNCAAFTOTAL-26OCT31BCDUKE-51",
@@ -8247,7 +8247,7 @@
    "rules": "If the teams collectively score more than 50.5 points in the Boston College vs Duke college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.49,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.48
+   "prev": 0.47
   },
   {
    "ticker": "KXNCAAFTOTAL-26OCT31BGSUWMU-44",
@@ -8271,7 +8271,7 @@
    "rules": "If the teams collectively score more than 43.5 points in the Bowling Green vs Western Michigan college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.54,
    "openAt": "Oct 26 3:23 AM",
-   "prev": 0.54
+   "prev": 0.53
   },
   {
    "ticker": "KXNCAAFTOTAL-26OCT31BGSUWMU-45",
@@ -8298,17 +8298,17 @@
    "prev": 0.5
   },
   {
-   "ticker": "KXNCAAFTOTAL-26OCT31BGSUWMU-47",
+   "ticker": "KXNCAAFTOTAL-26OCT31BGSUWMU-46",
    "event": "KXNCAAFTOTAL-26OCT31BGSUWMU",
    "series": "KXNCAAFTOTAL",
    "sport": "CFB",
-   "title": "Full Game: Over 46.5 points scored",
-   "yes": "Over 46.5 points",
-   "no": "Over 46.5 points",
-   "yesBid": 0.39,
+   "title": "Full Game: Over 45.5 points scored",
+   "yes": "Over 45.5 points",
+   "no": "Over 45.5 points",
+   "yesBid": 0.42,
    "yesAsk": 0.45,
    "noBid": 0.55,
-   "noAsk": 0.61,
+   "noAsk": 0.58,
    "last": 0.0,
    "volume": null,
    "openInterest": null,
@@ -8316,9 +8316,9 @@
    "expectedEnd": "2026-10-31T19:00:00Z",
    "game": "Bowling Green vs Western Michigan",
    "kind": "TOTAL",
-   "rules": "If the teams collectively score more than 46.5 points in the Bowling Green vs Western Michigan college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
+   "rules": "If the teams collectively score more than 45.5 points in the Bowling Green vs Western Michigan college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.45,
-   "openAt": "Oct 26 7:54 AM",
+   "openAt": "Oct 26 8:05 AM",
    "prev": 0.45
   },
   {
@@ -8367,7 +8367,7 @@
    "rules": "If the teams collectively score more than 57.5 points in the California vs NC St. college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.51,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.52
+   "prev": 0.5
   },
   {
    "ticker": "KXNCAAFTOTAL-26OCT31CALNCST-59",
@@ -8391,7 +8391,7 @@
    "rules": "If the teams collectively score more than 58.5 points in the California vs NC St. college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.49,
    "openAt": "Oct 26 3:23 AM",
-   "prev": 0.49
+   "prev": 0.47
   },
   {
    "ticker": "KXNCAAFTOTAL-26OCT31ILLMD-53",
@@ -8463,7 +8463,7 @@
    "rules": "If the teams collectively score more than 54.5 points in the Illinois vs Maryland college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.48,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.48
+   "prev": 0.49
   },
   {
    "ticker": "KXNCAAFTOTAL-26OCT31NDNAVY-54",
@@ -8487,7 +8487,7 @@
    "rules": "If the teams collectively score more than 53.5 points in the Notre Dame vs Navy college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.52,
    "openAt": "Oct 26 3:23 AM",
-   "prev": 0.52
+   "prev": 0.54
   },
   {
    "ticker": "KXNCAAFTOTAL-26OCT31NDNAVY-55",
@@ -8498,8 +8498,8 @@
    "yes": "Over 54.5 points",
    "no": "Over 54.5 points",
    "yesBid": 0.47,
-   "yesAsk": 0.5,
-   "noBid": 0.5,
+   "yesAsk": 0.51,
+   "noBid": 0.49,
    "noAsk": 0.53,
    "last": 0.47,
    "volume": null,
@@ -8511,7 +8511,7 @@
    "rules": "If the teams collectively score more than 54.5 points in the Notre Dame vs Navy college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.48,
    "openAt": "Oct 26 3:23 AM",
-   "prev": 0.48
+   "prev": 0.5
   },
   {
    "ticker": "KXNCAAFTOTAL-26OCT31NDNAVY-56",
@@ -8665,10 +8665,10 @@
    "title": "Full Game: Over 44.5 points scored",
    "yes": "Over 44.5 points",
    "no": "Over 44.5 points",
-   "yesBid": 0.42,
+   "yesBid": 0.41,
    "yesAsk": 0.46,
    "noBid": 0.54,
-   "noAsk": 0.58,
+   "noAsk": 0.59,
    "last": 0.41,
    "volume": null,
    "openInterest": null,
@@ -8679,7 +8679,7 @@
    "rules": "If the teams collectively score more than 44.5 points in the UAB vs South Florida college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.45,
    "openAt": "Oct 26 3:23 AM",
-   "prev": 0.45
+   "prev": 0.46
   },
   {
    "ticker": "KXNCAAFTOTAL-26OCT31WISIOWA-35",
@@ -8738,8 +8738,8 @@
    "yes": "Over 38.5 points",
    "no": "Over 38.5 points",
    "yesBid": 0.39,
-   "yesAsk": 0.46,
-   "noBid": 0.54,
+   "yesAsk": 0.45,
+   "noBid": 0.55,
    "noAsk": 0.61,
    "last": 0.47,
    "volume": null,
@@ -8775,7 +8775,7 @@
    "rules": "If Lafayette wins the Villanova vs Lafayette college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.46,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.45
+   "prev": 0.43
   },
   {
    "ticker": "KXNCAAFGAME-26OCT31VILLLAF-VILL",
@@ -8799,7 +8799,7 @@
    "rules": "If Villanova wins the Villanova vs Lafayette college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.59,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.59
+   "prev": 0.6
   },
   {
    "ticker": "KXNCAAFSPREAD-26OCT31MICHRUTG-MICH14",
@@ -8823,7 +8823,7 @@
    "rules": "If Michigan wins by more than 13.5 points in the Michigan vs Rutgers college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.54,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.54
+   "prev": 0.53
   },
   {
    "ticker": "KXNCAAFSPREAD-26OCT31MICHRUTG-MICH15",
@@ -8871,7 +8871,7 @@
    "rules": "If Michigan wins by more than 16.5 points in the Michigan vs Rutgers college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.47,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.46
+   "prev": 0.45
   },
   {
    "ticker": "KXNCAAFTOTAL-26OCT31MICHRUTG-47",
@@ -8909,7 +8909,7 @@
    "yesAsk": 0.47,
    "noBid": 0.53,
    "noAsk": 0.54,
-   "last": 0.46,
+   "last": 0.47,
    "volume": null,
    "openInterest": null,
    "close": "2026-11-02T16:30:00Z",
@@ -8919,7 +8919,7 @@
    "rules": "If the teams collectively score more than 47.5 points in the Michigan vs Rutgers college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.49,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.49
+   "prev": 0.47
   },
   {
    "ticker": "KXNCAAFTOTAL-26OCT31MICHRUTG-49",
@@ -8943,7 +8943,7 @@
    "rules": "If the teams collectively score more than 48.5 points in the Michigan vs Rutgers college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.49,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.49
+   "prev": 0.47
   },
   {
    "ticker": "KXNCAAFSPREAD-26OCT31AUBMISS-MISS11",
@@ -8953,10 +8953,10 @@
    "title": "Ole Miss wins by over 10.5 points",
    "yes": "Ole Miss wins by over 10.5 points",
    "no": "Ole Miss wins by over 10.5 points",
-   "yesBid": 0.54,
-   "yesAsk": 0.55,
-   "noBid": 0.45,
-   "noAsk": 0.46,
+   "yesBid": 0.53,
+   "yesAsk": 0.54,
+   "noBid": 0.46,
+   "noAsk": 0.47,
    "last": 0.6,
    "volume": null,
    "openInterest": null,
@@ -8967,6 +8967,30 @@
    "rules": "If Ole Miss wins by more than 10.5 points in the Auburn vs Ole Miss college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.55,
    "openAt": "Oct 26 7:54 AM",
+   "prev": 0.55
+  },
+  {
+   "ticker": "KXNCAAFSPREAD-26OCT31AUBMISS-MISS12",
+   "event": "KXNCAAFSPREAD-26OCT31AUBMISS",
+   "series": "KXNCAAFSPREAD",
+   "sport": "CFB",
+   "title": "Ole Miss wins by over 11.5 points",
+   "yes": "Ole Miss wins by over 11.5 points",
+   "no": "Ole Miss wins by over 11.5 points",
+   "yesBid": 0.54,
+   "yesAsk": 0.55,
+   "noBid": 0.45,
+   "noAsk": 0.46,
+   "last": 0.52,
+   "volume": null,
+   "openInterest": null,
+   "close": "2026-11-02T16:45:00Z",
+   "expectedEnd": "2026-10-31T19:45:00Z",
+   "game": "Auburn vs Ole Miss",
+   "kind": "SPREAD",
+   "rules": "If Ole Miss wins by more than 11.5 points in the Auburn vs Ole Miss college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
+   "open": 0.55,
+   "openAt": "Oct 26 8:05 AM",
    "prev": 0.55
   },
   {
@@ -8991,31 +9015,7 @@
    "rules": "If Ole Miss wins by more than 13.5 points in the Auburn vs Ole Miss college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.5,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.49
-  },
-  {
-   "ticker": "KXNCAAFSPREAD-26OCT31AUBMISS-MISS17",
-   "event": "KXNCAAFSPREAD-26OCT31AUBMISS",
-   "series": "KXNCAAFSPREAD",
-   "sport": "CFB",
-   "title": "Ole Miss wins by over 16.5 points",
-   "yes": "Ole Miss wins by over 16.5 points",
-   "no": "Ole Miss wins by over 16.5 points",
-   "yesBid": 0.39,
-   "yesAsk": 0.44,
-   "noBid": 0.56,
-   "noAsk": 0.61,
-   "last": 0.0,
-   "volume": null,
-   "openInterest": null,
-   "close": "2026-11-02T16:45:00Z",
-   "expectedEnd": "2026-10-31T19:45:00Z",
-   "game": "Auburn vs Ole Miss",
-   "kind": "SPREAD",
-   "rules": "If Ole Miss wins by more than 16.5 points in the Auburn vs Ole Miss college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
-   "open": 0.44,
-   "openAt": "Oct 26 7:54 AM",
-   "prev": 0.44
+   "prev": 0.48
   },
   {
    "ticker": "KXNCAAFTOTAL-26OCT31AUBMISS-58",
@@ -9063,7 +9063,7 @@
    "rules": "If the teams collectively score more than 58.5 points in the Auburn vs Ole Miss college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.49,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.47
+   "prev": 0.48
   },
   {
    "ticker": "KXNCAAFTOTAL-26OCT31AUBMISS-60",
@@ -9087,7 +9087,7 @@
    "rules": "If the teams collectively score more than 59.5 points in the Auburn vs Ole Miss college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.46,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.46
+   "prev": 0.45
   },
   {
    "ticker": "KXNCAAFGAME-26OCT31BRYMONM-BRY",
@@ -9111,7 +9111,7 @@
    "rules": "If Bryant wins the Bryant vs Monmouth college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.23,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.25
+   "prev": 0.23
   },
   {
    "ticker": "KXNCAAFGAME-26OCT31BRYMONM-MONM",
@@ -9122,8 +9122,8 @@
    "yes": "Monmouth",
    "no": "Monmouth",
    "yesBid": 0.75,
-   "yesAsk": 0.82,
-   "noBid": 0.18,
+   "yesAsk": 0.81,
+   "noBid": 0.19,
    "noAsk": 0.25,
    "last": 0.82,
    "volume": null,
@@ -9146,8 +9146,8 @@
    "yes": "Butler",
    "no": "Butler",
    "yesBid": 0.63,
-   "yesAsk": 0.82,
-   "noBid": 0.18,
+   "yesAsk": 0.81,
+   "noBid": 0.19,
    "noAsk": 0.37,
    "last": 0.83,
    "volume": null,
@@ -9159,7 +9159,7 @@
    "rules": "If Butler wins the Butler vs Presbyterian college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.82,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.83
+   "prev": 0.82
   },
   {
    "ticker": "KXNCAAFGAME-26OCT31BUTPRE-PRE",
@@ -9231,7 +9231,7 @@
    "rules": "If Stetson wins the Dayton vs Stetson college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.17,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.14
+   "prev": 0.16
   },
   {
    "ticker": "KXNCAAFGAME-26OCT31DRKEMORE-DRKE",
@@ -9314,8 +9314,8 @@
    "yes": "North Carolina A&T",
    "no": "North Carolina A&T",
    "yesBid": 0.26,
-   "yesAsk": 0.34,
-   "noBid": 0.66,
+   "yesAsk": 0.33,
+   "noBid": 0.67,
    "noAsk": 0.74,
    "last": 0.33,
    "volume": null,
@@ -9327,7 +9327,7 @@
    "rules": "If North Carolina A&T wins the Elon vs North Carolina A&T college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.33,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.33
+   "prev": 0.34
   },
   {
    "ticker": "KXNCAAFGAME-26OCT31HAMPTOWS-HAMP",
@@ -9351,7 +9351,7 @@
    "rules": "If Hampton wins the Hampton vs Towson college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.22,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.2
+   "prev": 0.22
   },
   {
    "ticker": "KXNCAAFGAME-26OCT31HAMPTOWS-TOWS",
@@ -9399,7 +9399,7 @@
    "rules": "If Holy Cross wins the Richmond vs Holy Cross college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.49,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.49
+   "prev": 0.48
   },
   {
    "ticker": "KXNCAAFGAME-26OCT31RICHHC-RICH",
@@ -9495,7 +9495,7 @@
    "rules": "If Colgate wins the William & Mary vs Colgate college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.86,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.86
+   "prev": 0.81
   },
   {
    "ticker": "KXNCAAFGAME-26OCT31WMCOLG-WM",
@@ -9519,7 +9519,7 @@
    "rules": "If William & Mary wins the William & Mary vs Colgate college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.2,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.2
+   "prev": 0.21
   },
   {
    "ticker": "KXNCAAFSPREAD-26OCT31MRSHODU-MRSH2",
@@ -9529,10 +9529,10 @@
    "title": "Marshall wins by over 1.5 points",
    "yes": "Marshall wins by over 1.5 points",
    "no": "Marshall wins by over 1.5 points",
-   "yesBid": 0.54,
+   "yesBid": 0.52,
    "yesAsk": 0.56,
    "noBid": 0.44,
-   "noAsk": 0.46,
+   "noAsk": 0.48,
    "last": 0.0,
    "volume": null,
    "openInterest": null,
@@ -9567,7 +9567,7 @@
    "rules": "If Marshall wins by more than 2.5 points in the Marshall vs Old Dominion college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.53,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.53
+   "prev": 0.54
   },
   {
    "ticker": "KXNCAAFSPREAD-26OCT31MRSHODU-MRSH4",
@@ -9578,8 +9578,8 @@
    "yes": "Marshall wins by over 3.5 points",
    "no": "Marshall wins by over 3.5 points",
    "yesBid": 0.43,
-   "yesAsk": 0.47,
-   "noBid": 0.53,
+   "yesAsk": 0.46,
+   "noBid": 0.54,
    "noAsk": 0.57,
    "last": 0.0,
    "volume": null,
@@ -9687,7 +9687,7 @@
    "rules": "If Coastal Carolina wins the Coastal Carolina vs Georgia St. college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.32,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.32
+   "prev": 0.33
   },
   {
    "ticker": "KXNCAAFGAME-26OCT31CCARGAST-GAST",
@@ -9711,7 +9711,7 @@
    "rules": "If Georgia St. wins the Coastal Carolina vs Georgia St. college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.69,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.69
+   "prev": 0.68
   },
   {
    "ticker": "KXNCAAFGAME-26OCT31DAVUST-DAV",
@@ -9735,7 +9735,7 @@
    "rules": "If Davidson wins the Davidson vs St. Thomas college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.15,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.15
+   "prev": 0.14
   },
   {
    "ticker": "KXNCAAFGAME-26OCT31DAVUST-UST",
@@ -9759,7 +9759,7 @@
    "rules": "If St. Thomas wins the Davidson vs St. Thomas college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.91,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.92
+   "prev": 0.91
   },
   {
    "ticker": "KXNCAAFGAME-26OCT31HOWNCCU-HOW",
@@ -9807,7 +9807,7 @@
    "rules": "If North Carolina Central wins the Howard vs North Carolina Central college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.58,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.58
+   "prev": 0.63
   },
   {
    "ticker": "KXNCAAFGAME-26OCT31INSTUNI-INST",
@@ -9817,10 +9817,10 @@
    "title": "Indiana St. wins",
    "yes": "Indiana St.",
    "no": "Indiana St.",
-   "yesBid": 0.23,
+   "yesBid": 0.24,
    "yesAsk": 0.31,
    "noBid": 0.69,
-   "noAsk": 0.77,
+   "noAsk": 0.76,
    "last": 0.31,
    "volume": null,
    "openInterest": null,
@@ -9842,8 +9842,8 @@
    "yes": "Northern Iowa",
    "no": "Northern Iowa",
    "yesBid": 0.68,
-   "yesAsk": 0.77,
-   "noBid": 0.23,
+   "yesAsk": 0.75,
+   "noBid": 0.25,
    "noAsk": 0.32,
    "last": 0.77,
    "volume": null,
@@ -9855,7 +9855,7 @@
    "rules": "If Northern Iowa wins the Indiana St. vs Northern Iowa college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.76,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.75
+   "prev": 0.77
   },
   {
    "ticker": "KXNCAAFGAME-26OCT31MURRILST-ILST",
@@ -9999,7 +9999,7 @@
    "rules": "If Tennessee St. wins the Tennessee St. vs Lindenwood college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.38,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.35
+   "prev": 0.34
   },
   {
    "ticker": "KXNCAAFGAME-26OCT31WCUFUR-FUR",
@@ -10033,10 +10033,10 @@
    "title": "Western Carolina wins",
    "yes": "Western Carolina",
    "no": "Western Carolina",
-   "yesBid": 0.48,
+   "yesBid": 0.47,
    "yesAsk": 0.6,
    "noBid": 0.4,
-   "noAsk": 0.52,
+   "noAsk": 0.53,
    "last": 0.0,
    "volume": null,
    "openInterest": null,
@@ -10071,7 +10071,7 @@
    "rules": "If Southeast Missouri St. wins the Gardner-Webb vs Southeast Missouri St. college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.62,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.62
+   "prev": 0.63
   },
   {
    "ticker": "KXNCAAFGAME-26OCT31WEBBSEMO-WEBB",
@@ -10095,7 +10095,7 @@
    "rules": "If Gardner-Webb wins the Gardner-Webb vs Southeast Missouri St. college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.41,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.42
+   "prev": 0.35
   },
   {
    "ticker": "KXNCAAFGAME-26OCT31WIUCHSO-CHSO",
@@ -10215,7 +10215,7 @@
    "rules": "If Georgia St. wins by more than 7.5 points in the Coastal Carolina vs Georgia St. college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.45,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.45
+   "prev": 0.44
   },
   {
    "ticker": "KXNCAAFSPREAD-26OCT31KSUCOLO-COLO2",
@@ -10335,7 +10335,7 @@
    "rules": "If the teams collectively score more than 60.5 points in the Coastal Carolina vs Georgia St. college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.49,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.49
+   "prev": 0.5
   },
   {
    "ticker": "KXNCAAFTOTAL-26OCT31CCARGAST-62",
@@ -10417,10 +10417,10 @@
    "title": "Full Game: Over 50.5 points scored",
    "yes": "Over 50.5 points",
    "no": "Over 50.5 points",
-   "yesBid": 0.42,
+   "yesBid": 0.41,
    "yesAsk": 0.47,
    "noBid": 0.53,
-   "noAsk": 0.58,
+   "noAsk": 0.59,
    "last": 0.0,
    "volume": null,
    "openInterest": null,
@@ -10441,10 +10441,10 @@
    "title": "Alcorn St. wins",
    "yes": "Alcorn St.",
    "no": "Alcorn St.",
-   "yesBid": 0.69,
+   "yesBid": 0.72,
    "yesAsk": 0.81,
    "noBid": 0.19,
-   "noAsk": 0.31,
+   "noAsk": 0.28,
    "last": 0.71,
    "volume": null,
    "openInterest": null,
@@ -10489,10 +10489,10 @@
    "title": "The Citadel wins",
    "yes": "The Citadel",
    "no": "The Citadel",
-   "yesBid": 0.09,
+   "yesBid": 0.12,
    "yesAsk": 0.16,
    "noBid": 0.84,
-   "noAsk": 0.91,
+   "noAsk": 0.88,
    "last": 0.16,
    "volume": null,
    "openInterest": null,
@@ -10513,10 +10513,10 @@
    "title": "Mercer wins",
    "yes": "Mercer",
    "no": "Mercer",
-   "yesBid": 0.83,
-   "yesAsk": 0.92,
-   "noBid": 0.08,
-   "noAsk": 0.17,
+   "yesBid": 0.82,
+   "yesAsk": 0.87,
+   "noBid": 0.13,
+   "noAsk": 0.18,
    "last": 0.82,
    "volume": null,
    "openInterest": null,
@@ -10585,10 +10585,10 @@
    "title": "Arkansas-Pine Bluff wins",
    "yes": "Arkansas-Pine Bluff",
    "no": "Arkansas-Pine Bluff",
-   "yesBid": 0.51,
+   "yesBid": 0.53,
    "yesAsk": 0.58,
    "noBid": 0.42,
-   "noAsk": 0.49,
+   "noAsk": 0.47,
    "last": 0.55,
    "volume": null,
    "openInterest": null,
@@ -10609,10 +10609,10 @@
    "title": "Bethune-Cookman wins",
    "yes": "Bethune-Cookman",
    "no": "Bethune-Cookman",
-   "yesBid": 0.4,
-   "yesAsk": 0.46,
-   "noBid": 0.54,
-   "noAsk": 0.6,
+   "yesBid": 0.39,
+   "yesAsk": 0.44,
+   "noBid": 0.56,
+   "noAsk": 0.61,
    "last": 0.45,
    "volume": null,
    "openInterest": null,
@@ -10623,7 +10623,7 @@
    "rules": "If Bethune-Cookman wins the Bethune-Cookman vs Arkansas-Pine Bluff college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.44,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.47
+   "prev": 0.46
   },
   {
    "ticker": "KXNCAAFGAME-26OCT31CPMTST-CP",
@@ -10633,10 +10633,10 @@
    "title": "Cal Poly wins",
    "yes": "Cal Poly",
    "no": "Cal Poly",
-   "yesBid": 0.15,
+   "yesBid": 0.12,
    "yesAsk": 0.19,
    "noBid": 0.81,
-   "noAsk": 0.85,
+   "noAsk": 0.88,
    "last": 0.11,
    "volume": null,
    "openInterest": null,
@@ -10647,7 +10647,7 @@
    "rules": "If Cal Poly wins the Cal Poly vs Montana St. college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.14,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.15
+   "prev": 0.19
   },
   {
    "ticker": "KXNCAAFGAME-26OCT31CPMTST-MTST",
@@ -10658,8 +10658,8 @@
    "yes": "Montana St.",
    "no": "Montana St.",
    "yesBid": 0.8,
-   "yesAsk": 0.87,
-   "noBid": 0.13,
+   "yesAsk": 0.89,
+   "noBid": 0.11,
    "noAsk": 0.2,
    "last": 0.86,
    "volume": null,
@@ -10671,7 +10671,7 @@
    "rules": "If Montana St. wins the Cal Poly vs Montana St. college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.89,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.91
+   "prev": 0.87
   },
   {
    "ticker": "KXNCAAFGAME-26OCT31DSUNORF-DSU",
@@ -10681,10 +10681,10 @@
    "title": "Delaware St. wins",
    "yes": "Delaware St.",
    "no": "Delaware St.",
-   "yesBid": 0.2,
-   "yesAsk": 0.53,
-   "noBid": 0.47,
-   "noAsk": 0.8,
+   "yesBid": 0.18,
+   "yesAsk": 0.57,
+   "noBid": 0.43,
+   "noAsk": 0.82,
    "last": 0.69,
    "volume": null,
    "openInterest": null,
@@ -10695,7 +10695,7 @@
    "rules": "If Delaware St. wins the Delaware St. vs Norfolk St. college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.53,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.57
+   "prev": 0.53
   },
   {
    "ticker": "KXNCAAFGAME-26OCT31DSUNORF-NORF",
@@ -10705,10 +10705,10 @@
    "title": "Norfolk St. wins",
    "yes": "Norfolk St.",
    "no": "Norfolk St.",
-   "yesBid": 0.44,
+   "yesBid": 0.39,
    "yesAsk": 0.82,
    "noBid": 0.18,
-   "noAsk": 0.56,
+   "noAsk": 0.61,
    "last": 0.0,
    "volume": null,
    "openInterest": null,
@@ -10719,7 +10719,7 @@
    "rules": "If Norfolk St. wins the Delaware St. vs Norfolk St. college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.8,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.77
+   "prev": 0.82
   },
   {
    "ticker": "KXNCAAFGAME-26OCT31EIUUTM-EIU",
@@ -10730,8 +10730,8 @@
    "yes": "Eastern Illinois",
    "no": "Eastern Illinois",
    "yesBid": 0.21,
-   "yesAsk": 0.33,
-   "noBid": 0.67,
+   "yesAsk": 0.36,
+   "noBid": 0.64,
    "noAsk": 0.79,
    "last": 0.0,
    "volume": null,
@@ -10743,7 +10743,7 @@
    "rules": "If Eastern Illinois wins the Eastern Illinois vs Tennessee-Martin college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.35,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.35
+   "prev": 0.33
   },
   {
    "ticker": "KXNCAAFGAME-26OCT31EIUUTM-UTM",
@@ -10753,10 +10753,10 @@
    "title": "Tennessee-Martin wins",
    "yes": "Tennessee-Martin",
    "no": "Tennessee-Martin",
-   "yesBid": 0.63,
+   "yesBid": 0.58,
    "yesAsk": 0.75,
    "noBid": 0.25,
-   "noAsk": 0.37,
+   "noAsk": 0.42,
    "last": 0.0,
    "volume": null,
    "openInterest": null,
@@ -10767,7 +10767,7 @@
    "rules": "If Tennessee-Martin wins the Eastern Illinois vs Tennessee-Martin college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.78,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.78
+   "prev": 0.75
   },
   {
    "ticker": "KXNCAAFGAME-26OCT31HCUSFA-HCU",
@@ -10815,7 +10815,7 @@
    "rules": "If Stephen F. Austin wins the Houston Christian vs Stephen F. Austin college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.91,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.91
+   "prev": 0.93
   },
   {
    "ticker": "KXNCAAFGAME-26OCT31IDSTUTU-IDST",
@@ -10839,7 +10839,7 @@
    "rules": "If Idaho St. wins the Idaho St. vs Utah Tech college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.86,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.81
+   "prev": 0.87
   },
   {
    "ticker": "KXNCAAFGAME-26OCT31IDSTUTU-UTU",
@@ -10863,7 +10863,7 @@
    "rules": "If Utah Tech wins the Idaho St. vs Utah Tech college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.16,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.19
+   "prev": 0.18
   },
   {
    "ticker": "KXNCAAFGAME-26OCT31NAUSUU-NAU",
@@ -10887,7 +10887,7 @@
    "rules": "If Northern Arizona wins the Northern Arizona vs Southern Utah college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.61,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.6
+   "prev": 0.61
   },
   {
    "ticker": "KXNCAAFGAME-26OCT31NAUSUU-SUU",
@@ -10911,7 +10911,7 @@
    "rules": "If Southern Utah wins the Northern Arizona vs Southern Utah college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.46,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.47
+   "prev": 0.48
   },
   {
    "ticker": "KXNCAAFGAME-26OCT31NICHMCNS-MCNS",
@@ -10935,7 +10935,7 @@
    "rules": "If McNeese wins the Nicholls St. vs McNeese college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.7,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.69
+   "prev": 0.71
   },
   {
    "ticker": "KXNCAAFGAME-26OCT31NICHMCNS-NICH",
@@ -10945,10 +10945,10 @@
    "title": "Nicholls St. wins",
    "yes": "Nicholls St.",
    "no": "Nicholls St.",
-   "yesBid": 0.26,
-   "yesAsk": 0.37,
-   "noBid": 0.63,
-   "noAsk": 0.74,
+   "yesBid": 0.28,
+   "yesAsk": 0.36,
+   "noBid": 0.64,
+   "noAsk": 0.72,
    "last": 0.36,
    "volume": null,
    "openInterest": null,
@@ -10969,10 +10969,10 @@
    "title": "South Dakota wins",
    "yes": "South Dakota",
    "no": "South Dakota",
-   "yesBid": 0.25,
-   "yesAsk": 0.31,
-   "noBid": 0.69,
-   "noAsk": 0.75,
+   "yesBid": 0.24,
+   "yesAsk": 0.29,
+   "noBid": 0.71,
+   "noAsk": 0.76,
    "last": 0.31,
    "volume": null,
    "openInterest": null,
@@ -10983,7 +10983,7 @@
    "rules": "If South Dakota wins the South Dakota vs South Dakota St. college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.3,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.29
+   "prev": 0.31
   },
   {
    "ticker": "KXNCAAFGAME-26OCT31SDAKSDST-SDST",
@@ -11007,7 +11007,7 @@
    "rules": "If South Dakota St. wins the South Dakota vs South Dakota St. college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.77,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.77
+   "prev": 0.75
   },
   {
    "ticker": "KXNCAAFGAME-26OCT31SOUFAMU-FAMU",
@@ -11103,7 +11103,7 @@
    "rules": "If Weber St. wins the UC Davis vs Weber St. college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.57,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.57
+   "prev": 0.58
   },
   {
    "ticker": "KXNCAAFSPREAD-26OCT31CONNAFA-AFA3",
@@ -11247,7 +11247,7 @@
    "rules": "If Louisiana Tech wins by more than 6.5 points in the Louisiana Tech vs South Alabama college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.49,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.48
+   "prev": 0.47
   },
   {
    "ticker": "KXNCAAFSPREAD-26OCT31TEMECU-ECU5",
@@ -11271,7 +11271,7 @@
    "rules": "If East Carolina wins by more than 4.5 points in the Temple vs East Carolina college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.54,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.54
+   "prev": 0.55
   },
   {
    "ticker": "KXNCAAFSPREAD-26OCT31TEMECU-ECU6",
@@ -11295,7 +11295,7 @@
    "rules": "If East Carolina wins by more than 5.5 points in the Temple vs East Carolina college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.53,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.54
+   "prev": 0.53
   },
   {
    "ticker": "KXNCAAFSPREAD-26OCT31TEMECU-ECU7",
@@ -11306,8 +11306,8 @@
    "yes": "East Carolina wins by over 6.5 points",
    "no": "East Carolina wins by over 6.5 points",
    "yesBid": 0.47,
-   "yesAsk": 0.48,
-   "noBid": 0.52,
+   "yesAsk": 0.49,
+   "noBid": 0.51,
    "noAsk": 0.53,
    "last": 0.5,
    "volume": null,
@@ -11319,7 +11319,7 @@
    "rules": "If East Carolina wins by more than 6.5 points in the Temple vs East Carolina college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.48,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.49
+   "prev": 0.48
   },
   {
    "ticker": "KXNCAAFTOTAL-26OCT31CONNAFA-54",
@@ -11415,7 +11415,7 @@
    "rules": "If the teams collectively score more than 57.5 points in the Louisiana Tech vs South Alabama college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.5,
    "openAt": "Oct 26 3:23 AM",
-   "prev": 0.5
+   "prev": 0.51
   },
   {
    "ticker": "KXNCAAFTOTAL-26OCT31LTUSA-59",
@@ -11439,7 +11439,7 @@
    "rules": "If the teams collectively score more than 58.5 points in the Louisiana Tech vs South Alabama college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.48,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.49
+   "prev": 0.5
   },
   {
    "ticker": "KXNCAAFTOTAL-26OCT31LTUSA-60",
@@ -11463,7 +11463,7 @@
    "rules": "If the teams collectively score more than 59.5 points in the Louisiana Tech vs South Alabama college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.46,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.47
+   "prev": 0.49
   },
   {
    "ticker": "KXNCAAFTOTAL-26OCT31TEMECU-50",
@@ -11607,7 +11607,7 @@
    "rules": "If Louisville wins by more than 24.5 points in the Stanford vs Louisville college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.47,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.47
+   "prev": 0.45
   },
   {
    "ticker": "KXNCAAFTOTAL-26OCT31STANLOU-62",
@@ -11690,8 +11690,8 @@
    "yes": "Alabama A&M",
    "no": "Alabama A&M",
    "yesBid": 0.56,
-   "yesAsk": 0.64,
-   "noBid": 0.36,
+   "yesAsk": 0.63,
+   "noBid": 0.37,
    "noAsk": 0.44,
    "last": 0.64,
    "volume": null,
@@ -11713,10 +11713,10 @@
    "title": "Alabama St. wins",
    "yes": "Alabama St.",
    "no": "Alabama St.",
-   "yesBid": 0.33,
+   "yesBid": 0.35,
    "yesAsk": 0.41,
    "noBid": 0.59,
-   "noAsk": 0.67,
+   "noAsk": 0.65,
    "last": 0.41,
    "volume": null,
    "openInterest": null,
@@ -11751,7 +11751,7 @@
    "rules": "If Colorado St. wins the Colorado St. vs Utah St. college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.34,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.33
+   "prev": 0.32
   },
   {
    "ticker": "KXNCAAFGAME-26OCT31CSUUSU-USU",
@@ -11823,7 +11823,7 @@
    "rules": "If Liberty wins the Florida International vs Liberty college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.84,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.84
+   "prev": 0.85
   },
   {
    "ticker": "KXNCAAFGAME-26OCT31FLAUGA-FLA",
@@ -11837,7 +11837,7 @@
    "yesAsk": 0.21,
    "noBid": 0.79,
    "noAsk": 0.8,
-   "last": 0.21,
+   "last": 0.2,
    "volume": null,
    "openInterest": null,
    "close": "2026-11-02T19:30:00Z",
@@ -11847,7 +11847,7 @@
    "rules": "If Florida wins the Florida vs Georgia college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.22,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.22
+   "prev": 0.21
   },
   {
    "ticker": "KXNCAAFGAME-26OCT31FLAUGA-UGA",
@@ -11882,8 +11882,8 @@
    "yes": "East Tennessee St.",
    "no": "East Tennessee St.",
    "yesBid": 0.42,
-   "yesAsk": 0.51,
-   "noBid": 0.49,
+   "yesAsk": 0.49,
+   "noBid": 0.51,
    "noAsk": 0.58,
    "last": 0.48,
    "volume": null,
@@ -11895,7 +11895,7 @@
    "rules": "If East Tennessee St. wins the Tennessee Tech vs East Tennessee St. college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.48,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.48
+   "prev": 0.51
   },
   {
    "ticker": "KXNCAAFGAME-26OCT31TNTCETSU-TNTC",
@@ -11981,7 +11981,7 @@
    "yesAsk": 0.55,
    "noBid": 0.45,
    "noAsk": 0.47,
-   "last": 0.53,
+   "last": 0.55,
    "volume": null,
    "openInterest": null,
    "close": "2026-11-02T19:30:00Z",
@@ -11991,7 +11991,7 @@
    "rules": "If BYU wins by more than 14.5 points in the Arizona St. vs BYU college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.49,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.49
+   "prev": 0.55
   },
   {
    "ticker": "KXNCAAFSPREAD-26OCT31ASUBYU-BYU17",
@@ -12015,7 +12015,7 @@
    "rules": "If BYU wins by more than 16.5 points in the Arizona St. vs BYU college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.49,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.49
+   "prev": 0.51
   },
   {
    "ticker": "KXNCAAFSPREAD-26OCT31ASUBYU-BYU18",
@@ -12039,7 +12039,7 @@
    "rules": "If BYU wins by more than 17.5 points in the Arizona St. vs BYU college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.46,
    "openAt": "Oct 26 3:23 AM",
-   "prev": 0.46
+   "prev": 0.47
   },
   {
    "ticker": "KXNCAAFSPREAD-26OCT31CSUUSU-USU6",
@@ -12063,7 +12063,7 @@
    "rules": "If Utah St. wins by more than 5.5 points in the Colorado St. vs Utah St. college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.55,
    "openAt": "Oct 26 3:23 AM",
-   "prev": 0.55
+   "prev": 0.56
   },
   {
    "ticker": "KXNCAAFSPREAD-26OCT31CSUUSU-USU7",
@@ -12077,7 +12077,7 @@
    "yesAsk": 0.54,
    "noBid": 0.46,
    "noAsk": 0.47,
-   "last": 0.52,
+   "last": 0.54,
    "volume": null,
    "openInterest": null,
    "close": "2026-11-02T19:30:00Z",
@@ -12087,7 +12087,7 @@
    "rules": "If Utah St. wins by more than 6.5 points in the Colorado St. vs Utah St. college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.52,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.51
+   "prev": 0.54
   },
   {
    "ticker": "KXNCAAFSPREAD-26OCT31CSUUSU-USU8",
@@ -12111,7 +12111,7 @@
    "rules": "If Utah St. wins by more than 7.5 points in the Colorado St. vs Utah St. college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.46,
    "openAt": "Oct 26 12:35 AM",
-   "prev": 0.45
+   "prev": 0.46
   },
   {
    "ticker": "KXNCAAFSPREAD-26OCT31FIULIB-LIB14",
@@ -12169,10 +12169,10 @@
    "title": "Liberty wins by over 16.5 points",
    "yes": "Liberty wins by over 16.5 points",
    "no": "Liberty wins by over 16.5 points",
-   "yesBid": 0.45,
+   "yesBid": 0.44,
    "yesAsk": 0.46,
    "noBid": 0.54,
-   "noAsk": 0.55,
+   "noAsk": 0.56,
    "last": 0.0,
    "volume": null,
    "openInterest": null,
@@ -12183,7 +12183,7 @@
    "rules": "If Liberty wins by more than 16.5 points in the Florida International vs Liberty college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.48,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.47
+   "prev": 0.46
   },
   {
    "ticker": "KXNCAAFSPREAD-26OCT31FLAUGA-UGA11",
@@ -12197,7 +12197,7 @@
    "yesAsk": 0.53,
    "noBid": 0.47,
    "noAsk": 0.49,
-   "last": 0.53,
+   "last": 0.51,
    "volume": null,
    "openInterest": null,
    "close": "2026-11-02T19:30:00Z",
@@ -12221,7 +12221,7 @@
    "yesAsk": 0.5,
    "noBid": 0.5,
    "noAsk": 0.52,
-   "last": 0.5,
+   "last": 0.48,
    "volume": null,
    "openInterest": null,
    "close": "2026-11-02T19:30:00Z",
@@ -12231,7 +12231,7 @@
    "rules": "If Georgia wins by more than 11.5 points in the Florida vs Georgia college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.51,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.51
+   "prev": 0.5
   },
   {
    "ticker": "KXNCAAFSPREAD-26OCT31FLAUGA-UGA14",
@@ -12255,7 +12255,7 @@
    "rules": "If Georgia wins by more than 13.5 points in the Florida vs Georgia college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.48,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.47
+   "prev": 0.46
   },
   {
    "ticker": "KXNCAAFSPREAD-26OCT31KUTCU-TCU5",
@@ -12269,7 +12269,7 @@
    "yesAsk": 0.54,
    "noBid": 0.46,
    "noAsk": 0.47,
-   "last": 0.54,
+   "last": 0.53,
    "volume": null,
    "openInterest": null,
    "close": "2026-11-02T19:30:00Z",
@@ -12279,7 +12279,7 @@
    "rules": "If TCU wins by more than 4.5 points in the Kansas vs TCU college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.53,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.53
+   "prev": 0.54
   },
   {
    "ticker": "KXNCAAFSPREAD-26OCT31KUTCU-TCU6",
@@ -12303,7 +12303,7 @@
    "rules": "If TCU wins by more than 5.5 points in the Kansas vs TCU college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.48,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.5
+   "prev": 0.51
   },
   {
    "ticker": "KXNCAAFSPREAD-26OCT31KUTCU-TCU7",
@@ -12327,7 +12327,7 @@
    "rules": "If TCU wins by more than 6.5 points in the Kansas vs TCU college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.45,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.46
+   "prev": 0.48
   },
   {
    "ticker": "KXNCAAFSPREAD-26OCT31MINNIND-IND18",
@@ -12399,7 +12399,7 @@
    "rules": "If Indiana wins by more than 21.5 points in the Minnesota vs Indiana college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.45,
    "openAt": "Oct 26 3:23 AM",
-   "prev": 0.45
+   "prev": 0.44
   },
   {
    "ticker": "KXNCAAFSPREAD-26OCT31NWORE-ORE4",
@@ -12495,7 +12495,7 @@
    "rules": "If Southern Miss wins by more than 3.5 points in the Southern Miss vs Louisiana-Monroe college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.47,
    "openAt": "Oct 26 3:23 AM",
-   "prev": 0.47
+   "prev": 0.5
   },
   {
    "ticker": "KXNCAAFSPREAD-26OCT31USMULM-USM5",
@@ -12519,7 +12519,7 @@
    "rules": "If Southern Miss wins by more than 4.5 points in the Southern Miss vs Louisiana-Monroe college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.46,
    "openAt": "Oct 26 3:23 AM",
-   "prev": 0.46
+   "prev": 0.47
   },
   {
    "ticker": "KXNCAAFSPREAD-26OCT31USMULM-USM6",
@@ -12591,7 +12591,7 @@
    "rules": "If North Dakota St. wins by more than 26.5 points in the UTEP vs North Dakota St. college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.47,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.49
+   "prev": 0.47
   },
   {
    "ticker": "KXNCAAFSPREAD-26OCT31UTEPNDSU-NDSU28",
@@ -12639,7 +12639,7 @@
    "rules": "If the teams collectively score more than 49.5 points in the Arizona St. vs BYU college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.51,
    "openAt": "Oct 26 3:23 AM",
-   "prev": 0.51
+   "prev": 0.52
   },
   {
    "ticker": "KXNCAAFTOTAL-26OCT31ASUBYU-51",
@@ -12687,7 +12687,7 @@
    "rules": "If the teams collectively score more than 51.5 points in the Arizona St. vs BYU college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.47,
    "openAt": "Oct 26 3:23 AM",
-   "prev": 0.47
+   "prev": 0.46
   },
   {
    "ticker": "KXNCAAFTOTAL-26OCT31CSUUSU-64",
@@ -12711,7 +12711,7 @@
    "rules": "If the teams collectively score more than 63.5 points in the Colorado St. vs Utah St. college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.48,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.48
+   "prev": 0.47
   },
   {
    "ticker": "KXNCAAFTOTAL-26OCT31CSUUSU-66",
@@ -12735,7 +12735,7 @@
    "rules": "If the teams collectively score more than 65.5 points in the Colorado St. vs Utah St. college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.47,
    "openAt": "Oct 26 3:23 AM",
-   "prev": 0.47
+   "prev": 0.46
   },
   {
    "ticker": "KXNCAAFTOTAL-26OCT31CSUUSU-67",
@@ -12807,7 +12807,7 @@
    "rules": "If the teams collectively score more than 46.5 points in the Florida International vs Liberty college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.52,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.51
+   "prev": 0.5
   },
   {
    "ticker": "KXNCAAFTOTAL-26OCT31FIULIB-48",
@@ -12903,7 +12903,7 @@
    "rules": "If the teams collectively score more than 58.5 points in the Florida vs Georgia college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.47,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.47
+   "prev": 0.46
   },
   {
    "ticker": "KXNCAAFTOTAL-26OCT31KUTCU-48",
@@ -12999,7 +12999,7 @@
    "rules": "If the teams collectively score more than 42.5 points in the Minnesota vs Indiana college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.5,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.51
+   "prev": 0.5
   },
   {
    "ticker": "KXNCAAFTOTAL-26OCT31MINNIND-44",
@@ -13023,7 +13023,7 @@
    "rules": "If the teams collectively score more than 43.5 points in the Minnesota vs Indiana college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.48,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.48
+   "prev": 0.49
   },
   {
    "ticker": "KXNCAAFTOTAL-26OCT31MINNIND-45",
@@ -13033,10 +13033,10 @@
    "title": "Full Game: Over 44.5 points scored",
    "yes": "Over 44.5 points",
    "no": "Over 44.5 points",
-   "yesBid": 0.39,
+   "yesBid": 0.4,
    "yesAsk": 0.47,
    "noBid": 0.53,
-   "noAsk": 0.61,
+   "noAsk": 0.6,
    "last": 0.0,
    "volume": null,
    "openInterest": null,
@@ -13057,10 +13057,10 @@
    "title": "Full Game: Over 49.5 points scored",
    "yes": "Over 49.5 points",
    "no": "Over 49.5 points",
-   "yesBid": 0.48,
+   "yesBid": 0.47,
    "yesAsk": 0.49,
    "noBid": 0.51,
-   "noAsk": 0.52,
+   "noAsk": 0.53,
    "last": 0.48,
    "volume": null,
    "openInterest": null,
@@ -13071,7 +13071,7 @@
    "rules": "If the teams collectively score more than 49.5 points in the Northwestern vs Oregon college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.53,
    "openAt": "Oct 26 3:23 AM",
-   "prev": 0.53
+   "prev": 0.49
   },
   {
    "ticker": "KXNCAAFTOTAL-26OCT31NWORE-51",
@@ -13081,10 +13081,10 @@
    "title": "Full Game: Over 50.5 points scored",
    "yes": "Over 50.5 points",
    "no": "Over 50.5 points",
-   "yesBid": 0.46,
-   "yesAsk": 0.49,
-   "noBid": 0.51,
-   "noAsk": 0.54,
+   "yesBid": 0.45,
+   "yesAsk": 0.48,
+   "noBid": 0.52,
+   "noAsk": 0.55,
    "last": 0.48,
    "volume": null,
    "openInterest": null,
@@ -13095,30 +13095,30 @@
    "rules": "If the teams collectively score more than 50.5 points in the Northwestern vs Oregon college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.51,
    "openAt": "Oct 26 3:23 AM",
-   "prev": 0.51
+   "prev": 0.49
   },
   {
-   "ticker": "KXNCAAFTOTAL-26OCT31NWORE-53",
+   "ticker": "KXNCAAFTOTAL-26OCT31NWORE-52",
    "event": "KXNCAAFTOTAL-26OCT31NWORE",
    "series": "KXNCAAFTOTAL",
    "sport": "CFB",
-   "title": "Full Game: Over 52.5 points scored",
-   "yes": "Over 52.5 points",
-   "no": "Over 52.5 points",
-   "yesBid": 0.39,
+   "title": "Full Game: Over 51.5 points scored",
+   "yes": "Over 51.5 points",
+   "no": "Over 51.5 points",
+   "yesBid": 0.41,
    "yesAsk": 0.45,
    "noBid": 0.55,
-   "noAsk": 0.61,
-   "last": 0.42,
+   "noAsk": 0.59,
+   "last": 0.0,
    "volume": null,
    "openInterest": null,
    "close": "2026-11-02T19:30:00Z",
    "expectedEnd": "2026-10-31T22:30:00Z",
    "game": "Northwestern vs Oregon",
    "kind": "TOTAL",
-   "rules": "If the teams collectively score more than 52.5 points in the Northwestern vs Oregon college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
+   "rules": "If the teams collectively score more than 51.5 points in the Northwestern vs Oregon college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.45,
-   "openAt": "Oct 26 7:54 AM",
+   "openAt": "Oct 26 8:05 AM",
    "prev": 0.45
   },
   {
@@ -13297,10 +13297,10 @@
    "title": "Utah wins by over 6.5 points",
    "yes": "Utah wins by over 6.5 points",
    "no": "Utah wins by over 6.5 points",
-   "yesBid": 0.51,
+   "yesBid": 0.5,
    "yesAsk": 0.52,
    "noBid": 0.48,
-   "noAsk": 0.49,
+   "noAsk": 0.5,
    "last": 0.52,
    "volume": null,
    "openInterest": null,
@@ -13311,7 +13311,7 @@
    "rules": "If Utah wins by more than 6.5 points in the Utah vs Cincinnati college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.53,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.51
+   "prev": 0.52
   },
   {
    "ticker": "KXNCAAFSPREAD-26OCT31UTAHCIN-UTAH8",
@@ -13359,7 +13359,7 @@
    "rules": "If Wake Forest wins by more than 13.5 points in the Virginia vs Wake Forest college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.52,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.52
+   "prev": 0.51
   },
   {
    "ticker": "KXNCAAFSPREAD-26OCT31UVAWAKE-WAKE15",
@@ -13383,7 +13383,7 @@
    "rules": "If Wake Forest wins by more than 14.5 points in the Virginia vs Wake Forest college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.48,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.49
+   "prev": 0.48
   },
   {
    "ticker": "KXNCAAFSPREAD-26OCT31UVAWAKE-WAKE17",
@@ -13647,7 +13647,7 @@
    "rules": "If Montana wins the Montana vs Eastern Washington college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.81,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.76
+   "prev": 0.81
   },
   {
    "ticker": "KXNCAAFGAME-26OCT31MRSTUSD-MRST",
@@ -13671,7 +13671,7 @@
    "rules": "If Marist wins the Marist vs San Diego college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.54,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.57
+   "prev": 0.55
   },
   {
    "ticker": "KXNCAAFGAME-26OCT31MRSTUSD-USD",
@@ -13695,7 +13695,7 @@
    "rules": "If San Diego wins the Marist vs San Diego college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.52,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.52
+   "prev": 0.51
   },
   {
    "ticker": "KXNCAAFGAME-26OCT31SELAETAM-ETAM",
@@ -13705,10 +13705,10 @@
    "title": "East Texas A&M wins",
    "yes": "East Texas A&M",
    "no": "East Texas A&M",
-   "yesBid": 0.21,
+   "yesBid": 0.23,
    "yesAsk": 0.3,
    "noBid": 0.7,
-   "noAsk": 0.79,
+   "noAsk": 0.77,
    "last": 0.3,
    "volume": null,
    "openInterest": null,
@@ -13729,11 +13729,11 @@
    "title": "Southeastern Louisiana wins",
    "yes": "Southeastern Louisiana",
    "no": "Southeastern Louisiana",
-   "yesBid": 0.66,
-   "yesAsk": 0.76,
-   "noBid": 0.24,
-   "noAsk": 0.34,
-   "last": 0.74,
+   "yesBid": 0.72,
+   "yesAsk": 0.73,
+   "noBid": 0.27,
+   "noAsk": 0.28,
+   "last": 0.73,
    "volume": null,
    "openInterest": null,
    "close": "2026-11-02T20:00:00Z",
@@ -13743,7 +13743,7 @@
    "rules": "If Southeastern Louisiana wins the Southeastern Louisiana vs East Texas A&M college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.76,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.78
+   "prev": 0.76
   },
   {
    "ticker": "KXNCAAFGAME-26OCT31UNMSJSU-SJSU",
@@ -13801,10 +13801,10 @@
    "title": "Abilene Christian wins",
    "yes": "Abilene Christian",
    "no": "Abilene Christian",
-   "yesBid": 0.83,
+   "yesBid": 0.81,
    "yesAsk": 0.88,
    "noBid": 0.12,
-   "noAsk": 0.17,
+   "noAsk": 0.19,
    "last": 0.8,
    "volume": null,
    "openInterest": null,
@@ -13959,7 +13959,7 @@
    "rules": "If the teams collectively score more than 42.5 points in the New Mexico vs San Jose St. college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.5,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.51
+   "prev": 0.5
   },
   {
    "ticker": "KXNCAAFTOTAL-26OCT31UNMSJSU-44",
@@ -13983,7 +13983,7 @@
    "rules": "If the teams collectively score more than 43.5 points in the New Mexico vs San Jose St. college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.48,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.49
+   "prev": 0.48
   },
   {
    "ticker": "KXNCAAFSPREAD-26OCT31NEVUCLA-UCLA22",
@@ -14007,7 +14007,7 @@
    "rules": "If UCLA wins by more than 21.5 points in the Nevada vs UCLA college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.53,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.51
+   "prev": 0.52
   },
   {
    "ticker": "KXNCAAFSPREAD-26OCT31NEVUCLA-UCLA24",
@@ -14079,7 +14079,7 @@
    "rules": "If Penn St. wins by more than 9.5 points in the Purdue vs Penn St. college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.5,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.51
+   "prev": 0.5
   },
   {
    "ticker": "KXNCAAFSPREAD-26OCT31PURPSU-PSU11",
@@ -14199,7 +14199,7 @@
    "rules": "If Oklahoma wins by more than 6.5 points in the South Carolina vs Oklahoma college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.49,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.48
+   "prev": 0.46
   },
   {
    "ticker": "KXNCAAFTOTAL-26OCT31NEVUCLA-44",
@@ -14209,10 +14209,10 @@
    "title": "Full Game: Over 43.5 points scored",
    "yes": "Over 43.5 points",
    "no": "Over 43.5 points",
-   "yesBid": 0.51,
+   "yesBid": 0.53,
    "yesAsk": 0.56,
    "noBid": 0.44,
-   "noAsk": 0.49,
+   "noAsk": 0.47,
    "last": 0.5,
    "volume": null,
    "openInterest": null,
@@ -14223,7 +14223,7 @@
    "rules": "If the teams collectively score more than 43.5 points in the Nevada vs UCLA college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.55,
    "openAt": "Oct 26 3:23 AM",
-   "prev": 0.55
+   "prev": 0.56
   },
   {
    "ticker": "KXNCAAFTOTAL-26OCT31NEVUCLA-47",
@@ -14234,8 +14234,8 @@
    "yes": "Over 46.5 points",
    "no": "Over 46.5 points",
    "yesBid": 0.42,
-   "yesAsk": 0.47,
-   "noBid": 0.53,
+   "yesAsk": 0.48,
+   "noBid": 0.52,
    "noAsk": 0.58,
    "last": 0.42,
    "volume": null,
@@ -14271,7 +14271,31 @@
    "rules": "If the teams collectively score more than 47.5 points in the Nevada vs UCLA college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.44,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.43
+   "prev": 0.44
+  },
+  {
+   "ticker": "KXNCAAFTOTAL-26OCT31PURPSU-53",
+   "event": "KXNCAAFTOTAL-26OCT31PURPSU",
+   "series": "KXNCAAFTOTAL",
+   "sport": "CFB",
+   "title": "Full Game: Over 52.5 points scored",
+   "yes": "Over 52.5 points",
+   "no": "Over 52.5 points",
+   "yesBid": 0.48,
+   "yesAsk": 0.54,
+   "noBid": 0.46,
+   "noAsk": 0.52,
+   "last": 0.0,
+   "volume": null,
+   "openInterest": null,
+   "close": "2026-11-02T20:15:00Z",
+   "expectedEnd": "2026-10-31T23:15:00Z",
+   "game": "Purdue vs Penn St.",
+   "kind": "TOTAL",
+   "rules": "If the teams collectively score more than 52.5 points in the Purdue vs Penn St. college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
+   "open": 0.54,
+   "openAt": "Oct 26 8:05 AM",
+   "prev": 0.54
   },
   {
    "ticker": "KXNCAAFTOTAL-26OCT31PURPSU-54",
@@ -14305,10 +14329,10 @@
    "title": "Full Game: Over 54.5 points scored",
    "yes": "Over 54.5 points",
    "no": "Over 54.5 points",
-   "yesBid": 0.45,
+   "yesBid": 0.44,
    "yesAsk": 0.49,
    "noBid": 0.51,
-   "noAsk": 0.55,
+   "noAsk": 0.56,
    "last": 0.0,
    "volume": null,
    "openInterest": null,
@@ -14320,30 +14344,6 @@
    "open": 0.49,
    "openAt": "Oct 26 12:26 AM",
    "prev": 0.49
-  },
-  {
-   "ticker": "KXNCAAFTOTAL-26OCT31PURPSU-56",
-   "event": "KXNCAAFTOTAL-26OCT31PURPSU",
-   "series": "KXNCAAFTOTAL",
-   "sport": "CFB",
-   "title": "Full Game: Over 55.5 points scored",
-   "yes": "Over 55.5 points",
-   "no": "Over 55.5 points",
-   "yesBid": 0.41,
-   "yesAsk": 0.46,
-   "noBid": 0.54,
-   "noAsk": 0.59,
-   "last": 0.0,
-   "volume": null,
-   "openInterest": null,
-   "close": "2026-11-02T20:15:00Z",
-   "expectedEnd": "2026-10-31T23:15:00Z",
-   "game": "Purdue vs Penn St.",
-   "kind": "TOTAL",
-   "rules": "If the teams collectively score more than 55.5 points in the Purdue vs Penn St. college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
-   "open": 0.49,
-   "openAt": "Oct 26 12:26 AM",
-   "prev": 0.47
   },
   {
    "ticker": "KXNCAAFTOTAL-26OCT31SCAROKLA-45",
@@ -14367,7 +14367,7 @@
    "rules": "If the teams collectively score more than 44.5 points in the South Carolina vs Oklahoma college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.52,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.52
+   "prev": 0.53
   },
   {
    "ticker": "KXNCAAFTOTAL-26OCT31SCAROKLA-46",
@@ -14415,7 +14415,7 @@
    "rules": "If the teams collectively score more than 46.5 points in the South Carolina vs Oklahoma college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.48,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.47
+   "prev": 0.48
   },
   {
    "ticker": "KXNCAAFGAME-26OCT31UNACARK-CARK",
@@ -14463,7 +14463,7 @@
    "rules": "If North Alabama wins the North Alabama vs Central Arkansas college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.5,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.48
+   "prev": 0.51
   },
   {
    "ticker": "KXNCAAFSPREAD-26OCT31APPGASO-GASO5",
@@ -14738,8 +14738,8 @@
    "yes": "Wofford",
    "no": "Wofford",
    "yesBid": 0.58,
-   "yesAsk": 0.69,
-   "noBid": 0.31,
+   "yesAsk": 0.7,
+   "noBid": 0.3,
    "noAsk": 0.42,
    "last": 0.0,
    "volume": null,
@@ -14751,7 +14751,7 @@
    "rules": "If Wofford wins the Wofford vs Samford college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.69,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.67
+   "prev": 0.69
   },
   {
    "ticker": "KXNCAAFGAME-26OCT31WSUSDSU-SDSU",
@@ -14762,8 +14762,8 @@
    "yes": "San Diego St.",
    "no": "San Diego St.",
    "yesBid": 0.55,
-   "yesAsk": 0.57,
-   "noBid": 0.43,
+   "yesAsk": 0.56,
+   "noBid": 0.44,
    "noAsk": 0.45,
    "last": 0.59,
    "volume": null,
@@ -14775,7 +14775,7 @@
    "rules": "If San Diego St. wins the Washington St. vs San Diego St. college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.59,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.59
+   "prev": 0.57
   },
   {
    "ticker": "KXNCAAFGAME-26OCT31WSUSDSU-WSU",
@@ -14799,7 +14799,7 @@
    "rules": "If Washington St. wins the Washington St. vs San Diego St. college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.43,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.43
+   "prev": 0.45
   },
   {
    "ticker": "KXNCAAFSPREAD-26OCT31CLEMFSU-FSU6",
@@ -14882,10 +14882,10 @@
    "yes": "Oklahoma St. wins by over 9.5 points",
    "no": "Oklahoma St. wins by over 9.5 points",
    "yesBid": 0.48,
-   "yesAsk": 0.49,
-   "noBid": 0.51,
+   "yesAsk": 0.5,
+   "noBid": 0.5,
    "noAsk": 0.52,
-   "last": 0.46,
+   "last": 0.48,
    "volume": null,
    "openInterest": null,
    "close": "2026-11-02T23:00:00Z",
@@ -14895,7 +14895,7 @@
    "rules": "If Oklahoma St. wins by more than 9.5 points in the Oklahoma St. vs Iowa St. college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.51,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.51
+   "prev": 0.49
   },
   {
    "ticker": "KXNCAAFSPREAD-26OCT31OKSTISU-OKST12",
@@ -14906,8 +14906,8 @@
    "yes": "Oklahoma St. wins by over 11.5 points",
    "no": "Oklahoma St. wins by over 11.5 points",
    "yesBid": 0.41,
-   "yesAsk": 0.45,
-   "noBid": 0.55,
+   "yesAsk": 0.44,
+   "noBid": 0.56,
    "noAsk": 0.59,
    "last": 0.0,
    "volume": null,
@@ -14943,7 +14943,7 @@
    "rules": "If Oklahoma St. wins by more than 7.5 points in the Oklahoma St. vs Iowa St. college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.53,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.53
+   "prev": 0.52
   },
   {
    "ticker": "KXNCAAFSPREAD-26OCT31WSUSDSU-SDSU2",
@@ -14991,7 +14991,7 @@
    "rules": "If San Diego St. wins by more than 2.5 points in the Washington St. vs San Diego St. college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.55,
    "openAt": "Oct 26 3:23 AM",
-   "prev": 0.55
+   "prev": 0.53
   },
   {
    "ticker": "KXNCAAFSPREAD-26OCT31WSUSDSU-WSU2",
@@ -15015,7 +15015,7 @@
    "rules": "If Washington St. wins by more than 1.5 points in the Washington St. vs San Diego St. college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.44,
    "openAt": "Oct 26 3:23 AM",
-   "prev": 0.44
+   "prev": 0.45
   },
   {
    "ticker": "KXNCAAFTOTAL-26OCT31CLEMFSU-49",
@@ -15073,10 +15073,10 @@
    "title": "Full Game: Over 50.5 points scored",
    "yes": "Over 50.5 points",
    "no": "Over 50.5 points",
-   "yesBid": 0.46,
+   "yesBid": 0.45,
    "yesAsk": 0.5,
    "noBid": 0.5,
-   "noAsk": 0.54,
+   "noAsk": 0.55,
    "last": 0.54,
    "volume": null,
    "openInterest": null,
@@ -15111,7 +15111,7 @@
    "rules": "If the teams collectively score more than 56.5 points in the Oklahoma St. vs Iowa St. college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.54,
    "openAt": "Oct 26 3:23 AM",
-   "prev": 0.54
+   "prev": 0.51
   },
   {
    "ticker": "KXNCAAFTOTAL-26OCT31OKSTISU-58",
@@ -15135,7 +15135,7 @@
    "rules": "If the teams collectively score more than 57.5 points in the Oklahoma St. vs Iowa St. college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.48,
    "openAt": "Oct 26 3:23 AM",
-   "prev": 0.48
+   "prev": 0.47
   },
   {
    "ticker": "KXNCAAFTOTAL-26OCT31OKSTISU-59",
@@ -15173,7 +15173,7 @@
    "yesAsk": 0.52,
    "noBid": 0.48,
    "noAsk": 0.52,
-   "last": 0.48,
+   "last": 0.52,
    "volume": null,
    "openInterest": null,
    "close": "2026-11-02T23:00:00Z",
@@ -15255,7 +15255,7 @@
    "rules": "If Ohio St. wins the Ohio St. vs USC college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.71,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.71
+   "prev": 0.72
   },
   {
    "ticker": "KXNCAAFGAME-26OCT31OSUUSC-USC",
@@ -15269,7 +15269,7 @@
    "yesAsk": 0.29,
    "noBid": 0.71,
    "noAsk": 0.72,
-   "last": 0.29,
+   "last": 0.3,
    "volume": null,
    "openInterest": null,
    "close": "2026-11-02T23:30:00Z",
@@ -15327,7 +15327,7 @@
    "rules": "If Pittsburgh wins by more than 10.5 points in the Georgia Tech vs Pittsburgh college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.48,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.46
+   "prev": 0.45
   },
   {
    "ticker": "KXNCAAFSPREAD-26OCT31GTPITT-PITT8",
@@ -15351,7 +15351,7 @@
    "rules": "If Pittsburgh wins by more than 7.5 points in the Georgia Tech vs Pittsburgh college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.51,
    "openAt": "Oct 26 3:23 AM",
-   "prev": 0.51
+   "prev": 0.52
   },
   {
    "ticker": "KXNCAAFSPREAD-26OCT31MIAUNC-MIA15",
@@ -15399,7 +15399,7 @@
    "rules": "If Miami (FL) wins by more than 16.5 points in the Miami (FL) vs North Carolina college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.49,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.48
+   "prev": 0.49
   },
   {
    "ticker": "KXNCAAFSPREAD-26OCT31MIAUNC-MIA18",
@@ -15447,7 +15447,7 @@
    "rules": "If Texas wins by more than 20.5 points in the Mississippi St. vs Texas college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.51,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.5
+   "prev": 0.49
   },
   {
    "ticker": "KXNCAAFSPREAD-26OCT31MSSTTEX-TEX22",
@@ -15471,7 +15471,7 @@
    "rules": "If Texas wins by more than 21.5 points in the Mississippi St. vs Texas college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.49,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.46
+   "prev": 0.45
   },
   {
    "ticker": "KXNCAAFSPREAD-26OCT31MSSTTEX-TEX25",
@@ -15506,8 +15506,8 @@
    "yes": "Ohio St. wins by over 9.5 points",
    "no": "Ohio St. wins by over 9.5 points",
    "yesBid": 0.44,
-   "yesAsk": 0.46,
-   "noBid": 0.54,
+   "yesAsk": 0.47,
+   "noBid": 0.53,
    "noAsk": 0.56,
    "last": 0.47,
    "volume": null,
@@ -15615,7 +15615,7 @@
    "rules": "If the teams collectively score more than 54.5 points in the Georgia Tech vs Pittsburgh college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.51,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.5
+   "prev": 0.49
   },
   {
    "ticker": "KXNCAAFTOTAL-26OCT31GTPITT-56",
@@ -15663,7 +15663,7 @@
    "rules": "If the teams collectively score more than 52.5 points in the Miami (FL) vs North Carolina college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.54,
    "openAt": "Oct 26 3:23 AM",
-   "prev": 0.54
+   "prev": 0.51
   },
   {
    "ticker": "KXNCAAFTOTAL-26OCT31MIAUNC-54",
@@ -15711,7 +15711,7 @@
    "rules": "If the teams collectively score more than 54.5 points in the Miami (FL) vs North Carolina college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.48,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.48
+   "prev": 0.47
   },
   {
    "ticker": "KXNCAAFTOTAL-26OCT31MSSTTEX-52",
@@ -15735,7 +15735,7 @@
    "rules": "If the teams collectively score more than 51.5 points in the Mississippi St. vs Texas college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.49,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.5
+   "prev": 0.51
   },
   {
    "ticker": "KXNCAAFTOTAL-26OCT31MSSTTEX-53",
@@ -15759,7 +15759,7 @@
    "rules": "If the teams collectively score more than 52.5 points in the Mississippi St. vs Texas college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.46,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.47
+   "prev": 0.48
   },
   {
    "ticker": "KXNCAAFTOTAL-26OCT31MSSTTEX-54",
@@ -15834,27 +15834,27 @@
    "prev": 0.5
   },
   {
-   "ticker": "KXNCAAFTOTAL-26OCT31OSUUSC-55",
+   "ticker": "KXNCAAFTOTAL-26OCT31OSUUSC-54",
    "event": "KXNCAAFTOTAL-26OCT31OSUUSC",
    "series": "KXNCAAFTOTAL",
    "sport": "CFB",
-   "title": "Full Game: Over 54.5 points scored",
-   "yes": "Over 54.5 points",
-   "no": "Over 54.5 points",
-   "yesBid": 0.38,
+   "title": "Full Game: Over 53.5 points scored",
+   "yes": "Over 53.5 points",
+   "no": "Over 53.5 points",
+   "yesBid": 0.39,
    "yesAsk": 0.45,
    "noBid": 0.55,
-   "noAsk": 0.62,
-   "last": 0.0,
+   "noAsk": 0.61,
+   "last": 0.4,
    "volume": null,
    "openInterest": null,
    "close": "2026-11-02T23:30:00Z",
    "expectedEnd": "2026-11-01T02:30:00Z",
    "game": "Ohio St. vs USC",
    "kind": "TOTAL",
-   "rules": "If the teams collectively score more than 54.5 points in the Ohio St. vs USC college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
+   "rules": "If the teams collectively score more than 53.5 points in the Ohio St. vs USC college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.45,
-   "openAt": "Oct 26 7:54 AM",
+   "openAt": "Oct 26 8:05 AM",
    "prev": 0.45
   },
   {
@@ -15903,7 +15903,7 @@
    "rules": "If Missouri wins by more than 10.5 points in the Missouri vs Arkansas college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.47,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.47
+   "prev": 0.46
   },
   {
    "ticker": "KXNCAAFSPREAD-26OCT31MIZZARK-MIZZ12",
@@ -15937,10 +15937,10 @@
    "title": "Full Game: Over 49.5 points scored",
    "yes": "Over 49.5 points",
    "no": "Over 49.5 points",
-   "yesBid": 0.47,
+   "yesBid": 0.51,
    "yesAsk": 0.52,
    "noBid": 0.48,
-   "noAsk": 0.53,
+   "noAsk": 0.49,
    "last": 0.0,
    "volume": null,
    "openInterest": null,
@@ -15951,7 +15951,7 @@
    "rules": "If the teams collectively score more than 49.5 points in the Missouri vs Arkansas college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.51,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.51
+   "prev": 0.52
   },
   {
    "ticker": "KXNCAAFTOTAL-26OCT31MIZZARK-51",
@@ -15999,7 +15999,7 @@
    "rules": "If the teams collectively score more than 51.5 points in the Missouri vs Arkansas college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.46,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.47
+   "prev": 0.46
   },
   {
    "ticker": "KXNCAAFGAME-26OCT31LAMUTRGV-LAM",
@@ -16009,10 +16009,10 @@
    "title": "Lamar wins",
    "yes": "Lamar",
    "no": "Lamar",
-   "yesBid": 0.49,
-   "yesAsk": 0.56,
-   "noBid": 0.44,
-   "noAsk": 0.51,
+   "yesBid": 0.52,
+   "yesAsk": 0.57,
+   "noBid": 0.43,
+   "noAsk": 0.48,
    "last": 0.63,
    "volume": null,
    "openInterest": null,
@@ -16047,7 +16047,7 @@
    "rules": "If UT Rio Grande Valley wins the Lamar vs UT Rio Grande Valley college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.45,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.46
+   "prev": 0.47
   },
   {
    "ticker": "KXNCAAFSPREAD-26OCT31ARMYMEM-MEM6",
@@ -16095,7 +16095,7 @@
    "rules": "If Memphis wins by more than 6.5 points in the Army vs Memphis college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.54,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.53
+   "prev": 0.51
   },
   {
    "ticker": "KXNCAAFSPREAD-26OCT31ARMYMEM-MEM8",
@@ -16119,7 +16119,7 @@
    "rules": "If Memphis wins by more than 7.5 points in the Army vs Memphis college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.46,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.46
+   "prev": 0.44
   },
   {
    "ticker": "KXNCAAFSPREAD-26OCT31WASHNEB-NEB10",
@@ -16143,7 +16143,7 @@
    "rules": "If Nebraska wins by more than 9.5 points in the Washington vs Nebraska college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.49,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.49
+   "prev": 0.48
   },
   {
    "ticker": "KXNCAAFSPREAD-26OCT31WASHNEB-NEB11",
@@ -16157,7 +16157,7 @@
    "yesAsk": 0.46,
    "noBid": 0.54,
    "noAsk": 0.56,
-   "last": 0.45,
+   "last": 0.44,
    "volume": null,
    "openInterest": null,
    "close": "2026-11-03T00:00:00Z",
@@ -16191,7 +16191,7 @@
    "rules": "If Nebraska wins by more than 11.5 points in the Washington vs Nebraska college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.46,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.46
+   "prev": 0.47
   },
   {
    "ticker": "KXNCAAFTOTAL-26OCT31ARMYMEM-58",
@@ -16239,7 +16239,7 @@
    "rules": "If the teams collectively score more than 58.5 points in the Army vs Memphis college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.5,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.52
+   "prev": 0.51
   },
   {
    "ticker": "KXNCAAFTOTAL-26OCT31ARMYMEM-60",
@@ -16250,8 +16250,8 @@
    "yes": "Over 59.5 points",
    "no": "Over 59.5 points",
    "yesBid": 0.43,
-   "yesAsk": 0.47,
-   "noBid": 0.53,
+   "yesAsk": 0.48,
+   "noBid": 0.52,
    "noAsk": 0.57,
    "last": 0.0,
    "volume": null,
@@ -16263,7 +16263,7 @@
    "rules": "If the teams collectively score more than 59.5 points in the Army vs Memphis college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.48,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.48
+   "prev": 0.47
   },
   {
    "ticker": "KXNCAAFTOTAL-26OCT31WASHNEB-50",
@@ -16311,7 +16311,7 @@
    "rules": "If the teams collectively score more than 50.5 points in the Washington vs Nebraska college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.51,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.51
+   "prev": 0.5
   },
   {
    "ticker": "KXNCAAFTOTAL-26OCT31WASHNEB-52",
@@ -16359,7 +16359,7 @@
    "rules": "If Grambling St. wins the Grambling St. vs Texas Southern college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.67,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.68
+   "prev": 0.67
   },
   {
    "ticker": "KXNCAAFGAME-26OCT31GRAMTXSO-TXSO",
@@ -16407,7 +16407,7 @@
    "rules": "If Boise St. wins the Texas St. vs Boise St. college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.81,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.81
+   "prev": 0.8
   },
   {
    "ticker": "KXNCAAFGAME-26OCT31TXSTBSU-TXST",
@@ -16418,8 +16418,8 @@
    "yes": "Texas St.",
    "no": "Texas St.",
    "yesBid": 0.2,
-   "yesAsk": 0.21,
-   "noBid": 0.79,
+   "yesAsk": 0.22,
+   "noBid": 0.78,
    "noAsk": 0.8,
    "last": 0.21,
    "volume": null,
@@ -16527,7 +16527,7 @@
    "rules": "If the teams collectively score more than 63.5 points in the Texas St. vs Boise St. college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.54,
    "openAt": "Oct 26 3:23 AM",
-   "prev": 0.54
+   "prev": 0.53
   },
   {
    "ticker": "KXNCAAFTOTAL-26OCT31TXSTBSU-65",
@@ -16681,10 +16681,10 @@
    "title": "UNLV wins by over 27.5 points",
    "yes": "UNLV wins by over 27.5 points",
    "no": "UNLV wins by over 27.5 points",
-   "yesBid": 0.4,
+   "yesBid": 0.39,
    "yesAsk": 0.45,
    "noBid": 0.55,
-   "noAsk": 0.6,
+   "noAsk": 0.61,
    "last": 0.0,
    "volume": null,
    "openInterest": null,
@@ -16777,10 +16777,10 @@
    "title": "Fresno St. wins",
    "yes": "Fresno St.",
    "no": "Fresno St.",
-   "yesBid": 0.32,
+   "yesBid": 0.31,
    "yesAsk": 0.33,
    "noBid": 0.67,
-   "noAsk": 0.68,
+   "noAsk": 0.69,
    "last": 0.32,
    "volume": null,
    "openInterest": null,
@@ -16791,7 +16791,7 @@
    "rules": "If Fresno St. wins the Oregon St. vs Fresno St. college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.31,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.31
+   "prev": 0.33
   },
   {
    "ticker": "KXNCAAFGAME-26OCT31ORSTFRES-ORST",
@@ -16863,7 +16863,7 @@
    "rules": "If Oregon St. wins by more than 5.5 points in the Oregon St. vs Fresno St. college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.55,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.53
+   "prev": 0.52
   },
   {
    "ticker": "KXNCAAFSPREAD-26OCT31ORSTFRES-ORST7",
@@ -16873,10 +16873,10 @@
    "title": "Oregon St. wins by over 6.5 points",
    "yes": "Oregon St. wins by over 6.5 points",
    "no": "Oregon St. wins by over 6.5 points",
-   "yesBid": 0.46,
-   "yesAsk": 0.47,
-   "noBid": 0.53,
-   "noAsk": 0.54,
+   "yesBid": 0.45,
+   "yesAsk": 0.46,
+   "noBid": 0.54,
+   "noAsk": 0.55,
    "last": 0.47,
    "volume": null,
    "openInterest": null,
@@ -16887,7 +16887,7 @@
    "rules": "If Oregon St. wins by more than 6.5 points in the Oregon St. vs Fresno St. college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.5,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.5
+   "prev": 0.47
   },
   {
    "ticker": "KXNCAAFTOTAL-26OCT31ORSTFRES-57",
@@ -16911,7 +16911,7 @@
    "rules": "If the teams collectively score more than 56.5 points in the Oregon St. vs Fresno St. college football game originally scheduled for Oct 31, 2026, then the market resolves to Yes.",
    "open": 0.53,
    "openAt": "Oct 26 12:26 AM",
-   "prev": 0.52
+   "prev": 0.53
   },
   {
    "ticker": "KXNCAAFTOTAL-26OCT31ORSTFRES-58",
