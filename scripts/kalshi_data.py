@@ -133,6 +133,20 @@ def main():
         keep += sorted(g, key=lambda r: abs((r["yesAsk"] or 0) - 0.5))[:PER_EVENT]
     rows = keep
     rows.sort(key=lambda r: (r["expectedEnd"] or "", r["event"] or "", r["ticker"] or ""))
+    # line moves: keep the first price we saw for each contract ("open") and the previous snapshot's price
+    try:
+        with open(OUT) as f:
+            prev = {m["ticker"]: m for m in json.load(f).get("markets", []) if m.get("ticker")}
+    except (OSError, ValueError):
+        prev = {}
+    for r in rows:
+        p = prev.get(r["ticker"]) or {}
+        r["open"] = p.get("open", p.get("yesAsk", r["yesAsk"]))
+        r["openAt"] = p.get("openAt") or now.astimezone(PT).strftime("%b %-d %-I:%M %p")
+        r["prev"] = p.get("yesAsk", r["yesAsk"])
+    if not rows and errors:
+        print("No markets fetched; keeping the last snapshot", errors[:3])
+        return
     doc = {"updated": now.astimezone(PT).strftime("%Y-%m-%d %-I:%M %p PT"), "quotedAt": now.isoformat(),
            "series": used, "excludedSeahawks": excluded, "markets": rows}
     if errors:

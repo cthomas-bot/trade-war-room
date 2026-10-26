@@ -1329,7 +1329,7 @@ function renderBets(){
   const yes=slate.filter(x=>x.call==='YES').length+((b.primetime&&b.primetime.games)||[]).filter(x=>x.call==='YES').length;
   const hero='<section class="hero"><div class="av">◎</div><div style="position:relative;z-index:1;min-width:0"><h1>Bet <em>Desk</em></h1><div class="sub">Today’s calls, primetime picks and props — green YES means bet it.</div></div>'+
     '<div class="pills">'+[[yes,'YES calls'],[slate.length,'Games'],['$'+fmt(+bk.week||0),'Week'],[money(+bk.week-st.wkStake),'Left'],[(st.w||st.l)?st.w+'-'+st.l:'—','Record']].map(([v,l])=>'<div class="pill"><b>'+esc(v)+'</b><small>'+esc(l)+'</small></div>').join('')+'</div></section>';
-  return hero+'<div class="grid"><div class="col colA">'+bankPanel(bk,st)+resultsPanel(BETS.r)+rulesPanel()+'</div><div class="col colB">'+slatePanel(b)+primePanel(b)+propsPanel(b)+parlayPanel(b)+'</div><div class="col colC">'+sourcesPanel(b)+'</div></div>';
+  return hero+'<div class="grid"><div class="col colA">'+bankPanel(bk,st)+resultsPanel(BETS.r)+rulesPanel()+'</div><div class="col colB">'+slatePanel(b)+primePanel(b)+propsPanel(b)+parlayPanel(b)+'</div><div class="col colC">'+movesPanel(BETS.k)+sourcesPanel(b)+'</div></div>';
 }
 function slatePanel(b){
   const s=b.slate||[];
@@ -1351,6 +1351,21 @@ function primePanel(b){
   const tn=t?'<div class="pt tnf"><div class="sl-top"><span class="slot3">TNF</span><b>'+esc(t.game)+'</b><span class="muted">'+esc(t.kickoff||'')+'</span>'+(t.call?call(t.call):'<span class="call c-pass">SKIP</span>')+'</div>'+
     (t.trend?'<div class="sl-pick">📈 '+esc(t.trend)+'</div>':'')+(t.note?'<div class="muted" style="font-size:12px">'+esc(t.note)+'</div>':'')+'</div>':'';
   return panel('Primetime','★',tn+g,{right:'<small>TNF · SNF · MNF</small>'});
+}
+/* Line moves: biggest Kalshi price changes since we first saw each market (kalshi.json "open") */
+function movesPanel(k){
+  const ms=(k&&k.markets||[]).filter(m=>m.open!=null&&m.yesAsk!=null);
+  if(!ms.length)return '';
+  const best={};
+  ms.forEach(m=>{const d=Math.round((m.yesAsk-m.open)*100),r=Math.round((m.yesAsk-(m.prev!=null?m.prev:m.yesAsk))*100);
+    if(m.kind==='GAME'&&d<=0)return; // show the side that rose, not its mirror
+    const key=m.kind+'|'+String(m.game||m.event).split(' vs ').sort().join('|');if(!best[key]||Math.abs(d)>Math.abs(best[key].d))best[key]={m,d,r};});
+  const L=Object.values(best).filter(x=>Math.abs(x.d)>=3).sort((a,b)=>Math.abs(b.d)-Math.abs(a.d)).slice(0,8);
+  const since=ms.map(m=>m.openAt).filter(Boolean).sort()[0]||'';
+  const row=x=>{const m=x.m,up=x.d>0;return '<div class="km" style="grid-template-columns:minmax(0,1fr) auto"><span><b>'+esc(m.kind==='GAME'?(m.yes||m.title)+' wins':(m.yes||m.title))+'</b><br><small class="muted">'+esc(m.sport+' · '+m.game)+'</small></span>'+
+    '<span class="q" style="text-align:right">'+Math.round(m.open*100)+'¢ → <b>'+Math.round(m.yesAsk*100)+'¢</b><br><small class="'+(up?'up':'down')+'">'+(up?'▲ +':'▼ ')+x.d+'¢'+(x.r?' · '+(x.r>0?'+':'')+x.r+'¢ last 3h':'')+'</small></span></div>';};
+  return panel('Line moves','↕',(L.length?L.map(row).join(''):'<p class="muted">No Kalshi price has moved 3¢ or more yet.</p>')+
+    '<p class="muted" style="font-size:12px;margin:8px 0 0">YES price change since first seen'+(since?' (tracking began '+esc(since)+')':'')+'. A big move with no news usually means sharp money: check it before betting the other side.</p>');
 }
 /* Results tracker: graded YES/LEAN calls with record and $ at the flat stake */
 function resultsPanel(R){
