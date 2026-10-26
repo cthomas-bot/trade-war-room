@@ -663,14 +663,14 @@
       "tag": "injury"
     },
     {
-      "auto": true,
-      "dynastyAdj": 1.0,
-      "name": "Matthew Golden",
-      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 1:46 PM PT Oct 23. Earlier: Golden (shoulder) was limited Wednesday and Thursday (Oct 21-22). Matt LaFleur said he has no concern about his availability for Sunday at Detroit.",
-      "redraftAdj": 1.0,
       "sleeperId": "12501",
-      "status": null,
-      "tag": "injury"
+      "name": "Matthew Golden",
+      "note": "Sleeper now lists him questionable (shoulder) as of 3:46 PM PT Oct 26.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
+      "status": "Questionable",
+      "auto": true
     },
     {
       "auto": true,
@@ -913,5 +913,5 @@
       "auto": true
     }
   ],
-  "statusChecked": "2:44 PM PT Oct 26"
+  "statusChecked": "3:46 PM PT Oct 26"
 }
