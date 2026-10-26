@@ -82,16 +82,6 @@
   },
   "11565": {
    "changed": "2026-10-23T19:43:26.095658+00:00",
-   "entry": {
-    "auto": true,
-    "dynastyAdj": 1.05,
-    "name": "J.J. McCarthy",
-    "note": "Sleeper's depth chart now has him as NYG's starting QB as of 12:43 PM PT Oct 23.",
-    "redraftAdj": 1.2,
-    "sleeperId": "11565",
-    "status": "",
-    "tag": "role_up"
-   },
    "i": null,
    "qb1": true,
    "t": "NYG"
@@ -934,16 +924,6 @@
   },
   "13425": {
    "changed": "2026-10-23T19:43:26.095658+00:00",
-   "entry": {
-    "auto": true,
-    "dynastyAdj": 0.95,
-    "name": "Jalon Daniels",
-    "note": "Sleeper's depth chart now has him as TB's backup QB as of 12:43 PM PT Oct 23.",
-    "redraftAdj": 0.8,
-    "sleeperId": "13425",
-    "status": "",
-    "tag": "role_down"
-   },
    "i": null,
    "qb1": false,
    "t": "TB"
@@ -980,16 +960,6 @@
   },
   "1466": {
    "changed": "2026-10-23T19:43:26.095658+00:00",
-   "entry": {
-    "auto": true,
-    "dynastyAdj": 1.0,
-    "name": "Travis Kelce",
-    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 12:43 PM PT Oct 23. Earlier: Kelce (ankle) was limited again Thursday, Oct 22, and is still expected to play Sunday night at Seattle unless something changes at Friday's practice.",
-    "redraftAdj": 1.0,
-    "sleeperId": "1466",
-    "status": null,
-    "tag": "injury"
-   },
    "i": null,
    "qb1": null,
    "t": "KC"
@@ -1024,16 +994,6 @@
   },
   "2306": {
    "changed": "2026-10-23T19:43:26.095658+00:00",
-   "entry": {
-    "auto": true,
-    "dynastyAdj": 0.95,
-    "name": "Jameis Winston",
-    "note": "Sleeper's depth chart now has him as NYG's backup QB as of 12:43 PM PT Oct 23.",
-    "redraftAdj": 0.8,
-    "sleeperId": "2306",
-    "status": "",
-    "tag": "role_down"
-   },
    "i": null,
    "qb1": false,
    "t": "NYG"
@@ -1524,9 +1484,18 @@
    "t": "NO"
   },
   "7547": {
-   "changed": null,
-   "entry": null,
-   "i": null,
+   "changed": "2026-10-26T19:50:52.067056+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Amon-Ra St. Brown",
+    "note": "Sleeper now lists him questionable (ankle) as of 12:50 PM PT Oct 26.",
+    "redraftAdj": 0.98,
+    "sleeperId": "7547",
+    "status": "Questionable",
+    "tag": "injury"
+   },
+   "i": "Questionable",
    "qb1": null,
    "t": "DET"
   },
