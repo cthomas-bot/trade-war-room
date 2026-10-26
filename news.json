@@ -732,14 +732,14 @@
       "tag": "injury"
     },
     {
-      "auto": true,
-      "dynastyAdj": 1.0,
-      "name": "Rashid Shaheed",
-      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 4:41 PM PT Oct 22.",
-      "redraftAdj": 1.0,
       "sleeperId": "8676",
-      "status": null,
-      "tag": "injury"
+      "name": "Rashid Shaheed",
+      "note": "Sleeper now lists him questionable (knee) as of 7:47 PM PT Oct 25.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
+      "status": "Questionable",
+      "auto": true
     },
     {
       "auto": true,
@@ -872,5 +872,5 @@
       "auto": true
     }
   ],
-  "statusChecked": "4:37 PM PT Oct 25"
+  "statusChecked": "7:47 PM PT Oct 25"
 }
