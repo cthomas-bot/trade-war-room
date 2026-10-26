@@ -169,16 +169,6 @@
   },
   "11625": {
    "changed": "2026-10-23T20:46:17.650166+00:00",
-   "entry": {
-    "auto": true,
-    "dynastyAdj": 1.0,
-    "name": "Adonai Mitchell",
-    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 1:46 PM PT Oct 23. Earlier: He was limited at practice Wednesday, Oct 21 (finger) after a minor procedure in mid-October. He is questionable for Week 7 against Miami and has missed four straight games.",
-    "redraftAdj": 1.0,
-    "sleeperId": "11625",
-    "status": null,
-    "tag": "injury"
-   },
    "i": null,
    "qb1": null,
    "t": "NYJ"
@@ -385,16 +375,6 @@
   },
   "12501": {
    "changed": "2026-10-23T20:46:17.650166+00:00",
-   "entry": {
-    "auto": true,
-    "dynastyAdj": 1.0,
-    "name": "Matthew Golden",
-    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 1:46 PM PT Oct 23. Earlier: Golden (shoulder) was limited Wednesday and Thursday (Oct 21-22). Matt LaFleur said he has no concern about his availability for Sunday at Detroit.",
-    "redraftAdj": 1.0,
-    "sleeperId": "12501",
-    "status": null,
-    "tag": "injury"
-   },
    "i": null,
    "qb1": null,
    "t": "GB"
@@ -704,16 +684,6 @@
   },
   "13296": {
    "changed": "2026-10-23T20:46:17.650166+00:00",
-   "entry": {
-    "auto": true,
-    "dynastyAdj": 1.0,
-    "name": "Caleb Douglas",
-    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 1:46 PM PT Oct 23. Earlier: He was limited at practice Wednesday, Oct 21 (ankle) and has not played since Week 2. He is working toward a return in Week 7 against the Jets on Oct 25.",
-    "redraftAdj": 1.0,
-    "sleeperId": "13296",
-    "status": null,
-    "tag": "injury"
-   },
    "i": null,
    "qb1": null,
    "t": "MIA"
@@ -870,9 +840,18 @@
    "t": "MIN"
   },
   "13349": {
-   "changed": null,
-   "entry": null,
-   "i": "IR",
+   "changed": "2026-10-26T20:47:19.013954+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Eli Stowers",
+    "note": "Cleared: no longer on Sleeper's injury report (was on injured reserve) as of 1:47 PM PT Oct 26.",
+    "redraftAdj": 0.98,
+    "sleeperId": "13349",
+    "status": null,
+    "tag": "injury"
+   },
+   "i": null,
    "qb1": null,
    "t": "PHI"
   },
@@ -978,16 +957,6 @@
   },
   "2216": {
    "changed": "2026-10-23T20:46:17.650166+00:00",
-   "entry": {
-    "auto": true,
-    "dynastyAdj": 0.98,
-    "name": "Mike Evans",
-    "note": "Sleeper now lists him out (achilles) as of 1:46 PM PT Oct 23. Earlier: Evans (ribs/Achilles tendinitis) did not practice Wednesday or Thursday (Oct 21-22) and is expected to miss Sunday's game at Atlanta. Scans showed no tear, but his return is uncertain even for Week 9 after the 49ers' bye.",
-    "redraftAdj": 0.6,
-    "sleeperId": "2216",
-    "status": "Out",
-    "tag": "injury"
-   },
    "i": "Out",
    "qb1": null,
    "t": "SF"
@@ -1236,16 +1205,6 @@
   },
   "5844": {
    "changed": "2026-10-23T20:46:17.650166+00:00",
-   "entry": {
-    "auto": true,
-    "dynastyAdj": 1.0,
-    "name": "T.J. Hockenson",
-    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 1:46 PM PT Oct 23. Earlier: Hockenson (concussion) practiced in full on Wednesday, Oct 21, and needs clearance from an independent neurologist to play Oct 25 vs. Indianapolis. He is trending toward playing.",
-    "redraftAdj": 1.0,
-    "sleeperId": "5844",
-    "status": null,
-    "tag": "injury"
-   },
    "i": null,
    "qb1": null,
    "t": "MIN"
@@ -1290,16 +1249,6 @@
   },
   "5892": {
    "changed": "2026-10-23T20:46:17.650166+00:00",
-   "entry": {
-    "auto": true,
-    "dynastyAdj": 0.97,
-    "name": "David Montgomery",
-    "note": "Sleeper now lists him out (groin) as of 1:46 PM PT Oct 23. Earlier: Montgomery (groin) was again a non-participant Thursday (Oct 22) and is expected to miss Week 7 vs. the Giants per KPRC's Aaron Wilson; with Houston's Week 8 bye, his next game would likely be Week 9.",
-    "redraftAdj": 0.8,
-    "sleeperId": "5892",
-    "status": "Out",
-    "tag": "injury"
-   },
    "i": "Out",
    "qb1": null,
    "t": "HOU"
@@ -1654,16 +1603,6 @@
   },
   "8137": {
    "changed": "2026-10-23T20:46:17.650166+00:00",
-   "entry": {
-    "auto": true,
-    "dynastyAdj": 1.0,
-    "name": "George Pickens",
-    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 1:46 PM PT Oct 23. Earlier: Sleeper listed him questionable (shoulder) as of Oct 22 heading into Week 7.",
-    "redraftAdj": 1.0,
-    "sleeperId": "8137",
-    "status": null,
-    "tag": "injury"
-   },
    "i": null,
    "qb1": null,
    "t": "DAL"
@@ -1747,16 +1686,6 @@
   },
   "8167": {
    "changed": "2026-10-23T20:46:17.650166+00:00",
-   "entry": {
-    "auto": true,
-    "dynastyAdj": 1.0,
-    "name": "Christian Watson",
-    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 1:46 PM PT Oct 23. Earlier: Sleeper listed him questionable (ankle) as of Oct 21 heading into Week 7.",
-    "redraftAdj": 1.0,
-    "sleeperId": "8167",
-    "status": null,
-    "tag": "injury"
-   },
    "i": null,
    "qb1": null,
    "t": "GB"
