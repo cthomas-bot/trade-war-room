@@ -252,18 +252,18 @@
    "t": "CAR"
   },
   "11655": {
-   "changed": "2026-10-27T18:55:05.181547+00:00",
+   "changed": "2026-10-27T21:46:10.022646+00:00",
    "entry": {
     "auto": true,
-    "dynastyAdj": 0.99,
+    "dynastyAdj": 0.97,
     "name": "Tyrone Tracy Jr.",
-    "note": "Sleeper now lists him out (hamstring) as of 11:55 AM PT Oct 27. Earlier: Tracy left the Oct 25 win at Houston with a hamstring injury after 6 carries for 15 yards and a TD, and there has been no specific update since. The Giants' Week 8 bye gives him time to heal.",
-    "redraftAdj": 0.9,
+    "note": "Sleeper now lists him on injured reserve (hamstring) as of 2:46 PM PT Oct 27.",
+    "redraftAdj": 0.7,
     "sleeperId": "11655",
-    "status": "Out",
+    "status": "IR",
     "tag": "injury"
    },
-   "i": "Out",
+   "i": "IR",
    "qb1": null,
    "t": "NYG"
   },
@@ -1722,16 +1722,6 @@
   },
   "8408": {
    "changed": "2026-10-24T21:41:52.903005+00:00",
-   "entry": {
-    "auto": true,
-    "dynastyAdj": 1.03,
-    "name": "Jordan Mason",
-    "note": "Cleared: no longer on Sleeper's injury report (was on injured reserve) as of 2:41 PM PT Oct 24. Earlier: Mason (thumb) practiced fully all week and is questionable on the Friday (Oct 23) report only because he is still on IR; Kevin O'Connell expects him to be activated and play Sunday vs. Indianapolis.",
-    "redraftAdj": 0.98,
-    "sleeperId": "8408",
-    "status": null,
-    "tag": "injury"
-   },
    "i": null,
    "qb1": null,
    "t": "MIN"
@@ -1858,16 +1848,6 @@
   },
   "9502": {
    "changed": "2026-10-24T21:41:52.903005+00:00",
-   "entry": {
-    "auto": true,
-    "dynastyAdj": 1.0,
-    "name": "Tank Dell",
-    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 2:41 PM PT Oct 24.",
-    "redraftAdj": 1.0,
-    "sleeperId": "9502",
-    "status": null,
-    "tag": "injury"
-   },
    "i": null,
    "qb1": null,
    "t": "HOU"
