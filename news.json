@@ -58,11 +58,12 @@
     {
       "sleeperId": "4881",
       "name": "Lamar Jackson",
-      "note": "Jackson (high ankle sprain) missed his third straight game on Oct. 25 vs. Cincinnati, with Tyler Huntley starting again. As of Oct. 26 there is no word on his Week 8 status; he had practiced on a limited basis last week before being downgraded.",
-      "tag": "injury",
-      "redraftAdj": 0.85,
-      "dynastyAdj": 0.98,
-      "status": ""
+      "tag": "role_up",
+      "redraftAdj": 1.2,
+      "dynastyAdj": 1.05,
+      "status": "",
+      "auto": true,
+      "note": "Sleeper's depth chart now has him as BAL's starting QB as of 2:51 AM PT Oct 27."
     },
     {
       "sleeperId": "13269",
@@ -923,5 +924,5 @@
       "auto": true
     }
   ],
-  "statusChecked": "8:47 PM PT Oct 26"
+  "statusChecked": "2:51 AM PT Oct 27"
 }
