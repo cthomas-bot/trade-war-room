@@ -1,32 +1,24 @@
 {
  "season": "2026",
  "week": 7,
- "updated": "2026-10-26 3:13 PM PT",
+ "updated": "2026-10-26 6:26 PM PT",
  "games": [
   {
    "id": "401873009",
    "kickoff": "2026-10-27T00:15Z",
-   "state": "pre",
+   "state": "in",
    "home": "PHI",
    "away": "DAL",
-   "homeScore": "0",
-   "awayScore": "0",
+   "homeScore": "14",
+   "awayScore": "17",
    "venue": "Lincoln Financial Field",
    "tv": "ESPN",
-   "details": "DAL -4.5",
-   "total": 43.5,
-   "fav": "DAL",
-   "spread": 4.5,
-   "homeML": null,
-   "awayML": null,
-   "homeImplied": 19.5,
-   "awayImplied": 24.0,
    "weather": {
     "roof": "open",
-    "temp": 59.1,
+    "temp": 60.5,
     "precip": 0,
     "code": 0,
-    "wind": 4.6,
+    "wind": 5.0,
     "night": true
    }
   },
@@ -1147,12 +1139,6 @@
    "std": 2.9,
    "opp": "CLE"
   },
-  "12516": {
-   "half": 1.2,
-   "ppr": 1.32,
-   "std": 1.09,
-   "opp": "CLE"
-  },
   "12522": {
    "half": 13.62,
    "ppr": 13.62,
@@ -1519,12 +1505,6 @@
    "std": 13.53,
    "opp": "NO"
   },
-  "8756": {
-   "half": 0.92,
-   "ppr": 1.12,
-   "std": 0.71,
-   "opp": "NO"
-  },
   "9504": {
    "half": 2.21,
    "ppr": 2.71,
@@ -1826,9 +1806,9 @@
    "opp": "NYG"
   },
   "8207": {
-   "half": 3.13,
-   "ppr": 3.49,
-   "std": 2.77,
+   "half": 3.26,
+   "ppr": 3.62,
+   "std": 2.91,
    "opp": "PHI"
   },
   "11593": {
@@ -1850,9 +1830,9 @@
    "opp": "DAL"
   },
   "7588": {
-   "half": 16.42,
-   "ppr": 17.66,
-   "std": 15.17,
+   "half": 16.41,
+   "ppr": 17.65,
+   "std": 15.16,
    "opp": "PHI"
   },
   "7596": {
@@ -1862,9 +1842,15 @@
    "opp": "DAL"
   },
   "8137": {
-   "half": 9.45,
-   "ppr": 11.5,
+   "half": 9.44,
+   "ppr": 11.49,
    "std": 7.4,
+   "opp": "PHI"
+  },
+  "10225": {
+   "half": 0.84,
+   "ppr": 1.02,
+   "std": 0.66,
    "opp": "PHI"
   },
   "5848": {
@@ -1882,7 +1868,7 @@
   "8110": {
    "half": 6.24,
    "ppr": 7.81,
-   "std": 4.67,
+   "std": 4.66,
    "opp": "PHI"
   },
   "9230": {
@@ -1917,7 +1903,7 @@
   },
   "11783": {
    "half": 5.61,
-   "ppr": 7.03,
+   "ppr": 7.02,
    "std": 4.2,
    "opp": "PHI"
   },
@@ -1946,14 +1932,14 @@
    "opp": "DAL"
   },
   "3294": {
-   "half": 15.9,
-   "ppr": 15.9,
-   "std": 15.9,
+   "half": 15.89,
+   "ppr": 15.89,
+   "std": 15.89,
    "opp": "PHI"
   },
   "6786": {
    "half": 14.22,
-   "ppr": 17.2,
+   "ppr": 17.19,
    "std": 11.24,
    "opp": "PHI"
   }
