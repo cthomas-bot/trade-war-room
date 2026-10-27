@@ -1,5 +1,5 @@
 {
- "updated": "Oct 26, 2026",
+ "updated": "Oct 27, 2026",
  "stake": 5,
  "note": "Graded on the final call each pick had before kickoff; $5 per pick at the listed Kalshi price, minus the taker fee.",
  "picks": [
@@ -332,6 +332,39 @@
    "result": "W",
    "final": "Rams 35 – Raiders 21",
    "pl": 2.93
+  },
+  {
+   "date": "Mon Oct 26",
+   "sport": "NBA",
+   "game": "Mavericks @ Heat",
+   "pick": "NO on “Over 237.5” (= Under 237.5)",
+   "price": "50¢",
+   "call": "LEAN",
+   "result": "W",
+   "final": "Mavericks 113 – Heat 109",
+   "pl": 4.83
+  },
+  {
+   "date": "Mon Oct 26",
+   "sport": "NFL",
+   "game": "Cowboys @ Eagles · MNF",
+   "pick": "NO on “Over 43.5 points scored” (= Under 43.5)",
+   "price": "49¢",
+   "call": "LEAN",
+   "result": "L",
+   "final": "Cowboys 38 – Eagles 21",
+   "pl": -5.18
+  },
+  {
+   "date": "Mon Oct 26",
+   "sport": "NBA",
+   "game": "Suns @ Thunder",
+   "pick": "NO on “Oklahoma City wins by over 9.5” (= PHX +9.5)",
+   "price": "54¢",
+   "call": "LEAN",
+   "result": "L",
+   "final": "Thunder 125 – Suns 114",
+   "pl": -5.16
   }
  ]
 }
