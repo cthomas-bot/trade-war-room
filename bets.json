@@ -1,6 +1,6 @@
 {
  "date": "Tue Oct 27",
- "scanned": "Oct 27, 8:00 AM PT",
+ "scanned": "Oct 27, 2:55 PM PT · recheck",
  "slate": [
   {
    "sport": "MLB",
@@ -17,26 +17,13 @@
   },
   {
    "sport": "CFB",
-   "game": "Delaware @ Western Kentucky",
-   "time": "4:00 PM PT",
-   "pick": "NO on “Over 56.5 points scored” (= Under 56.5)",
-   "price": "48¢",
-   "call": "LEAN",
-   "why": "Sharp moves logged to the under; Kalshi under priced slightly below a 50/50 book number.",
-   "recheck": "~2:50 PM PT: drop to PASS if books move back to 57.5+; skip if NO price rises above 50¢.",
-   "market": "📈 Total 57.5 → 59.5 → 56.5; Action PRO logs six sharp under moves (Yahoo). Spread flipped DEL −2.5 → WKU −1.5. No ticket splits found.",
-   "trend": "📊 No sourced trend with a real sample found; WKU 2-0 at home, won last two allowing 13 and 3 points.",
-   "matchup": "🔍 WKU defense improved on 3rd down lately; DEL pass offense vs WKU, but DEL 18 sacks vs WKU 9 can stall drives."
-  },
-  {
-   "sport": "CFB",
    "game": "Sam Houston @ Missouri State",
    "time": "5:00 PM PT",
    "pick": "NO on “Over 50.5 points scored” (= Under 50.5)",
    "price": "50¢",
    "call": "LEAN",
    "why": "Total drifting down toward 49.5 while Kalshi still prices Under 50.5 at a coin flip.",
-   "recheck": "~2:50 PM PT: confirm MOSU QB status (Leonard questionable); PASS if books go back to 51.5.",
+   "recheck": "~2:50 PM PT: confirm MOSU QB status (Leonard questionable); PASS if books go back to 51.5. 2:53 PM snapshot had no quote for this total; check the live price (≤50¢).",
    "market": "📈 No sharp-book or split data found. Total 50.5–51.5 → 49.5 at some books; spread MOSU −5/−5.5 → −4.5 to −6.5 by book.",
    "trend": "📊 No sourced trend found; Sam Houston 1-6, 0-3 C-USA, on a four-game losing streak.",
    "matchup": "🔍 MOSU pass-heavy offense into SHSU's #3 FBS pass D; MOSU missing RB Ramone Green Jr. and OL Logan Scrivner."
@@ -46,20 +33,33 @@
    "game": "Pistons @ Knicks",
    "time": "5:00 PM PT",
    "pick": "Knicks ML",
-   "price": "61¢",
+   "price": "62¢",
    "call": "LEAN",
-   "why": "Line moved to NYK with Duren and Ausar out, but 61¢ is fair.",
+   "why": "Detroit without Duren and Ausar Thompson; Kalshi 62¢ ≈ books’ 61% no-vig, so small.",
    "recheck": "Recheck 3 PM PT: YES only if Knicks ML ≤57¢ with Duren/Thompson still out.",
    "market": "📈 NYK -3.5 open → -4/-4.5 with most spread tickets on DET (TheSpread); Kalshi 56→61¢. Books -155/-170 ≈ 61% no-vig. No Pinnacle data found.",
    "trend": "📊 No sourced trend with a real sample; Knicks still seeking first win of the season.",
    "matchup": "🔍 DET without Duren (hamstring) and Ausar Thompson (ankle); Paul Reed starts at C vs NYK frontcourt. NYK missing Alvarado (ankle)."
   },
   {
+   "sport": "CFB",
+   "game": "Delaware @ Western Kentucky",
+   "time": "4:00 PM PT",
+   "pick": "NO on “Over 56.5 points scored” (= Under 56.5)",
+   "price": "53¢",
+   "call": "WAIT",
+   "why": "Under moved our way: Kalshi Under 56.5 went 48¢ → 53¢, edge gone at this price.",
+   "recheck": "Play the Under only if it drops back to ≤50¢ before 4:00 PM PT kickoff.",
+   "market": "📈 Total 57.5 → 59.5 → 56.5; Action PRO logs six sharp under moves (Yahoo). Spread flipped DEL −2.5 → WKU −1.5. No ticket splits found.",
+   "trend": "📊 No sourced trend with a real sample found; WKU 2-0 at home, won last two allowing 13 and 3 points.",
+   "matchup": "🔍 WKU defense improved on 3rd down lately; DEL pass offense vs WKU, but DEL 18 sacks vs WKU 9 can stall drives."
+  },
+  {
    "sport": "NBA",
    "game": "Trail Blazers @ Lakers",
    "time": "8:00 PM PT",
    "pick": "YES on “Over 233.5”",
-   "price": "52¢",
+   "price": "51¢",
    "call": "WAIT",
    "why": "Books 235.5–236.5 but Kalshi sits ~2 points lower; edge too thin now.",
    "recheck": "Recheck 3 PM PT: YES if books hold ≥235.5 and Kalshi Over 233.5 ≤49¢; drop if Scoot/Reaves news.",
