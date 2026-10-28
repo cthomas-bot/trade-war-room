@@ -38,18 +38,18 @@
    "t": "ARI"
   },
   "10236": {
-   "changed": "2026-10-28T08:08:19.335831+00:00",
+   "changed": "2026-10-28T21:51:21.491924+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 1.0,
     "name": "Dalton Kincaid",
-    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 1:08 AM PT Oct 28. Earlier: Kincaid hurt his ribs in the second half of Week 6 but returned to that game, and Buffalo's Week 7 bye gave him extra rest. He is expected back for Week 8 barring a setback in practice this week.",
-    "redraftAdj": 1.0,
+    "note": "Sleeper now lists him questionable (chest) as of 2:51 PM PT Oct 28.",
+    "redraftAdj": 0.98,
     "sleeperId": "10236",
-    "status": null,
+    "status": "Questionable",
     "tag": "injury"
    },
-   "i": null,
+   "i": "Questionable",
    "qb1": null,
    "t": "BUF"
   },
@@ -156,8 +156,18 @@
    "t": "ARI"
   },
   "11604": {
-   "changed": "2026-10-22T23:41:26.531107+00:00",
-   "i": null,
+   "changed": "2026-10-28T21:51:21.491924+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Brock Bowers",
+    "note": "Sleeper now lists him questionable (calf) as of 2:51 PM PT Oct 28.",
+    "redraftAdj": 0.98,
+    "sleeperId": "11604",
+    "status": "Questionable",
+    "tag": "injury"
+   },
+   "i": "Questionable",
    "qb1": null,
    "t": "LV"
   },
@@ -342,16 +352,6 @@
   },
   "12481": {
    "changed": "2026-10-25T21:41:57.749668+00:00",
-   "entry": {
-    "auto": true,
-    "dynastyAdj": 1.0,
-    "name": "Cam Skattebo",
-    "note": "Sleeper now lists him questionable (hamstring) as of 2:41 PM PT Oct 25.",
-    "redraftAdj": 0.98,
-    "sleeperId": "12481",
-    "status": "Questionable",
-    "tag": "injury"
-   },
    "i": "Questionable",
    "qb1": null,
    "t": "NYG"
@@ -565,8 +565,18 @@
    "t": "CHI"
   },
   "12536": {
-   "changed": "2026-10-25T20:40:17.937650+00:00",
-   "i": "Questionable",
+   "changed": "2026-10-28T21:51:21.491924+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 0.97,
+    "name": "Jaylin Noel",
+    "note": "Sleeper now lists him on injured reserve (toe) as of 2:51 PM PT Oct 28. Earlier: He has turf toe from the Oct 25 loss to the Giants. Houston's Week 8 bye gives him time to recover, and the team will decide on his Week 9 status after the bye.",
+    "redraftAdj": 0.7,
+    "sleeperId": "12536",
+    "status": "IR",
+    "tag": "injury"
+   },
+   "i": "IR",
    "qb1": null,
    "t": "HOU"
   },
@@ -1643,18 +1653,18 @@
    "t": "TEN"
   },
   "8129": {
-   "changed": "2026-10-27T14:58:32.052854+00:00",
+   "changed": "2026-10-28T21:51:21.491924+00:00",
    "entry": {
     "auto": true,
-    "dynastyAdj": 1.0,
+    "dynastyAdj": 0.97,
     "name": "Dameon Pierce",
-    "note": "Sleeper now lists him questionable (undisclosed) as of 7:58 AM PT Oct 27.",
-    "redraftAdj": 0.98,
+    "note": "Sleeper now lists him on injured reserve (undisclosed) as of 2:51 PM PT Oct 28.",
+    "redraftAdj": 0.7,
     "sleeperId": "8129",
-    "status": "Questionable",
+    "status": "IR",
     "tag": "injury"
    },
-   "i": "Questionable",
+   "i": "IR",
    "qb1": null,
    "t": "PHI"
   },

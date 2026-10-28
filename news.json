@@ -329,11 +329,12 @@
     {
       "sleeperId": "12536",
       "name": "Jaylin Noel",
-      "note": "He has turf toe from the Oct 25 loss to the Giants. Houston's Week 8 bye gives him time to recover, and the team will decide on his Week 9 status after the bye.",
+      "note": "Sleeper now lists him on injured reserve (toe) as of 2:51 PM PT Oct 28. Earlier: He has turf toe from the Oct 25 loss to the Giants. Houston's Week 8 bye gives him time to recover, and the team will decide on his Week 9 status after the bye.",
       "tag": "injury",
-      "redraftAdj": 0.85,
+      "redraftAdj": 0.7,
       "dynastyAdj": 0.97,
-      "status": "Questionable"
+      "status": "IR",
+      "auto": true
     },
     {
       "sleeperId": "12514",
@@ -769,14 +770,14 @@
       "status": ""
     },
     {
-      "auto": true,
-      "dynastyAdj": 1.0,
-      "name": "Dalton Kincaid",
-      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 1:08 AM PT Oct 28. Earlier: Kincaid hurt his ribs in the second half of Week 6 but returned to that game, and Buffalo's Week 7 bye gave him extra rest. He is expected back for Week 8 barring a setback in practice this week.",
-      "redraftAdj": 1.0,
       "sleeperId": "10236",
-      "status": null,
-      "tag": "injury"
+      "name": "Dalton Kincaid",
+      "note": "Sleeper now lists him questionable (chest) as of 2:51 PM PT Oct 28.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
+      "status": "Questionable",
+      "auto": true
     },
     {
       "sleeperId": "11643",
@@ -909,14 +910,14 @@
       "tag": "injury"
     },
     {
-      "auto": true,
-      "dynastyAdj": 1.0,
-      "name": "Dameon Pierce",
-      "note": "Sleeper now lists him questionable (undisclosed) as of 7:58 AM PT Oct 27.",
-      "redraftAdj": 0.98,
       "sleeperId": "8129",
-      "status": "Questionable",
-      "tag": "injury"
+      "name": "Dameon Pierce",
+      "note": "Sleeper now lists him on injured reserve (undisclosed) as of 2:51 PM PT Oct 28.",
+      "tag": "injury",
+      "redraftAdj": 0.7,
+      "dynastyAdj": 0.97,
+      "status": "IR",
+      "auto": true
     },
     {
       "auto": true,
@@ -997,7 +998,17 @@
       "dynastyAdj": 1.0,
       "status": "Questionable",
       "auto": true
+    },
+    {
+      "sleeperId": "11604",
+      "name": "Brock Bowers",
+      "note": "Sleeper now lists him questionable (calf) as of 2:51 PM PT Oct 28.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
+      "status": "Questionable",
+      "auto": true
     }
   ],
-  "statusChecked": "1:53 PM PT Oct 28"
+  "statusChecked": "2:51 PM PT Oct 28"
 }
