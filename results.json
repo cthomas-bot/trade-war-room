@@ -1,5 +1,5 @@
 {
- "updated": "Oct 27, 2026",
+ "updated": "Oct 28, 2026",
  "stake": 5,
  "note": "Graded on the final call each pick had before kickoff; $5 per pick at the listed Kalshi price, minus the taker fee.",
  "picks": [
@@ -365,6 +365,39 @@
    "result": "L",
    "final": "Thunder 125 – Suns 114",
    "pl": -5.16
+  },
+  {
+   "date": "Tue Oct 27",
+   "sport": "MLB",
+   "game": "Brewers @ Rays · World Series G4",
+   "pick": "Brewers ML",
+   "price": "54¢",
+   "call": "LEAN",
+   "result": "L",
+   "final": "Rays 4 – Brewers 3 (12 inn.)",
+   "pl": -5.16
+  },
+  {
+   "date": "Tue Oct 27",
+   "sport": "CFB",
+   "game": "Sam Houston @ Missouri State",
+   "pick": "NO on “Over 50.5 points scored” (= Under 50.5)",
+   "price": "50¢",
+   "call": "LEAN",
+   "result": "W",
+   "final": "Missouri State 24 – Sam Houston 3",
+   "pl": 4.83
+  },
+  {
+   "date": "Tue Oct 27",
+   "sport": "NBA",
+   "game": "Pistons @ Knicks",
+   "pick": "Knicks ML",
+   "price": "62¢",
+   "call": "LEAN",
+   "result": "W",
+   "final": "Knicks 111 – Pistons 97",
+   "pl": 2.93
   }
  ]
 }
