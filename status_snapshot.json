@@ -1035,8 +1035,18 @@
    "t": "NYG"
   },
   "2449": {
-   "changed": "2026-10-19T23:43:00.253377+00:00",
-   "i": null,
+   "changed": "2026-10-28T23:46:27.677078+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Stefon Diggs",
+    "note": "Sleeper now lists him questionable (hand) as of 4:46 PM PT Oct 28. Earlier: Diggs (24-214-4 in five games) is Washington's de facto WR1 coming off the Week 7 bye. Terry McLaurin tore his patellar tendon on Oct 19.",
+    "redraftAdj": 0.98,
+    "sleeperId": "2449",
+    "status": "Questionable",
+    "tag": "injury"
+   },
+   "i": "Questionable",
    "qb1": null,
    "t": "WAS"
   },
@@ -1481,16 +1491,6 @@
   },
   "7526": {
    "changed": "2026-10-25T23:37:44.358559+00:00",
-   "entry": {
-    "auto": true,
-    "dynastyAdj": 0.99,
-    "name": "Jaylen Waddle",
-    "note": "Sleeper now lists him questionable (undisclosed) as of 4:37 PM PT Oct 25.",
-    "redraftAdj": 0.98,
-    "sleeperId": "7526",
-    "status": "Questionable",
-    "tag": "injury"
-   },
    "i": "Questionable",
    "qb1": null,
    "t": "DEN"
@@ -1532,6 +1532,8 @@
    "t": "ATL"
   },
   "7561": {
+   "changed": null,
+   "entry": null,
    "i": null,
    "qb1": null,
    "t": "PHI"

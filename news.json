@@ -565,11 +565,12 @@
     {
       "sleeperId": "2449",
       "name": "Stefon Diggs",
-      "note": "Diggs (24-214-4 in five games) is Washington's de facto WR1 coming off the Week 7 bye. Terry McLaurin tore his patellar tendon on Oct 19.",
-      "tag": "role_up",
-      "redraftAdj": 1.08,
-      "dynastyAdj": 1.01,
-      "status": ""
+      "note": "Sleeper now lists him questionable (hand) as of 4:46 PM PT Oct 28. Earlier: Diggs (24-214-4 in five games) is Washington's de facto WR1 coming off the Week 7 bye. Terry McLaurin tore his patellar tendon on Oct 19.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
+      "status": "Questionable",
+      "auto": true
     },
     {
       "sleeperId": "5927",
@@ -1021,5 +1022,5 @@
       "auto": true
     }
   ],
-  "statusChecked": "3:50 PM PT Oct 28"
+  "statusChecked": "4:46 PM PT Oct 28"
 }
