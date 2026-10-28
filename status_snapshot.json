@@ -339,8 +339,18 @@
    "t": "SF"
   },
   "12469": {
-   "changed": "2026-10-24T16:43:26.365325+00:00",
-   "i": null,
+   "changed": "2026-10-28T22:50:57.915498+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Dylan Sampson",
+    "note": "Sleeper now lists him questionable (knee) as of 3:50 PM PT Oct 28. Earlier: Sampson played 32 snaps to Quinshon Judkins' 37 in Week 7 vs. Tennessee, which suggests he is cutting into Judkins' workload.",
+    "redraftAdj": 0.98,
+    "sleeperId": "12469",
+    "status": "Questionable",
+    "tag": "injury"
+   },
+   "i": "Questionable",
    "qb1": null,
    "t": "CLE"
   },
@@ -563,22 +573,6 @@
    "i": "Questionable",
    "qb1": null,
    "t": "CHI"
-  },
-  "12536": {
-   "changed": "2026-10-28T21:51:21.491924+00:00",
-   "entry": {
-    "auto": true,
-    "dynastyAdj": 0.97,
-    "name": "Jaylin Noel",
-    "note": "Sleeper now lists him on injured reserve (toe) as of 2:51 PM PT Oct 28. Earlier: He has turf toe from the Oct 25 loss to the Giants. Houston's Week 8 bye gives him time to recover, and the team will decide on his Week 9 status after the bye.",
-    "redraftAdj": 0.7,
-    "sleeperId": "12536",
-    "status": "IR",
-    "tag": "injury"
-   },
-   "i": "IR",
-   "qb1": null,
-   "t": "HOU"
   },
   "12545": {
    "changed": null,
@@ -1537,6 +1531,11 @@
    "qb1": null,
    "t": "ATL"
   },
+  "7561": {
+   "i": null,
+   "qb1": null,
+   "t": "PHI"
+  },
   "7564": {
    "changed": "2026-10-28T20:53:41.192426+00:00",
    "entry": {
@@ -1703,8 +1702,18 @@
    "t": "WAS"
   },
   "8137": {
-   "changed": "2026-10-23T20:46:17.650166+00:00",
-   "i": null,
+   "changed": "2026-10-28T22:50:57.915498+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "George Pickens",
+    "note": "Sleeper now lists him questionable (shoulder) as of 3:50 PM PT Oct 28.",
+    "redraftAdj": 0.98,
+    "sleeperId": "8137",
+    "status": "Questionable",
+    "tag": "injury"
+   },
+   "i": "Questionable",
    "qb1": null,
    "t": "DAL"
   },

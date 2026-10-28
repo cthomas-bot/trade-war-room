@@ -248,11 +248,12 @@
     {
       "sleeperId": "12469",
       "name": "Dylan Sampson",
-      "note": "Sampson played 32 snaps to Quinshon Judkins' 37 in Week 7 vs. Tennessee, which suggests he is cutting into Judkins' workload.",
-      "tag": "role_up",
-      "redraftAdj": 1.08,
-      "dynastyAdj": 1.02,
-      "status": ""
+      "note": "Sleeper now lists him questionable (knee) as of 3:50 PM PT Oct 28. Earlier: Sampson played 32 snaps to Quinshon Judkins' 37 in Week 7 vs. Tennessee, which suggests he is cutting into Judkins' workload.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
+      "status": "Questionable",
+      "auto": true
     },
     {
       "sleeperId": "5850",
@@ -1008,7 +1009,17 @@
       "dynastyAdj": 1.0,
       "status": "Questionable",
       "auto": true
+    },
+    {
+      "sleeperId": "8137",
+      "name": "George Pickens",
+      "note": "Sleeper now lists him questionable (shoulder) as of 3:50 PM PT Oct 28.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
+      "status": "Questionable",
+      "auto": true
     }
   ],
-  "statusChecked": "2:51 PM PT Oct 28"
+  "statusChecked": "3:50 PM PT Oct 28"
 }
