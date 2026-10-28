@@ -779,14 +779,14 @@
       "tag": "injury"
     },
     {
-      "auto": true,
-      "dynastyAdj": 1.0,
-      "name": "Jaylen Wright",
-      "note": "Sleeper now lists him questionable (quadriceps) as of 1:40 PM PT Oct 25.",
-      "redraftAdj": 0.98,
       "sleeperId": "11643",
-      "status": "Questionable",
-      "tag": "injury"
+      "name": "Jaylen Wright",
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 1:53 PM PT Oct 28.",
+      "tag": "injury",
+      "redraftAdj": 1.0,
+      "dynastyAdj": 1.0,
+      "status": null,
+      "auto": true
     },
     {
       "auto": true,
@@ -889,14 +889,14 @@
       "tag": "injury"
     },
     {
-      "auto": true,
-      "dynastyAdj": 1.0,
-      "name": "Kenny Gainwell",
-      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 1:08 AM PT Oct 28.",
-      "redraftAdj": 1.0,
       "sleeperId": "7567",
-      "status": null,
-      "tag": "injury"
+      "name": "Kenny Gainwell",
+      "note": "Sleeper now lists him questionable (hip) as of 1:53 PM PT Oct 28.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
+      "status": "Questionable",
+      "auto": true
     },
     {
       "auto": true,
@@ -947,7 +947,57 @@
       "dynastyAdj": 1.0,
       "status": "Questionable",
       "auto": true
+    },
+    {
+      "sleeperId": "11610",
+      "name": "Malik Washington",
+      "note": "Sleeper now lists him questionable (knee) as of 1:53 PM PT Oct 28.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
+      "status": "Questionable",
+      "auto": true
+    },
+    {
+      "sleeperId": "5859",
+      "name": "A.J. Brown",
+      "note": "Sleeper now lists him questionable (ankle) as of 1:53 PM PT Oct 28.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
+      "status": "Questionable",
+      "auto": true
+    },
+    {
+      "sleeperId": "5947",
+      "name": "Jakobi Meyers",
+      "note": "Sleeper now lists him questionable (hamstring) as of 1:53 PM PT Oct 28.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
+      "status": "Questionable",
+      "auto": true
+    },
+    {
+      "sleeperId": "7564",
+      "name": "Ja'Marr Chase",
+      "note": "Sleeper now lists him questionable (ankle) as of 1:53 PM PT Oct 28.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
+      "status": "Questionable",
+      "auto": true
+    },
+    {
+      "sleeperId": "9221",
+      "name": "Jahmyr Gibbs",
+      "note": "Sleeper now lists him questionable (shoulder) as of 1:53 PM PT Oct 28.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
+      "status": "Questionable",
+      "auto": true
     }
   ],
-  "statusChecked": "10:56 AM PT Oct 28"
+  "statusChecked": "1:53 PM PT Oct 28"
 }

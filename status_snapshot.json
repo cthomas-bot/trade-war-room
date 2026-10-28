@@ -162,9 +162,18 @@
    "t": "LV"
   },
   "11610": {
-   "changed": null,
-   "entry": null,
-   "i": null,
+   "changed": "2026-10-28T20:53:41.192426+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Malik Washington",
+    "note": "Sleeper now lists him questionable (knee) as of 1:53 PM PT Oct 28.",
+    "redraftAdj": 0.98,
+    "sleeperId": "11610",
+    "status": "Questionable",
+    "tag": "injury"
+   },
+   "i": "Questionable",
    "qb1": null,
    "t": "MIA"
   },
@@ -252,18 +261,18 @@
    "t": "SF"
   },
   "11643": {
-   "changed": "2026-10-25T20:40:17.937650+00:00",
+   "changed": "2026-10-28T20:53:41.192426+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 1.0,
     "name": "Jaylen Wright",
-    "note": "Sleeper now lists him questionable (quadriceps) as of 1:40 PM PT Oct 25.",
-    "redraftAdj": 0.98,
+    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 1:53 PM PT Oct 28.",
+    "redraftAdj": 1.0,
     "sleeperId": "11643",
-    "status": "Questionable",
+    "status": null,
     "tag": "injury"
    },
-   "i": "Questionable",
+   "i": null,
    "qb1": null,
    "t": "MIA"
   },
@@ -557,16 +566,6 @@
   },
   "12536": {
    "changed": "2026-10-25T20:40:17.937650+00:00",
-   "entry": {
-    "auto": true,
-    "dynastyAdj": 0.97,
-    "name": "Jaylin Noel",
-    "note": "Sleeper now lists him questionable (toe) as of 1:40 PM PT Oct 25. Earlier: DeMeco Ryans said Tank Dell will make his 2026 debut on Sunday, Oct 25, against the Giants. Along with the Oct 12 trade for Marvin Harrison Jr., that crowds Noel out of targets.",
-    "redraftAdj": 0.9,
-    "sleeperId": "12536",
-    "status": "Questionable",
-    "tag": "injury"
-   },
    "i": "Questionable",
    "qb1": null,
    "t": "HOU"
@@ -1283,8 +1282,18 @@
    "t": "GB"
   },
   "5859": {
-   "changed": "2026-10-21T19:44:25.037870+00:00",
-   "i": null,
+   "changed": "2026-10-28T20:53:41.192426+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "A.J. Brown",
+    "note": "Sleeper now lists him questionable (ankle) as of 1:53 PM PT Oct 28.",
+    "redraftAdj": 0.98,
+    "sleeperId": "5859",
+    "status": "Questionable",
+    "tag": "injury"
+   },
+   "i": "Questionable",
    "qb1": null,
    "t": "NE"
   },
@@ -1324,9 +1333,18 @@
    "t": "WAS"
   },
   "5947": {
-   "changed": null,
-   "entry": null,
-   "i": null,
+   "changed": "2026-10-28T20:53:41.192426+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Jakobi Meyers",
+    "note": "Sleeper now lists him questionable (hamstring) as of 1:53 PM PT Oct 28.",
+    "redraftAdj": 0.98,
+    "sleeperId": "5947",
+    "status": "Questionable",
+    "tag": "injury"
+   },
+   "i": "Questionable",
    "qb1": null,
    "t": "JAX"
   },
@@ -1510,24 +1528,34 @@
    "t": "ATL"
   },
   "7564": {
-   "changed": "2026-10-14T03:27:13.405269+00:00",
-   "i": null,
+   "changed": "2026-10-28T20:53:41.192426+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Ja'Marr Chase",
+    "note": "Sleeper now lists him questionable (ankle) as of 1:53 PM PT Oct 28.",
+    "redraftAdj": 0.98,
+    "sleeperId": "7564",
+    "status": "Questionable",
+    "tag": "injury"
+   },
+   "i": "Questionable",
    "qb1": null,
    "t": "CIN"
   },
   "7567": {
-   "changed": "2026-10-28T08:08:19.335831+00:00",
+   "changed": "2026-10-28T20:53:41.192426+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 1.0,
     "name": "Kenny Gainwell",
-    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 1:08 AM PT Oct 28.",
-    "redraftAdj": 1.0,
+    "note": "Sleeper now lists him questionable (hip) as of 1:53 PM PT Oct 28.",
+    "redraftAdj": 0.98,
     "sleeperId": "7567",
-    "status": null,
+    "status": "Questionable",
     "tag": "injury"
    },
-   "i": null,
+   "i": "Questionable",
    "qb1": null,
    "t": "TB"
   },
@@ -1807,9 +1835,18 @@
    "t": "SEA"
   },
   "9221": {
-   "changed": null,
-   "entry": null,
-   "i": null,
+   "changed": "2026-10-28T20:53:41.192426+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Jahmyr Gibbs",
+    "note": "Sleeper now lists him questionable (shoulder) as of 1:53 PM PT Oct 28.",
+    "redraftAdj": 0.98,
+    "sleeperId": "9221",
+    "status": "Questionable",
+    "tag": "injury"
+   },
+   "i": "Questionable",
    "qb1": null,
    "t": "DET"
   },
