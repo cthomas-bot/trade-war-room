@@ -166,11 +166,12 @@
     {
       "sleeperId": "11576",
       "name": "Braelon Allen",
-      "note": "Allen ran for 104 yards vs. Miami on Oct 25 with Breece Hall (quad) out again. Aaron Glenn says Allen will keep a role after Hall returns.",
-      "tag": "role_up",
-      "redraftAdj": 1.1,
-      "dynastyAdj": 1.02,
-      "status": ""
+      "note": "Sleeper now lists him questionable (ankle) as of 10:00 AM PT Oct 28. Earlier: Allen ran for 104 yards vs. Miami on Oct 25 with Breece Hall (quad) out again. Aaron Glenn says Allen will keep a role after Hall returns.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
+      "status": "Questionable",
+      "auto": true
     },
     {
       "sleeperId": "13287",
@@ -571,11 +572,12 @@
     {
       "sleeperId": "5927",
       "name": "Terry McLaurin",
-      "note": "McLaurin tore his left patellar tendon on Oct 19 and is out for the 2026 season.",
+      "note": "Sleeper now lists him on injured reserve (knee) as of 10:00 AM PT Oct 28. Earlier: McLaurin tore his left patellar tendon on Oct 19 and is out for the 2026 season.",
       "tag": "injury",
       "redraftAdj": 0,
       "dynastyAdj": 0.85,
-      "status": "Out"
+      "status": "IR",
+      "auto": true
     },
     {
       "sleeperId": "11624",
@@ -937,5 +939,5 @@
       "tag": "injury"
     }
   ],
-  "statusChecked": "7:09 AM PT Oct 28"
+  "statusChecked": "10:00 AM PT Oct 28"
 }

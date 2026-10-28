@@ -106,9 +106,18 @@
    "t": "WAS"
   },
   "11576": {
-   "changed": null,
-   "entry": null,
-   "i": null,
+   "changed": "2026-10-28T17:00:31.036638+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Braelon Allen",
+    "note": "Sleeper now lists him questionable (ankle) as of 10:00 AM PT Oct 28. Earlier: Allen ran for 104 yards vs. Miami on Oct 25 with Breece Hall (quad) out again. Aaron Glenn says Allen will keep a role after Hall returns.",
+    "redraftAdj": 0.98,
+    "sleeperId": "11576",
+    "status": "Questionable",
+    "tag": "injury"
+   },
+   "i": "Questionable",
    "qb1": null,
    "t": "NYJ"
   },
@@ -1228,16 +1237,6 @@
   },
   "4892": {
    "changed": "2026-10-25T16:44:01.335296+00:00",
-   "entry": {
-    "auto": true,
-    "dynastyAdj": 1.03,
-    "name": "Baker Mayfield",
-    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 9:44 AM PT Oct 25. Earlier: Mayfield (right thumb) practiced fully all week and is set to start Sunday, Oct. 25, at Carolina after missing three games, per Todd Bowles and NFL.com. He still carries a questionable tag.",
-    "redraftAdj": 1.0,
-    "sleeperId": "4892",
-    "status": null,
-    "tag": "injury"
-   },
    "i": null,
    "qb1": true,
    "t": "TB"
@@ -1350,8 +1349,18 @@
    "t": "HOU"
   },
   "5927": {
-   "changed": "2026-10-20T01:45:39.794952+00:00",
-   "i": "Out",
+   "changed": "2026-10-28T17:00:31.036638+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 0.85,
+    "name": "Terry McLaurin",
+    "note": "Sleeper now lists him on injured reserve (knee) as of 10:00 AM PT Oct 28. Earlier: McLaurin tore his left patellar tendon on Oct 19 and is out for the 2026 season.",
+    "redraftAdj": 0,
+    "sleeperId": "5927",
+    "status": "IR",
+    "tag": "injury"
+   },
+   "i": "IR",
    "qb1": null,
    "t": "WAS"
   },
