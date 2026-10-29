@@ -115,18 +115,18 @@
    "t": "WAS"
   },
   "11576": {
-   "changed": "2026-10-28T17:00:31.036638+00:00",
+   "changed": "2026-10-29T20:54:49.159155+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 1.0,
     "name": "Braelon Allen",
-    "note": "Sleeper now lists him questionable (ankle) as of 10:00 AM PT Oct 28. Earlier: Allen ran for 104 yards vs. Miami on Oct 25 with Breece Hall (quad) out again. Aaron Glenn says Allen will keep a role after Hall returns.",
-    "redraftAdj": 0.98,
+    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 1:54 PM PT Oct 29. Earlier: Allen was limited Wednesday, Oct 28, with a new ankle injury that is not believed to be serious, and Breece Hall (quad) was also limited. Allen ran for 104 yards on Oct 25, but his workload shrinks if Hall returns.",
+    "redraftAdj": 1.0,
     "sleeperId": "11576",
-    "status": "Questionable",
+    "status": null,
     "tag": "injury"
    },
-   "i": "Questionable",
+   "i": null,
    "qb1": null,
    "t": "NYJ"
   },
@@ -348,18 +348,18 @@
    "t": "SF"
   },
   "12469": {
-   "changed": "2026-10-28T22:50:57.915498+00:00",
+   "changed": "2026-10-29T20:54:49.159155+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 1.0,
     "name": "Dylan Sampson",
-    "note": "Sleeper now lists him questionable (knee) as of 3:50 PM PT Oct 28. Earlier: Sampson played 32 snaps to Quinshon Judkins' 37 in Week 7 vs. Tennessee, which suggests he is cutting into Judkins' workload.",
-    "redraftAdj": 0.98,
+    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 1:54 PM PT Oct 29. Earlier: Sampson (knee) was limited at practice Wednesday, Oct 28. He played 47% of the snaps in Week 7 and is a PPR RB3 alongside Quinshon Judkins.",
+    "redraftAdj": 1.0,
     "sleeperId": "12469",
-    "status": "Questionable",
+    "status": null,
     "tag": "injury"
    },
-   "i": "Questionable",
+   "i": null,
    "qb1": null,
    "t": "CLE"
   },
@@ -927,16 +927,6 @@
   },
   "13349": {
    "changed": "2026-10-26T20:47:19.013954+00:00",
-   "entry": {
-    "auto": true,
-    "dynastyAdj": 1.0,
-    "name": "Eli Stowers",
-    "note": "Cleared: no longer on Sleeper's injury report (was on injured reserve) as of 1:47 PM PT Oct 26.",
-    "redraftAdj": 0.98,
-    "sleeperId": "13349",
-    "status": null,
-    "tag": "injury"
-   },
    "i": null,
    "qb1": null,
    "t": "PHI"
@@ -1528,8 +1518,18 @@
    "t": "NO"
   },
   "7547": {
-   "changed": "2026-10-26T19:50:52.067056+00:00",
-   "i": "Questionable",
+   "changed": "2026-10-29T20:54:49.159155+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Amon-Ra St. Brown",
+    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 1:54 PM PT Oct 29. Earlier: He was listed as a non-participant Wednesday (Oct 28) with an ankle injury. One report calls it a shoulder, and it does not appear to be a serious concern so far.",
+    "redraftAdj": 1.0,
+    "sleeperId": "7547",
+    "status": null,
+    "tag": "injury"
+   },
+   "i": null,
    "qb1": null,
    "t": "DET"
   },
@@ -1548,18 +1548,18 @@
    "t": "PHI"
   },
   "7564": {
-   "changed": "2026-10-28T20:53:41.192426+00:00",
+   "changed": "2026-10-29T20:54:49.159155+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 1.0,
     "name": "Ja'Marr Chase",
-    "note": "Sleeper now lists him questionable (ankle) as of 1:53 PM PT Oct 28.",
-    "redraftAdj": 0.98,
+    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 1:54 PM PT Oct 29. Earlier: He did not practice Wednesday (Oct 28), listed as a veteran rest day with an ankle injury. Reports do not believe he is in danger of missing Week 8.",
+    "redraftAdj": 1.0,
     "sleeperId": "7564",
-    "status": "Questionable",
+    "status": null,
     "tag": "injury"
    },
-   "i": "Questionable",
+   "i": null,
    "qb1": null,
    "t": "CIN"
   },
@@ -1874,18 +1874,18 @@
    "t": "SEA"
   },
   "9221": {
-   "changed": "2026-10-28T20:53:41.192426+00:00",
+   "changed": "2026-10-29T20:54:49.159155+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 1.0,
     "name": "Jahmyr Gibbs",
-    "note": "Sleeper now lists him questionable (shoulder) as of 1:53 PM PT Oct 28.",
-    "redraftAdj": 0.98,
+    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 1:54 PM PT Oct 29. Earlier: Gibbs did not practice Wednesday, Oct 28, because of a shoulder injury that had not been disclosed before, and it was not a rest day. Sione Vaki and Jacob Saylors would handle the work if he misses Week 8 vs. Minnesota.",
+    "redraftAdj": 1.0,
     "sleeperId": "9221",
-    "status": "Questionable",
+    "status": null,
     "tag": "injury"
    },
-   "i": "Questionable",
+   "i": null,
    "qb1": null,
    "t": "DET"
   },

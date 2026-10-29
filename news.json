@@ -139,11 +139,12 @@
     {
       "sleeperId": "9221",
       "name": "Jahmyr Gibbs",
-      "note": "Gibbs did not practice Wednesday, Oct 28, because of a shoulder injury that had not been disclosed before, and it was not a rest day. Sione Vaki and Jacob Saylors would handle the work if he misses Week 8 vs. Minnesota.",
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 1:54 PM PT Oct 29. Earlier: Gibbs did not practice Wednesday, Oct 28, because of a shoulder injury that had not been disclosed before, and it was not a rest day. Sione Vaki and Jacob Saylors would handle the work if he misses Week 8 vs. Minnesota.",
       "tag": "injury",
-      "redraftAdj": 0.9,
+      "redraftAdj": 1.0,
       "dynastyAdj": 1.0,
-      "status": "Questionable"
+      "status": null,
+      "auto": true
     },
     {
       "sleeperId": "8155",
@@ -157,11 +158,12 @@
     {
       "sleeperId": "11576",
       "name": "Braelon Allen",
-      "note": "Allen was limited Wednesday, Oct 28, with a new ankle injury that is not believed to be serious, and Breece Hall (quad) was also limited. Allen ran for 104 yards on Oct 25, but his workload shrinks if Hall returns.",
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 1:54 PM PT Oct 29. Earlier: Allen was limited Wednesday, Oct 28, with a new ankle injury that is not believed to be serious, and Breece Hall (quad) was also limited. Allen ran for 104 yards on Oct 25, but his workload shrinks if Hall returns.",
       "tag": "injury",
-      "redraftAdj": 0.92,
+      "redraftAdj": 1.0,
       "dynastyAdj": 1.0,
-      "status": "Questionable"
+      "status": null,
+      "auto": true
     },
     {
       "sleeperId": "13287",
@@ -211,11 +213,12 @@
     {
       "sleeperId": "12469",
       "name": "Dylan Sampson",
-      "note": "Sampson (knee) was limited at practice Wednesday, Oct 28. He played 47% of the snaps in Week 7 and is a PPR RB3 alongside Quinshon Judkins.",
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 1:54 PM PT Oct 29. Earlier: Sampson (knee) was limited at practice Wednesday, Oct 28. He played 47% of the snaps in Week 7 and is a PPR RB3 alongside Quinshon Judkins.",
       "tag": "injury",
-      "redraftAdj": 0.98,
+      "redraftAdj": 1.0,
       "dynastyAdj": 1.0,
-      "status": "Questionable"
+      "status": null,
+      "auto": true
     },
     {
       "sleeperId": "12534",
@@ -418,20 +421,22 @@
     {
       "sleeperId": "7547",
       "name": "Amon-Ra St. Brown",
-      "note": "He was listed as a non-participant Wednesday (Oct 28) with an ankle injury. One report calls it a shoulder, and it does not appear to be a serious concern so far.",
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 1:54 PM PT Oct 29. Earlier: He was listed as a non-participant Wednesday (Oct 28) with an ankle injury. One report calls it a shoulder, and it does not appear to be a serious concern so far.",
       "tag": "injury",
-      "redraftAdj": 0.93,
+      "redraftAdj": 1.0,
       "dynastyAdj": 1.0,
-      "status": "Questionable"
+      "status": null,
+      "auto": true
     },
     {
       "sleeperId": "7564",
       "name": "Ja'Marr Chase",
-      "note": "He did not practice Wednesday (Oct 28), listed as a veteran rest day with an ankle injury. Reports do not believe he is in danger of missing Week 8.",
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 1:54 PM PT Oct 29. Earlier: He did not practice Wednesday (Oct 28), listed as a veteran rest day with an ankle injury. Reports do not believe he is in danger of missing Week 8.",
       "tag": "injury",
-      "redraftAdj": 0.97,
+      "redraftAdj": 1.0,
       "dynastyAdj": 1.0,
-      "status": "Questionable"
+      "status": null,
+      "auto": true
     },
     {
       "sleeperId": "13380",
@@ -1103,5 +1108,5 @@
       "auto": true
     }
   ],
-  "statusChecked": "12:02 PM PT Oct 29"
+  "statusChecked": "1:54 PM PT Oct 29"
 }
