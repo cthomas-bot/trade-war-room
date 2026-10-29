@@ -286,11 +286,12 @@
     {
       "sleeperId": "12489",
       "name": "RJ Harvey",
-      "note": "Harvey played only 16 snaps with 3 carries behind the returning Jonah Coleman on Oct 25, though he scored on a 52-yard screen pass.",
-      "tag": "role_down",
+      "note": "Sleeper now lists him questionable (knee) as of 2:53 PM PT Oct 29. Earlier: Harvey played only 16 snaps with 3 carries behind the returning Jonah Coleman on Oct 25, though he scored on a 52-yard screen pass.",
+      "tag": "injury",
       "redraftAdj": 0.88,
       "dynastyAdj": 0.97,
-      "status": ""
+      "status": "Questionable",
+      "auto": true
     },
     {
       "sleeperId": "13414",
@@ -765,11 +766,12 @@
     {
       "sleeperId": "2449",
       "name": "Stefon Diggs",
-      "note": "Sleeper now lists him questionable (hand) as of 4:46 PM PT Oct 28. Earlier: Diggs (24-214-4 in five games) is Washington's de facto WR1 coming off the Week 7 bye. Terry McLaurin tore his patellar tendon on Oct 19.",
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 2:53 PM PT Oct 29. Earlier: Sleeper now lists him questionable (hand) as of 4:46 PM PT Oct 28. Earlier: Diggs (24-214-4 in five games) is Washington's de facto WR1 coming off the Week 7 bye. Terry McLaurin tore his patellar tendon on Oct 19.",
       "tag": "injury",
-      "redraftAdj": 0.98,
+      "redraftAdj": 1.0,
       "dynastyAdj": 1.0,
-      "status": "Questionable"
+      "status": null,
+      "auto": true
     },
     {
       "sleeperId": "5927",
@@ -873,11 +875,12 @@
     {
       "sleeperId": "11604",
       "name": "Brock Bowers",
-      "note": "Bowers (calf) was limited in Wednesday's practice on Oct 28, the first Week 8 report. The hamstring listed alongside it in Week 7 seems to be behind him.",
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 2:53 PM PT Oct 29. Earlier: Bowers (calf) was limited in Wednesday's practice on Oct 28, the first Week 8 report. The hamstring listed alongside it in Week 7 seems to be behind him.",
       "tag": "injury",
-      "redraftAdj": 0.97,
+      "redraftAdj": 1.0,
       "dynastyAdj": 1.0,
-      "status": "Questionable"
+      "status": null,
+      "auto": true
     },
     {
       "sleeperId": "10236",
@@ -1106,7 +1109,17 @@
       "dynastyAdj": 1.0,
       "status": "Questionable",
       "auto": true
+    },
+    {
+      "sleeperId": "1466",
+      "name": "Travis Kelce",
+      "note": "Sleeper now lists him questionable (ankle) as of 2:53 PM PT Oct 29.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
+      "status": "Questionable",
+      "auto": true
     }
   ],
-  "statusChecked": "1:54 PM PT Oct 29"
+  "statusChecked": "2:53 PM PT Oct 29"
 }

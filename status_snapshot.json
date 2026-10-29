@@ -165,18 +165,18 @@
    "t": "ARI"
   },
   "11604": {
-   "changed": "2026-10-28T21:51:21.491924+00:00",
+   "changed": "2026-10-29T21:53:41.771618+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 1.0,
     "name": "Brock Bowers",
-    "note": "Sleeper now lists him questionable (calf) as of 2:51 PM PT Oct 28.",
-    "redraftAdj": 0.98,
+    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 2:53 PM PT Oct 29. Earlier: Bowers (calf) was limited in Wednesday's practice on Oct 28, the first Week 8 report. The hamstring listed alongside it in Week 7 seems to be behind him.",
+    "redraftAdj": 1.0,
     "sleeperId": "11604",
-    "status": "Questionable",
+    "status": null,
     "tag": "injury"
    },
-   "i": "Questionable",
+   "i": null,
    "qb1": null,
    "t": "LV"
   },
@@ -390,9 +390,18 @@
    "t": "LAR"
   },
   "12489": {
-   "changed": null,
-   "entry": null,
-   "i": null,
+   "changed": "2026-10-29T21:53:41.771618+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 0.97,
+    "name": "RJ Harvey",
+    "note": "Sleeper now lists him questionable (knee) as of 2:53 PM PT Oct 29. Earlier: Harvey played only 16 snaps with 3 carries behind the returning Jonah Coleman on Oct 25, though he scored on a 52-yard screen pass.",
+    "redraftAdj": 0.88,
+    "sleeperId": "12489",
+    "status": "Questionable",
+    "tag": "injury"
+   },
+   "i": "Questionable",
    "qb1": null,
    "t": "DEN"
   },
@@ -970,6 +979,11 @@
    "qb1": null,
    "t": "SF"
   },
+  "13421": {
+   "i": null,
+   "qb1": null,
+   "t": "NE"
+  },
   "13424": {
    "changed": null,
    "entry": null,
@@ -1014,8 +1028,18 @@
    "t": "NYJ"
   },
   "1466": {
-   "changed": "2026-10-23T19:43:26.095658+00:00",
-   "i": null,
+   "changed": "2026-10-29T21:53:41.771618+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Travis Kelce",
+    "note": "Sleeper now lists him questionable (ankle) as of 2:53 PM PT Oct 29.",
+    "redraftAdj": 0.98,
+    "sleeperId": "1466",
+    "status": "Questionable",
+    "tag": "injury"
+   },
+   "i": "Questionable",
    "qb1": null,
    "t": "KC"
   },
@@ -1044,18 +1068,18 @@
    "t": "NYG"
   },
   "2449": {
-   "changed": "2026-10-28T23:46:27.677078+00:00",
+   "changed": "2026-10-29T21:53:41.771618+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 1.0,
     "name": "Stefon Diggs",
-    "note": "Sleeper now lists him questionable (hand) as of 4:46 PM PT Oct 28. Earlier: Diggs (24-214-4 in five games) is Washington's de facto WR1 coming off the Week 7 bye. Terry McLaurin tore his patellar tendon on Oct 19.",
-    "redraftAdj": 0.98,
+    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 2:53 PM PT Oct 29. Earlier: Sleeper now lists him questionable (hand) as of 4:46 PM PT Oct 28. Earlier: Diggs (24-214-4 in five games) is Washington's de facto WR1 coming off the Week 7 bye. Terry McLaurin tore his patellar tendon on Oct 19.",
+    "redraftAdj": 1.0,
     "sleeperId": "2449",
-    "status": "Questionable",
+    "status": null,
     "tag": "injury"
    },
-   "i": "Questionable",
+   "i": null,
    "qb1": null,
    "t": "WAS"
   },
@@ -1176,13 +1200,6 @@
    "i": null,
    "qb1": null,
    "t": "SF"
-  },
-  "4454": {
-   "changed": null,
-   "entry": null,
-   "i": null,
-   "qb1": null,
-   "t": "ARI"
   },
   "4866": {
    "changed": "2026-10-27T03:47:04.643631+00:00",
@@ -1562,22 +1579,6 @@
    "i": null,
    "qb1": null,
    "t": "CIN"
-  },
-  "7567": {
-   "changed": "2026-10-28T20:53:41.192426+00:00",
-   "entry": {
-    "auto": true,
-    "dynastyAdj": 1.0,
-    "name": "Kenny Gainwell",
-    "note": "Sleeper now lists him questionable (hip) as of 1:53 PM PT Oct 28.",
-    "redraftAdj": 0.98,
-    "sleeperId": "7567",
-    "status": "Questionable",
-    "tag": "injury"
-   },
-   "i": "Questionable",
-   "qb1": null,
-   "t": "TB"
   },
   "7569": {
    "changed": null,
