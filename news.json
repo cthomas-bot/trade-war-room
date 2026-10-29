@@ -76,11 +76,12 @@
     {
       "sleeperId": "13272",
       "name": "Carson Beck",
-      "note": "Beck (back) was limited at practice on Oct. 28 after missing time with back spasms, but coach Mike LaFleur says Jacoby Brissett is still the starter for Week 8 at Dallas. Beck has not been active on a game day this season.",
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 4:48 PM PT Oct 29. Earlier: Beck (back) was limited at practice on Oct. 28 after missing time with back spasms, but coach Mike LaFleur says Jacoby Brissett is still the starter for Week 8 at Dallas. Beck has not been active on a game day this season.",
       "tag": "injury",
-      "redraftAdj": 0.9,
+      "redraftAdj": 1.0,
       "dynastyAdj": 0.99,
-      "status": "Questionable"
+      "status": null,
+      "auto": true
     },
     {
       "sleeperId": "3257",
@@ -803,11 +804,12 @@
     {
       "sleeperId": "12501",
       "name": "Matthew Golden",
-      "note": "Golden (shoulder/foot) was upgraded to limited on the Packers' Oct 28 report after two DNPs and is officially questionable for tonight's TNF game vs. Carolina.",
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 4:48 PM PT Oct 29. Earlier: Golden (shoulder/foot) was upgraded to limited on the Packers' Oct 28 report after two DNPs and is officially questionable for tonight's TNF game vs. Carolina.",
       "tag": "injury",
-      "redraftAdj": 0.9,
+      "redraftAdj": 1.0,
       "dynastyAdj": 0.99,
-      "status": "Questionable"
+      "status": null,
+      "auto": true
     },
     {
       "sleeperId": "10229",
@@ -1121,5 +1123,5 @@
       "auto": true
     }
   ],
-  "statusChecked": "2:53 PM PT Oct 29"
+  "statusChecked": "4:48 PM PT Oct 29"
 }

@@ -433,8 +433,18 @@
    "t": "JAX"
   },
   "12501": {
-   "changed": "2026-10-26T22:46:24.244261+00:00",
-   "i": "Questionable",
+   "changed": "2026-10-29T23:48:15.777594+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 0.99,
+    "name": "Matthew Golden",
+    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 4:48 PM PT Oct 29. Earlier: Golden (shoulder/foot) was upgraded to limited on the Packers' Oct 28 report after two DNPs and is officially questionable for tonight's TNF game vs. Carolina.",
+    "redraftAdj": 1.0,
+    "sleeperId": "12501",
+    "status": null,
+    "tag": "injury"
+   },
+   "i": null,
    "qb1": null,
    "t": "GB"
   },
@@ -630,18 +640,18 @@
    "t": "LV"
   },
   "13272": {
-   "changed": "2026-10-28T08:08:19.335831+00:00",
+   "changed": "2026-10-29T23:48:15.777594+00:00",
    "entry": {
     "auto": true,
-    "dynastyAdj": 1.0,
+    "dynastyAdj": 0.99,
     "name": "Carson Beck",
-    "note": "Sleeper now lists him questionable (back) as of 1:08 AM PT Oct 28. Earlier: Beck (back) was inactive again on Oct. 25, and Jacoby Brissett went 27-of-48 for 272 yards and a TD in a 30-16 loss to Denver. His return timeline is unclear.",
-    "redraftAdj": 0.98,
+    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 4:48 PM PT Oct 29. Earlier: Beck (back) was limited at practice on Oct. 28 after missing time with back spasms, but coach Mike LaFleur says Jacoby Brissett is still the starter for Week 8 at Dallas. Beck has not been active on a game day this season.",
+    "redraftAdj": 1.0,
     "sleeperId": "13272",
-    "status": "Questionable",
+    "status": null,
     "tag": "injury"
    },
-   "i": "Questionable",
+   "i": null,
    "qb1": false,
    "t": "ARI"
   },
@@ -982,12 +992,6 @@
    "i": null,
    "qb1": null,
    "t": "IND"
-  },
-  "13425": {
-   "changed": "2026-10-23T19:43:26.095658+00:00",
-   "i": null,
-   "qb1": false,
-   "t": "TB"
   },
   "13533": {
    "changed": null,
@@ -2030,6 +2034,11 @@
    "i": "Questionable",
    "qb1": null,
    "t": "SEA"
+  },
+  "9754": {
+   "i": null,
+   "qb1": null,
+   "t": "LAC"
   },
   "9756": {
    "changed": "2026-10-21T21:46:27.707308+00:00",
