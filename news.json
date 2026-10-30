@@ -765,11 +765,12 @@
     {
       "sleeperId": "1466",
       "name": "Travis Kelce",
-      "note": "Kelce (ankle, hurt in Week 6) went from a full practice on Wednesday to limited on Thursday, Oct 29, and the Chiefs list him as questionable for Sunday's game at Denver. The final designation is due Friday, Oct 30.",
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 12:54 PM PT Oct 30. Earlier: Kelce (ankle, hurt in Week 6) went from a full practice on Wednesday to limited on Thursday, Oct 29, and the Chiefs list him as questionable for Sunday's game at Denver. The final designation is due Friday, Oct 30.",
       "tag": "injury",
-      "redraftAdj": 0.95,
+      "redraftAdj": 1.0,
       "dynastyAdj": 1.0,
-      "status": "Questionable"
+      "status": null,
+      "auto": true
     },
     {
       "sleeperId": "12518",
@@ -802,11 +803,12 @@
     {
       "sleeperId": "12517",
       "name": "Colston Loveland",
-      "note": "With Cole Kmet out for the season, Loveland drew 12 targets and went 7-69-1 in Week 7. Chicago plays at Seattle on Monday night, Nov 2.",
-      "tag": "role_up",
-      "redraftAdj": 1.15,
-      "dynastyAdj": 1.08,
-      "status": ""
+      "note": "Sleeper now lists him questionable (neck) as of 12:54 PM PT Oct 30. Earlier: With Cole Kmet out for the season, Loveland drew 12 targets and went 7-69-1 in Week 7. Chicago plays at Seattle on Monday night, Nov 2.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
+      "status": "Questionable",
+      "auto": true
     },
     {
       "sleeperId": "8210",
@@ -1025,5 +1027,5 @@
       "tag": "injury"
     }
   ],
-  "statusChecked": "11:56 AM PT Oct 30"
+  "statusChecked": "12:54 PM PT Oct 30"
 }
