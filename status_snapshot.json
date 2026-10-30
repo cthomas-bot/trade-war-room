@@ -181,18 +181,18 @@
    "t": "LV"
   },
   "11610": {
-   "changed": "2026-10-28T20:53:41.192426+00:00",
+   "changed": "2026-10-30T20:52:43.885967+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 1.0,
     "name": "Malik Washington",
-    "note": "Sleeper now lists him questionable (knee) as of 1:53 PM PT Oct 28.",
-    "redraftAdj": 0.98,
+    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 1:52 PM PT Oct 30. Earlier: Washington (knee) was limited again on Oct 29 after a limited session Oct 28. He's expected to be cleared off the injury report Friday, barring a setback.",
+    "redraftAdj": 1.0,
     "sleeperId": "11610",
-    "status": "Questionable",
+    "status": null,
     "tag": "injury"
    },
-   "i": "Questionable",
+   "i": null,
    "qb1": null,
    "t": "MIA"
   },
@@ -250,18 +250,18 @@
    "t": "NYG"
   },
   "11635": {
-   "changed": "2026-10-28T08:08:19.335831+00:00",
+   "changed": "2026-10-30T20:52:43.885967+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 1.0,
     "name": "Ladd McConkey",
-    "note": "Sleeper now lists him questionable (concussion) as of 1:08 AM PT Oct 28. Earlier: McConkey (concussion) practiced in a non-contact jersey at the Chargers' bonus practice on Oct 26. He still has to clear the protocol before Week 8 vs. the Rams, but he is trending toward a return.",
-    "redraftAdj": 0.98,
+    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 1:52 PM PT Oct 30. Earlier: McConkey (concussion) was a full practice participant on Oct 28 and Oct 29 and is reportedly on track to play in Week 8 vs. the Rams, pending final clearance.",
+    "redraftAdj": 1.0,
     "sleeperId": "11635",
-    "status": "Questionable",
+    "status": null,
     "tag": "injury"
    },
-   "i": "Questionable",
+   "i": null,
    "qb1": null,
    "t": "LAC"
   },
@@ -470,18 +470,18 @@
    "t": "NYG"
   },
   "12509": {
-   "changed": "2026-10-28T08:08:19.335831+00:00",
+   "changed": "2026-10-30T20:52:43.885967+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 1.0,
     "name": "Tre' Harris",
-    "note": "Sleeper now lists him questionable (hamstring) as of 1:08 AM PT Oct 28. Earlier: Harris (hamstring) worked only on the side field at the Chargers' Oct 26 bonus practice. That makes a Week 8 return vs. the Rams uncertain.",
-    "redraftAdj": 0.98,
+    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 1:52 PM PT Oct 30. Earlier: Harris (hamstring) was limited again in Thursday's Oct 29 practice ahead of Week 8 vs. the Rams. He hasn't played since Week 5, and his Sunday status is unclear.",
+    "redraftAdj": 1.0,
     "sleeperId": "12509",
-    "status": "Questionable",
+    "status": null,
     "tag": "injury"
    },
-   "i": "Questionable",
+   "i": null,
    "qb1": null,
    "t": "LAC"
   },
@@ -710,18 +710,18 @@
    "t": "LAR"
   },
   "13279": {
-   "changed": "2026-10-28T17:56:25.036893+00:00",
+   "changed": "2026-10-30T20:52:43.885967+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 1.0,
     "name": "Carnell Tate",
-    "note": "Sleeper now lists him questionable (shoulder) as of 10:56 AM PT Oct 28.",
-    "redraftAdj": 0.98,
+    "note": "Sleeper now lists him out (shoulder) as of 1:52 PM PT Oct 30. Earlier: Tate sat out Wednesday's practice (Oct 28) with a shoulder injury from the Week 7 loss to Cleveland, where he had 5-69 on 7 targets. Coach Robert Saleh did not call it a major concern, and his status for Sunday at Cincinnati depends on how he practices later in the week.",
+    "redraftAdj": 0.88,
     "sleeperId": "13279",
-    "status": "Questionable",
+    "status": "Out",
     "tag": "injury"
    },
-   "i": "Questionable",
+   "i": "Out",
    "qb1": null,
    "t": "TEN"
   },
@@ -950,8 +950,18 @@
    "t": "PHI"
   },
   "13380": {
-   "changed": "2026-10-22T15:46:37.250025+00:00",
-   "i": "Questionable",
+   "changed": "2026-10-30T20:52:43.885967+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 0.99,
+    "name": "Brenen Thompson",
+    "note": "Sleeper now lists him out (quadriceps) as of 1:52 PM PT Oct 30. Earlier: Thompson was a DNP on the Chargers' first Week 8 injury report (Oct 28) with a quad/hamstring issue. He already missed Weeks 3-5 with a quad injury, so his availability is in question.",
+    "redraftAdj": 0.82,
+    "sleeperId": "13380",
+    "status": "Out",
+    "tag": "injury"
+   },
+   "i": "Out",
    "qb1": null,
    "t": "LAC"
   },
@@ -1210,8 +1220,18 @@
    "t": "SF"
   },
   "4866": {
-   "changed": "2026-10-27T03:47:04.643631+00:00",
-   "i": "Questionable",
+   "changed": "2026-10-30T20:52:43.885967+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 0.98,
+    "name": "Saquon Barkley",
+    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 1:52 PM PT Oct 30. Earlier: Barkley (hamstring/back) did not practice Wednesday or Thursday, Oct 28-29, and reports say he is trending toward missing Week 8 Sunday night at Washington. Friday's practice is the last chance to show progress.",
+    "redraftAdj": 1.0,
+    "sleeperId": "4866",
+    "status": null,
+    "tag": "injury"
+   },
+   "i": null,
    "qb1": null,
    "t": "PHI"
   },
@@ -1498,18 +1518,18 @@
    "t": "JAX"
   },
   "7525": {
-   "changed": "2026-10-28T08:08:19.335831+00:00",
+   "changed": "2026-10-30T20:52:43.885967+00:00",
    "entry": {
     "auto": true,
-    "dynastyAdj": 1.0,
+    "dynastyAdj": 0.97,
     "name": "DeVonta Smith",
-    "note": "Sleeper now lists him questionable (hamstring) as of 1:08 AM PT Oct 28. Earlier: He missed Monday's Oct 26 38-21 loss to Dallas with a hamstring problem that dates back to training camp. Nick Sirianni had said he would not rule out shutting Smith down for a longer stretch, and Philadelphia is now 2-5.",
-    "redraftAdj": 0.98,
+    "note": "Sleeper now lists him out (hamstring) as of 1:52 PM PT Oct 30. Earlier: Smith missed Week 7 with a hamstring injury that dates to camp. As of Oct 27 Philadelphia had given no timeline and would not rule out IR, and one outlet projects him out until after the Week 10 bye.",
+    "redraftAdj": 0.7,
     "sleeperId": "7525",
-    "status": "Questionable",
+    "status": "Out",
     "tag": "injury"
    },
-   "i": "Questionable",
+   "i": "Out",
    "qb1": null,
    "t": "PHI"
   },
@@ -1948,18 +1968,18 @@
    "t": "GB"
   },
   "9486": {
-   "changed": "2026-10-28T08:08:19.335831+00:00",
+   "changed": "2026-10-30T20:52:43.885967+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 1.0,
     "name": "Dontayvion Wicks",
-    "note": "Sleeper now lists him questionable (ankle) as of 1:08 AM PT Oct 28.",
-    "redraftAdj": 0.98,
+    "note": "Sleeper now lists him out (ankle) as of 1:52 PM PT Oct 30.",
+    "redraftAdj": 0.9,
     "sleeperId": "9486",
-    "status": "Questionable",
+    "status": "Out",
     "tag": "injury"
    },
-   "i": "Questionable",
+   "i": "Out",
    "qb1": null,
    "t": "PHI"
   },
@@ -2002,18 +2022,18 @@
    "t": "HOU"
   },
   "9508": {
-   "changed": "2026-10-28T08:08:19.335831+00:00",
+   "changed": "2026-10-30T20:52:43.885967+00:00",
    "entry": {
     "auto": true,
-    "dynastyAdj": 1.0,
+    "dynastyAdj": 0.98,
     "name": "Tyjae Spears",
-    "note": "Sleeper now lists him questionable (knee) as of 1:08 AM PT Oct 28.",
-    "redraftAdj": 0.98,
+    "note": "Sleeper now lists him out (knee) as of 1:52 PM PT Oct 30. Earlier: Spears (knee) did not practice Wednesday, Oct 28, after being inactive in Week 7. Tony Pollard remains Tennessee's lead back.",
+    "redraftAdj": 0.85,
     "sleeperId": "9508",
-    "status": "Questionable",
+    "status": "Out",
     "tag": "injury"
    },
-   "i": "Questionable",
+   "i": "Out",
    "qb1": null,
    "t": "TEN"
   },

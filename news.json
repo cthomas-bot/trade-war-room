@@ -113,11 +113,12 @@
     {
       "sleeperId": "4866",
       "name": "Saquon Barkley",
-      "note": "Barkley (hamstring/back) did not practice Wednesday or Thursday, Oct 28-29, and reports say he is trending toward missing Week 8 Sunday night at Washington. Friday's practice is the last chance to show progress.",
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 1:52 PM PT Oct 30. Earlier: Barkley (hamstring/back) did not practice Wednesday or Thursday, Oct 28-29, and reports say he is trending toward missing Week 8 Sunday night at Washington. Friday's practice is the last chance to show progress.",
       "tag": "injury",
-      "redraftAdj": 0.72,
+      "redraftAdj": 1.0,
       "dynastyAdj": 0.98,
-      "status": "Questionable"
+      "status": null,
+      "auto": true
     },
     {
       "sleeperId": "7561",
@@ -349,11 +350,12 @@
     {
       "sleeperId": "9508",
       "name": "Tyjae Spears",
-      "note": "Spears (knee) did not practice Wednesday, Oct 28, after being inactive in Week 7. Tony Pollard remains Tennessee's lead back.",
+      "note": "Sleeper now lists him out (knee) as of 1:52 PM PT Oct 30. Earlier: Spears (knee) did not practice Wednesday, Oct 28, after being inactive in Week 7. Tony Pollard remains Tennessee's lead back.",
       "tag": "injury",
       "redraftAdj": 0.85,
       "dynastyAdj": 0.98,
-      "status": "Questionable"
+      "status": "Out",
+      "auto": true
     },
     {
       "sleeperId": "13302",
@@ -385,20 +387,22 @@
     {
       "sleeperId": "13279",
       "name": "Carnell Tate",
-      "note": "Tate sat out Wednesday's practice (Oct 28) with a shoulder injury from the Week 7 loss to Cleveland, where he had 5-69 on 7 targets. Coach Robert Saleh did not call it a major concern, and his status for Sunday at Cincinnati depends on how he practices later in the week.",
+      "note": "Sleeper now lists him out (shoulder) as of 1:52 PM PT Oct 30. Earlier: Tate sat out Wednesday's practice (Oct 28) with a shoulder injury from the Week 7 loss to Cleveland, where he had 5-69 on 7 targets. Coach Robert Saleh did not call it a major concern, and his status for Sunday at Cincinnati depends on how he practices later in the week.",
       "tag": "injury",
       "redraftAdj": 0.88,
       "dynastyAdj": 1.0,
-      "status": "Questionable"
+      "status": "Out",
+      "auto": true
     },
     {
       "sleeperId": "13380",
       "name": "Brenen Thompson",
-      "note": "Thompson was a DNP on the Chargers' first Week 8 injury report (Oct 28) with a quad/hamstring issue. He already missed Weeks 3-5 with a quad injury, so his availability is in question.",
+      "note": "Sleeper now lists him out (quadriceps) as of 1:52 PM PT Oct 30. Earlier: Thompson was a DNP on the Chargers' first Week 8 injury report (Oct 28) with a quad/hamstring issue. He already missed Weeks 3-5 with a quad injury, so his availability is in question.",
       "tag": "injury",
       "redraftAdj": 0.82,
       "dynastyAdj": 0.99,
-      "status": "Questionable"
+      "status": "Out",
+      "auto": true
     },
     {
       "sleeperId": "12514",
@@ -422,11 +426,12 @@
     {
       "sleeperId": "7525",
       "name": "DeVonta Smith",
-      "note": "Smith missed Week 7 with a hamstring injury that dates to camp. As of Oct 27 Philadelphia had given no timeline and would not rule out IR, and one outlet projects him out until after the Week 10 bye.",
+      "note": "Sleeper now lists him out (hamstring) as of 1:52 PM PT Oct 30. Earlier: Smith missed Week 7 with a hamstring injury that dates to camp. As of Oct 27 Philadelphia had given no timeline and would not rule out IR, and one outlet projects him out until after the Week 10 bye.",
       "tag": "injury",
       "redraftAdj": 0.7,
       "dynastyAdj": 0.97,
-      "status": "Questionable"
+      "status": "Out",
+      "auto": true
     },
     {
       "sleeperId": "5872",
@@ -612,20 +617,22 @@
     {
       "sleeperId": "11635",
       "name": "Ladd McConkey",
-      "note": "McConkey (concussion) was a full practice participant on Oct 28 and Oct 29 and is reportedly on track to play in Week 8 vs. the Rams, pending final clearance.",
-      "tag": "return",
-      "redraftAdj": 1.02,
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 1:52 PM PT Oct 30. Earlier: McConkey (concussion) was a full practice participant on Oct 28 and Oct 29 and is reportedly on track to play in Week 8 vs. the Rams, pending final clearance.",
+      "tag": "injury",
+      "redraftAdj": 1.0,
       "dynastyAdj": 1.0,
-      "status": "Questionable"
+      "status": null,
+      "auto": true
     },
     {
       "sleeperId": "12509",
       "name": "Tre' Harris",
-      "note": "Harris (hamstring) was limited again in Thursday's Oct 29 practice ahead of Week 8 vs. the Rams. He hasn't played since Week 5, and his Sunday status is unclear.",
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 1:52 PM PT Oct 30. Earlier: Harris (hamstring) was limited again in Thursday's Oct 29 practice ahead of Week 8 vs. the Rams. He hasn't played since Week 5, and his Sunday status is unclear.",
       "tag": "injury",
-      "redraftAdj": 0.95,
+      "redraftAdj": 1.0,
       "dynastyAdj": 1.0,
-      "status": "Questionable"
+      "status": null,
+      "auto": true
     },
     {
       "sleeperId": "8676",
@@ -648,11 +655,12 @@
     {
       "sleeperId": "11610",
       "name": "Malik Washington",
-      "note": "Washington (knee) was limited again on Oct 29 after a limited session Oct 28. He's expected to be cleared off the injury report Friday, barring a setback.",
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 1:52 PM PT Oct 30. Earlier: Washington (knee) was limited again on Oct 29 after a limited session Oct 28. He's expected to be cleared off the injury report Friday, barring a setback.",
       "tag": "injury",
-      "redraftAdj": 0.98,
+      "redraftAdj": 1.0,
       "dynastyAdj": 1.0,
-      "status": "Questionable"
+      "status": null,
+      "auto": true
     },
     {
       "sleeperId": "9500",
@@ -1017,15 +1025,15 @@
       "tag": "injury"
     },
     {
-      "auto": true,
-      "dynastyAdj": 1.0,
-      "name": "Dontayvion Wicks",
-      "note": "Sleeper now lists him questionable (ankle) as of 1:08 AM PT Oct 28.",
-      "redraftAdj": 0.98,
       "sleeperId": "9486",
-      "status": "Questionable",
-      "tag": "injury"
+      "name": "Dontayvion Wicks",
+      "note": "Sleeper now lists him out (ankle) as of 1:52 PM PT Oct 30.",
+      "tag": "injury",
+      "redraftAdj": 0.9,
+      "dynastyAdj": 1.0,
+      "status": "Out",
+      "auto": true
     }
   ],
-  "statusChecked": "12:54 PM PT Oct 30"
+  "statusChecked": "1:52 PM PT Oct 30"
 }
