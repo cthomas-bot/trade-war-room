@@ -131,11 +131,12 @@
     {
       "sleeperId": "4199",
       "name": "Aaron Jones Sr.",
-      "note": "Jones (knee) was limited at practice Thursday, Oct 29, after sitting out Wednesday, which is a step toward playing in Week 8 at Detroit. Jordan Mason would take more carries if Jones is held back.",
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 11:56 AM PT Oct 30. Earlier: Jones (knee) was limited at practice Thursday, Oct 29, after sitting out Wednesday, which is a step toward playing in Week 8 at Detroit. Jordan Mason would take more carries if Jones is held back.",
       "tag": "injury",
-      "redraftAdj": 0.88,
+      "redraftAdj": 1.0,
       "dynastyAdj": 0.99,
-      "status": "Questionable"
+      "status": null,
+      "auto": true
     },
     {
       "sleeperId": "8408",
@@ -592,11 +593,12 @@
     {
       "sleeperId": "10229",
       "name": "Rashee Rice",
-      "note": "Rice (hamstring/knee) was limited again on Oct 29, his second straight limited practice, and is trending toward a Week 8 return vs. Denver. He likely needs a full practice Friday to shed the injury designation, and he hasn't played since Week 4.",
-      "tag": "return",
-      "redraftAdj": 1.06,
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 11:56 AM PT Oct 30. Earlier: Rice (hamstring/knee) was limited again on Oct 29, his second straight limited practice, and is trending toward a Week 8 return vs. Denver. He likely needs a full practice Friday to shed the injury designation, and he hasn't played since Week 4.",
+      "tag": "injury",
+      "redraftAdj": 1.0,
       "dynastyAdj": 1.0,
-      "status": "Questionable"
+      "status": null,
+      "auto": true
     },
     {
       "sleeperId": "11624",
@@ -1023,5 +1025,5 @@
       "tag": "injury"
     }
   ],
-  "statusChecked": "10:52 AM PT Oct 30"
+  "statusChecked": "11:56 AM PT Oct 30"
 }
