@@ -1,84 +1,175 @@
 {
- "date": "Thu Oct 29",
- "scanned": "Oct 29, 2:58 PM PT · recheck",
+ "date": "Fri Oct 30",
+ "scanned": "Oct 30, 8:52 AM PT",
  "slate": [
   {
-   "sport": "NFL",
-   "game": "Panthers @ Packers · TNF",
-   "time": "Thu 5:15 PM PT",
-   "pick": "NO on “Over 46.5” (= Under 46.5)",
-   "price": "48¢",
-   "call": "LEAN",
-   "why": "Sharp money and Circa 47 lean Under; Kalshi 46.5 is about fair.",
-   "recheck": "2:53 PM snapshot has no TNF total quote; check live: play ≤50¢, PASS above. Inactives ~3:45 PM PT (Golden).",
-   "market": "📈 Total 46.5 open → 48.5 (rec money) → 47.5; Circa/BookMaker 47. Circa 67% of money on Under vs 40% DK tickets. No Pinnacle line found.",
-   "trend": "📊 Under 6-0 in CAR's last 6 road games (Covers); Under 5-2 in GB games 2026 (SBD). TNF dogs 5-2 ATS (small sample).",
-   "matchup": "🔍 GB without C Rhyan, G Glover, LB Franklin; Golden questionable but trending to play. CAR out Phillips, G Lewis. Calm, ~52°F."
-  },
-  {
    "sport": "CFB",
-   "game": "Troy @ James Madison",
+   "game": "Baylor @ UCF",
    "time": "4:30 PM PT",
-   "pick": "NO on “Over 50.5 points scored” (= Under 50.5)",
+   "pick": "UCF ML",
    "price": "48¢",
    "call": "LEAN",
-   "why": "Books 49.5 (Under −115); Kalshi gives 50.5 at 48¢ — extra point, cheaper than this morning.",
-   "recheck": "3:30 PM PT: upgrade if NO ≤50¢ and total stays ≤49.5; check Harrisonburg rain/wind",
-   "market": "📈 Total 52.5 → 49.5 with 59% of bets and 59% of money on the Over (reverse move); Circa 49. Under 50.5 is about 55% fair, so ~1-pt edge after fees. No Pinnacle found.",
-   "trend": "📊 Troy has gone over in 1 of 7 games this season (FanDuel). Small sample, tiebreaker only.",
-   "matchup": "🔍 Troy scores 22.9 PPG (105th) vs a JMU defense allowing 18.3 (25th); projections 31-10 and 30-17 both stay under."
+   "why": "Books make UCF a short favorite (~52%); Kalshi has Baylor favored.",
+   "recheck": "Recheck ~4:00 PM PT; LEAN only at ≤48¢, PASS if books flip to Baylor.",
+   "market": "📈 No sharp-line data found. FanDuel UCF −1.5, ML −120/+100 (no-vig UCF ~52%); Kalshi UCF 48¢ → ~2.5 pts after fee.",
+   "trend": "📊 numberFire: Baylor 3-0 ATS as a 1.5+ point dog this season (tiny sample, cuts against pick).",
+   "matchup": "🔍 UCF at home off a win over No. 2 BYU; Baylor in turmoil after firing its head coach, DJ Lagway at QB."
   },
   {
    "sport": "NBA",
-   "game": "Cavaliers @ Hawks",
-   "time": "4:00 PM PT",
-   "pick": "Hawks ML",
+   "game": "Bulls @ Celtics · NBA Cup",
+   "time": "4:30 PM PT",
+   "pick": "NO on “Over 234.5” (= Under 234.5)",
+   "price": "49¢",
+   "call": "LEAN",
+   "why": "Handle on the Under against 66% Over tickets; total ticked down a point.",
+   "recheck": "Recheck ~3:30 PM PT; upgrade only if total drops to 233.5 or lower while Kalshi still shows 234.5 near 49¢.",
+   "market": "📈 Total 235.5 → 234.5; DK: 66% of bets Over but 64% of handle Under. Spread BOS −15.5 → −14.5. No Pinnacle data found; Kalshi ≈ fair.",
+   "trend": "📊 No reliable sourced totals trend found for this matchup.",
+   "matchup": "🔍 CHI 1-4 with league-worst D but thin: Claxton out, P. Williams/Awaka listed out or questionable; BOS 3-0 home, may cruise late in blowout."
+  },
+  {
+   "sport": "NBA",
+   "game": "Pistons @ Nets · NBA Cup",
+   "time": "4:30 PM PT",
+   "pick": "NO on “Detroit wins by over 8.5” (= BKN +8.5)",
    "price": "52¢",
    "call": "LEAN",
-   "why": "Line flipped to Atlanta against Cleveland-heavy tickets; Kalshi price is about fair.",
-   "recheck": "Tip time listed as 7 or 8 PM ET; confirm. Drop to PASS if ATL −1.5 flips back to CLE by 3 PM PT.",
-   "market": "📈 No sharp-line data found. Opened CLE −1.5, now ATL −1.5 while 72% of tickets are on CLE (BettingNews) = reverse move. Books −108/−110 both sides ≈ Kalshi 50/51.",
-   "trend": "📊 Both teams on a back-to-back (WagerTalk). Hawks allowed 120+ in 4 of 5 games (small sample, against the pick).",
-   "matchup": "🔍 Mitchell 26.7 ppg vs a leaky ATL defense; Hawks without Veesaar (ACL) and Gueye (foot). Jalen Johnson drives ATL. Mixed read, so small stake only."
+   "why": "Reverse move off DET −8.5; Kalshi still sells the opening +8.5.",
+   "recheck": "Recheck ~3:30 PM PT for Duren status; YES only if NO ≤49¢ with line still DET −7.5.",
+   "market": "📈 DET −8.5 open (Docsports) → −7.5 with ~69% of spread tickets on DET (TheSpread) = RLM. Kalshi +8.5 at 52¢ ≈ 53–54% fair; edge ~0 after fee.",
+   "trend": "📊 Cuts against: Pistons covered last 5 meetings in Brooklyn (Covers) — tiny sample, tiebreaker only.",
+   "matchup": "🔍 Scores24 lists Duren (hamstring) out — unconfirmed by official report; without him DET's interior edge shrinks and Cade carries more load."
+  },
+  {
+   "sport": "NBA",
+   "game": "Knicks @ 76ers · NBA Cup",
+   "time": "4:30 PM PT",
+   "pick": "Knicks ML",
+   "price": "54¢",
+   "call": "LEAN",
+   "why": "Big money on New York; Brown questionable could push price higher.",
+   "recheck": "Recheck ~3:30 PM PT: if Jaylen Brown ruled out and Knicks ML still ≤55¢, still fine; if Brown plays and NYK ≥56¢, pass.",
+   "market": "📈 ML opened NYK +105/PHI −125 → NYK −125/+105 (≈53% no-vig). DK: 89% of spread handle on NYK from 47% of bets. Kalshi 54¢ ≈ fair. No Pinnacle data.",
+   "trend": "📊 No reliable sourced trend found.",
+   "matchup": "🔍 PHI: Jaylen Brown questionable (left knee), Embiid and LeBron off report; Barlow, Walker, Fall out. One preview has PHI on front end of a back-to-back."
+  },
+  {
+   "sport": "NBA",
+   "game": "Magic @ Raptors · NBA Cup",
+   "time": "4:30 PM PT",
+   "pick": "NO on “Toronto wins by over 5.5” (= ORL +5.5)",
+   "price": "48¢",
+   "call": "LEAN",
+   "why": "92% of spread handle on Orlando; Kawhi out trims Toronto's edge.",
+   "recheck": "Recheck ~3:30 PM PT; YES only if books move to ORL +4.5 while Kalshi NO stays ≤48¢.",
+   "market": "📈 TOR −5.5 (−115)/ORL +5.5 (−105); DK: ORL 56% of bets but 92% of handle. ML −212/+177 → TOR 65% no-vig vs Kalshi 67¢. Opener not found.",
+   "trend": "📊 Toronto beat Orlando by 30 on Wednesday (TOR −4.5 then) — revenge spot, no sourced ATS record.",
+   "matchup": "🔍 ORL without Banchero (high-ankle), Suggs, Isaac; TOR without Kawhi Leonard (knee). Wagner carries Orlando vs Toronto's turnover-forcing defense."
+  },
+  {
+   "sport": "NBA",
+   "game": "Rockets @ Mavericks · NBA Cup",
+   "time": "5:00 PM PT",
+   "pick": "NO on “Houston wins by over 5.5” (= DAL +5.5)",
+   "price": "46¢",
+   "call": "LEAN",
+   "why": "Kalshi prices HOU near −6.5 while books sit −5.5; money tilts Dallas.",
+   "recheck": "Sengun/Smart status ~4:30 PM PT; if Sengun OUT and NO still ≤47¢, consider WAIT→YES only with a sharp-line confirm.",
+   "market": "📈 No sharp-line data found. Books HOU −5.5 (from −4.5), ML −215/+180 (~66% no-vig). DK: DAL 52% ML handle on 20% bets.",
+   "trend": "📊 Rockets 5-0 for first time since 2014-15; no sourced ATS record found.",
+   "matchup": "🔍 HOU without Adams, Sheppard; Sengun (back) and Smart questionable. DAL without Lively; Irving off the report."
+  },
+  {
+   "sport": "NBA",
+   "game": "Pacers @ Heat · NBA Cup",
+   "time": "5:00 PM PT",
+   "pick": "NO on “Over 237.5” (= Under 237.5)",
+   "price": "51¢",
+   "call": "LEAN",
+   "why": "Total dropped from 239.5 with nearly all handle on the Under; price about fair.",
+   "recheck": "Recheck ~4:30 PM PT; better if Kalshi NO ≤48¢ or books fall to 235.5.",
+   "market": "📈 No sharp-line data found. Total 239.5 → 237.5/236.5; DK Under 237.5 −115 with 94% handle on 50/50 bets. Spread 3.5/4.5 → MIA −8.5.",
+   "trend": "📊 No sourced over/under records found; Miami 1-4, Indiana 2-3.",
+   "matchup": "🔍 IND without Haliburton, Zubac, McConnell, Sheppard, Furphy — thin offense; MIA only Fontecchio questionable."
+  },
+  {
+   "sport": "NBA",
+   "game": "Lakers @ Warriors · NBA Cup",
+   "time": "7:00 PM PT",
+   "pick": "Lakers ML",
+   "price": "57¢",
+   "call": "LEAN",
+   "why": "Doncic cleared; line moved LAL −1.5 → −2.5/−3.5, Kalshi roughly fair.",
+   "recheck": "Confirm Doncic active ~6:30 PM PT; upgrade only if Kalshi ≤54¢ with books −3.",
+   "market": "📈 No sharp-line data found. LAL −1.5 → −2.5 (FD) / −3.5 (DK); 67% spread handle on LAL. Kalshi LAL 65¢ open → 57¢.",
+   "trend": "📊 Lakers 4-1, Warriors 2-3; no sourced ATS records.",
+   "matchup": "🔍 LAL lead NBA in PPG (123.2) vs GSW 25th in defensive rating; GSW without Butler, Porzingis, Moody."
+  },
+  {
+   "sport": "NBA",
+   "game": "Nuggets @ Suns · NBA Cup",
+   "time": "7:00 PM PT",
+   "pick": "NO on “Denver wins by over 4.5” (= PHX +4.5)",
+   "price": "51¢",
+   "call": "WAIT",
+   "why": "Public hammers Denver; one source notes reverse movement toward Phoenix, unconfirmed.",
+   "recheck": "~6:30 PM PT: tap only if NO ≤47¢ with DEN still −4.5 at books.",
+   "market": "📈 No sharp-line data found. DEN −4.5, ML −170/−190 (~62% no-vig); 89% bets/83% handle DEN ML; TheSpread claims RLM to PHX.",
+   "trend": "📊 Total 227.5 → 231.5/233.5 with 75% tickets on Over — moved with public; no sourced ATS records.",
+   "matchup": "🔍 PHX last in defensive rating (123.3) and without Mark Williams; DEN without Strawther, C. Johnson day-to-day."
   },
   {
    "sport": "CFB",
-   "game": "Florida Atlantic @ North Texas",
-   "time": "4:30 PM PT",
-   "pick": "YES on “North Texas wins by over 13.5” (= UNT −13.5)",
-   "price": "55¢",
-   "call": "WAIT",
-   "why": "Line moved toward UNT against FAU-heavy betting, but Kalshi already priced it in.",
-   "recheck": "3:30 PM PT: YES if ≤48¢ with books still at −13.5/−14",
-   "market": "📈 UNT −10.5 → −13.5/−14 against 67–69% of bets on FAU (reverse move, but sources conflict). Total 73.5 → 77.5 with the public. Kalshi 48 → 53. No Pinnacle found.",
-   "trend": "",
-   "matchup": "🔍 FAU's run defense ranks 137th; UNT RB Jahiem White had 582 yards and 8 TDs through five games."
+   "game": "Tulane @ Charlotte",
+   "time": "4:00 PM PT",
+   "pick": "No clear side (Tulane -10.5 area)",
+   "price": "Tulane over 10.5: 44¢ YES / 57¢ NO",
+   "call": "PASS",
+   "why": "Kalshi drifted toward Charlotte; books -10/-10.5, no edge after fees.",
+   "recheck": "Only if “Tulane wins by over 10.5” YES ≤41¢ with books still −10.5 (~3:30 PM PT).",
+   "market": "📈 No sharp-line data found. FanDuel TULN −10.5 (−105/−115), ML −429/+330, O/U 46.5; others −10. Kalshi over-10.5 50→44¢, ML 78→76¢.",
+   "trend": "📊 FanDuel: Charlotte covered 3 of 7, overs 4 of 7 (small sample).",
+   "matchup": "🔍 Tulane 3-4 vs Charlotte 1-6; models project Tulane by ~12-14 (Dimers 29-17, Predictem 30-16)."
+  },
+  {
+   "sport": "CFB",
+   "game": "Kent State @ Sacramento State",
+   "time": "7:30 PM PT",
+   "pick": "No clear side (Kent St. −9.5/−10.5)",
+   "price": "Kent St. ML 73¢",
+   "call": "PASS",
+   "why": "Kalshi already slid 80→73¢ toward Sac State; no edge vs books after fees.",
+   "recheck": "Only if Kent St. ML ≤70¢ while books stay ≥−350 (~7:00 PM PT).",
+   "market": "📈 No sharp-line data found. Books KENT −9.5 to −10.5, ML −345 to −430, O/U 46.5; Kalshi over-9.5 53→46¢.",
+   "trend": "📊 Kent St. 3-5, Sac St. 1-7 (records only; no ATS trend found).",
+   "matchup": "🔍 Sac St. listed five OL out last week (Predictem, leans Under 46.5); Dimers projects Kent 28-18."
   },
   {
    "sport": "NBA",
-   "game": "Kings @ Pelicans",
+   "game": "Hornets @ Wizards · NBA Cup",
+   "time": "4:00 PM PT",
+   "pick": "Wizards ML",
+   "price": "53¢",
+   "call": "PASS",
+   "why": "Line already flipped to Washington; Kalshi matches books, no edge left.",
+   "recheck": "Recheck ~3:30 PM PT for Dybantsa/Knueppel/White status; only WAS ML ≤48¢ with Dybantsa playing interests us.",
+   "market": "📈 Opened CHA −1.5 (TheSpread) → WAS −1.5 (−105), ML WAS −120/CHA +100 ≈ 52% no-vig; Kalshi 53¢ = fair. Total 223.5 → 220.5. No sharp/splits data found.",
+   "trend": "📊 Hornets under in last 6 games; Wizards 4-1 ATS last 5 as home favorite (Covers) — small samples.",
+   "matchup": "🔍 Both short-handed: CHA without Knueppel, Coby White, G. Williams (as of Oct 26); WAS Dybantsa (ankle) status for tonight unconfirmed."
+  },
+  {
+   "sport": "NBA",
+   "game": "Clippers @ Timberwolves · NBA Cup",
    "time": "5:00 PM PT",
-   "pick": "Pelicans ML",
-   "price": "68¢",
+   "pick": "Timberwolves ML",
+   "price": "71¢",
    "call": "PASS",
-   "why": "Kalshi 68¢ matches books' no-vig ~67%; no market signal found.",
-   "recheck": "Pelicans injury report (Missi knee, Poole ankle) ~3 PM PT; a WAIT only if a sharp move appears.",
-   "market": "📈 No sharp-line data found. NOP −5.5/−6, ML −230/+190 (≈67% no-vig), total 236.5–237.5; Kalshi spread and total ladders sit on the same numbers.",
+   "why": "Kalshi matches books (~69-70% no-vig); injury move already priced in.",
+   "recheck": "",
+   "market": "📈 No sharp-line data found. MIN −6.5 to −8.5, ML −245 to −278; Kalshi LAC ML 41¢ → 29¢ since open.",
    "trend": "",
-   "matchup": "🔍 Kings missing Keegan Murray, Raynaud, Cardwell, Simmons; Sabonis 16.5 reb. NOP report not filed as of morning."
-  },
-  {
-   "sport": "NBA",
-   "game": "Grizzlies @ Trail Blazers",
-   "time": "7:00 PM PT",
-   "pick": "NO on “Portland wins by over 7.5” (= MEM +7.5)",
-   "price": "50¢",
-   "call": "PASS",
-   "why": "Fair price after fees; sources disagree on the opener and the line move.",
-   "recheck": "Recheck ~3 PM PT: LEAN if MEM +8.5 or better appears while books hold −7.5.",
-   "market": "📈 No sharp-line data found. WagerTalk says opened POR −6.5 → −7.5; VegasInsider says opened −7.5. ML −280/+230 ≈ 71% POR vs Kalshi 72–73¢.",
-   "trend": "",
-   "matchup": "🔍 Portland without Shaedon Sharpe; Youngblood (ankle) questionable. Memphis lists no major injuries. Total 233.5, Kalshi at the same number."
+   "matchup": "🔍 MIN without Edwards, DiVincenzo; LAC without Beal, Ingram, Strus, Hachimura questionable."
   }
  ],
  "upcoming": [
@@ -87,76 +178,46 @@
    "game": "Eagles @ Commanders · SNF",
    "time": "Sun 5:20 PM PT",
    "pick": "NO on “Washington wins by over 5.5” (= PHI +5.5)",
-   "price": "49¢",
+   "price": "46¢",
    "call": "WAIT",
-   "why": "Line moved to WAS despite public on PHI; Kalshi fair, no edge.",
-   "recheck": "Fri 2:50 PM PT injury report: LEAN only at ≤45¢, or 49¢ if Smith and Barkley are full; PASS if WAS −6.5 at books.",
-   "market": "📈 WAS −3.5 open → −5.5/−6 (BetMGM opened PHI −2.5); total 46.5 → 40.5. Cleatz: 58% bets on PHI +6, line still toward WAS. No Pinnacle data.",
-   "trend": "📊 2026 primetime dogs 14-4-1 ATS through Week 7 TNF (BettingPros). PHI has lost 5 straight.",
-   "matchup": "🔍 McKee starts for Hurts (IR); Lane Johnson out, Smith questionable, Barkley unclear. WAS without McLaurin; Mariota questionable."
+   "why": "Price improved 49→46¢, but steam is on Washington and Barkley likely out.",
+   "recheck": "Friday final injury report + Sun ~12:20 PM PT: LEAN at ≤45¢ only if books hold 5.5; drop if 6+.",
+   "market": "📈 Opened WAS −3.5 → −5.5 after PHI's MNF loss (NBC/DK −110). Kalshi NO 46¢ vs ~50% fair ≈ 2.5 pts after fee. No splits found.",
+   "trend": "📊 WAS 3-2 ATS last five meetings (SI); tiny sample, tiebreaker only.",
+   "matchup": "🔍 Barkley (hamstring/back) and D. Smith (hamstring) DNP Wed–Thu; Blue only healthy RB. WAS off bye, PHI short week."
   }
  ],
  "primetime": {
-  "tnf": {
-   "game": "Panthers @ Packers",
-   "kickoff": "Thu Oct 29, 5:15 PM PT · Prime",
-   "trend": "TNF underdogs 2026: 5-1 ATS entering Week 7 (BettingPros); NE lost 30-24 at CHI as a +2.5/+3.5 dog, so 5-2 ATS, 4-2 SU by our tally. Small sample.",
-   "note": "Golden (shoulder/foot) upgraded to limited Wed, questionable, Rapoport says trending to play; confirm at inactives ~3:45 PM PT. GB out: C Rhyan, G Glover, LB Franklin. Kickoff ~52°F, light wind, no rain.",
-   "call": "LEAN"
-  },
   "games": [
-   {
-    "slot": "TNF",
-    "game": "Panthers @ Packers",
-    "kickoff": "Thu Oct 29, 5:15 PM PT · Prime",
-    "line": "GB −3.5 (−115/CAR −105; DK −4.5) · O/U 47.5 (Circa/BookMaker 47) · GB ML −190 to −217",
-    "pick": "NO on “Over 46.5” (= Under 46.5)",
-    "price": "48¢",
-    "call": "LEAN",
-    "why": "Sharp money and Circa 47 lean Under; Kalshi 46.5 is about fair.",
-    "props": [
-     {
-      "pick": "Bryce Young under 256.5 pass yds",
-      "odds": "-114 (FanDuel)",
-      "why": "Fits the Under read, but he passed 251.5 in 7 of his last 8 games."
-     },
-     {
-      "pick": "Josh Jacobs anytime TD",
-      "odds": "-145 (Fanatics, Tue price)",
-      "why": "GB's top TD option, though GB is missing two interior linemen."
-     }
-    ],
-    "recheck": "2:50 PM PT + inactives 3:45 PM PT: drop to PASS if Kalshi NO >50¢ or books go 48.5; skip the 47.5 contract (53¢, worse value).",
-    "market": "📈 Total 46.5 open → 48.5 (rec money) → 47.5; Circa/BookMaker 47. Circa 67% of money on Under vs 40% DK tickets. No Pinnacle line found.",
-    "trend": "📊 Under 6-0 in CAR's last 6 road games (Covers); Under 5-2 in GB games 2026 (SBD). TNF dogs 5-2 ATS (small sample).",
-    "matchup": "🔍 GB without C Rhyan, G Glover, LB Franklin; Golden questionable but trending to play. CAR out Phillips, G Lewis. Calm, ~52°F."
-   },
    {
     "slot": "SNF",
     "game": "Eagles @ Commanders",
-    "kickoff": "Sun Nov 1, 5:20 PM PT · NBC",
-    "line": "WAS −5.5 (DK PHI +5.5 −112 / WAS −108; some −6) · O/U 40.5 · WAS ML ≈ −218",
+    "kickoff": "Sun Nov 1 · 5:20 PM PT · NBC",
+    "line": "WAS −5.5 (−108/−112) · ML WAS −218 · O/U 40.5",
     "pick": "NO on “Washington wins by over 5.5” (= PHI +5.5)",
-    "price": "49¢",
+    "price": "46¢",
     "call": "WAIT",
-    "why": "Line moved to WAS despite public on PHI; Kalshi fair, no edge.",
+    "why": "Price improved 49→46¢, but steam is on Washington and Barkley likely out.",
     "props": [],
-    "recheck": "Fri 2:50 PM PT injury report: LEAN only at ≤45¢, or 49¢ if Smith and Barkley are full; PASS if WAS −6.5 at books.",
-    "market": "📈 WAS −3.5 open → −5.5/−6 (BetMGM opened PHI −2.5); total 46.5 → 40.5. Cleatz: 58% bets on PHI +6, line still toward WAS. No Pinnacle data.",
-    "trend": "📊 2026 primetime dogs 14-4-1 ATS through Week 7 TNF (BettingPros). PHI has lost 5 straight.",
-    "matchup": "🔍 McKee starts for Hurts (IR); Lane Johnson out, Smith questionable, Barkley unclear. WAS without McLaurin; Mariota questionable."
+    "recheck": "Friday final injury report + Sun ~12:20 PM PT: LEAN at ≤45¢ only if books hold 5.5; drop if 6+.",
+    "market": "📈 Opened WAS −3.5 → −5.5 after PHI's MNF loss (NBC/DK −110). Kalshi NO 46¢ vs ~50% fair ≈ 2.5 pts after fee. No splits found.",
+    "trend": "📊 WAS 3-2 ATS last five meetings (SI); tiny sample, tiebreaker only.",
+    "matchup": "🔍 Barkley (hamstring/back) and D. Smith (hamstring) DNP Wed–Thu; Blue only healthy RB. WAS off bye, PHI short week."
    },
    {
     "slot": "MNF",
     "game": "Bears @ Seahawks",
-    "kickoff": "Mon Nov 2, 5:15 PM PT · ESPN",
-    "line": "No Kalshi market in snapshot",
+    "kickoff": "Mon Nov 2 · 5:15 PM PT · ESPN",
+    "line": "SEA −3.5 · O/U 46.5",
     "pick": "—",
-    "price": "",
+    "price": "—",
     "call": "SKIP",
-    "why": "Seahawks game: no pick, per the user's rule.",
+    "why": "Seahawks game — user never bets Seattle.",
     "props": [],
-    "recheck": ""
+    "recheck": "",
+    "market": "",
+    "trend": "",
+    "matchup": ""
    }
   ]
  },
@@ -164,196 +225,216 @@
  "parlay": null,
  "sources": [
   {
-   "title": "NBC Sports/PFT – Golden, Wyatt questionable for Thursday night",
-   "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/matthew-golden-devonte-wyatt-questionable-for-thursday-night"
+   "title": "FanDuel Research: Tulane vs Charlotte odds 10/30/2026",
+   "url": "https://www.fanduel.com/research/tulane-vs-charlotte-college-football-odds-picks-best-bets-for-10-30-2026"
   },
   {
-   "title": "Packers.com – Packers list four questionable, rule out three vs. Panthers",
-   "url": "https://www.packers.com/news/packers-list-four-questionable-rule-out-three-vs-panthers-week-8-injury-report"
+   "title": "Predictem: Tulane vs Charlotte Week 9 pick",
+   "url": "https://www.predictem.com/?p=214626"
   },
   {
-   "title": "Yahoo – Packers reveal Golden status for TNF (Rapoport: trending to play)",
-   "url": "https://sports.yahoo.com/articles/packers-reveal-big-matthew-golden-192706086.html"
+   "title": "Dimers: Tulane vs Charlotte 2026 prediction",
+   "url": "https://www.dimers.com/cfb/predictions/2026_9_char_tuln"
   },
   {
-   "title": "Bleacher Nation – Panthers vs Packers odds (Circa/BookMaker 47)",
-   "url": "https://www.bleachernation.com/betting/2026/10/29/panthers-vs-packers-odds/"
+   "title": "SportsChatPlace: Tulane vs Charlotte prediction",
+   "url": "https://sportschatplace.com/college-football-picks/tulane-vs-charlotte-prediction/"
   },
   {
-   "title": "Wiseguy Team – betting splits (Circa money vs DK tickets)",
-   "url": "https://wiseguyteam.com/betting-splits"
+   "title": "FanDuel Research: UCF vs Baylor odds 10/30/2026",
+   "url": "https://www.fanduel.com/research/ucf-vs-baylor-college-football-odds-picks-best-bets-for-10-30-2026"
   },
   {
-   "title": "Cleatz – Panthers vs Packers TNF splits",
-   "url": "https://cleatz.com/panthers-vs-packers-tnf-betting-preview/"
+   "title": "Covers: Baylor vs UCF prediction Oct 30 2026",
+   "url": "https://www.covers.com/ncaaf/baylor-vs-ucf-prediction-picks-odds-oct-30-2026"
   },
   {
-   "title": "Cleatz – NFL Week 8 public betting splits (PHI-WAS)",
-   "url": "https://cleatz.com/public-betting/nfl/"
+   "title": "Dimers: Kent State vs Sacramento State prediction",
+   "url": "https://www.dimers.com/cfb/predictions/2026_9_sac_kent"
   },
   {
-   "title": "Covers – Panthers vs Packers prediction (trends, weather)",
-   "url": "https://www.covers.com/nfl/panthers-vs-packers-prediction-picks-oct-29-2026"
+   "title": "Predictem: Kent State vs Sacramento State picks",
+   "url": "https://www.predictem.com/?p=214564"
   },
   {
-   "title": "Sports Betting Dime – Panthers vs Packers picks",
-   "url": "https://www.sportsbettingdime.com/news/nfl/panthers-packers-predictions-picks-best-bets-tnf-week-8-oct-29/"
+   "title": "Statsalt: Kent State vs Sacramento State Oct 30 2026",
+   "url": "https://statsalt.com/free-picks/college-football/kent-state-vs-sacramento-state-picks-and-predictions-for-friday-october-30-2026"
   },
   {
-   "title": "FanDuel Research – Panthers vs Packers props",
-   "url": "https://www.fanduel.com/research/panthers-vs-packers-prediction-3-nfl-picks-player-prop-bets-for-tnf"
+   "title": "NBC Sports: Eagles vs Commanders odds and line move",
+   "url": "https://www.nbcsports.com/betting/nfl/news/eagles-vs-commanders-odds-expert-picks-team-and-player-news-betting-trends-and-stats"
   },
   {
-   "title": "WIN Daily – Panthers vs Packers props, best odds",
-   "url": "https://windailysports.com/nfl-player-props/carolina-panthers-vs-green-bay-packers-2026-10-29/"
-  },
-  {
-   "title": "WBAY – Breezy, cooling into tonight's Packers game",
-   "url": "https://www.wbay.com/2026/10/29/breezy-cooling-down-into-tonights-packers-game/"
-  },
-  {
-   "title": "BettingPros – TNF primer (TNF/primetime dog records)",
-   "url": "https://www.bettingpros.com/articles/nfl-thursday-night-football-betting-primer-patriots-vs-bears-picks-2026/"
-  },
-  {
-   "title": "Rotowire – NFL Week 8 line moves and key injuries",
-   "url": "https://www.rotowire.com/football/article/nfl-week-8-odds-biggest-line-moves-betting-splits-and-key-injuries-144292"
-  },
-  {
-   "title": "SI – Eagles vs Commanders odds, injuries",
+   "title": "SI: Eagles vs Commanders Week 8 prediction, odds, trends",
    "url": "https://www.si.com/betting/eagles-vs-commanders-prediction-odds-spread-injuries-trends-for-nfl-week-8-01m5zknjrzj7"
   },
   {
-   "title": "Kalshi – FAU vs North Texas",
-   "url": "https://kalshi.com/markets/kxncaafgame/event/kxncaafgame-26oct29fauunt"
+   "title": "Covers: Eagles vs Commanders early odds",
+   "url": "https://www.covers.com/nfl/eagles-vs-commanders-prediction-picks-odds-early-leans-week-8-2026"
   },
   {
-   "title": "WagerTalk – FAU vs North Texas odds/picks Oct 29 2026",
-   "url": "https://www.wagertalk.com/news/college-football/florida-atlantic-vs-north-texas-odds-picks-and-prediction-october-29-2026/"
+   "title": "Eagles.com: Eagles at Commanders injury report",
+   "url": "https://www.philadelphiaeagles.com/news/eagles-at-commanders-injury-report-2026-nfl-week-8-sunday-night-football-saquon-barkley-devonta-smith"
   },
   {
-   "title": "Cleatz – CFB public betting splits",
-   "url": "https://cleatz.com/public-betting/college-football/"
+   "title": "Northeast Times: Barkley, Smith miss Thursday practice",
+   "url": "https://northeasttimes.com/2026/10/30/eagles-thursday-practice-report-barkley-devonta-smith-commanders-week-8-2026/"
   },
   {
-   "title": "Tony's Picks – Thursday 10/29/2026",
-   "url": "https://tonyspicks.com/2026/10/28/free-college-football-picks-for-thursday-10-29-2026"
+   "title": "DK Network: If Barkley can't play in Week 8",
+   "url": "https://dknetwork.draftkings.com/2026/10/29/if-saquon-barkley-cant-play-in-week-8-is-jaydon-blue-or-elijah-mitchell-a-must-start-vs-the-commanders/"
   },
   {
-   "title": "TheSpread – FAU vs North Texas Oct 29",
-   "url": "https://www.thespread.com/ncaaf-articles/florida-atlantic-vs-north-texas-prediction-october-29-2026/"
+   "title": "Covers: Bears vs Seahawks MNF early odds",
+   "url": "https://www.covers.com/nfl/bears-vs-seahawks-prediction-picks-odds-early-leans-week-8-2026"
   },
   {
-   "title": "Sports Gambling Podcast – FAU vs North Texas Week 9",
-   "url": "https://www.sportsgamblingpodcast.com/2026/10/28/florida-atlantic-vs-north-texas-prediction-week-9-2026/"
+   "title": "DraftKings Network: NBA Public Betting Trends, Fri Oct 30",
+   "url": "https://dknetwork.draftkings.com/2026/10/30/nba-public-betting-trends-friday-october-30/"
   },
   {
-   "title": "Predictem – FAU vs North Texas",
-   "url": "https://www.predictem.com/college-football/fau-vs-north-texas-prediction-thursday-night-odds-pick/"
+   "title": "CBS Sports: Knicks vs 76ers odds, NBA Cup picks Oct 30",
+   "url": "https://www.cbssports.com/betting/news/knicks-76ers-odds-prediction-time-2026-nba-cup-picks-friday-october-30/"
   },
   {
-   "title": "Roundtable – UNT RB Jahiem White scouting (Oct 4 2026)",
-   "url": "https://roundtable.io/sports/nfl/49ers/draft/49ers-draft-scouting-unt-rb-jahiem-white"
+   "title": "ScoresAndStats: Knicks vs 76ers prediction and odds",
+   "url": "https://www.scoresandstats.com/predictions/basketball/nba/new-york-knicks-vs-philadelphia-76ers-odds-picks/2026-10-30/"
   },
   {
-   "title": "VSiN – Troy vs James Madison Week 9 (Circa)",
-   "url": "https://vsin.com/college-football/college-football-week-9-picks-troy-vs-james-madison/"
+   "title": "Liberty Ballers: Jaylen Brown questionable for Sixers-Knicks Cup matchup",
+   "url": "https://www.libertyballers.com/76ers-injury-report/100341/jaylen-brown-questionable-lebron-embiid-not-listed-on-injury-report-for-sixers-knicks-cup-matchup"
   },
   {
-   "title": "FanDuel Research – JMU vs Troy 10/29/2026",
-   "url": "https://fanduel.com/research/james-madison-vs-troy-college-football-odds-picks-best-bets-for-10-29-2026"
+   "title": "Metro Philadelphia: Jaylen Brown added to Sixers injury report",
+   "url": "https://www.metrophiladelphia.com/philly-sports-network-landing-page/stories/jaylen-brown-sixers-injury-report-knicks,161097"
   },
   {
-   "title": "WagerTalk – Troy vs JMU Oct 29 2026",
-   "url": "https://www.wagertalk.com/news/college-football/troy-trojans-vs-james-madison-dukes-odds-and-predictions-october-29-2026/"
+   "title": "WagerTalk: Bulls vs Celtics prediction Oct 30",
+   "url": "https://www.wagertalk.com/news/nba/bulls-vs-celtics-prediction-picks-and-odds-nba-friday-october-30-2026/"
   },
   {
-   "title": "TheSpread – Troy vs JMU Oct 29",
-   "url": "https://www.thespread.com/ncaaf-articles/troy-vs-james-madison-prediction-and-best-bet-october-29-2026/"
+   "title": "Bleacher Nation: Celtics vs Bulls predictions Oct 30",
+   "url": "https://www.bleachernation.com/picks/2026/10/30/celtics-vs-bulls-predictions-best-bets-and-odds-friday-october-30-2026/"
   },
   {
-   "title": "Scores and Odds – JMU vs Troy",
-   "url": "https://www.scoresandodds.com/ncaaf/james-madison-vs-troy"
+   "title": "ESPN: Bulls vs Celtics Oct 30, 2026",
+   "url": "https://www.espn.com/nba/game/_/gameId/401909278/bulls-celtics"
   },
   {
-   "title": "Bleacher Nation – JMU vs Troy Oct 29 2026",
-   "url": "https://www.bleachernation.com/picks/2026/10/26/james-madison-vs-troy-prediction-odds-picks-best-bets-october-29-2026/"
+   "title": "TheSpread: Pistons vs Nets prediction Oct 30",
+   "url": "https://www.thespread.com/nba-articles/pistons-vs-nets-prediction-october-30-2026/"
   },
   {
-   "title": "SportsLine – Troy vs JMU Week 9 2026",
-   "url": "https://www.sportsline.com/insiders/troy-trojans-vs-james-madison-dukes-odds-2026-college-football-picks-week-9-predictions-from-proven-model/"
+   "title": "Docsports: Pistons vs Nets prediction 10/30/2026",
+   "url": "https://www.docsports.com/free-picks/nba/2026/detroit-pistons-vs-brooklyn-nets-prediction-10-30-2026-preview-and-pick.html"
   },
   {
-   "title": "AP/WKRG – Brewers beat Rays 4-1 in Game 5",
-   "url": "https://www.wkrg.com/sports/ap-brewers-beat-the-rays-4-1-in-game-5-to-win-the-first-world-series-title-in-franchise-history/"
+   "title": "Scores24: Nets vs Pistons prediction",
+   "url": "https://scores24.live/en/basketball/m-30-10-2026-brooklyn-nets-detroit-pistons-prediction"
   },
   {
-   "title": "ESPN – Brewers close out Rays in Game 5",
-   "url": "https://www.espn.com/mlb/story/_/id/50314006/brewers-rays-game-5-first-world-series-title"
+   "title": "Covers: NBA betting trends Oct 30",
+   "url": "https://www.covers.com/sport/basketball/nba/league-trends"
   },
   {
-   "title": "WagerTalk – Cavaliers vs Hawks picks, Oct 29 2026",
-   "url": "https://www.wagertalk.com/news/nba/cavaliers-vs-hawks-picks-prediction-odds-october-29-2026/"
+   "title": "FanDuel Research: Kawhi Leonard out Oct 30 vs Magic",
+   "url": "https://www.fanduel.com/research/nba/player-news/injuries/kawhi-leonard-out-october-30-2026-against-magic-knee"
   },
   {
-   "title": "ATSStats – Raymond Report NBA Thursday preview, Oct 29 2026",
-   "url": "https://www.atsstats.com/nba-thursday-raymond-report-preview-cavaliers-hawks-headline-a-three-game-board-october-29-2026/"
+   "title": "Dimers: Magic vs Raptors prediction Oct 30",
+   "url": "https://www.dimers.com/nba/news/orlando-magic-vs-toronto-raptors-prediction-10-30-2026-ac"
   },
   {
-   "title": "BettingNews – Cavaliers vs Hawks odds & public bet %",
-   "url": "https://www.bettingnews.com/nba/matchup/2026-10-29-cleveland_cavaliers-atlanta_hawks-n-1/"
+   "title": "SI: Magic vs Raptors prediction, NBA Cup group play",
+   "url": "https://www.si.com/betting/magic-vs-raptors-prediction-odds-and-player-to-watch-for-nba-cup-group-play-01m65fw7fjf6"
   },
   {
-   "title": "Bleacher Report – Cavaliers vs Hawks Oct 29 2026",
-   "url": "https://bleacherreport.com/game/cleveland-cavaliers-vs-atlanta-hawks-2026-10-29-18-00"
+   "title": "Orlando Magic Daily: Magic at Raptors Oct 30",
+   "url": "https://orlandomagicdaily.com/orlando-magic-at-toronto-raptors-oct-30-2026-3-things-watch-odds-prediction-01m65g558xsb"
   },
   {
-   "title": "iHeart – Cavaliers vs Hawks predictions/injuries",
-   "url": "https://1390thegambler.iheart.com/content/2026-10-29-cavaliers-vs-hawks-predictions-odds-stats-oct-29/"
+   "title": "BetMGM: Hornets vs Wizards prediction Oct 30",
+   "url": "https://sports.betmgm.com/en/blog/nba/hornets-wizards-prediction-odds-lines-picks-nba-oct-30-jaa/"
   },
   {
-   "title": "Lineups.com – Cavaliers-Hawks picks Oct 29 2026",
-   "url": "https://www.lineups.com/articles/cavaliers-hawks-nba-picks-predictions-odds-for-thursday-october-29-2026/"
+   "title": "Tony's Picks: Night Moves Oct 30",
+   "url": "https://tonyspicks.com/2026/10/30/night-moves-betting-picks-october-30-2026"
   },
   {
-   "title": "bet365 News – Cavaliers vs Hawks props",
-   "url": "https://news.bet365.com/en-us/article/nba-cavaliers-vs-hawks-predictions-player-props-best-bets/2026102909393751138"
+   "title": "TheSpread: NBA public betting chart",
+   "url": "https://www.thespread.com/nba-basketball-public-betting-chart/"
   },
   {
-   "title": "Sport Flash – Hawks vs Cavaliers schedule",
-   "url": "https://www.sport-flash.com/sports/basketball/us/events/nba-2026-2027/atlanta-hawks-cleveland-cavaliers"
+   "title": "Athlon: Wizards-Hornets injury report (Dybantsa, Knueppel)",
+   "url": "https://athlonsports.com/nba/washington-wizards/final-injury-report-for-wizards-hornets-will-aj-dybantsa-kon-knueppel-play"
   },
   {
-   "title": "TheSpread – Kings vs Pelicans prediction Oct 29 2026",
-   "url": "https://www.thespread.com/nba-articles/kings-vs-pelicans-prediction-october-29-2026/"
+   "title": "SI – Rockets injury/preview at Mavs",
+   "url": "https://www.si.com/nba/rockets/onsi/sengun-smart-status-as-rockets-try-to-stay-perfect-at-mavs-preview-starters-injuries-how-to-watch-01m66mfjnt0c"
   },
   {
-   "title": "WagerTalk – Kings vs Pelicans odds",
-   "url": "https://www.wagertalk.com/news/nba/sacramento-kings-vs-new-orleans-pelicans-betting-picks-and-odds/"
+   "title": "Yahoo – Rockets star remains downgraded",
+   "url": "https://sports.yahoo.com/articles/rockets-star-remains-downgraded-ahead-213531583.html"
   },
   {
-   "title": "ESPN – Kings vs Pelicans Oct 29 2026",
-   "url": "https://www.espn.com/nba/game/_/gameId/401909894/kings-pelicans"
+   "title": "CappersPicks – Rockets at Mavericks 10/30/26",
+   "url": "https://www.capperspicks.com/free-picks/ai/houston-rockets-at-dallas-mavericks-pick-nba-prediction-preview-odds-10-30-2026/"
   },
   {
-   "title": "iHeart – Kings vs Pelicans injury report",
-   "url": "https://foxsportsam1280.iheart.com/content/2026-10-29-kings-vs-pelicans-injury-report-oct-29/"
+   "title": "WagerTalk – Pacers vs Heat Oct 30",
+   "url": "https://www.wagertalk.com/news/nba/pacers-vs-heat-prediction-picks-and-odds-nba-friday-october-30-2026/"
   },
   {
-   "title": "WagerTalk – Grizzlies vs Trail Blazers Oct 29 2026",
-   "url": "https://www.wagertalk.com/news/nba/grizzlies-vs-trail-blazers-odds-prediction-and-picks-october-29-2026/"
+   "title": "BetMGM – Pacers vs Heat Oct 30",
+   "url": "https://sports.betmgm.com/en/blog/nba/pacers-heat-prediction-odds-lines-picks-nba-oct-30-jaa/"
   },
   {
-   "title": "TheSpread – Grizzlies vs Trail Blazers Oct 29 2026",
-   "url": "https://thespread.com/nba-articles/grizzlies-vs-trail-blazers-prediction-october-29-2026"
+   "title": "DocSports – Pacers vs Heat 10/30/2026",
+   "url": "https://www.docsports.com/free-picks/nba/2026/indiana-pacers-vs-miami-heat-prediction-10-30-2026-preview-and-pick.html"
   },
   {
-   "title": "VegasInsider – Grizzlies vs Trail Blazers line movement",
-   "url": "https://www.vegasinsider.com/nba/matchups/grizzlies-vs-trail-blazers/"
+   "title": "Heat Nation – Heat vs Pacers injury report",
+   "url": "https://heatnation.com/team-news/heat-vs-pacers-injury-report-haliburton-zubac-out-for-nba-cup-opener/"
   },
   {
-   "title": "Covers – NBA consensus",
-   "url": "https://contests.covers.com/consensus/topconsensus/nba/overall"
+   "title": "SI – Clippers vs Timberwolves NBA Cup",
+   "url": "https://www.si.com/betting/clippers-vs-timberwolves-prediction-odds-and-best-prop-bets-for-nba-cup-group-play-2026"
+  },
+  {
+   "title": "Dimers – Clippers vs Timberwolves Oct 30",
+   "url": "https://www.dimers.com/nba/news/los-angeles-clippers-vs-minnesota-timberwolves-prediction-10-30-2026-ac"
+  },
+  {
+   "title": "TalkBasket – Friday injury report",
+   "url": "https://www.talkbasket.net/225812-nba-injury-report-edwards-durant-headline-fridays-absences"
+  },
+  {
+   "title": "TheSpread – Nuggets vs Suns Oct 30",
+   "url": "https://www.thespread.com/nba-articles/nuggets-vs-suns-prediction-october-30-2026/"
+  },
+  {
+   "title": "BetMGM – Nuggets vs Suns props Oct 30",
+   "url": "https://sports.betmgm.com/en/blog/nba/nuggets-suns-player-prop-bets-picks-nba-oct-30-jaa/"
+  },
+  {
+   "title": "Cleatz – NBA public betting",
+   "url": "https://cleatz.com/public-betting/nba/"
+  },
+  {
+   "title": "Fox Sports 1450 – Nuggets vs Suns injury report",
+   "url": "https://foxsports1450.iheart.com/content/2026-10-30-nuggets-vs-suns-injury-report-oct-30/"
+  },
+  {
+   "title": "FanDuel Research – Warriors vs Lakers Oct 30",
+   "url": "https://www.fanduel.com/research/warriors-vs-lakers-prediction-nba-odds-spread-best-bets-for-10-30-2026"
+  },
+  {
+   "title": "Basketnews – Doncic final status vs Warriors",
+   "url": "https://basketnews.com/news-258488-luka-doncic-final-status-nba-cup-vs-warriors-revealed.html"
+  },
+  {
+   "title": "Lineups.com – Lakers-Warriors Oct 30",
+   "url": "https://www.lineups.com/articles/lakers-warriors-nba-cup-picks-predictions-odds-for-friday-october-30-2026/"
   }
  ]
 }
