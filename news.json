@@ -4,11 +4,12 @@
     {
       "sleeperId": "4881",
       "name": "Lamar Jackson",
-      "note": "Jackson (ankle) was a full participant at practice for a second straight day on Thursday, Oct. 29, and Tracy Wolfson reported he will play in Week 8 at Buffalo. He could be removed from the injury report if Friday's practice is also full; he has missed three straight games.",
-      "tag": "return",
-      "redraftAdj": 1.22,
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 10:52 AM PT Oct 30. Earlier: Jackson (ankle) was a full participant at practice for a second straight day on Thursday, Oct. 29, and Tracy Wolfson reported he will play in Week 8 at Buffalo. He could be removed from the injury report if Friday's practice is also full; he has missed three straight games.",
+      "tag": "injury",
+      "redraftAdj": 1.0,
       "dynastyAdj": 1.01,
-      "status": "Questionable"
+      "status": null,
+      "auto": true
     },
     {
       "sleeperId": "11566",
@@ -337,11 +338,12 @@
     {
       "sleeperId": "8154",
       "name": "Brian Robinson Jr.",
-      "note": "Robinson (hamstring) missed Week 7 and remained questionable as of Oct 28. Bijan Robinson handled 25 touches without him.",
+      "note": "Sleeper now lists him out (hamstring) as of 10:52 AM PT Oct 30. Earlier: Robinson (hamstring) missed Week 7 and remained questionable as of Oct 28. Bijan Robinson handled 25 touches without him.",
       "tag": "injury",
-      "redraftAdj": 0.92,
+      "redraftAdj": 0.9,
       "dynastyAdj": 0.99,
-      "status": "Questionable"
+      "status": "Out",
+      "auto": true
     },
     {
       "sleeperId": "9508",
@@ -770,11 +772,12 @@
     {
       "sleeperId": "12518",
       "name": "Tyler Warren",
-      "note": "Warren (groin) was limited again in Thursday's practice on Oct 29 after a limited walkthrough on Wednesday. That is better than last week, when he did not practice, but he has missed two straight games and Friday's report will decide Week 8 against Jacksonville.",
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 10:52 AM PT Oct 30. Earlier: Warren (groin) was limited again in Thursday's practice on Oct 29 after a limited walkthrough on Wednesday. That is better than last week, when he did not practice, but he has missed two straight games and Friday's report will decide Week 8 against Jacksonville.",
       "tag": "injury",
-      "redraftAdj": 0.93,
+      "redraftAdj": 1.0,
       "dynastyAdj": 1.0,
-      "status": "Questionable"
+      "status": null,
+      "auto": true
     },
     {
       "sleeperId": "10236",
@@ -1020,5 +1023,5 @@
       "tag": "injury"
     }
   ],
-  "statusChecked": "9:56 AM PT Oct 30"
+  "statusChecked": "10:52 AM PT Oct 30"
 }

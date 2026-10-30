@@ -521,18 +521,18 @@
    "t": "CHI"
   },
   "12518": {
-   "changed": "2026-10-28T08:08:19.335831+00:00",
+   "changed": "2026-10-30T17:52:35.714916+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 1.0,
     "name": "Tyler Warren",
-    "note": "Sleeper now lists him questionable (groin) as of 1:08 AM PT Oct 28. Earlier: Warren (groin) missed his second straight game on Oct 25 at Minnesota. His Week 8 status depends on how he practices this week.",
-    "redraftAdj": 0.98,
+    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 10:52 AM PT Oct 30. Earlier: Warren (groin) was limited again in Thursday's practice on Oct 29 after a limited walkthrough on Wednesday. That is better than last week, when he did not practice, but he has missed two straight games and Friday's report will decide Week 8 against Jacksonville.",
+    "redraftAdj": 1.0,
     "sleeperId": "12518",
-    "status": "Questionable",
+    "status": null,
     "tag": "injury"
    },
-   "i": "Questionable",
+   "i": null,
    "qb1": null,
    "t": "IND"
   },
@@ -1197,18 +1197,18 @@
    "t": "PHI"
   },
   "4881": {
-   "changed": "2026-10-28T08:08:19.335831+00:00",
+   "changed": "2026-10-30T17:52:35.714916+00:00",
    "entry": {
     "auto": true,
-    "dynastyAdj": 1.0,
+    "dynastyAdj": 1.01,
     "name": "Lamar Jackson",
-    "note": "Sleeper now lists him questionable (ankle) as of 1:08 AM PT Oct 28. Earlier: Jackson (high-ankle sprain) was downgraded to out on Oct. 24 and missed his third straight game as Tyler Huntley started vs. Cincinnati in Week 7. His status for Week 8 at Buffalo is still unclear, with coach Jesse Minter staying noncommittal.",
-    "redraftAdj": 0.98,
+    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 10:52 AM PT Oct 30. Earlier: Jackson (ankle) was a full participant at practice for a second straight day on Thursday, Oct. 29, and Tracy Wolfson reported he will play in Week 8 at Buffalo. He could be removed from the injury report if Friday's practice is also full; he has missed three straight games.",
+    "redraftAdj": 1.0,
     "sleeperId": "4881",
-    "status": "Questionable",
+    "status": null,
     "tag": "injury"
    },
-   "i": "Questionable",
+   "i": null,
    "qb1": true,
    "t": "BAL"
   },
@@ -1766,18 +1766,18 @@
    "t": "KC"
   },
   "8154": {
-   "changed": "2026-10-28T08:08:19.335831+00:00",
+   "changed": "2026-10-30T17:52:35.714916+00:00",
    "entry": {
     "auto": true,
-    "dynastyAdj": 1.0,
+    "dynastyAdj": 0.99,
     "name": "Brian Robinson Jr.",
-    "note": "Sleeper now lists him questionable (hamstring) as of 1:08 AM PT Oct 28.",
-    "redraftAdj": 0.98,
+    "note": "Sleeper now lists him out (hamstring) as of 10:52 AM PT Oct 30. Earlier: Robinson (hamstring) missed Week 7 and remained questionable as of Oct 28. Bijan Robinson handled 25 touches without him.",
+    "redraftAdj": 0.9,
     "sleeperId": "8154",
-    "status": "Questionable",
+    "status": "Out",
     "tag": "injury"
    },
-   "i": "Questionable",
+   "i": "Out",
    "qb1": null,
    "t": "ATL"
   },
