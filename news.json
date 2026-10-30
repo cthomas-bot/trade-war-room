@@ -470,11 +470,12 @@
     {
       "sleeperId": "8167",
       "name": "Christian Watson",
-      "note": "Matthew Golden's status for TNF on Oct 29 is unclear; reports conflict on whether he practiced Wednesday. If Golden sits, Green Bay's passing game should funnel through Watson and Tucker Kraft.",
-      "tag": "role_up",
-      "redraftAdj": 1.05,
+      "note": "Sleeper now lists him questionable (undisclosed) as of 7:06 PM PT Oct 29. Earlier: Matthew Golden's status for TNF on Oct 29 is unclear; reports conflict on whether he practiced Wednesday. If Golden sits, Green Bay's passing game should funnel through Watson and Tucker Kraft.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
       "dynastyAdj": 1.0,
-      "status": ""
+      "status": "Questionable",
+      "auto": true
     },
     {
       "sleeperId": "7525",
@@ -1123,5 +1124,5 @@
       "auto": true
     }
   ],
-  "statusChecked": "4:48 PM PT Oct 29"
+  "statusChecked": "7:06 PM PT Oct 29"
 }
