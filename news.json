@@ -160,20 +160,22 @@
     {
       "sleeperId": "13287",
       "name": "Jeremiyah Love",
-      "note": "Love (ankle) was limited at practice again Thursday, Oct 29, after missing two games. He is trending toward a possible return Sunday at Dallas.",
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 2:48 PM PT Oct 30. Earlier: Love (ankle) was limited at practice again Thursday, Oct 29, after missing two games. He is trending toward a possible return Sunday at Dallas.",
       "tag": "injury",
-      "redraftAdj": 0.97,
+      "redraftAdj": 1.0,
       "dynastyAdj": 1.0,
-      "status": "Questionable"
+      "status": null,
+      "auto": true
     },
     {
       "sleeperId": "8132",
       "name": "Tyler Allgeier",
-      "note": "Allgeier (toe) was upgraded to limited practice Thursday, Oct 29. Jeremiyah Love was also limited, so Allgeier's Week 8 role at Dallas is unclear.",
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 2:48 PM PT Oct 30. Earlier: Allgeier (toe) was upgraded to limited practice Thursday, Oct 29. Jeremiyah Love was also limited, so Allgeier's Week 8 role at Dallas is unclear.",
       "tag": "injury",
-      "redraftAdj": 0.85,
+      "redraftAdj": 1.0,
       "dynastyAdj": 0.98,
-      "status": "Questionable"
+      "status": null,
+      "auto": true
     },
     {
       "sleeperId": "8122",
@@ -223,11 +225,12 @@
     {
       "sleeperId": "12489",
       "name": "RJ Harvey",
-      "note": "Harvey was added to Denver's injury report with a knee issue and was limited Thursday, Oct 29. He likely got hurt in practice, and he had already fallen behind Jonah Coleman on Oct 25 (16 snaps).",
+      "note": "Sleeper now lists him out (knee) as of 2:48 PM PT Oct 30. Earlier: Harvey was added to Denver's injury report with a knee issue and was limited Thursday, Oct 29. He likely got hurt in practice, and he had already fallen behind Jonah Coleman on Oct 25 (16 snaps).",
       "tag": "injury",
       "redraftAdj": 0.82,
       "dynastyAdj": 0.96,
-      "status": "Questionable"
+      "status": "Out",
+      "auto": true
     },
     {
       "sleeperId": "13345",
@@ -646,11 +649,12 @@
     {
       "sleeperId": "10232",
       "name": "Michael Wilson",
-      "note": "Wilson (ribs) was limited Oct 29, his second straight day in a non-contact jersey, which the team calls precautionary. He isn't believed to be in danger of missing Week 8 vs. Dallas.",
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 2:48 PM PT Oct 30. Earlier: Wilson (ribs) was limited Oct 29, his second straight day in a non-contact jersey, which the team calls precautionary. He isn't believed to be in danger of missing Week 8 vs. Dallas.",
       "tag": "injury",
-      "redraftAdj": 0.97,
+      "redraftAdj": 1.0,
       "dynastyAdj": 1.0,
-      "status": "Questionable"
+      "status": null,
+      "auto": true
     },
     {
       "sleeperId": "11610",
@@ -1035,5 +1039,5 @@
       "auto": true
     }
   ],
-  "statusChecked": "1:52 PM PT Oct 30"
+  "statusChecked": "2:48 PM PT Oct 30"
 }

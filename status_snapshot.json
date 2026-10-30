@@ -31,18 +31,18 @@
    "t": "KC"
   },
   "10232": {
-   "changed": "2026-10-29T01:09:21.963831+00:00",
+   "changed": "2026-10-30T21:48:13.297443+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 1.0,
     "name": "Michael Wilson",
-    "note": "Sleeper now lists him questionable (ribs) as of 6:09 PM PT Oct 28.",
-    "redraftAdj": 0.98,
+    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 2:48 PM PT Oct 30. Earlier: Wilson (ribs) was limited Oct 29, his second straight day in a non-contact jersey, which the team calls precautionary. He isn't believed to be in danger of missing Week 8 vs. Dallas.",
+    "redraftAdj": 1.0,
     "sleeperId": "10232",
-    "status": "Questionable",
+    "status": null,
     "tag": "injury"
    },
-   "i": "Questionable",
+   "i": null,
    "qb1": null,
    "t": "ARI"
   },
@@ -313,16 +313,6 @@
   },
   "11655": {
    "changed": "2026-10-27T21:46:10.022646+00:00",
-   "entry": {
-    "auto": true,
-    "dynastyAdj": 0.97,
-    "name": "Tyrone Tracy Jr.",
-    "note": "Sleeper now lists him on injured reserve (hamstring) as of 2:46 PM PT Oct 27.",
-    "redraftAdj": 0.7,
-    "sleeperId": "11655",
-    "status": "IR",
-    "tag": "injury"
-   },
    "i": "IR",
    "qb1": null,
    "t": "NYG"
@@ -390,18 +380,18 @@
    "t": "LAR"
   },
   "12489": {
-   "changed": "2026-10-29T21:53:41.771618+00:00",
+   "changed": "2026-10-30T21:48:13.297443+00:00",
    "entry": {
     "auto": true,
-    "dynastyAdj": 0.97,
+    "dynastyAdj": 0.96,
     "name": "RJ Harvey",
-    "note": "Sleeper now lists him questionable (knee) as of 2:53 PM PT Oct 29. Earlier: Harvey played only 16 snaps with 3 carries behind the returning Jonah Coleman on Oct 25, though he scored on a 52-yard screen pass.",
-    "redraftAdj": 0.88,
+    "note": "Sleeper now lists him out (knee) as of 2:48 PM PT Oct 30. Earlier: Harvey was added to Denver's injury report with a knee issue and was limited Thursday, Oct 29. He likely got hurt in practice, and he had already fallen behind Jonah Coleman on Oct 25 (16 snaps).",
+    "redraftAdj": 0.82,
     "sleeperId": "12489",
-    "status": "Questionable",
+    "status": "Out",
     "tag": "injury"
    },
-   "i": "Questionable",
+   "i": "Out",
    "qb1": null,
    "t": "DEN"
   },
@@ -747,18 +737,18 @@
    "t": "SEA"
   },
   "13287": {
-   "changed": "2026-10-28T08:08:19.335831+00:00",
+   "changed": "2026-10-30T21:48:13.297443+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 1.0,
     "name": "Jeremiyah Love",
-    "note": "Sleeper now lists him questionable (ankle) as of 1:08 AM PT Oct 28. Earlier: Love (high-ankle sprain) missed a second straight game on Oct 25, but he is set to practice Wednesday ahead of Week 8 vs. Dallas. Mike LaFleur said IR was not on the table but would not commit to Love playing.",
-    "redraftAdj": 0.98,
+    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 2:48 PM PT Oct 30. Earlier: Love (ankle) was limited at practice again Thursday, Oct 29, after missing two games. He is trending toward a possible return Sunday at Dallas.",
+    "redraftAdj": 1.0,
     "sleeperId": "13287",
-    "status": "Questionable",
+    "status": null,
     "tag": "injury"
    },
-   "i": "Questionable",
+   "i": null,
    "qb1": null,
    "t": "ARI"
   },
@@ -1712,18 +1702,18 @@
    "t": "NYG"
   },
   "8132": {
-   "changed": "2026-10-29T01:09:21.963831+00:00",
+   "changed": "2026-10-30T21:48:13.297443+00:00",
    "entry": {
     "auto": true,
-    "dynastyAdj": 1.0,
+    "dynastyAdj": 0.98,
     "name": "Tyler Allgeier",
-    "note": "Sleeper now lists him questionable (toe) as of 6:09 PM PT Oct 28.",
-    "redraftAdj": 0.98,
+    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 2:48 PM PT Oct 30. Earlier: Allgeier (toe) was upgraded to limited practice Thursday, Oct 29. Jeremiyah Love was also limited, so Allgeier's Week 8 role at Dallas is unclear.",
+    "redraftAdj": 1.0,
     "sleeperId": "8132",
-    "status": "Questionable",
+    "status": null,
     "tag": "injury"
    },
-   "i": "Questionable",
+   "i": null,
    "qb1": null,
    "t": "ARI"
   },
