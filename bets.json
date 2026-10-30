@@ -1,13 +1,13 @@
 {
  "date": "Fri Oct 30",
- "scanned": "Oct 30, 8:52 AM PT",
+ "scanned": "Oct 30, 2:58 PM PT · recheck",
  "slate": [
   {
    "sport": "CFB",
    "game": "Baylor @ UCF",
    "time": "4:30 PM PT",
    "pick": "UCF ML",
-   "price": "48¢",
+   "price": "47¢",
    "call": "LEAN",
    "why": "Books make UCF a short favorite (~52%); Kalshi has Baylor favored.",
    "recheck": "Recheck ~4:00 PM PT; LEAN only at ≤48¢, PASS if books flip to Baylor.",
@@ -20,7 +20,7 @@
    "game": "Bulls @ Celtics · NBA Cup",
    "time": "4:30 PM PT",
    "pick": "NO on “Over 234.5” (= Under 234.5)",
-   "price": "49¢",
+   "price": "47¢",
    "call": "LEAN",
    "why": "Handle on the Under against 66% Over tickets; total ticked down a point.",
    "recheck": "Recheck ~3:30 PM PT; upgrade only if total drops to 233.5 or lower while Kalshi still shows 234.5 near 49¢.",
@@ -56,19 +56,6 @@
   },
   {
    "sport": "NBA",
-   "game": "Magic @ Raptors · NBA Cup",
-   "time": "4:30 PM PT",
-   "pick": "NO on “Toronto wins by over 5.5” (= ORL +5.5)",
-   "price": "48¢",
-   "call": "LEAN",
-   "why": "92% of spread handle on Orlando; Kawhi out trims Toronto's edge.",
-   "recheck": "Recheck ~3:30 PM PT; YES only if books move to ORL +4.5 while Kalshi NO stays ≤48¢.",
-   "market": "📈 TOR −5.5 (−115)/ORL +5.5 (−105); DK: ORL 56% of bets but 92% of handle. ML −212/+177 → TOR 65% no-vig vs Kalshi 67¢. Opener not found.",
-   "trend": "📊 Toronto beat Orlando by 30 on Wednesday (TOR −4.5 then) — revenge spot, no sourced ATS record.",
-   "matchup": "🔍 ORL without Banchero (high-ankle), Suggs, Isaac; TOR without Kawhi Leonard (knee). Wagner carries Orlando vs Toronto's turnover-forcing defense."
-  },
-  {
-   "sport": "NBA",
    "game": "Rockets @ Mavericks · NBA Cup",
    "time": "5:00 PM PT",
    "pick": "NO on “Houston wins by over 5.5” (= DAL +5.5)",
@@ -85,7 +72,7 @@
    "game": "Pacers @ Heat · NBA Cup",
    "time": "5:00 PM PT",
    "pick": "NO on “Over 237.5” (= Under 237.5)",
-   "price": "51¢",
+   "price": "52¢",
    "call": "LEAN",
    "why": "Total dropped from 239.5 with nearly all handle on the Under; price about fair.",
    "recheck": "Recheck ~4:30 PM PT; better if Kalshi NO ≤48¢ or books fall to 235.5.",
@@ -118,6 +105,19 @@
    "market": "📈 No sharp-line data found. DEN −4.5, ML −170/−190 (~62% no-vig); 89% bets/83% handle DEN ML; TheSpread claims RLM to PHX.",
    "trend": "📊 Total 227.5 → 231.5/233.5 with 75% tickets on Over — moved with public; no sourced ATS records.",
    "matchup": "🔍 PHX last in defensive rating (123.3) and without Mark Williams; DEN without Strawther, C. Johnson day-to-day."
+  },
+  {
+   "sport": "NBA",
+   "game": "Magic @ Raptors · NBA Cup",
+   "time": "4:30 PM PT",
+   "pick": "NO on “Toronto wins by over 5.5” (= ORL +5.5)",
+   "price": "50¢",
+   "call": "PASS",
+   "why": "Price drifted 48→50¢; with no sharp data the small edge is gone.",
+   "recheck": "Recheck ~3:30 PM PT; YES only if books move to ORL +4.5 while Kalshi NO stays ≤48¢.",
+   "market": "📈 TOR −5.5 (−115)/ORL +5.5 (−105); DK: ORL 56% of bets but 92% of handle. ML −212/+177 → TOR 65% no-vig vs Kalshi 67¢. Opener not found.",
+   "trend": "📊 Toronto beat Orlando by 30 on Wednesday (TOR −4.5 then) — revenge spot, no sourced ATS record.",
+   "matchup": "🔍 ORL without Banchero (high-ankle), Suggs, Isaac; TOR without Kawhi Leonard (knee). Wagner carries Orlando vs Toronto's turnover-forcing defense."
   },
   {
    "sport": "CFB",
