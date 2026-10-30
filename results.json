@@ -1,5 +1,5 @@
 {
- "updated": "Oct 28, 2026",
+ "updated": "Oct 30, 2026",
  "stake": 5,
  "note": "Graded on the final call each pick had before kickoff; $5 per pick at the listed Kalshi price, minus the taker fee.",
  "picks": [
@@ -398,6 +398,39 @@
    "result": "W",
    "final": "Knicks 111 – Pistons 97",
    "pl": 2.93
+  },
+  {
+   "date": "Thu Oct 29",
+   "sport": "NFL",
+   "game": "Panthers @ Packers · TNF",
+   "pick": "NO on “Over 46.5” (= Under 46.5)",
+   "price": "48¢",
+   "call": "LEAN",
+   "result": "W",
+   "final": "Packers 27 – Panthers 19",
+   "pl": 5.23
+  },
+  {
+   "date": "Thu Oct 29",
+   "sport": "CFB",
+   "game": "Troy @ James Madison",
+   "pick": "NO on “Over 50.5 points scored” (= Under 50.5)",
+   "price": "48¢",
+   "call": "LEAN",
+   "result": "W",
+   "final": "Troy 24 – James Madison 21 (OT)",
+   "pl": 5.23
+  },
+  {
+   "date": "Thu Oct 29",
+   "sport": "NBA",
+   "game": "Cavaliers @ Hawks",
+   "pick": "Hawks ML",
+   "price": "52¢",
+   "call": "LEAN",
+   "result": "W",
+   "final": "Hawks 114 – Cavaliers 111",
+   "pl": 4.45
   }
  ]
 }
