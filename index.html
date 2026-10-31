@@ -1334,10 +1334,10 @@ function renderBets(){
 function slatePanel(b){
   const s=b.slate||[];
   const rows=s.map(x=>'<div class="sl"><div class="sl-top">'+sportTag(x.sport)+'<b>'+esc(x.game)+'</b><span class="muted">'+esc(x.time||'')+'</span>'+call(x.call)+'</div>'+
-    '<div class="sl-pick">'+(x.pick?'<b>'+esc(x.pick)+'</b>'+(x.price?' <span class="muted">'+esc(x.price)+'</span>':''):'')+(x.why?' — '+esc(x.why):'')+'</div>'+why3(x)+
+    '<div class="sl-pick">'+(x.pick?'<b>'+esc(x.pick)+'</b>'+(x.price?' <span class="muted">'+esc(x.price)+'</span>':''):'')+(x.why?' — '+esc(x.why):'')+'</div>'+priceLine(x)+why3(x)+
     (x.recheck?'<div class="sl-re">⏰ '+esc(x.recheck)+'</div>':'')+'</div>').join('');
   const up=(b.upcoming||[]).map(x=>'<div class="sl"><div class="sl-top">'+sportTag(x.sport)+'<b>'+esc(x.game)+'</b><span class="muted">'+esc(x.time||'')+'</span>'+call(x.call)+'</div>'+
-    '<div class="sl-pick">'+(x.pick?'<b>'+esc(x.pick)+'</b>'+(x.price?' <span class="muted">'+esc(x.price)+'</span>':''):'')+(x.why?' — '+esc(x.why):'')+'</div>'+why3(x)+(x.recheck?'<div class="sl-re">⏰ '+esc(x.recheck)+'</div>':'')+'</div>').join('');
+    '<div class="sl-pick">'+(x.pick?'<b>'+esc(x.pick)+'</b>'+(x.price?' <span class="muted">'+esc(x.price)+'</span>':''):'')+(x.why?' — '+esc(x.why):'')+'</div>'+priceLine(x)+why3(x)+(x.recheck?'<div class="sl-re">⏰ '+esc(x.recheck)+'</div>':'')+'</div>').join('');
   return panel('Today’s Slate'+(b.date?' · '+b.date:''),'◎',(rows+(up?'<div class="ev-h" style="margin-top:12px">COMING UP</div>'+up:''))||'<p class="muted">Calls post around 8 AM PT and are rechecked around 3 PM PT (plus 12:30 PM on Sundays).</p>',{glow:true,right:b.scanned?'<small>updated '+esc(b.scanned)+'</small>':''});
 }
 function primePanel(b){
@@ -1345,7 +1345,7 @@ function primePanel(b){
   const t=p.tnf;
   const g=(p.games||[]).map(x=>'<div class="pt"><div class="sl-top"><span class="slot3">'+esc(x.slot||'')+'</span><b>'+esc(x.game)+'</b><span class="muted">'+esc(x.kickoff||'')+'</span>'+call(x.call)+'</div>'+
     (x.line?'<div class="muted" style="font-size:12px;margin-top:2px">'+esc(x.line)+'</div>':'')+
-    '<div class="sl-pick"><b>'+esc(x.pick||'')+'</b>'+(x.price?' <span class="muted">'+esc(x.price)+'</span>':'')+(x.why?' — '+esc(x.why):'')+'</div>'+why3(x)+
+    '<div class="sl-pick"><b>'+esc(x.pick||'')+'</b>'+(x.price?' <span class="muted">'+esc(x.price)+'</span>':'')+(x.why?' — '+esc(x.why):'')+'</div>'+priceLine(x)+why3(x)+
     ((x.props||[]).length?'<div class="props">'+x.props.map(pp=>'<span class="prop"><b>'+esc(pp.pick)+'</b>'+(pp.odds?' '+esc(pp.odds):'')+(pp.why?'<small>'+esc(pp.why)+'</small>':'')+'</span>').join('')+'</div>':'')+
     (x.recheck?'<div class="sl-re">⏰ '+esc(x.recheck)+'</div>':'')+'</div>').join('');
   const tn=t?'<div class="pt tnf"><div class="sl-top"><span class="slot3">TNF</span><b>'+esc(t.game)+'</b><span class="muted">'+esc(t.kickoff||'')+'</span>'+(t.call?call(t.call):'<span class="call c-pass">SKIP</span>')+'</div>'+
@@ -1368,6 +1368,17 @@ function movesPanel(k){
     '<p class="muted" style="font-size:12px;margin:8px 0 0">YES price change since first seen'+(since?' (tracking began '+esc(since)+')':'')+'. A big move with no news usually means sharp money: check it before betting the other side.</p>');
 }
 /* Results tracker: graded YES/LEAN calls with record and $ at the flat stake */
+/* Are our estimated edges real? Hit rate vs average estimate, and closing-line value */
+function calib(P){
+  const E=P.filter(x=>x.est!=null&&x.result!=='P'),C=P.filter(x=>x.clv!=null);
+  if(!E.length&&!C.length)return '<p class="muted" style="font-size:12px;margin:6px 0">Edge tracking starts with picks graded after Oct 31 (estimate, closing price, CLV).</p>';
+  let h='<div class="ev-h">Are our edges real?</div>';
+  if(E.length){const hit=100*E.filter(x=>x.result==='W').length/E.length,avg=E.reduce((t,x)=>t+(+x.est),0)/E.length;
+    h+='<div class="km" style="grid-template-columns:minmax(0,1fr) auto"><span>Hit rate vs our average estimate ('+E.length+' picks)</span><span class="q"><b>'+hit.toFixed(0)+'%</b> vs '+avg.toFixed(0)+'%</span></div>';}
+  if(C.length){const beat=C.filter(x=>+x.clv>0).length,avg=C.reduce((t,x)=>t+(+x.clv),0)/C.length;
+    h+='<div class="km" style="grid-template-columns:minmax(0,1fr) auto"><span>Beat the closing price</span><span class="q"><b>'+beat+'/'+C.length+'</b> · avg '+(avg>=0?'+':'−')+Math.abs(avg).toFixed(1)+'¢</span></div>';}
+  return h;
+}
 function resultsPanel(R){
   const P=(R&&R.picks||[]).filter(x=>x.result==='W'||x.result==='L'||x.result==='P');
   if(!P.length)return '';
@@ -1378,8 +1389,15 @@ function resultsPanel(R){
   const last=P.slice(-8).reverse().map(x=>'<div class="km" style="grid-template-columns:auto minmax(0,1fr) auto"><span class="'+(x.result==='W'?'up':x.result==='L'?'down':'muted')+'"><b>'+x.result+'</b></span><span><b>'+esc(x.pick)+'</b> <span class="muted">'+esc(x.price||'')+'</span><br><small class="muted">'+esc(x.game)+' · '+esc(x.final||'')+'</small></span><span class="q">'+((+x.pl)>=0?'+':'−')+'$'+Math.abs(+x.pl||0).toFixed(2)+'</span></div>').join('');
   return panel('Results','✓','<div class="sl-pick" style="margin:2px 0 8px">Record <b>'+rec(P)+'</b> · '+money(P)+' at $'+(R.stake||5)+'/pick</div>'+
     '<div class="ev-h">By call</div>'+by(x=>x.call)+'<div class="ev-h">By bet type</div>'+by(kind)+
+    calib(P)+
     '<details class="more"><summary>Last '+Math.min(8,P.length)+' graded</summary>'+last+'</details>'+
     '<p class="muted" style="font-size:12px;margin:8px 0 0">'+esc(R.note||'')+' Updated '+esc(R.updated||'')+'.</p>');
+}
+/* Decision board: break-even vs our estimate (shown when the scan provides it) */
+function priceLine(x){
+  if(x.be==null||x.est==null)return '';
+  const e=x.edge!=null?+x.edge:(+x.est)-(+x.be);
+  return '<div class="sl-pick" style="font-size:12px">Needs <b>'+(+x.be).toFixed(1)+'%</b> · Our est <b>'+(+x.est).toFixed(1)+'%</b> · Edge <b class="'+(e>=3?'up':e<0?'down':'')+'">'+(e>=0?'+':'−')+Math.abs(e).toFixed(1)+'</b>'+(x.conf?' · '+esc(x.conf)+' confidence':'')+'</div>';
 }
 /* Market / Trends / Matchup breakdown for a pick (shown when the scan provides it) */
 function why3(x){
@@ -1389,7 +1407,7 @@ function why3(x){
 }
 function propsPanel(b){
   const p=b.props||[];
-  const body=p.length?p.map(s=>'<div class="ev-h">'+esc(s.slate)+'</div>'+(s.picks||[]).map(x=>'<div class="km" style="grid-template-columns:minmax(0,1fr) auto"><span><b>'+esc(x.pick)+'</b>'+(x.odds?' <span class="muted">'+esc(x.odds)+'</span>':'')+(x.why?'<br><small class="muted">'+esc(x.why)+'</small>':'')+why3(x)+'</span>'+call(x.call||'LEAN')+'</div>').join('')).join('')
+  const body=p.length?p.map(s=>'<div class="ev-h">'+esc(s.slate)+'</div>'+(s.picks||[]).map(x=>'<div class="km" style="grid-template-columns:minmax(0,1fr) auto"><span><b>'+esc(x.pick)+'</b>'+(x.odds?' <span class="muted">'+esc(x.odds)+'</span>':'')+(x.why?'<br><small class="muted">'+esc(x.why)+'</small>':'')+priceLine(x)+why3(x)+'</span>'+call(x.call||'LEAN')+'</div>').join('')).join('')
     :'<p class="muted" style="font-size:13px">Props post with the morning scan on college Saturdays and NFL Sundays.</p>';
   return panel('Props','✚',body);
 }
