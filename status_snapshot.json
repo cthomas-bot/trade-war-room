@@ -281,16 +281,6 @@
   },
   "11643": {
    "changed": "2026-10-28T20:53:41.192426+00:00",
-   "entry": {
-    "auto": true,
-    "dynastyAdj": 1.0,
-    "name": "Jaylen Wright",
-    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 1:53 PM PT Oct 28.",
-    "redraftAdj": 1.0,
-    "sleeperId": "11643",
-    "status": null,
-    "tag": "injury"
-   },
    "i": null,
    "qb1": null,
    "t": "MIA"
@@ -1262,16 +1252,6 @@
   },
   "5947": {
    "changed": "2026-10-28T20:53:41.192426+00:00",
-   "entry": {
-    "auto": true,
-    "dynastyAdj": 1.0,
-    "name": "Jakobi Meyers",
-    "note": "Sleeper now lists him questionable (hamstring) as of 1:53 PM PT Oct 28.",
-    "redraftAdj": 0.98,
-    "sleeperId": "5947",
-    "status": "Questionable",
-    "tag": "injury"
-   },
    "i": "Questionable",
    "qb1": null,
    "t": "JAX"
@@ -1445,13 +1425,6 @@
    "qb1": null,
    "t": "ATL"
   },
-  "7561": {
-   "changed": null,
-   "entry": null,
-   "i": null,
-   "qb1": null,
-   "t": "PHI"
-  },
   "7564": {
    "changed": "2026-10-29T20:54:49.159155+00:00",
    "entry": {
@@ -1469,6 +1442,8 @@
    "t": "CIN"
   },
   "7567": {
+   "changed": null,
+   "entry": null,
    "i": "Questionable",
    "qb1": null,
    "t": "TB"
@@ -1742,8 +1717,18 @@
    "t": "MIN"
   },
   "8676": {
-   "changed": "2026-10-28T08:08:19.335831+00:00",
-   "i": "Questionable",
+   "changed": "2026-10-31T21:45:28.324140+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 0.99,
+    "name": "Rashid Shaheed",
+    "note": "Sleeper now lists him out (knee) as of 2:45 PM PT Oct 31. Earlier: Shaheed (knee) missed practice Oct 28-29 and isn't expected to play Monday, Nov 2 vs. Chicago, though Mike Macdonald called the early returns 'positive' and it isn't considered long-term. Tory Horton would take the WR3 snaps.",
+    "redraftAdj": 0.8,
+    "sleeperId": "8676",
+    "status": "Out",
+    "tag": "injury"
+   },
+   "i": "Out",
    "qb1": null,
    "t": "SEA"
   },
@@ -1904,8 +1889,18 @@
    "t": "PIT"
   },
   "9753": {
-   "changed": "2026-10-28T08:08:19.335831+00:00",
-   "i": "Questionable",
+   "changed": "2026-10-31T21:45:28.324140+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Zach Charbonnet",
+    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 2:45 PM PT Oct 31. Earlier: Charbonnet (ACL), activated from PUP, is trending toward his 2026 debut Monday night (Nov. 2) vs. Chicago, but Seattle has not committed to him playing. Don't expect a heavy workload right away.",
+    "redraftAdj": 1.0,
+    "sleeperId": "9753",
+    "status": null,
+    "tag": "injury"
+   },
+   "i": null,
    "qb1": null,
    "t": "SEA"
   },

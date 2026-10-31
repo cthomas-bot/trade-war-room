@@ -214,11 +214,12 @@
     {
       "sleeperId": "9753",
       "name": "Zach Charbonnet",
-      "note": "Charbonnet (ACL), activated from PUP, is trending toward his 2026 debut Monday night (Nov. 2) vs. Chicago, but Seattle has not committed to him playing. Don't expect a heavy workload right away.",
-      "tag": "return",
-      "redraftAdj": 1.03,
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 2:45 PM PT Oct 31. Earlier: Charbonnet (ACL), activated from PUP, is trending toward his 2026 debut Monday night (Nov. 2) vs. Chicago, but Seattle has not committed to him playing. Don't expect a heavy workload right away.",
+      "tag": "injury",
+      "redraftAdj": 1.0,
       "dynastyAdj": 1.0,
-      "status": "Questionable"
+      "status": null,
+      "auto": true
     },
     {
       "sleeperId": "13286",
@@ -440,11 +441,12 @@
     {
       "sleeperId": "8676",
       "name": "Rashid Shaheed",
-      "note": "Shaheed (knee) missed practice Oct 28-29 and isn't expected to play Monday, Nov 2 vs. Chicago, though Mike Macdonald called the early returns 'positive' and it isn't considered long-term. Tory Horton would take the WR3 snaps.",
+      "note": "Sleeper now lists him out (knee) as of 2:45 PM PT Oct 31. Earlier: Shaheed (knee) missed practice Oct 28-29 and isn't expected to play Monday, Nov 2 vs. Chicago, though Mike Macdonald called the early returns 'positive' and it isn't considered long-term. Tory Horton would take the WR3 snaps.",
       "tag": "injury",
       "redraftAdj": 0.8,
       "dynastyAdj": 0.99,
-      "status": "Questionable"
+      "status": "Out",
+      "auto": true
     },
     {
       "sleeperId": "9500",
@@ -823,5 +825,5 @@
       "tag": "injury"
     }
   ],
-  "statusChecked": "1:46 PM PT Oct 31"
+  "statusChecked": "2:45 PM PT Oct 31"
 }
