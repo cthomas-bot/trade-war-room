@@ -1,21 +1,7 @@
 {
  "date": "Sat Oct 31",
- "scanned": "Oct 31, 7:58 AM PT",
+ "scanned": "Oct 31, 7:58 AM PT · price test",
  "slate": [
-  {
-   "sport": "CFB",
-   "game": "Washington @ Nebraska",
-   "time": "5:00 PM PT",
-   "pick": "NO on “Nebraska wins by over 9.5” (= UW +9.5)",
-   "price": "55¢",
-   "call": "LEAN",
-   "why": "Big money on Washington moved this line about two points; take the +9.5 cushion.",
-   "recheck": "Recheck ~2:50 PM PT: drop to PASS if Kalshi NO on >9.5 goes above 57¢.",
-   "market": "📈 CLEATZ (Week 9): UW has 70% of tickets and 86% of handle. FanDuel showed NEB −9.5; Kalshi NEB >7.5 went 54¢→49¢, >9.5 49¢→46¢. No sharp-book data found.",
-   "trend": "",
-   "matchup": "🔍 Kalshi now centers on NEB −7.5; at +9.5, UW clears that line by two points. FanDuel O/U 49.5.",
-   "signal": 2
-  },
   {
    "sport": "NBA",
    "game": "Trail Blazers @ Jazz",
@@ -43,6 +29,20 @@
    "trend": "",
    "matchup": "🔍 SI: Oklahoma's offense hasn't run up scores on Power Four foes; QB LaNorris Sellers is the swing factor.",
    "signal": 1
+  },
+  {
+   "sport": "CFB",
+   "game": "Washington @ Nebraska",
+   "time": "5:00 PM PT",
+   "pick": "NO on “Nebraska wins by over 9.5” (= UW +9.5)",
+   "price": "55¢",
+   "call": "PASS",
+   "why": "Needs ~57% at 55¢+fee; books NEB −9.5 make +9.5 ~50%. Price too high.",
+   "recheck": "Recheck ~2:50 PM PT: drop to PASS if Kalshi NO on >9.5 goes above 57¢.",
+   "market": "Needs ~57% (55¢ + fee). FanDuel NEB −9.5 ≈ 50% no-vig for UW +9.5. Money on UW (CLEATZ 86% handle, undated) but price already moved. No sharp-book data.",
+   "trend": "",
+   "matchup": "🔍 Kalshi now centers on NEB −7.5; at +9.5, UW clears that line by two points. FanDuel O/U 49.5.",
+   "signal": 2
   },
   {
    "sport": "CFB",
@@ -367,9 +367,9 @@
     {
      "pick": "CJ Carr Over 2.5 Passing TDs (Notre Dame @ Navy, 9 AM PT)",
      "odds": "-120",
-     "call": "LEAN",
+     "call": "PASS",
      "signal": 1,
-     "why": "Navy pass D bottom-20; Carr threw 3 TDs vs Navy last year.",
+     "why": "Needs 54.5% at −120; 3+ TD games not shown to clear that, and ND −30.5 may run it. PASS.",
      "market": "No sharp-line data found. theScore -120 (checked Oct 30); Bovada -115 on same 2.5 line. ND -30.5, total ~56.5.",
      "trend": "16 TD, 1 INT this season but 0 TDs in BYU loss; 13/16, 218 yds, 3 TD vs Navy in 2025.",
      "matchup": "Navy has allowed 16 pass TDs in 7 games; blowout risk could cut attempts late (~29-attempt line)."
@@ -382,9 +382,9 @@
     {
      "pick": "Nate Frazier Anytime TD (Florida vs Georgia (neutral, Atlanta), 12:30 PM PT)",
      "odds": "-145",
-     "call": "LEAN",
+     "call": "PASS",
      "signal": 1,
-     "why": "Lead back again with Chauncey Bowens out a third straight game.",
+     "why": "Needs 59% at −145; 6 TDs and 9-19 in his return don't show a 59%+ scoring rate. PASS.",
      "market": "No sharp-line data found. -145 listed by Bleacher Nation; SBR has -150 at FanDuel. UGA -12.5, total ~56.5.",
      "trend": "6 TDs this season (2nd on team), but only 19 yds on 9 carries in return vs Auburn.",
      "matchup": "Georgia favored by 12.5 at Mercedes-Benz Stadium; goal-line work should fall to Frazier with Bowens out."
@@ -397,9 +397,9 @@
     {
      "pick": "Jeremiah Smith Anytime TD (Ohio State @ USC, 4:30 PM PT)",
      "odds": "-150",
-     "call": "LEAN",
+     "call": "PASS",
      "signal": 1,
-     "why": "12 TDs in 7 games; USC coverage ranks poorly.",
+     "why": "Needs 60% at −150; 12 TDs in 7 games is close, but a freshman QB starts. Not clearly above. PASS.",
      "market": "No sharp-line data found. -150 at Bleacher Nation; Pickswise also -150. OSU -6.5, total 51.5.",
      "trend": "984 rec yds, 12 TD through 7 games (scored in most games at that rate).",
      "matchup": "QB Julian Sayin is out and freshman Luke Fahey likely starts. That's a risk, but targets should funnel to Smith vs a weak USC secondary."
@@ -421,7 +421,7 @@
     }
    ],
    "odds": "+122",
-   "why": "Two home favorites near -200 (Athlon; Yahoo moneylines).",
+   "why": "Two home favorites near -200 (Athlon; Yahoo moneylines). Fun only — legs don't pass the price test.",
    "call": "FUN"
   },
   {
@@ -437,7 +437,7 @@
     }
    ],
    "odds": "+182",
-   "why": "Two likely anytime-TD legs; Carr leg dropped to stay under +400.",
+   "why": "Two likely anytime-TD legs; Carr leg dropped to stay under +400. Fun only — legs don't pass the price test.",
    "call": "FUN"
   },
   {
@@ -453,7 +453,7 @@
     }
    ],
    "odds": "+210",
-   "why": "A favorite plus Manning vs the SEC's worst pass defense.",
+   "why": "A favorite plus Manning vs the SEC's worst pass defense. Fun only — legs don't pass the price test.",
    "call": "FUN"
   }
  ],
