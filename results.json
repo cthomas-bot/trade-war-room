@@ -1,5 +1,5 @@
 {
- "updated": "Oct 30, 2026",
+ "updated": "Oct 31, 2026",
  "stake": 5,
  "note": "Graded on the final call each pick had before kickoff; $5 per pick at the listed Kalshi price, minus the taker fee.",
  "picks": [
@@ -431,6 +431,72 @@
    "result": "W",
    "final": "Hawks 114 – Cavaliers 111",
    "pl": 4.45
+  },
+  {
+   "date": "Fri Oct 30",
+   "sport": "CFB",
+   "game": "Baylor @ UCF",
+   "pick": "UCF ML",
+   "price": "47¢",
+   "call": "LEAN",
+   "result": "L",
+   "final": "Baylor 41 – UCF 9",
+   "pl": -5.19
+  },
+  {
+   "date": "Fri Oct 30",
+   "sport": "NBA",
+   "game": "Bulls @ Celtics · NBA Cup",
+   "pick": "NO on “Over 234.5” (= Under 234.5)",
+   "price": "47¢",
+   "call": "LEAN",
+   "result": "L",
+   "final": "Celtics 125 – Bulls 111",
+   "pl": -5.19
+  },
+  {
+   "date": "Fri Oct 30",
+   "sport": "NBA",
+   "game": "Pistons @ Nets · NBA Cup",
+   "pick": "NO on “Detroit wins by over 8.5” (= BKN +8.5)",
+   "price": "52¢",
+   "call": "LEAN",
+   "result": "L",
+   "final": "Pistons 110 – Nets 94",
+   "pl": -5.17
+  },
+  {
+   "date": "Fri Oct 30",
+   "sport": "NBA",
+   "game": "Knicks @ 76ers · NBA Cup",
+   "pick": "Knicks ML",
+   "price": "54¢",
+   "call": "LEAN",
+   "result": "L",
+   "final": "76ers 98 – Knicks 93",
+   "pl": -5.16
+  },
+  {
+   "date": "Fri Oct 30",
+   "sport": "NBA",
+   "game": "Rockets @ Mavericks · NBA Cup",
+   "pick": "NO on “Houston wins by over 5.5” (= DAL +5.5)",
+   "price": "46¢",
+   "call": "LEAN",
+   "result": "W",
+   "final": "Mavericks 116 – Rockets 111",
+   "pl": 5.68
+  },
+  {
+   "date": "Fri Oct 30",
+   "sport": "NBA",
+   "game": "Pacers @ Heat · NBA Cup",
+   "pick": "NO on “Over 237.5” (= Under 237.5)",
+   "price": "52¢",
+   "call": "LEAN",
+   "result": "L",
+   "final": "Heat 145 – Pacers 125",
+   "pl": -5.17
   }
  ]
 }
