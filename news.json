@@ -139,11 +139,12 @@
     {
       "sleeperId": "12489",
       "name": "RJ Harvey",
-      "note": "Denver ruled Harvey (knee, injured in practice) out for Week 8 vs. Kansas City on Oct. 30. He had already slipped behind Jonah Coleman before the injury.",
+      "note": "Sleeper now lists him on injured reserve (knee) as of 1:46 PM PT Oct 31. Earlier: Denver ruled Harvey (knee, injured in practice) out for Week 8 vs. Kansas City on Oct. 30. He had already slipped behind Jonah Coleman before the injury.",
       "tag": "injury",
-      "redraftAdj": 0.8,
+      "redraftAdj": 0.7,
       "dynastyAdj": 0.96,
-      "status": "Out"
+      "status": "IR",
+      "auto": true
     },
     {
       "sleeperId": "13345",
@@ -822,5 +823,5 @@
       "tag": "injury"
     }
   ],
-  "statusChecked": "12:47 PM PT Oct 31"
+  "statusChecked": "1:46 PM PT Oct 31"
 }

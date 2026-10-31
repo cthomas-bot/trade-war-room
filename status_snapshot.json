@@ -370,18 +370,18 @@
    "t": "LAR"
   },
   "12489": {
-   "changed": "2026-10-30T21:48:13.297443+00:00",
+   "changed": "2026-10-31T20:46:29.901228+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 0.96,
     "name": "RJ Harvey",
-    "note": "Sleeper now lists him out (knee) as of 2:48 PM PT Oct 30. Earlier: Harvey was added to Denver's injury report with a knee issue and was limited Thursday, Oct 29. He likely got hurt in practice, and he had already fallen behind Jonah Coleman on Oct 25 (16 snaps).",
-    "redraftAdj": 0.82,
+    "note": "Sleeper now lists him on injured reserve (knee) as of 1:46 PM PT Oct 31. Earlier: Denver ruled Harvey (knee, injured in practice) out for Week 8 vs. Kansas City on Oct. 30. He had already slipped behind Jonah Coleman before the injury.",
+    "redraftAdj": 0.7,
     "sleeperId": "12489",
-    "status": "Out",
+    "status": "IR",
     "tag": "injury"
    },
-   "i": "Out",
+   "i": "IR",
    "qb1": null,
    "t": "DEN"
   },
@@ -1467,6 +1467,11 @@
    "i": null,
    "qb1": null,
    "t": "CIN"
+  },
+  "7567": {
+   "i": "Questionable",
+   "qb1": null,
+   "t": "TB"
   },
   "7569": {
    "changed": null,
