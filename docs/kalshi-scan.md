@@ -35,6 +35,12 @@ Every YES/LEAN/WAIT pick (games and props) is built in this order, and the pick 
 2. **📊 Trends (support only, never the sole reason):** state the record and sample, e.g. "SNF teams with ≤25% of tickets are 6-2 ATS". Prefer situational/market trends (low-ticket side, line moving toward the low-ticket side, primetime road favorites/dogs), QB/coach ATS records, and **player game logs vs the line** ("lead backs vs SEA: 51, 29, 36, 45, 68, 41 — none reached 70"). Small samples (<20) are tiebreakers only.
 3. **🔍 Matchup (unit vs unit):** the specific mismatch that explains the market: pressure rate, rush/pass EPA, yards per carry allowed, RB yards allowed per game, red-zone TD rate, pace, weather, injuries/inactives. One concrete chain: "If KC can't run (SEA 3.65 ypc allowed, #3 rush EPA), Mahomes throws into the #2 pass D."
 
+**The price test (user rule, Oct 31): "Does this happen often enough to justify paying this price?"** Ask it of every pick before calling it YES or LEAN.
+- The price is a frequency: paying 55¢ (plus ~1.75¢ fee) means the bet must win **about 57% of the time** just to break even. For sportsbook props, −150 needs 60%, −120 needs 54.5%, +120 needs 45.5%.
+- Estimate how often it actually happens from evidence, not feel: the sharp no-vig line first, then real frequencies (player game logs vs the line, how often the favorite covers this number, how often totals land under it), with the sample size.
+- If the honest estimate isn't clearly above break-even (≥3 points for YES), it's PASS, however good the story sounds. Favorites and anytime-TD props at −150 or worse are the usual trap: they hit often, but not often enough for the price.
+- Put the comparison in the pick's `market` line in short form, e.g. "Needs 57%; sharp no-vig 59%, ATS 11-6 at this number."
+
 **Totals (game and team totals):** same three lines, plus a totals checklist:
 - Market: total moving *against* the heavy side (e.g. 66% of tickets / 74% of money on the Over, yet 44.5 → 42.5 and Pinnacle 43 → 42) is reverse line movement on a total; note the lowest/highest number available (42 at BetMGM vs 42.5 elsewhere) and whether Kalshi still shows the old number.
 - Trends to check: primetime unders when 65%+ of tickets are on the Over; small home favorites (≤3) in primetime vs the total; totals that dropped 2+ points with the public on the Over; the QBs'/teams' over-under records; **the referee crew's** over-under record (especially primetime).
