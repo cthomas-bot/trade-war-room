@@ -193,20 +193,22 @@
     {
       "sleeperId": "12529",
       "name": "TreVeyon Henderson",
-      "note": "Henderson is now questionable for Sunday at Miami with an illness after missing practice Thursday and Friday, Oct. 29-30. That makes him a real risk to sit.",
+      "note": "Sleeper now lists him out (illness) as of 10:42 AM PT Oct 31. Earlier: Henderson is now questionable for Sunday at Miami with an illness after missing practice Thursday and Friday, Oct. 29-30. That makes him a real risk to sit.",
       "tag": "injury",
       "redraftAdj": 0.85,
       "dynastyAdj": 1.0,
-      "status": "Questionable"
+      "status": "Out",
+      "auto": true
     },
     {
       "sleeperId": "12534",
       "name": "Kyle Monangai",
-      "note": "Monangai (toe/thumb) is officially questionable for Monday night at Seattle after missing early-week practices. Reports conflict: ESPN's Jeremy Fowler hears his chances are better, while others call him unlikely, and D'Andre Swift would lead if he sits.",
+      "note": "Sleeper now lists him out (thumb) as of 10:42 AM PT Oct 31. Earlier: Monangai (toe/thumb) is officially questionable for Monday night at Seattle after missing early-week practices. Reports conflict: ESPN's Jeremy Fowler hears his chances are better, while others call him unlikely, and D'Andre Swift would lead if he sits.",
       "tag": "injury",
       "redraftAdj": 0.85,
       "dynastyAdj": 0.99,
-      "status": "Questionable"
+      "status": "Out",
+      "auto": true
     },
     {
       "sleeperId": "9753",
@@ -238,11 +240,12 @@
     {
       "sleeperId": "5859",
       "name": "A.J. Brown",
-      "note": "Brown is questionable for Sunday vs. Miami on the Friday (Oct 30) report with ankle and knee issues; the knee flared up while he works back from his earlier high-ankle sprain.",
+      "note": "Sleeper now lists him out (ankle) as of 10:42 AM PT Oct 31. Earlier: Brown is questionable for Sunday vs. Miami on the Friday (Oct 30) report with ankle and knee issues; the knee flared up while he works back from his earlier high-ankle sprain.",
       "tag": "injury",
       "redraftAdj": 0.88,
       "dynastyAdj": 0.99,
-      "status": "Questionable"
+      "status": "Out",
+      "auto": true
     },
     {
       "sleeperId": "4983",
@@ -818,5 +821,5 @@
       "tag": "injury"
     }
   ],
-  "statusChecked": "6:52 AM PT Oct 31"
+  "statusChecked": "10:42 AM PT Oct 31"
 }

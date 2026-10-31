@@ -554,18 +554,18 @@
    "t": "LV"
   },
   "12529": {
-   "changed": "2026-10-29T19:02:18.674373+00:00",
+   "changed": "2026-10-31T17:42:43.339070+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 1.0,
     "name": "TreVeyon Henderson",
-    "note": "Sleeper now lists him questionable (ankle) as of 12:02 PM PT Oct 29.",
-    "redraftAdj": 0.98,
+    "note": "Sleeper now lists him out (illness) as of 10:42 AM PT Oct 31. Earlier: Henderson is now questionable for Sunday at Miami with an illness after missing practice Thursday and Friday, Oct. 29-30. That makes him a real risk to sit.",
+    "redraftAdj": 0.85,
     "sleeperId": "12529",
-    "status": "Questionable",
+    "status": "Out",
     "tag": "injury"
    },
-   "i": "Questionable",
+   "i": "Out",
    "qb1": null,
    "t": "NE"
   },
@@ -576,8 +576,18 @@
    "t": "WAS"
   },
   "12534": {
-   "changed": "2026-10-28T08:08:19.335831+00:00",
-   "i": "Questionable",
+   "changed": "2026-10-31T17:42:43.339070+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 0.99,
+    "name": "Kyle Monangai",
+    "note": "Sleeper now lists him out (thumb) as of 10:42 AM PT Oct 31. Earlier: Monangai (toe/thumb) is officially questionable for Monday night at Seattle after missing early-week practices. Reports conflict: ESPN's Jeremy Fowler hears his chances are better, while others call him unlikely, and D'Andre Swift would lead if he sits.",
+    "redraftAdj": 0.85,
+    "sleeperId": "12534",
+    "status": "Out",
+    "tag": "injury"
+   },
+   "i": "Out",
    "qb1": null,
    "t": "CHI"
   },
@@ -1210,18 +1220,18 @@
    "t": "GB"
   },
   "5859": {
-   "changed": "2026-10-28T20:53:41.192426+00:00",
+   "changed": "2026-10-31T17:42:43.339070+00:00",
    "entry": {
     "auto": true,
-    "dynastyAdj": 1.0,
+    "dynastyAdj": 0.99,
     "name": "A.J. Brown",
-    "note": "Sleeper now lists him questionable (ankle) as of 1:53 PM PT Oct 28.",
-    "redraftAdj": 0.98,
+    "note": "Sleeper now lists him out (ankle) as of 10:42 AM PT Oct 31. Earlier: Brown is questionable for Sunday vs. Miami on the Friday (Oct 30) report with ankle and knee issues; the knee flared up while he works back from his earlier high-ankle sprain.",
+    "redraftAdj": 0.88,
     "sleeperId": "5859",
-    "status": "Questionable",
+    "status": "Out",
     "tag": "injury"
    },
-   "i": "Questionable",
+   "i": "Out",
    "qb1": null,
    "t": "NE"
   },
@@ -1246,16 +1256,6 @@
   },
   "5927": {
    "changed": "2026-10-28T17:00:31.036638+00:00",
-   "entry": {
-    "auto": true,
-    "dynastyAdj": 0.85,
-    "name": "Terry McLaurin",
-    "note": "Sleeper now lists him on injured reserve (knee) as of 10:00 AM PT Oct 28. Earlier: McLaurin tore his left patellar tendon on Oct 19 and is out for the 2026 season.",
-    "redraftAdj": 0,
-    "sleeperId": "5927",
-    "status": "IR",
-    "tag": "injury"
-   },
    "i": "IR",
    "qb1": null,
    "t": "WAS"
