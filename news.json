@@ -592,11 +592,12 @@
     {
       "sleeperId": "12517",
       "name": "Colston Loveland",
-      "note": "Loveland (neck) was limited in Friday's practice on Oct 30 and is questionable, but early reports expect him to play Monday night at Seattle on Nov 2. With Cole Kmet out for the year, he remains Chicago's lead TE if active.",
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 12:47 PM PT Oct 31. Earlier: Loveland (neck) was limited in Friday's practice on Oct 30 and is questionable, but early reports expect him to play Monday night at Seattle on Nov 2. With Cole Kmet out for the year, he remains Chicago's lead TE if active.",
       "tag": "injury",
-      "redraftAdj": 0.98,
+      "redraftAdj": 1.0,
       "dynastyAdj": 1.0,
-      "status": "Questionable"
+      "status": null,
+      "auto": true
     },
     {
       "sleeperId": "10236",
@@ -821,5 +822,5 @@
       "tag": "injury"
     }
   ],
-  "statusChecked": "10:42 AM PT Oct 31"
+  "statusChecked": "12:47 PM PT Oct 31"
 }
