@@ -1,35 +1,7 @@
 {
  "date": "Sat Oct 31",
- "scanned": "Oct 31, 7:58 AM PT · price test",
+ "scanned": "Oct 31, 2:55 PM PT · recheck",
  "slate": [
-  {
-   "sport": "NBA",
-   "game": "Trail Blazers @ Jazz",
-   "time": "12:00 PM PT",
-   "pick": "NO on “Portland wins by over 7.5” (= UTA +7.5)",
-   "price": "47¢",
-   "call": "WAIT",
-   "why": "Books POR -6.5/-225; Kalshi prices POR ~-8 and 74¢. Needs Markkanen status.",
-   "recheck": "~11 AM PT: if Markkanen plays and books still POR ≤-6.5, LEAN NO on 7.5 at ≤50¢ (or UTA ML ≤28¢). If he's out, PASS.",
-   "market": "📈 No sharp-line data found. FanDuel/PickDawgz POR -6.5, -225 (no-vig ~67%); Kalshi POR 74¢, 69→74¢. TheSpread says ML moved toward POR.",
-   "trend": "📊 No sourced ATS/situational trend found for this spot.",
-   "matchup": "🔍 POR without Morant (hamstring) and Sharpe; UTA without JJJ, Nurkic; Markkanen (wrist) questionable is the swing.",
-   "signal": 2
-  },
-  {
-   "sport": "CFB",
-   "game": "South Carolina @ Oklahoma",
-   "time": "1:15 PM PT",
-   "pick": "YES on “Oklahoma wins by over 4.5”",
-   "price": "46¢",
-   "call": "WAIT",
-   "why": "Kalshi dropped to OU ~−4 while DK showed −5.5; verify which is current.",
-   "recheck": "Recheck ~11 AM PT: if Pinnacle/books still OU −5.5 or higher, YES at ≤46¢; if books at −4, PASS.",
-   "market": "📈 DK OU −5.5 (−108), ML −198/+164, O/U 44.5. Kalshi OU >4.5 54¢→46¢, >5.5 51¢→44¢. No sharp/split data found.",
-   "trend": "",
-   "matchup": "🔍 SI: Oklahoma's offense hasn't run up scores on Power Four foes; QB LaNorris Sellers is the swing factor.",
-   "signal": 1
-  },
   {
    "sport": "CFB",
    "game": "Washington @ Nebraska",
@@ -43,110 +15,6 @@
    "trend": "",
    "matchup": "🔍 Kalshi now centers on NEB −7.5; at +9.5, UW clears that line by two points. FanDuel O/U 49.5.",
    "signal": 2
-  },
-  {
-   "sport": "CFB",
-   "game": "Notre Dame @ Navy (neutral, Gillette Stadium)",
-   "time": "9:00 AM PT",
-   "pick": "YES on “Notre Dame wins by over 30.5”",
-   "price": "52¢",
-   "call": "PASS",
-   "why": "Kalshi ND −30.5 matches DraftKings −30.5; no sharp data.",
-   "recheck": "",
-   "market": "📈 DK ND −30.5, O/U 56.5. Kalshi Over 55.5 slid 55¢→48¢ since open; no sharp-book or split data found.",
-   "trend": "",
-   "matchup": ""
-  },
-  {
-   "sport": "CFB",
-   "game": "Wisconsin @ Iowa",
-   "time": "9:00 AM PT",
-   "pick": "NO on “Iowa wins by over 3.5” (= WIS +3.5)",
-   "price": "57¢",
-   "call": "PASS",
-   "why": "Kalshi drifted toward Wisconsin; price now matches DK −3.5.",
-   "recheck": "",
-   "market": "📈 DK Iowa −3.5, ML −170/+140, O/U 36.5. Kalshi Iowa >2.5 56¢→51¢. No sharp/split data found.",
-   "trend": "📊 Iowa has won the last four meetings, including 37-0 last season (SI).",
-   "matchup": ""
-  },
-  {
-   "sport": "CFB",
-   "game": "Auburn @ Ole Miss",
-   "time": "9:45 AM PT",
-   "pick": "NO on “Ole Miss wins by over 13.5” (= AUB +13.5)",
-   "price": "56¢",
-   "call": "PASS",
-   "why": "Kalshi already moved two points toward Auburn after Lacy news; no stale number.",
-   "recheck": "",
-   "market": "📈 DK Ole Miss −13.5, O/U 57.5. Kalshi >11.5 55¢→50¢, >13.5 50¢→45¢. No sharp/split data found.",
-   "trend": "",
-   "matchup": "🔍 SI reports Ole Miss RB Kewan Lacy (shoulder) ruled out; a separate search couldn't confirm it."
-  },
-  {
-   "sport": "CFB",
-   "game": "Kansas St. @ Colorado",
-   "time": "11:00 AM PT",
-   "pick": "YES on “Colorado wins by over 1.5”",
-   "price": "56¢",
-   "call": "PASS",
-   "why": "Big Kalshi move to Colorado, but no sportsbook line found to price it.",
-   "recheck": "Recheck: find book line; PASS unless books lag Kalshi.",
-   "market": "📈 Kalshi Colorado >1.5 jumped 44¢→56¢, >2.5 47¢→54¢. No 2026 book line or splits found.",
-   "trend": "",
-   "matchup": ""
-  },
-  {
-   "sport": "CFB",
-   "game": "Florida vs Georgia (neutral, Atlanta)",
-   "time": "12:30 PM PT",
-   "pick": "YES on “Georgia wins by over 10.5”",
-   "price": "53¢",
-   "call": "PASS",
-   "why": "Kalshi UGA −10.5/−11 mirrors DK and BetMGM; no signal.",
-   "recheck": "",
-   "market": "📈 DK UGA −10.5 (−115), BetMGM −11 (ML −450/+340), O/U 56.5. Kalshi flat (52¢→53¢). Game moved to Mercedes-Benz Stadium.",
-   "trend": "",
-   "matchup": ""
-  },
-  {
-   "sport": "CFB",
-   "game": "Arizona St. @ BYU",
-   "time": "12:30 PM PT",
-   "pick": "NO on “BYU wins by over 16.5” (= ASU +16.5)",
-   "price": "50¢",
-   "call": "PASS",
-   "why": "Kalshi spread matches DK −16.5; no splits found.",
-   "recheck": "",
-   "market": "📈 DK BYU −16.5, ML −750/+525. Kalshi BYU >14.5 49¢→54¢; Kalshi Over 50.5 fell 50¢→44¢. No book total found.",
-   "trend": "",
-   "matchup": ""
-  },
-  {
-   "sport": "CFB",
-   "game": "Utah @ Cincinnati",
-   "time": "12:45 PM PT",
-   "pick": "YES on “Utah wins by over 7.5”",
-   "price": "49¢",
-   "call": "PASS",
-   "why": "Kalshi moved toward Utah (center ~7); no sharp line to confirm.",
-   "recheck": "",
-   "market": "📈 DK Utah −6.5, O/U 56.5. Kalshi Utah >7.5 45¢→49¢; Over 57.5 54¢→49¢. No sharp/split data found.",
-   "trend": "",
-   "matchup": ""
-  },
-  {
-   "sport": "CFB",
-   "game": "Purdue @ Penn St.",
-   "time": "1:15 PM PT",
-   "pick": "NO on “Penn St. wins by over 11.5” (= PUR +11.5)",
-   "price": "52¢",
-   "call": "PASS",
-   "why": "Steam on PSU already priced; Kalshi (~−11) sits past DK −9.5/−10.",
-   "recheck": "",
-   "market": "📈 DK PSU opened −7 → −9.5/−10, O/U 54.5, ML −340/+270. Kalshi PSU >10.5 47¢→50¢.",
-   "trend": "",
-   "matchup": "🔍 SI questions whether QB Rocco Becht returns; that status drives the number."
   },
   {
    "sport": "CFB",
@@ -361,36 +229,6 @@
   ]
  },
  "props": [
-  {
-   "slate": "College · Morning (9 AM PT)",
-   "picks": [
-    {
-     "pick": "CJ Carr Over 2.5 Passing TDs (Notre Dame @ Navy, 9 AM PT)",
-     "odds": "-120",
-     "call": "PASS",
-     "signal": 1,
-     "why": "Needs 54.5% at −120; 3+ TD games not shown to clear that, and ND −30.5 may run it. PASS.",
-     "market": "No sharp-line data found. theScore -120 (checked Oct 30); Bovada -115 on same 2.5 line. ND -30.5, total ~56.5.",
-     "trend": "16 TD, 1 INT this season but 0 TDs in BYU loss; 13/16, 218 yds, 3 TD vs Navy in 2025.",
-     "matchup": "Navy has allowed 16 pass TDs in 7 games; blowout risk could cut attempts late (~29-attempt line)."
-    }
-   ]
-  },
-  {
-   "slate": "College · Afternoon (12:30 PM PT)",
-   "picks": [
-    {
-     "pick": "Nate Frazier Anytime TD (Florida vs Georgia (neutral, Atlanta), 12:30 PM PT)",
-     "odds": "-145",
-     "call": "PASS",
-     "signal": 1,
-     "why": "Needs 59% at −145; 6 TDs and 9-19 in his return don't show a 59%+ scoring rate. PASS.",
-     "market": "No sharp-line data found. -145 listed by Bleacher Nation; SBR has -150 at FanDuel. UGA -12.5, total ~56.5.",
-     "trend": "6 TDs this season (2nd on team), but only 19 yds on 9 carries in return vs Auburn.",
-     "matchup": "Georgia favored by 12.5 at Mercedes-Benz Stadium; goal-line work should fall to Frazier with Bowens out."
-    }
-   ]
-  },
   {
    "slate": "College · Night (4:30 PM PT)",
    "picks": [
