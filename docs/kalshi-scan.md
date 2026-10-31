@@ -16,6 +16,8 @@ For every game on today's slate give ONE pick — the best of moneyline side, sp
 - **LEAN** — we like the side but the price is about fair; small/optional.
 - **WAIT** — could become a YES; give the exact trigger (price, injury news) and when to recheck.
 - **PASS** — no clear side (shows as "NO CLEAR SIDE").
+
+**At most 4 LEANs per day** (whole slate, primetime included; YES is not capped). If more games qualify, keep the 4 with the strongest market signal (sharp/handle move, reverse line movement, Kalshi hanging a stale number) and mark the rest PASS with a why like "Fair price; outside today's top 4." A price that only matches the books, with no market signal behind it, is a PASS, not a LEAN. Rechecks keep the cap: upgrading a WAIT to LEAN on a full day means dropping the weakest LEAN.
 Compare Kalshi prices (kalshi.json snapshot; recheck live before betting) with de-vigged sportsbook odds: American +A → 100/(A+100), −A → A/(A+100); de-vig two sides r1/(r1+r2). Kalshi taker fee ≈ ceil(0.07 × contracts × p × (1−p)) to the cent.
 
 **Say exactly what to tap in Kalshi:** for spreads/totals write the pick as the Kalshi contract side, e.g. `NO on “Toledo wins by over 6.5” (= EMU +6.5)` or `YES on “Over 52.5”`. Moneylines stay `Team ML`.
