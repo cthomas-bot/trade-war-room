@@ -325,11 +325,11 @@
     {
       "sleeperId": "4983",
       "name": "DJ Moore",
-      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 8:47 AM PT Nov 1. Earlier: Moore (shoulder) is a true game-time decision for Sunday (Nov 1) vs. Baltimore after limited practices all week. He has missed multiple games with the injury.",
+      "note": "Sleeper now lists him questionable (undisclosed) as of 1:46 PM PT Nov 1.",
       "tag": "injury",
-      "redraftAdj": 1.0,
+      "redraftAdj": 0.98,
       "dynastyAdj": 1.0,
-      "status": null,
+      "status": "Questionable",
       "auto": true
     },
     {
@@ -758,11 +758,11 @@
     {
       "sleeperId": "13287",
       "name": "Jeremiyah Love",
-      "note": "Sleeper now lists him questionable (undisclosed) as of 11:48 AM PT Nov 1.",
+      "note": "Sleeper now lists him out (ankle) as of 1:46 PM PT Nov 1.",
       "tag": "injury",
-      "redraftAdj": 0.98,
+      "redraftAdj": 0.9,
       "dynastyAdj": 1.0,
-      "status": "Questionable",
+      "status": "Out",
       "auto": true
     },
     {
@@ -954,7 +954,17 @@
       "dynastyAdj": 1.0,
       "status": "Out",
       "auto": true
+    },
+    {
+      "sleeperId": "8138",
+      "name": "James Cook III",
+      "note": "Sleeper now lists him questionable (undisclosed) as of 1:46 PM PT Nov 1.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
+      "status": "Questionable",
+      "auto": true
     }
   ],
-  "statusChecked": "12:47 PM PT Nov 1"
+  "statusChecked": "1:46 PM PT Nov 1"
 }
