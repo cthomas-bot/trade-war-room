@@ -31,18 +31,18 @@
    "t": "KC"
   },
   "10232": {
-   "changed": "2026-10-30T21:48:13.297443+00:00",
+   "changed": "2026-11-01T23:43:15.040477+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 1.0,
     "name": "Michael Wilson",
-    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 2:48 PM PT Oct 30. Earlier: Wilson (ribs) was limited Oct 29, his second straight day in a non-contact jersey, which the team calls precautionary. He isn't believed to be in danger of missing Week 8 vs. Dallas.",
-    "redraftAdj": 1.0,
+    "note": "Sleeper now lists him questionable (ribs) as of 3:43 PM PT Nov 1.",
+    "redraftAdj": 0.98,
     "sleeperId": "10232",
-    "status": null,
+    "status": "Questionable",
     "tag": "injury"
    },
-   "i": null,
+   "i": "Questionable",
    "qb1": null,
    "t": "ARI"
   },
@@ -1056,9 +1056,18 @@
    "t": "BAL"
   },
   "3214": {
-   "changed": null,
-   "entry": null,
-   "i": null,
+   "changed": "2026-11-01T23:43:15.040477+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Hunter Henry",
+    "note": "Sleeper now lists him questionable (foot) as of 3:43 PM PT Nov 1.",
+    "redraftAdj": 0.98,
+    "sleeperId": "3214",
+    "status": "Questionable",
+    "tag": "injury"
+   },
+   "i": "Questionable",
    "qb1": null,
    "t": "NE"
   },
