@@ -1,7 +1,7 @@
 {
  "season": "2026",
  "week": 8,
- "updated": "2026-11-01 12:40 AM PT",
+ "updated": "2026-11-01 2:20 AM PT",
  "games": [
   {
    "id": "401873026",
@@ -13,20 +13,20 @@
    "awayScore": "0",
    "venue": "Highmark Stadium",
    "tv": "CBS",
-   "details": "BUF -3.5",
+   "details": "BUF -3",
    "total": 54.5,
    "fav": "BUF",
-   "spread": 3.5,
+   "spread": 3.0,
    "homeML": null,
    "awayML": null,
-   "homeImplied": 29.0,
-   "awayImplied": 25.5,
+   "homeImplied": 28.8,
+   "awayImplied": 25.8,
    "weather": {
     "roof": "open",
-    "temp": 68.4,
-    "precip": 2,
-    "code": 2,
-    "wind": 8.3,
+    "temp": 68.1,
+    "precip": 1,
+    "code": 0,
+    "wind": 7.9,
     "night": false
    }
   },
@@ -40,20 +40,20 @@
    "awayScore": "0",
    "venue": "Paycor Stadium",
    "tv": "CBS",
-   "details": "CIN -12.5",
+   "details": "CIN -13.5",
    "total": 46.5,
    "fav": "CIN",
-   "spread": 12.5,
+   "spread": 13.5,
    "homeML": null,
    "awayML": null,
-   "homeImplied": 29.5,
-   "awayImplied": 17.0,
+   "homeImplied": 30.0,
+   "awayImplied": 16.5,
    "weather": {
     "roof": "open",
-    "temp": 72.2,
-    "precip": 4,
+    "temp": 73.4,
+    "precip": 5,
     "code": 3,
-    "wind": 5.4,
+    "wind": 1.8,
     "night": false
    }
   },
@@ -77,10 +77,10 @@
    "awayImplied": 23.8,
    "weather": {
     "roof": "retract",
-    "temp": 77.6,
+    "temp": 76.8,
     "precip": 2,
     "code": 3,
-    "wind": 1.6,
+    "wind": 3.0,
     "night": false
    }
   },
@@ -126,10 +126,10 @@
    "awayImplied": 22.5,
    "weather": {
     "roof": "open",
-    "temp": 60.3,
+    "temp": 60.1,
     "precip": 0,
     "code": 0,
-    "wind": 3.9,
+    "wind": 3.8,
     "night": false
    }
   },
@@ -144,16 +144,16 @@
    "venue": "Acrisure Stadium",
    "tv": "CBS",
    "details": "PIT -3.5",
-   "total": 39.5,
+   "total": 38.5,
    "fav": "PIT",
    "spread": 3.5,
    "homeML": null,
    "awayML": null,
-   "homeImplied": 21.5,
-   "awayImplied": 18.0,
+   "homeImplied": 21.0,
+   "awayImplied": 17.5,
    "weather": {
     "roof": "open",
-    "temp": 67.5,
+    "temp": 66.6,
     "precip": 4,
     "code": 3,
     "wind": 6.5,
@@ -180,10 +180,10 @@
    "awayImplied": 21.0,
    "weather": {
     "roof": "open",
-    "temp": 78.5,
-    "precip": 30,
+    "temp": 83.1,
+    "precip": 21,
     "code": 3,
-    "wind": 5.8,
+    "wind": 7.7,
     "night": false
    }
   },
@@ -207,10 +207,10 @@
    "awayImplied": 18.2,
    "weather": {
     "roof": "open",
-    "temp": 76.8,
-    "precip": 12,
+    "temp": 75.7,
+    "precip": 13,
     "code": 3,
-    "wind": 9.8,
+    "wind": 9.7,
     "night": false
    }
   },
@@ -224,14 +224,14 @@
    "awayScore": "0",
    "venue": "SoFi Stadium",
    "tv": "Fox",
-   "details": "LAR -6.5",
+   "details": "LAR -6",
    "total": 45.5,
    "fav": "LAR",
-   "spread": 6.5,
+   "spread": 6.0,
    "homeML": null,
    "awayML": null,
-   "homeImplied": 26.0,
-   "awayImplied": 19.5,
+   "homeImplied": 25.8,
+   "awayImplied": 19.8,
    "weather": {
     "roof": "dome"
    }
@@ -256,10 +256,10 @@
    "awayImplied": 21.0,
    "weather": {
     "roof": "open",
-    "temp": 59.8,
+    "temp": 60.4,
     "precip": 2,
     "code": 3,
-    "wind": 7.2,
+    "wind": 5.9,
     "night": false
    }
   },
@@ -283,10 +283,10 @@
    "awayImplied": 25.2,
    "weather": {
     "roof": "open",
-    "temp": 76.9,
-    "precip": 60,
+    "temp": 77.7,
+    "precip": 58,
     "code": 3,
-    "wind": 6.6,
+    "wind": 8.8,
     "night": false
    }
   },
@@ -310,10 +310,10 @@
    "awayImplied": 17.2,
    "weather": {
     "roof": "open",
-    "temp": 51.3,
+    "temp": 49.5,
     "precip": 1,
     "code": 3,
-    "wind": 4.3,
+    "wind": 4.7,
     "night": true
    }
   },
@@ -359,7 +359,7 @@
     "temp": 50.1,
     "precip": 0,
     "code": 3,
-    "wind": 1.4,
+    "wind": 0.7,
     "night": false
    }
   }
