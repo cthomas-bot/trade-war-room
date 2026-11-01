@@ -103,11 +103,12 @@
     {
       "sleeperId": "8155",
       "name": "Breece Hall",
-      "note": "Hall (quad) is questionable for Sunday, Nov. 1, after being limited all week, Oct. 28-30. Expect him to be active, but with a reduced workload in a committee with Braelon Allen.",
+      "note": "Sleeper now lists him out (quadriceps) as of 8:47 AM PT Nov 1. Earlier: Hall (quad) is questionable for Sunday, Nov. 1, after being limited all week, Oct. 28-30. Expect him to be active, but with a reduced workload in a committee with Braelon Allen.",
       "tag": "injury",
-      "redraftAdj": 0.93,
+      "redraftAdj": 0.9,
       "dynastyAdj": 1.0,
-      "status": "Questionable"
+      "status": "Out",
+      "auto": true
     },
     {
       "sleeperId": "12489",
@@ -310,29 +311,32 @@
     {
       "sleeperId": "8137",
       "name": "George Pickens",
-      "note": "Pickens (shoulder, hamstring) is questionable for Sunday (Nov 1) vs. Arizona but is reportedly expected to play. If he sits, Ryan Flournoy moves up.",
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 8:47 AM PT Nov 1. Earlier: Pickens (shoulder, hamstring) is questionable for Sunday (Nov 1) vs. Arizona but is reportedly expected to play. If he sits, Ryan Flournoy moves up.",
       "tag": "injury",
-      "redraftAdj": 0.95,
+      "redraftAdj": 1.0,
       "dynastyAdj": 1.0,
-      "status": "Questionable"
+      "status": null,
+      "auto": true
     },
     {
       "sleeperId": "4983",
       "name": "DJ Moore",
-      "note": "Moore (shoulder) is a true game-time decision for Sunday (Nov 1) vs. Baltimore after limited practices all week. He has missed multiple games with the injury.",
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 8:47 AM PT Nov 1. Earlier: Moore (shoulder) is a true game-time decision for Sunday (Nov 1) vs. Baltimore after limited practices all week. He has missed multiple games with the injury.",
       "tag": "injury",
-      "redraftAdj": 0.88,
+      "redraftAdj": 1.0,
       "dynastyAdj": 1.0,
-      "status": "Questionable"
+      "status": null,
+      "auto": true
     },
     {
       "sleeperId": "5947",
       "name": "Jakobi Meyers",
-      "note": "Meyers (hamstring, ankle) is questionable for Sunday (Nov 1) vs. the Colts. Reports are pessimistic after he was a non-participant on Friday (Oct 30), and Yahoo expects him to sit.",
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 8:47 AM PT Nov 1. Earlier: Meyers (hamstring, ankle) is questionable for Sunday (Nov 1) vs. the Colts. Reports are pessimistic after he was a non-participant on Friday (Oct 30), and Yahoo expects him to sit.",
       "tag": "injury",
-      "redraftAdj": 0.75,
+      "redraftAdj": 1.0,
       "dynastyAdj": 0.99,
-      "status": "Questionable"
+      "status": null,
+      "auto": true
     },
     {
       "sleeperId": "13279",
@@ -634,11 +638,12 @@
     {
       "sleeperId": "10236",
       "name": "Dalton Kincaid",
-      "note": "Kincaid (chest) remains questionable for Sunday's Nov 1 game against Baltimore after practicing in a non-contact jersey Friday. Reports lean toward him playing, but check Buffalo's inactives around 11:30 a.m. ET.",
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 8:47 AM PT Nov 1. Earlier: Kincaid (chest) remains questionable for Sunday's Nov 1 game against Baltimore after practicing in a non-contact jersey Friday. Reports lean toward him playing, but check Buffalo's inactives around 11:30 a.m. ET.",
       "tag": "injury",
-      "redraftAdj": 0.95,
+      "redraftAdj": 1.0,
       "dynastyAdj": 1.0,
-      "status": "Questionable"
+      "status": null,
+      "auto": true
     },
     {
       "sleeperId": "12518",
@@ -844,7 +849,27 @@
       "sleeperId": "9486",
       "status": "Out",
       "tag": "injury"
+    },
+    {
+      "sleeperId": "13306",
+      "name": "Taylen Green",
+      "note": "Sleeper now lists him out (coach's decision) as of 8:47 AM PT Nov 1.",
+      "tag": "injury",
+      "redraftAdj": 0.9,
+      "dynastyAdj": 1.0,
+      "status": "Out",
+      "auto": true
+    },
+    {
+      "sleeperId": "13402",
+      "name": "Skyler Bell",
+      "note": "Sleeper now lists him out (coach's decision) as of 8:47 AM PT Nov 1.",
+      "tag": "injury",
+      "redraftAdj": 0.9,
+      "dynastyAdj": 1.0,
+      "status": "Out",
+      "auto": true
     }
   ],
-  "statusChecked": "6:48 AM PT Nov 1"
+  "statusChecked": "8:47 AM PT Nov 1"
 }
