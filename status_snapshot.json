@@ -389,6 +389,11 @@
    "qb1": null,
    "t": "JAX"
   },
+  "12491": {
+   "i": null,
+   "qb1": null,
+   "t": "NE"
+  },
   "12493": {
    "changed": null,
    "entry": null,
@@ -596,8 +601,18 @@
    "t": "NO"
   },
   "13268": {
-   "changed": "2026-10-28T08:08:19.335831+00:00",
-   "i": null,
+   "changed": "2026-11-01T17:43:52.231016+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 0.95,
+    "name": "Elijah Sarratt",
+    "note": "Sleeper now lists him out (coach's decision) as of 9:43 AM PT Nov 1. Earlier: Sarratt was a healthy scratch on Oct 25 and sits behind Ja'Kobi Lane for Baltimore's WR2 role.",
+    "redraftAdj": 0.85,
+    "sleeperId": "13268",
+    "status": "Out",
+    "tag": "injury"
+   },
+   "i": "Out",
    "qb1": null,
    "t": "BAL"
   },
@@ -609,18 +624,18 @@
    "t": "LV"
   },
   "13272": {
-   "changed": "2026-10-29T23:48:15.777594+00:00",
+   "changed": "2026-11-01T17:43:52.231016+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 0.99,
     "name": "Carson Beck",
-    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 4:48 PM PT Oct 29. Earlier: Beck (back) was limited at practice on Oct. 28 after missing time with back spasms, but coach Mike LaFleur says Jacoby Brissett is still the starter for Week 8 at Dallas. Beck has not been active on a game day this season.",
-    "redraftAdj": 1.0,
+    "note": "Sleeper now lists him out (coach's decision) as of 9:43 AM PT Nov 1. Earlier: Beck (back) is questionable for Sunday's Nov. 1 game at Dallas, and reports point to a Beck debut later in the season, possibly around Week 12. Jacoby Brissett remains the starter.",
+    "redraftAdj": 0.9,
     "sleeperId": "13272",
-    "status": null,
+    "status": "Out",
     "tag": "injury"
    },
-   "i": null,
+   "i": "Out",
    "qb1": false,
    "t": "ARI"
   },
@@ -709,8 +724,18 @@
    "t": "TEN"
   },
   "13289": {
-   "changed": "2026-10-28T08:08:19.335831+00:00",
-   "i": null,
+   "changed": "2026-11-01T17:43:52.231016+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Drew Allar",
+    "note": "Sleeper now lists him out (coach's decision) as of 9:43 AM PT Nov 1.",
+    "redraftAdj": 0.9,
+    "sleeperId": "13289",
+    "status": "Out",
+    "tag": "injury"
+   },
+   "i": "Out",
    "qb1": false,
    "t": "PIT"
   },
@@ -848,8 +873,18 @@
    "t": "CLE"
   },
   "13347": {
-   "changed": "2026-10-28T08:08:19.335831+00:00",
-   "i": null,
+   "changed": "2026-11-01T17:43:52.231016+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Demond Claiborne",
+    "note": "Sleeper now lists him out (coach's decision) as of 9:43 AM PT Nov 1.",
+    "redraftAdj": 0.9,
+    "sleeperId": "13347",
+    "status": "Out",
+    "tag": "injury"
+   },
+   "i": "Out",
    "qb1": null,
    "t": "MIN"
   },
@@ -940,8 +975,18 @@
    "t": "NO"
   },
   "13602": {
-   "changed": "2026-10-28T08:08:19.335831+00:00",
-   "i": null,
+   "changed": "2026-11-01T17:43:52.231016+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Jack Strand",
+    "note": "Sleeper now lists him out (coach's decision) as of 9:43 AM PT Nov 1.",
+    "redraftAdj": 0.9,
+    "sleeperId": "13602",
+    "status": "Out",
+    "tag": "injury"
+   },
+   "i": "Out",
    "qb1": false,
    "t": "ATL"
   },
@@ -1035,6 +1080,11 @@
    "i": null,
    "qb1": true,
    "t": "ARI"
+  },
+  "3271": {
+   "i": null,
+   "qb1": null,
+   "t": "LAR"
   },
   "3294": {
    "changed": null,
@@ -1489,9 +1539,18 @@
    "t": "CIN"
   },
   "7567": {
-   "changed": null,
-   "entry": null,
-   "i": "Questionable",
+   "changed": "2026-11-01T17:43:52.231016+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Kenny Gainwell",
+    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 9:43 AM PT Nov 1. Earlier: Gainwell (hip) is questionable for Week 8 vs. Atlanta on Nov. 1. Bucky Irving practiced fully and has no designation, so Gainwell stays a handcuff.",
+    "redraftAdj": 1.0,
+    "sleeperId": "7567",
+    "status": null,
+    "tag": "injury"
+   },
+   "i": null,
    "qb1": null,
    "t": "TB"
   },

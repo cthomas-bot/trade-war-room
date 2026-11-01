@@ -76,11 +76,12 @@
     {
       "sleeperId": "13272",
       "name": "Carson Beck",
-      "note": "Beck (back) is questionable for Sunday's Nov. 1 game at Dallas, and reports point to a Beck debut later in the season, possibly around Week 12. Jacoby Brissett remains the starter.",
+      "note": "Sleeper now lists him out (coach's decision) as of 9:43 AM PT Nov 1. Earlier: Beck (back) is questionable for Sunday's Nov. 1 game at Dallas, and reports point to a Beck debut later in the season, possibly around Week 12. Jacoby Brissett remains the starter.",
       "tag": "injury",
-      "redraftAdj": 0.95,
+      "redraftAdj": 0.9,
       "dynastyAdj": 0.99,
-      "status": "Questionable"
+      "status": "Out",
+      "auto": true
     },
     {
       "sleeperId": "1166",
@@ -221,11 +222,12 @@
     {
       "sleeperId": "7567",
       "name": "Kenny Gainwell",
-      "note": "Gainwell (hip) is questionable for Week 8 vs. Atlanta on Nov. 1. Bucky Irving practiced fully and has no designation, so Gainwell stays a handcuff.",
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 9:43 AM PT Nov 1. Earlier: Gainwell (hip) is questionable for Week 8 vs. Atlanta on Nov. 1. Bucky Irving practiced fully and has no designation, so Gainwell stays a handcuff.",
       "tag": "injury",
-      "redraftAdj": 0.92,
+      "redraftAdj": 1.0,
       "dynastyAdj": 1.0,
-      "status": "Questionable"
+      "status": null,
+      "auto": true
     },
     {
       "sleeperId": "4034",
@@ -431,11 +433,12 @@
     {
       "sleeperId": "13268",
       "name": "Elijah Sarratt",
-      "note": "Sarratt was a healthy scratch on Oct 25 and sits behind Ja'Kobi Lane for Baltimore's WR2 role.",
-      "tag": "role_down",
+      "note": "Sleeper now lists him out (coach's decision) as of 9:43 AM PT Nov 1. Earlier: Sarratt was a healthy scratch on Oct 25 and sits behind Ja'Kobi Lane for Baltimore's WR2 role.",
+      "tag": "injury",
       "redraftAdj": 0.85,
       "dynastyAdj": 0.95,
-      "status": ""
+      "status": "Out",
+      "auto": true
     },
     {
       "sleeperId": "11834",
@@ -869,7 +872,37 @@
       "dynastyAdj": 1.0,
       "status": "Out",
       "auto": true
+    },
+    {
+      "sleeperId": "13289",
+      "name": "Drew Allar",
+      "note": "Sleeper now lists him out (coach's decision) as of 9:43 AM PT Nov 1.",
+      "tag": "injury",
+      "redraftAdj": 0.9,
+      "dynastyAdj": 1.0,
+      "status": "Out",
+      "auto": true
+    },
+    {
+      "sleeperId": "13347",
+      "name": "Demond Claiborne",
+      "note": "Sleeper now lists him out (coach's decision) as of 9:43 AM PT Nov 1.",
+      "tag": "injury",
+      "redraftAdj": 0.9,
+      "dynastyAdj": 1.0,
+      "status": "Out",
+      "auto": true
+    },
+    {
+      "sleeperId": "13602",
+      "name": "Jack Strand",
+      "note": "Sleeper now lists him out (coach's decision) as of 9:43 AM PT Nov 1.",
+      "tag": "injury",
+      "redraftAdj": 0.9,
+      "dynastyAdj": 1.0,
+      "status": "Out",
+      "auto": true
     }
   ],
-  "statusChecked": "8:47 AM PT Nov 1"
+  "statusChecked": "9:43 AM PT Nov 1"
 }
