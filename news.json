@@ -4,11 +4,12 @@
     {
       "sleeperId": "4881",
       "name": "Lamar Jackson",
-      "note": "Jackson (ankle) practiced fully all week and carries no designation, and Week 8 injury roundups on Nov. 1 report he is cleared to play Sunday at Buffalo after missing three games. Tyler Huntley returns to a backup role.",
-      "tag": "return",
-      "redraftAdj": 1.12,
-      "dynastyAdj": 1.01,
-      "status": ""
+      "note": "Sleeper now lists him out (thumb) as of 10:54 AM PT Nov 1. Earlier: Jackson (ankle) practiced fully all week and carries no designation, and Week 8 injury roundups on Nov. 1 report he is cleared to play Sunday at Buffalo after missing three games. Tyler Huntley returns to a backup role.",
+      "tag": "injury",
+      "redraftAdj": 0.9,
+      "dynastyAdj": 1.0,
+      "status": "Out",
+      "auto": true
     },
     {
       "sleeperId": "11566",
@@ -794,14 +795,14 @@
       "tag": "injury"
     },
     {
-      "auto": true,
-      "dynastyAdj": 1.0,
-      "name": "Amon-Ra St. Brown",
-      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 1:54 PM PT Oct 29. Earlier: He was listed as a non-participant Wednesday (Oct 28) with an ankle injury. One report calls it a shoulder, and it does not appear to be a serious concern so far.",
-      "redraftAdj": 1.0,
       "sleeperId": "7547",
-      "status": null,
-      "tag": "injury"
+      "name": "Amon-Ra St. Brown",
+      "note": "Sleeper now lists him questionable (undisclosed) as of 10:54 AM PT Nov 1.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
+      "status": "Questionable",
+      "auto": true
     },
     {
       "auto": true,
@@ -902,7 +903,37 @@
       "dynastyAdj": 1.0,
       "status": "Out",
       "auto": true
+    },
+    {
+      "sleeperId": "13320",
+      "name": "Zachariah Branch",
+      "note": "Sleeper now lists him out (hamstring) as of 10:54 AM PT Nov 1.",
+      "tag": "injury",
+      "redraftAdj": 0.9,
+      "dynastyAdj": 1.0,
+      "status": "Out",
+      "auto": true
+    },
+    {
+      "sleeperId": "8110",
+      "name": "Jake Ferguson",
+      "note": "Sleeper now lists him questionable (ankle) as of 10:54 AM PT Nov 1.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
+      "status": "Questionable",
+      "auto": true
+    },
+    {
+      "sleeperId": "8112",
+      "name": "Drake London",
+      "note": "Sleeper now lists him questionable (head) as of 10:54 AM PT Nov 1.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
+      "status": "Questionable",
+      "auto": true
     }
   ],
-  "statusChecked": "9:43 AM PT Nov 1"
+  "statusChecked": "10:54 AM PT Nov 1"
 }
