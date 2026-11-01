@@ -305,11 +305,12 @@
     {
       "sleeperId": "7526",
       "name": "Jaylen Waddle",
-      "note": "Waddle (chest) is questionable for Sunday (Nov 1) vs. Kansas City (4:25 ET), and Adam Schefter reports he is trending toward playing. Other outlets still had him around 50/50 after two limited practices, so confirm at Denver's inactives.",
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 12:47 PM PT Nov 1. Earlier: Waddle (chest) is questionable for Sunday (Nov 1) vs. Kansas City (4:25 ET), and Adam Schefter reports he is trending toward playing. Other outlets still had him around 50/50 after two limited practices, so confirm at Denver's inactives.",
       "tag": "injury",
-      "redraftAdj": 0.9,
+      "redraftAdj": 1.0,
       "dynastyAdj": 0.99,
-      "status": "Questionable"
+      "status": null,
+      "auto": true
     },
     {
       "sleeperId": "8137",
@@ -917,11 +918,11 @@
     {
       "sleeperId": "8110",
       "name": "Jake Ferguson",
-      "note": "Sleeper now lists him questionable (ankle) as of 10:54 AM PT Nov 1.",
+      "note": "Sleeper now lists him out (ankle) as of 12:47 PM PT Nov 1.",
       "tag": "injury",
-      "redraftAdj": 0.98,
+      "redraftAdj": 0.9,
       "dynastyAdj": 1.0,
-      "status": "Questionable",
+      "status": "Out",
       "auto": true
     },
     {
@@ -933,7 +934,27 @@
       "dynastyAdj": 1.0,
       "status": "Questionable",
       "auto": true
+    },
+    {
+      "sleeperId": "13275",
+      "name": "Ty Simpson",
+      "note": "Sleeper now lists him out (coach's decision) as of 12:47 PM PT Nov 1.",
+      "tag": "injury",
+      "redraftAdj": 0.9,
+      "dynastyAdj": 1.0,
+      "status": "Out",
+      "auto": true
+    },
+    {
+      "sleeperId": "8122",
+      "name": "Zonovan Knight",
+      "note": "Sleeper now lists him out (concussion) as of 12:47 PM PT Nov 1.",
+      "tag": "injury",
+      "redraftAdj": 0.9,
+      "dynastyAdj": 1.0,
+      "status": "Out",
+      "auto": true
     }
   ],
-  "statusChecked": "11:48 AM PT Nov 1"
+  "statusChecked": "12:47 PM PT Nov 1"
 }

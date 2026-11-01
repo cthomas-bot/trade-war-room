@@ -298,6 +298,11 @@
    "qb1": null,
    "t": "CAR"
   },
+  "11647": {
+   "i": null,
+   "qb1": null,
+   "t": "LAC"
+  },
   "11655": {
    "changed": "2026-10-27T21:46:10.022646+00:00",
    "i": "IR",
@@ -649,8 +654,18 @@
    "t": "PIT"
   },
   "13275": {
-   "changed": "2026-10-28T08:08:19.335831+00:00",
-   "i": null,
+   "changed": "2026-11-01T20:47:14.557385+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Ty Simpson",
+    "note": "Sleeper now lists him out (coach's decision) as of 12:47 PM PT Nov 1.",
+    "redraftAdj": 0.9,
+    "sleeperId": "13275",
+    "status": "Out",
+    "tag": "injury"
+   },
+   "i": "Out",
    "qb1": false,
    "t": "LAR"
   },
@@ -1494,8 +1509,18 @@
    "t": "PHI"
   },
   "7526": {
-   "changed": "2026-10-25T23:37:44.358559+00:00",
-   "i": "Questionable",
+   "changed": "2026-11-01T20:47:14.557385+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 0.99,
+    "name": "Jaylen Waddle",
+    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 12:47 PM PT Nov 1. Earlier: Waddle (chest) is questionable for Sunday (Nov 1) vs. Kansas City (4:25 ET), and Adam Schefter reports he is trending toward playing. Other outlets still had him around 50/50 after two limited practices, so confirm at Denver's inactives.",
+    "redraftAdj": 1.0,
+    "sleeperId": "7526",
+    "status": null,
+    "tag": "injury"
+   },
+   "i": null,
    "qb1": null,
    "t": "DEN"
   },
@@ -1608,18 +1633,18 @@
    "t": "NE"
   },
   "8110": {
-   "changed": "2026-11-01T18:54:30.942188+00:00",
+   "changed": "2026-11-01T20:47:14.557385+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 1.0,
     "name": "Jake Ferguson",
-    "note": "Sleeper now lists him questionable (ankle) as of 10:54 AM PT Nov 1.",
-    "redraftAdj": 0.98,
+    "note": "Sleeper now lists him out (ankle) as of 12:47 PM PT Nov 1.",
+    "redraftAdj": 0.9,
     "sleeperId": "8110",
-    "status": "Questionable",
+    "status": "Out",
     "tag": "injury"
    },
-   "i": "Questionable",
+   "i": "Out",
    "qb1": null,
    "t": "DAL"
   },
@@ -1646,9 +1671,18 @@
    "t": "NE"
   },
   "8122": {
-   "changed": null,
-   "entry": null,
-   "i": null,
+   "changed": "2026-11-01T20:47:14.557385+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Zonovan Knight",
+    "note": "Sleeper now lists him out (concussion) as of 12:47 PM PT Nov 1.",
+    "redraftAdj": 0.9,
+    "sleeperId": "8122",
+    "status": "Out",
+    "tag": "injury"
+   },
+   "i": "Out",
    "qb1": null,
    "t": "ARI"
   },
