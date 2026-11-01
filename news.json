@@ -755,14 +755,14 @@
       "tag": "injury"
     },
     {
-      "auto": true,
-      "dynastyAdj": 1.0,
-      "name": "Jeremiyah Love",
-      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 2:48 PM PT Oct 30. Earlier: Love (ankle) was limited at practice again Thursday, Oct 29, after missing two games. He is trending toward a possible return Sunday at Dallas.",
-      "redraftAdj": 1.0,
       "sleeperId": "13287",
-      "status": null,
-      "tag": "injury"
+      "name": "Jeremiyah Love",
+      "note": "Sleeper now lists him questionable (undisclosed) as of 11:48 AM PT Nov 1.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
+      "status": "Questionable",
+      "auto": true
     },
     {
       "auto": true,
@@ -935,5 +935,5 @@
       "auto": true
     }
   ],
-  "statusChecked": "10:54 AM PT Nov 1"
+  "statusChecked": "11:48 AM PT Nov 1"
 }
