@@ -30,6 +30,19 @@ Claude runs this team as GM; the user is the owner. **Every trade, waiver claim,
 - **Opponent fit:** contenders get win-now vets, and rebuilders get youth or picks. Check each manager's rejected list before re-offering something similar.
 - **Verify before proposing:** check the depth chart, current injuries, and the last 72 hours of news (news.json, reports.json, WebSearch). We don't recommend anything we haven't verified.
 
+## Think like a GM, not a calculator (owner's direction, Nov 1)
+- **Use independent judgment.** The strategy above is a starting point, not a cage. If there's a better path, propose it and explain why. That could mean buying a player with picks, pivoting the timeline, or consolidating 2-for-1.
+- **Picks are currency, not trophies.** Spend them, including 1sts, on players who are clearly worth it: young, ascending, with a role locked in. Compare that to the realistic hit rate of the pick, using our draft study (R1 picks ~60%, Day-2 WRs ~6%).
+- **Challenge the owner when needed.** If a move he wants looks wrong, say so plainly.
+- **Being right beats being busy.** Before **every** proposal, confirm all of these from today's sources:
+  - Depth chart
+  - Injury status
+  - Last 72 hours of news
+  - Coaching or scheme situation
+  - The other manager's roster need
+
+  If something can't be verified, say so or don't propose it. The Anthony Richardson miss (recommended while Daniel Jones was starting) is the standard to never repeat.
+
 ## Daily run output
 1. **Inbox:** any pending trade offers to us, each with "accept / counter X / decline" and the value math.
 2. **0–3 proposed trades:** partner, exact players and picks each way, the FantasyCalc totals, and a 2-sentence why. Rank them best first.
