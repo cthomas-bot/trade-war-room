@@ -1,27 +1,8 @@
 {
  "season": "2026",
  "week": 8,
- "updated": "2026-11-01 5:47 PM PT",
+ "updated": "2026-11-01 8:41 PM PT",
  "games": [
-  {
-   "id": "401873035",
-   "kickoff": "2026-11-02T01:20Z",
-   "state": "in",
-   "home": "WAS",
-   "away": "PHI",
-   "homeScore": "0",
-   "awayScore": "3",
-   "venue": "Northwest Stadium",
-   "tv": "NBC",
-   "weather": {
-    "roof": "open",
-    "temp": 51.9,
-    "precip": 0,
-    "code": 0,
-    "wind": 4.5,
-    "night": true
-   }
-  },
   {
    "id": "401873026",
    "kickoff": "2026-11-01T18:00Z",
@@ -222,6 +203,25 @@
    }
   },
   {
+   "id": "401873035",
+   "kickoff": "2026-11-02T01:20Z",
+   "state": "post",
+   "home": "WAS",
+   "away": "PHI",
+   "homeScore": "27",
+   "awayScore": "10",
+   "venue": "Northwest Stadium",
+   "tv": "NBC",
+   "weather": {
+    "roof": "open",
+    "temp": 50.8,
+    "precip": 0,
+    "code": 0,
+    "wind": 2.9,
+    "night": true
+   }
+  },
+  {
    "id": "401873023",
    "kickoff": "2026-10-30T00:15Z",
    "state": "post",
@@ -263,7 +263,7 @@
     "temp": 50.5,
     "precip": 1,
     "code": 3,
-    "wind": 1.5,
+    "wind": 4.2,
     "night": false
    }
   }
