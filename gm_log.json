@@ -1,1 +1,49 @@
-{"log":[]}
+{
+ "log": [
+  {
+   "date": "2026-11-02",
+   "id": 1,
+   "type": "trade",
+   "partner": "Pscoggs",
+   "give": [
+    "A.J. Brown"
+   ],
+   "get": [
+    "Omar Cooper Jr."
+   ],
+   "values": {
+    "give": 2552,
+    "get": 2677
+   },
+   "status": "proposed",
+   "why": "Sell 29yo injured WR for 22yo ascending rookie; Pscoggs 5-2 with DeVonta Smith out.",
+   "fallback": "A.J. Brown for Pscoggs 2027 2nd + Tre' Harris"
+  },
+  {
+   "date": "2026-11-02",
+   "id": 2,
+   "type": "trade",
+   "partner": "JustMyLuckk",
+   "give": [
+    "T.J. Hockenson"
+   ],
+   "get": [
+    "JustMyLuckk 2027 2nd"
+   ],
+   "values": {
+    "give": 1540,
+    "get": 1486
+   },
+   "status": "proposed",
+   "why": "Sell 29yo TE (we roster 6 TEs) to 5-2 contender whose Jake Ferguson hurt his ankle Nov 1."
+  },
+  {
+   "date": "2026-11-02",
+   "id": 3,
+   "type": "taxi",
+   "move": "Cyrus Allen bench -> taxi (frees a roster spot; 2 taxi slots open)",
+   "status": "proposed",
+   "why": "Open a spot for RB depth once Jeremiyah Love's ankle status is known."
+  }
+ ]
+}
