@@ -1,8 +1,54 @@
 {
  "season": "2026",
  "week": 8,
- "updated": "2026-11-01 8:41 PM PT",
+ "updated": "2026-11-02 12:04 AM PT",
  "games": [
+  {
+   "id": "401873036",
+   "kickoff": "2026-11-03T01:15Z",
+   "state": "pre",
+   "home": "SEA",
+   "away": "CHI",
+   "homeScore": "0",
+   "awayScore": "0",
+   "venue": "Lumen Field",
+   "tv": "ESPN",
+   "details": "SEA -3",
+   "total": 46.5,
+   "fav": "SEA",
+   "spread": 3.0,
+   "homeML": null,
+   "awayML": null,
+   "homeImplied": 24.8,
+   "awayImplied": 21.8,
+   "weather": {
+    "roof": "open",
+    "temp": 50.5,
+    "precip": 1,
+    "code": 3,
+    "wind": 4.2,
+    "night": false
+   }
+  },
+  {
+   "id": "401873023",
+   "kickoff": "2026-10-30T00:15Z",
+   "state": "post",
+   "home": "GB",
+   "away": "CAR",
+   "homeScore": "27",
+   "awayScore": "19",
+   "venue": "Lambeau Field",
+   "tv": "Prime Video",
+   "weather": {
+    "roof": "open",
+    "temp": 53.8,
+    "precip": 0,
+    "code": 0,
+    "wind": 6.5,
+    "night": true
+   }
+  },
   {
    "id": "401873026",
    "kickoff": "2026-11-01T18:00Z",
@@ -219,52 +265,6 @@
     "code": 0,
     "wind": 2.9,
     "night": true
-   }
-  },
-  {
-   "id": "401873023",
-   "kickoff": "2026-10-30T00:15Z",
-   "state": "post",
-   "home": "GB",
-   "away": "CAR",
-   "homeScore": "27",
-   "awayScore": "19",
-   "venue": "Lambeau Field",
-   "tv": "Prime Video",
-   "weather": {
-    "roof": "open",
-    "temp": 53.8,
-    "precip": 0,
-    "code": 0,
-    "wind": 6.5,
-    "night": true
-   }
-  },
-  {
-   "id": "401873036",
-   "kickoff": "2026-11-03T01:15Z",
-   "state": "pre",
-   "home": "SEA",
-   "away": "CHI",
-   "homeScore": "0",
-   "awayScore": "0",
-   "venue": "Lumen Field",
-   "tv": "ESPN",
-   "details": "SEA -3",
-   "total": 46.5,
-   "fav": "SEA",
-   "spread": 3.0,
-   "homeML": null,
-   "awayML": null,
-   "homeImplied": 24.8,
-   "awayImplied": 21.8,
-   "weather": {
-    "roof": "open",
-    "temp": 50.5,
-    "precip": 1,
-    "code": 3,
-    "wind": 4.2,
-    "night": false
    }
   }
  ],
