@@ -604,9 +604,18 @@
    "t": "NYG"
   },
   "13286": {
-   "changed": null,
-   "entry": null,
-   "i": "IR",
+   "changed": "2026-11-02T21:52:16.639247+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Jadarian Price",
+    "note": "Cleared: no longer on Sleeper's injury report (was on injured reserve) as of 1:52 PM PT Nov 2.",
+    "redraftAdj": 0.98,
+    "sleeperId": "13286",
+    "status": null,
+    "tag": "injury"
+   },
+   "i": null,
    "qb1": null,
    "t": "SEA"
   },
@@ -1549,16 +1558,6 @@
   },
   "8132": {
    "changed": "2026-10-30T21:48:13.297443+00:00",
-   "entry": {
-    "auto": true,
-    "dynastyAdj": 0.98,
-    "name": "Tyler Allgeier",
-    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 2:48 PM PT Oct 30. Earlier: Allgeier (toe) was upgraded to limited practice Thursday, Oct 29. Jeremiyah Love was also limited, so Allgeier's Week 8 role at Dallas is unclear.",
-    "redraftAdj": 1.0,
-    "sleeperId": "8132",
-    "status": null,
-    "tag": "injury"
-   },
    "i": null,
    "qb1": null,
    "t": "ARI"
