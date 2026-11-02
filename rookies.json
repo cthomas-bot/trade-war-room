@@ -1,6 +1,6 @@
 {
  "class": 2027,
- "updated": "2026-10-26",
+ "updated": "2026-11-02",
  "format": "Superflex dynasty rookie ADP-style consensus",
  "sources": [
   "DraftSharks 2027 Superflex Rookie Rankings",
@@ -23,7 +23,15 @@
   "CBS Sports 2027 QB class NFL scout survey (Oct 2026)",
   "SI/NBC Sports Heisman odds (Week 9, 2026)",
   "ESPN/CBS/Yahoo Texas 34-27 Ole Miss recaps (Oct 24, 2026)",
-  "Ohio State/AP Julian Sayin injury reports (Oct 20-21, 2026)"
+  "Ohio State/AP Julian Sayin injury reports (Oct 20-21, 2026)",
+  "ESPN Kiper 2027 big board (Oct 30, 2026)",
+  "PFF 2027 stock up/stock down (Week 8, 2026)",
+  "AP/KATU Dante Moore season-ending update (Oct 26-27, 2026)",
+  "AP Kewan Lacy shoulder injury report (Oct 26, 2026)",
+  "Saturday Down South Trey'Dez Green return coverage",
+  "KCTV5/AtoZ Sports/Saturday Down South Austin Simmons coverage (Oct 2026)",
+  "AP Oklahoma State 41-24 West Virginia recap",
+  "Heisman Week 9 rankings (Oct 2026)"
  ],
  "players": [
   {
@@ -42,43 +50,43 @@
    "school": "Miami",
    "year": "RS Jr",
    "tier": 1,
-   "note": "Entered Week 9 second in Heisman odds with 2,151 passing yards and 22 TDs, making him the healthiest QB1 candidate."
+   "note": "Kiper's Oct. 30 board has him QB2 and PFF named him a Week 8 stock riser; he carried 81.4% completions, 2,151 yards, 22 TDs and 1 INT into Week 9 for No. 1 Miami, with a Nov. 7 test vs. Notre Dame."
   },
   {
    "rank": 3,
-   "name": "Dante Moore",
-   "pos": "QB",
-   "school": "Oregon",
-   "year": "RS Jr",
-   "tier": 1,
-   "note": "Has not played since an early-October concussion vs. USC, sitting out the 17-15 UCLA loss, and Footballguys' Oct. 21 board said he still had not returned."
-  },
-  {
-   "rank": 4,
    "name": "Drew Mestemaker",
    "pos": "QB",
    "school": "Oklahoma State",
    "year": "RS So",
-   "tier": 2,
-   "note": "Threw for 304 yards and 2 TDs in the Oct. 10 win over UCF after three straight PFF grades above 89.0, cementing his riser status."
+   "tier": 1,
+   "note": "Mel Kiper's QB1 on his Oct. 30 big board after a 389-yard, 3-TD game in the 41-24 win over West Virginia, on top of the 317-yard passing, 109-yard rushing upset of Oregon."
   },
   {
-   "rank": 5,
+   "rank": 4,
    "name": "CJ Carr",
    "pos": "QB",
    "school": "Notre Dame",
    "year": "RS So",
    "tier": 2,
-   "note": "Footballguys' Oct. 21 board warns he may return to school if his current path holds, though he remains a top-10 name for Kiper."
+   "note": "QB4 on Kiper's Oct. 30 board, but Footballguys' Oct. 21 board still warns he may return to school."
   },
   {
-   "rank": 6,
+   "rank": 5,
    "name": "Arch Manning",
    "pos": "QB",
    "school": "Texas",
    "year": "RS Jr",
    "tier": 2,
-   "note": "Went 13-of-19 for 171 yards, a TD and an INT in the first half as Texas built a 24-3 lead and held on to beat No. 7 Ole Miss 34-27 on Oct. 24, but Footballguys now projects a likely return to school."
+   "note": "Slid to QB6 on Kiper's Oct. 30 board, behind Mestemaker, Mensah, Chambliss, Carr and Austin Simmons, and Footballguys projects a likely return to school."
+  },
+  {
+   "rank": 6,
+   "name": "Trinidad Chambliss",
+   "pos": "QB",
+   "school": "Ole Miss",
+   "year": "Sr",
+   "tier": 2,
+   "note": "Kiper's QB3 on his Oct. 30 board despite going 25-of-52 with 3 INTs in the 34-27 loss at Texas; as a senior, he's the safest bet in the class to actually be in the 2027 draft."
   },
   {
    "rank": 7,
@@ -87,10 +95,28 @@
    "school": "Florida",
    "year": "Jr",
    "tier": 2,
-   "note": "Topped 100 rushing yards with multiple TDs in each of Florida's first four games and remains the class's top dynasty RB."
+   "note": "PFF had him at 438 rushing yards and 8 TDs through three games, but Missouri held him to 13 yards on 12 carries in early October."
   },
   {
    "rank": 8,
+   "name": "Dante Moore",
+   "pos": "QB",
+   "school": "Oregon",
+   "year": "RS Jr",
+   "tier": 2,
+   "note": "Dan Lanning said Oct. 26 that Moore is not expected to return this season after the September concussion vs. USC, and declined to say whether he'll be back at Oregon in 2027."
+  },
+  {
+   "rank": 9,
+   "name": "Austin Simmons",
+   "pos": "QB",
+   "school": "Missouri",
+   "year": "",
+   "tier": 2,
+   "note": "Ole Miss transfer who cracked Kiper's top 10 and is QB5 on his Oct. 30 board, but AtoZ Sports reports NFL sources believe he plans to return to school for 2027."
+  },
+  {
+   "rank": 10,
    "name": "Julian Sayin",
    "pos": "QB",
    "school": "Ohio State",
@@ -99,7 +125,7 @@
    "note": "Out indefinitely with a throwing-arm elbow injury suffered vs. Indiana, and Ryan Day is planning for him to miss the regular season and possibly the postseason."
   },
   {
-   "rank": 9,
+   "rank": 11,
    "name": "Charlie Becker",
    "pos": "WR",
    "school": "Indiana",
@@ -108,7 +134,7 @@
    "note": "PFF Week 7 stock riser after a 9-catch, 165-yard game against Ohio State."
   },
   {
-   "rank": 10,
+   "rank": 12,
    "name": "Cam Coleman",
    "pos": "WR",
    "school": "Texas",
@@ -117,31 +143,13 @@
    "note": "Footballguys is still waiting on his breakout as Texas' offense sputtered before the Oct. 24 win over Ole Miss."
   },
   {
-   "rank": 11,
+   "rank": 13,
    "name": "Ryan Coleman-Williams",
    "pos": "WR",
    "school": "Alabama",
    "year": "Jr",
    "tier": 2,
    "note": "High-ceiling receiver ranked WR3 by Matt Miller; drops have remained a concern in 2026."
-  },
-  {
-   "rank": 12,
-   "name": "Kewan Lacy",
-   "pos": "RB",
-   "school": "Ole Miss",
-   "year": "Jr",
-   "tier": 3,
-   "note": "Left the Oct. 24 loss at Texas with an injury, the latest in a season of thigh and left-shoulder problems."
-  },
-  {
-   "rank": 13,
-   "name": "Trinidad Chambliss",
-   "pos": "QB",
-   "school": "Ole Miss",
-   "year": "Sr",
-   "tier": 3,
-   "note": "Went 25-of-52 for 250 yards, 2 TDs and 3 INTs, including a game-ending Hail Mary pick, in the 34-27 loss at Texas on Oct. 24."
   },
   {
    "rank": 14,
@@ -154,6 +162,15 @@
   },
   {
    "rank": 15,
+   "name": "Trey'Dez Green",
+   "pos": "TE",
+   "school": "LSU",
+   "year": "Jr",
+   "tier": 3,
+   "note": "Back from his Week 3 knee injury: 5 catches, 50 yards and a TD in LSU's 38-17 win at Auburn after missing four games."
+  },
+  {
+   "rank": 16,
    "name": "Isaac Brown",
    "pos": "RB",
    "school": "Louisville",
@@ -162,7 +179,7 @@
    "note": "Top-five RB on Matt Miller's list and 18th in DraftSharks' superflex rankings."
   },
   {
-   "rank": 16,
+   "rank": 17,
    "name": "Mark Fletcher Jr.",
    "pos": "RB",
    "school": "Miami",
@@ -171,16 +188,16 @@
    "note": "Senior power back on Miami's unbeaten offense who shared top billing with Mensah in the 41-13 win at Clemson."
   },
   {
-   "rank": 17,
-   "name": "Trey'Dez Green",
-   "pos": "TE",
-   "school": "LSU",
+   "rank": 18,
+   "name": "Kewan Lacy",
+   "pos": "RB",
+   "school": "Ole Miss",
    "year": "Jr",
    "tier": 3,
-   "note": "Preseason AP first-team All-American and consensus TE1/TE2; injured in Week 3 with a possible return around Week 10."
+   "note": "Dislocated his shoulder in the Oct. 24 loss at Texas and was ruled out vs. Auburn, his third separate 2026 injury after a leg bruise and an earlier shoulder issue."
   },
   {
-   "rank": 18,
+   "rank": 19,
    "name": "Bryant Wesco Jr.",
    "pos": "WR",
    "school": "Clemson",
@@ -189,7 +206,7 @@
    "note": "Separator with 1,245 career yards; slow 2026 start with 16 catches for 163 yards through late September."
   },
   {
-   "rank": 19,
+   "rank": 20,
    "name": "John Mateer",
    "pos": "QB",
    "school": "Oklahoma",
@@ -198,7 +215,7 @@
    "note": "Led Oklahoma's 27-24 Red River win over Texas on Oct. 10 but has appeared on the injury report since."
   },
   {
-   "rank": 20,
+   "rank": 21,
    "name": "LaNorris Sellers",
    "pos": "QB",
    "school": "South Carolina",
@@ -207,7 +224,7 @@
    "note": "NFL personnel staffers called him stock down in CBS's October survey of the 2027 QB class."
   },
   {
-   "rank": 21,
+   "rank": 22,
    "name": "Nate Frazier",
    "pos": "RB",
    "school": "Georgia",
@@ -216,7 +233,7 @@
    "note": "Played through injured ribs, per Footballguys' Oct. 21 board."
   },
   {
-   "rank": 22,
+   "rank": 23,
    "name": "Ryan Wingo",
    "pos": "WR",
    "school": "Texas",
@@ -225,7 +242,7 @@
    "note": "Led Texas with 834 yards in 2025 and opened 2026 with a 7-121-1 game."
   },
   {
-   "rank": 23,
+   "rank": 24,
    "name": "TJ Moore",
    "pos": "WR",
    "school": "Clemson",
@@ -234,7 +251,7 @@
    "note": "837-yard 2025 producer ranked 19th by DraftSharks; Clemson's offense managed just 13 points against Miami on Oct. 3."
   },
   {
-   "rank": 24,
+   "rank": 25,
    "name": "Jayden Maiava",
    "pos": "QB",
    "school": "USC",
@@ -243,7 +260,7 @@
    "note": "6-foot-4 returning starter ranked QB6 on B/R's board after 23 TDs in 2025."
   },
   {
-   "rank": 25,
+   "rank": 26,
    "name": "Ahmad Hardy",
    "pos": "RB",
    "school": "Missouri",
@@ -252,7 +269,7 @@
    "note": "Still had not returned from his offseason gunshot-wound rehab as of Footballguys' Oct. 21 board."
   },
   {
-   "rank": 26,
+   "rank": 27,
    "name": "Sam Leavitt",
    "pos": "QB",
    "school": "LSU",
@@ -261,7 +278,7 @@
    "note": "Arizona State transfer in Lane Kiffin's offense who was a PFF Week 1 stock riser after LSU's rout of Clemson, with scouts debating Day 2 vs. first-round value."
   },
   {
-   "rank": 27,
+   "rank": 28,
    "name": "Nyck Harbor",
    "pos": "WR",
    "school": "South Carolina",
@@ -270,7 +287,7 @@
    "note": "Rare size-speed athlete ranked WR4 by NFL Draft Bible and spotlighted in PFF's Week 5 stock report."
   },
   {
-   "rank": 28,
+   "rank": 29,
    "name": "Justice Haynes",
    "pos": "RB",
    "school": "Michigan",
@@ -279,7 +296,7 @@
    "note": "Senior back in Brugler's top five running backs."
   },
   {
-   "rank": 29,
+   "rank": 30,
    "name": "Duce Robinson",
    "pos": "WR",
    "school": "Florida State",
@@ -288,7 +305,16 @@
    "note": "Big-bodied receiver in NFL Draft Bible's WR top five and Roto Street Journal's superflex mock."
   },
   {
-   "rank": 30,
+   "rank": 31,
+   "name": "Luke Reynolds",
+   "pos": "TE",
+   "school": "Virginia Tech",
+   "year": "",
+   "tier": 4,
+   "note": "PFF Week 8 stock riser at tight end, moving up from Walter Football's TE6 slot."
+  },
+  {
+   "rank": 32,
    "name": "Jamari Johnson",
    "pos": "TE",
    "school": "Oregon",
@@ -297,7 +323,7 @@
    "note": "Falls after PFF named him a Week 6 stock-down tight end, though CBS and ESPN still rate him a top inline TE."
   },
   {
-   "rank": 31,
+   "rank": 33,
    "name": "Raleek Brown",
    "pos": "RB",
    "school": "Texas",
@@ -306,7 +332,7 @@
    "note": "Explosive back on Matt Miller's top-five RB list."
   },
   {
-   "rank": 32,
+   "rank": 34,
    "name": "Reed Harris",
    "pos": "WR",
    "school": "Arizona State",
@@ -315,7 +341,7 @@
    "note": "Contested-catch transfer flagged as a PFF stock riser in 2026."
   },
   {
-   "rank": 33,
+   "rank": 35,
    "name": "Terrance Carter Jr.",
    "pos": "TE",
    "school": "Texas Tech",
@@ -324,7 +350,7 @@
    "note": "Productive but undersized (6-2, 245) tight end ranked TE3-TE5 by most boards."
   },
   {
-   "rank": 34,
+   "rank": 36,
    "name": "Peter Clarke",
    "pos": "TE",
    "school": "Temple",
@@ -333,7 +359,7 @@
    "note": "Led all FBS tight ends with a 90.5 PFF grade in 2025; TE4 on PFF and ESPN lists."
   },
   {
-   "rank": 35,
+   "rank": 37,
    "name": "Caleb Odom",
    "pos": "TE",
    "school": "Ole Miss",
@@ -342,16 +368,7 @@
    "note": "Big receiving tight end who appears on DraftSharks' 2027 board."
   },
   {
-   "rank": 36,
-   "name": "Luke Reynolds",
-   "pos": "TE",
-   "school": "Virginia Tech",
-   "year": "",
-   "tier": 4,
-   "note": "Walter Football's TE6 in its September 2026 update."
-  },
-  {
-   "rank": 37,
+   "rank": 38,
    "name": "Jeremiah Hasley",
    "pos": "TE",
    "school": "Duke",
@@ -360,7 +377,7 @@
    "note": "Walter Football's TE7 in its September 2026 update."
   },
   {
-   "rank": 38,
+   "rank": 39,
    "name": "Decker DeGraaf",
    "pos": "TE",
    "school": "Washington",
@@ -369,7 +386,7 @@
    "note": "Appears in ESPN analysts' top-five 2027 tight ends."
   },
   {
-   "rank": 39,
+   "rank": 40,
    "name": "DJ Vonnahme",
    "pos": "TE",
    "school": "Iowa",
@@ -378,7 +395,7 @@
    "note": "Appears in ESPN analysts' top-five 2027 tight ends."
   },
   {
-   "rank": 40,
+   "rank": 41,
    "name": "Drake Lindsey",
    "pos": "QB",
    "school": "Minnesota",
