@@ -395,16 +395,6 @@
   },
   "12501": {
    "changed": "2026-10-29T23:48:15.777594+00:00",
-   "entry": {
-    "auto": true,
-    "dynastyAdj": 0.99,
-    "name": "Matthew Golden",
-    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 4:48 PM PT Oct 29. Earlier: Golden (shoulder/foot) was upgraded to limited on the Packers' Oct 28 report after two DNPs and is officially questionable for tonight's TNF game vs. Carolina.",
-    "redraftAdj": 1.0,
-    "sleeperId": "12501",
-    "status": null,
-    "tag": "injury"
-   },
    "i": null,
    "qb1": null,
    "t": "GB"
@@ -1056,18 +1046,18 @@
    "t": "BAL"
   },
   "3214": {
-   "changed": "2026-11-01T23:43:15.040477+00:00",
+   "changed": "2026-11-02T01:18:57.166340+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 1.0,
     "name": "Hunter Henry",
-    "note": "Sleeper now lists him questionable (foot) as of 3:43 PM PT Nov 1.",
-    "redraftAdj": 0.98,
+    "note": "Sleeper now lists him out (foot) as of 5:18 PM PT Nov 1.",
+    "redraftAdj": 0.9,
     "sleeperId": "3214",
-    "status": "Questionable",
+    "status": "Out",
     "tag": "injury"
    },
-   "i": "Questionable",
+   "i": "Out",
    "qb1": null,
    "t": "NE"
   },
