@@ -1,608 +1,739 @@
 {
- "updated": "2026-11-03 6:30 AM PT",
- "players": [
-  {
-   "sleeperId": "4881",
-   "name": "Lamar Jackson",
-   "note": "Jackson injured his throwing-hand thumb on his first snap against Buffalo in Week 8 (Nov. 1) and is headed to IR for thumb surgery, out at least four weeks per coach Jesse Minter. Backup Tyler Huntley also left with turf toe, leaving rookie Joe Fagnano in line for Thursday's game vs. Jacksonville.",
-   "tag": "injury",
-   "redraftAdj": 0.35,
-   "dynastyAdj": 0.95,
-   "status": "IR"
-  },
-  {
-   "sleeperId": "3257",
-   "name": "Jacoby Brissett",
-   "note": "Week 8 recaps (Nov. 2) say coach Mike LaFleur moved off Brissett as Arizona's QB1, which opens the door for Gardner Minshew. Carson Beck remains out.",
-   "tag": "role_down",
-   "redraftAdj": 0.4,
-   "dynastyAdj": 0.9,
-   "status": ""
-  },
-  {
-   "sleeperId": "421",
-   "name": "Matthew Stafford",
-   "note": "Sleeper listed Stafford questionable with an arm injury as of Nov. 2. No severity details were found yet, so monitor practice reports this week.",
-   "tag": "injury",
-   "redraftAdj": 0.95,
-   "dynastyAdj": 1.0,
-   "status": "Questionable"
-  },
-  {
-   "sleeperId": "5849",
-   "name": "Kyler Murray",
-   "note": "Sleeper still lists Murray questionable with a hamstring injury (since Nov. 1). No new details on severity were found as of Nov. 3.",
-   "tag": "injury",
-   "redraftAdj": 0.95,
-   "dynastyAdj": 1.0,
-   "status": "Questionable"
-  },
-  {
-   "sleeperId": "6904",
-   "name": "Jalen Hurts",
-   "note": "Hurts remains on season-ending IR after blood clots were found in his lungs, and Tanner McKee is the Eagles' starter.",
-   "tag": "injury",
-   "redraftAdj": 0.1,
-   "dynastyAdj": 0.94,
-   "status": "IR"
-  },
-  {
-   "sleeperId": "9230",
-   "name": "Tanner McKee",
-   "note": "McKee started Week 8 vs. Washington (Nov. 1) with Hurts on season-ending IR, and no benching has been reported. He remains a volatile superflex QB2.",
-   "tag": "role_up",
-   "redraftAdj": 1.08,
-   "dynastyAdj": 1.0,
-   "status": ""
-  },
-  {
-   "sleeperId": "12508",
-   "name": "Jaxson Dart",
-   "note": "Dart is on IR and out for 2026 after left knee meniscus/MCL surgery, and J.J. McCarthy starts for the Giants.",
-   "tag": "injury",
-   "redraftAdj": 0.05,
-   "dynastyAdj": 0.95,
-   "status": "IR"
-  },
-  {
-   "sleeperId": "11565",
-   "name": "J.J. McCarthy",
-   "note": "McCarthy remains the Giants' starter for the rest of the season with Jaxson Dart on IR. He returns from the Week 8 bye (Nov. 1).",
-   "tag": "role_up",
-   "redraftAdj": 1.25,
-   "dynastyAdj": 1.05,
-   "status": ""
-  },
-  {
-   "sleeperId": "13287",
-   "name": "Jeremiyah Love",
-   "note": "Love's right ankle was rolled up on in the Nov. 1 game at Dallas, and he left after 9 carries for 23 yards. On Nov. 2, coach Mike LaFleur called it a new injury to a 'new portion of the ankle,' would not rule out IR, and said he will give more details Wednesday, Nov. 4.",
-   "tag": "injury",
-   "redraftAdj": 0.75,
-   "dynastyAdj": 0.97,
-   "status": "Out"
-  },
-  {
-   "sleeperId": "8132",
-   "name": "Tyler Allgeier",
-   "note": "Love's new ankle injury could lead to an IR stint (LaFleur on Nov. 2 would not rule it out), and Bam Knight is in the concussion protocol, so Allgeier is in line to lead Arizona's backfield in Week 9.",
-   "tag": "role_up",
-   "redraftAdj": 1.18,
-   "dynastyAdj": 1.01,
-   "status": ""
-  },
-  {
-   "sleeperId": "8122",
-   "name": "Zonovan Knight",
-   "note": "Knight missed Week 8 on Nov. 1 with a concussion and must clear protocol before Week 9. If he clears, he would be in line for work behind Allgeier while Love (ankle) is out.",
-   "tag": "injury",
-   "redraftAdj": 0.92,
-   "dynastyAdj": 0.99,
-   "status": "Out"
-  },
-  {
-   "sleeperId": "6790",
-   "name": "D'Andre Swift",
-   "note": "With Kyle Monangai out, Swift carried 27 times for three rushing TDs in Chicago's 34-17 Monday night win at Seattle on Nov. 2. He averaged only 2.6 yards per carry.",
-   "tag": "role_up",
-   "redraftAdj": 1.15,
-   "dynastyAdj": 1.01,
-   "status": ""
-  },
-  {
-   "sleeperId": "12534",
-   "name": "Kyle Monangai",
-   "note": "Monangai (thumb/toe) missed the Nov. 2 Monday night win at Seattle, and Swift handled 27 carries with three TDs. Monangai's role on returning looks reduced.",
-   "tag": "injury",
-   "redraftAdj": 0.85,
-   "dynastyAdj": 0.98,
-   "status": "Out"
-  },
-  {
-   "sleeperId": "9753",
-   "name": "Zach Charbonnet",
-   "note": "Charbonnet made his season debut after his ACL tear on Nov. 2 vs. Chicago and had 6 carries for 23 yards. Jadarian Price out-carried him 10-6, and Seattle ran for just 81 yards in the 34-17 loss.",
-   "tag": "return",
-   "redraftAdj": 0.97,
-   "dynastyAdj": 1.0,
-   "status": ""
-  },
-  {
-   "sleeperId": "13286",
-   "name": "Jadarian Price",
-   "note": "Price was activated from IR on Nov. 2 and led Seattle's backfield with 10 carries for 29 yards that night vs. Chicago. Charbonnet had 6 carries in his return, so this looks like a committee.",
-   "tag": "return",
-   "redraftAdj": 1.02,
-   "dynastyAdj": 1.0,
-   "status": ""
-  },
-  {
-   "sleeperId": "13345",
-   "name": "Jonah Coleman",
-   "note": "Coleman out-snapped J.K. Dobbins 40-14 and ran 18 routes in the Nov. 1 win over Kansas City, finishing with 11 carries for 41 yards and a TD plus 4 catches for 63 yards. With RJ Harvey on IR, Coleman is Denver's lead back.",
-   "tag": "role_up",
-   "redraftAdj": 1.35,
-   "dynastyAdj": 1.12,
-   "status": ""
-  },
-  {
-   "sleeperId": "6806",
-   "name": "J.K. Dobbins",
-   "note": "Dobbins played only 14 snaps to Jonah Coleman's 40 on Nov. 1 vs. Kansas City and had 7 carries for 13 yards on 4 routes run. He has lost the lead role.",
-   "tag": "role_down",
-   "redraftAdj": 0.72,
-   "dynastyAdj": 0.94,
-   "status": ""
-  },
-  {
-   "sleeperId": "12489",
-   "name": "RJ Harvey",
-   "note": "Harvey went on short-term IR on Oct. 31 with a knee injury suffered at practice. Jonah Coleman's 40-snap breakout on Nov. 1 threatens Harvey's role when he returns.",
-   "tag": "injury",
-   "redraftAdj": 0.7,
-   "dynastyAdj": 0.93,
-   "status": "IR"
-  },
-  {
-   "sleeperId": "6813",
-   "name": "Jonathan Taylor",
-   "note": "Schefter reports the Colts are willing to trade Taylor, and Jordan Schultz calls a deal 'more likely than not' before the Nov. 10 deadline. The Giants are a serious bidder, and Seattle, Denver, Minnesota and Green Bay are also linked.",
-   "tag": "trade",
-   "redraftAdj": 1.0,
-   "dynastyAdj": 1.0,
-   "status": ""
-  },
-  {
-   "sleeperId": "13424",
-   "name": "Seth McGowan",
-   "note": "A Jonathan Taylor trade is now reported as 'more likely than not' before the Nov. 10 deadline, and that would make McGowan Indianapolis' lead back.",
-   "tag": "trade",
-   "redraftAdj": 1.12,
-   "dynastyAdj": 1.05,
-   "status": ""
-  },
-  {
-   "sleeperId": "12481",
-   "name": "Cam Skattebo",
-   "note": "The Giants are reported to be a serious bidder for Jonathan Taylor, with Tony Pollard as a fallback, ahead of the Nov. 10 deadline, which would threaten Skattebo's workload. He is expected back from his hamstring tweak for Nov. 8 at Philadelphia.",
-   "tag": "trade",
-   "redraftAdj": 0.92,
-   "dynastyAdj": 0.96,
-   "status": "Questionable"
-  },
-  {
-   "sleeperId": "5967",
-   "name": "Tony Pollard",
-   "note": "Pollard is named as a trade option and a possible Giants fallback if they miss on Jonathan Taylor before the Nov. 10 deadline. No talks have been confirmed. Tyjae Spears (knee) remains out.",
-   "tag": "trade",
-   "redraftAdj": 1.02,
-   "dynastyAdj": 1.0,
-   "status": ""
-  },
-  {
-   "sleeperId": "9508",
-   "name": "Tyjae Spears",
-   "note": "Spears (knee) missed Week 8 on Nov. 1 after not practicing, and Michael Carter handled the receiving-back work. No return timeline has been reported.",
-   "tag": "injury",
-   "redraftAdj": 0.85,
-   "dynastyAdj": 0.98,
-   "status": "Out"
-  },
-  {
-   "sleeperId": "12495",
-   "name": "Ollie Gordon II",
-   "note": "Gordon played 80% of Miami's snaps for the second straight week in Week 8 (Nov. 1), making him the clear featured back while De'Von Achane is on IR.",
-   "tag": "role_up",
-   "redraftAdj": 1.15,
-   "dynastyAdj": 1.04,
-   "status": ""
-  },
-  {
-   "sleeperId": "7567",
-   "name": "Kenny Gainwell",
-   "note": "Gainwell split Tampa Bay's backfield about evenly with Bucky Irving in the Nov. 1 win over Atlanta, his second straight game with 14 or more carries. ESPN calls him a priority insurance back with standalone value.",
-   "tag": "role_up",
-   "redraftAdj": 1.1,
-   "dynastyAdj": 1.01,
-   "status": ""
-  },
-  {
-   "sleeperId": "11586",
-   "name": "Blake Corum",
-   "note": "Corum ran 11 times for 73 yards and a TD in the Rams' Week 8 win on Nov. 1, and he continues to split work with Kyren Williams.",
-   "tag": "role_up",
-   "redraftAdj": 1.06,
-   "dynastyAdj": 1.02,
-   "status": ""
-  },
-  {
-   "sleeperId": "12490",
-   "name": "Bhayshul Tuten",
-   "note": "Tuten out-snapped Chris Rodriguez 27-12 and out-carried him 16-6 in Week 8 (Nov. 1), but Sleeper listed him questionable (ankle) on Nov. 2.",
-   "tag": "injury",
-   "redraftAdj": 1.02,
-   "dynastyAdj": 1.01,
-   "status": "Questionable"
-  },
-  {
-   "sleeperId": "10219",
-   "name": "Chris Rodriguez Jr.",
-   "note": "Rodriguez played only 12 snaps with 6 carries to Bhayshul Tuten's 27 and 16 in Week 8 (Nov. 1). Sleeper listed him questionable (hand) on Nov. 2.",
-   "tag": "role_down",
-   "redraftAdj": 0.88,
-   "dynastyAdj": 0.98,
-   "status": "Questionable"
-  },
-  {
-   "sleeperId": "8138",
-   "name": "James Cook III",
-   "note": "Cook was evaluated for a neck injury after a low hit late in the Nov. 1 game vs. Baltimore. He was cleared of a concussion and returned, though limping. No diagnosis had been reported as of Nov. 3.",
-   "tag": "injury",
-   "redraftAdj": 0.93,
-   "dynastyAdj": 0.99,
-   "status": "Questionable"
-  },
-  {
-   "sleeperId": "8155",
-   "name": "Breece Hall",
-   "note": "Hall (quad) missed Week 8 on Nov. 1 and has not played since Week 3, and Braelon Allen continues to lead the Jets. He is mentioned as a possible deadline trade piece, but there is little reported smoke.",
-   "tag": "injury",
-   "redraftAdj": 0.85,
-   "dynastyAdj": 0.98,
-   "status": "Out"
-  },
-  {
-   "sleeperId": "8154",
-   "name": "Brian Robinson Jr.",
-   "note": "Robinson (hamstring) sat out Week 8 vs. Tampa Bay on Nov. 1, his second straight missed game, and his Week 9 status is unclear.",
-   "tag": "injury",
-   "redraftAdj": 0.85,
-   "dynastyAdj": 0.99,
-   "status": "Out"
-  },
-  {
-   "sleeperId": "5892",
-   "name": "David Montgomery",
-   "note": "Montgomery (groin) missed Weeks 6-7 before Houston's Week 8 bye. Reports suggest he could rejoin a platoon with Woody Marks in Week 9 vs. the Chargers.",
-   "tag": "injury",
-   "redraftAdj": 0.9,
-   "dynastyAdj": 0.98,
-   "status": "Out"
-  },
-  {
-   "sleeperId": "12474",
-   "name": "Woody Marks",
-   "note": "Marks (knee/leg) got the Week 8 bye to heal, but a possible return by David Montgomery in Week 9 vs. the Chargers could put Houston back in a platoon.",
-   "tag": "injury",
-   "redraftAdj": 0.92,
-   "dynastyAdj": 1.0,
-   "status": "Questionable"
-  },
-  {
-   "sleeperId": "4034",
-   "name": "Christian McCaffrey",
-   "note": "McCaffrey (thigh) was questionable coming out of San Francisco's Week 8 bye, and reports suggest he should play in Week 9 vs. Las Vegas.",
-   "tag": "injury",
-   "redraftAdj": 0.98,
-   "dynastyAdj": 1.0,
-   "status": "Questionable"
-  },
-  {
-   "sleeperId": "5859",
-   "name": "A.J. Brown",
-   "note": "Brown (ankle, knee) was ruled out and did not play Nov 1 vs. Miami. No Week 9 timeline has been reported as of Nov 2.",
-   "tag": "injury",
-   "redraftAdj": 0.85,
-   "dynastyAdj": 0.99,
-   "status": "Out"
-  },
-  {
-   "sleeperId": "9501",
-   "name": "DeMario Douglas",
-   "note": "With A.J. Brown out Nov 1, Romeo Doubs and Mack Hollins on IR and Hunter Henry leaving with a foot injury, Douglas is one of New England's few healthy top targets. Hollins could come off IR this week.",
-   "tag": "role_up",
-   "redraftAdj": 1.08,
-   "dynastyAdj": 1.02,
-   "status": ""
-  },
-  {
-   "sleeperId": "13279",
-   "name": "Carnell Tate",
-   "note": "Tate (shoulder) was ruled out Nov 1 at Cincinnati after hurting the shoulder in practice. His Week 9 status depends on this week's practices.",
-   "tag": "injury",
-   "redraftAdj": 0.88,
-   "dynastyAdj": 1.0,
-   "status": "Out"
-  },
-  {
-   "sleeperId": "7525",
-   "name": "DeVonta Smith",
-   "note": "Smith (hamstring) missed the Nov 1 game vs. Washington, and the injury has lingered all season. Philadelphia has given no timeline.",
-   "tag": "injury",
-   "redraftAdj": 0.7,
-   "dynastyAdj": 0.97,
-   "status": "Out"
-  },
-  {
-   "sleeperId": "12514",
-   "name": "Emeka Egbuka",
-   "note": "Egbuka (foot) missed his second straight game on Nov 1. FantasyPros reported Nov 2 that his Week 9 availability depends on how his rehab goes.",
-   "tag": "injury",
-   "redraftAdj": 0.85,
-   "dynastyAdj": 1.0,
-   "status": "Out"
-  },
-  {
-   "sleeperId": "13380",
-   "name": "Brenen Thompson",
-   "note": "Thompson (quad) was out for Week 8. It is a recurrence of the quad injury that cost him Weeks 3-5.",
-   "tag": "injury",
-   "redraftAdj": 0.82,
-   "dynastyAdj": 0.99,
-   "status": "Out"
-  },
-  {
-   "sleeperId": "5872",
-   "name": "Deebo Samuel Sr.",
-   "note": "Samuel (hamstring) has missed two straight games. San Francisco was on bye in Week 8, and he is on Week 9 injury reports while targeting a return.",
-   "tag": "injury",
-   "redraftAdj": 0.75,
-   "dynastyAdj": 0.96,
-   "status": "Out"
-  },
-  {
-   "sleeperId": "2133",
-   "name": "Davante Adams",
-   "note": "Adams remains on IR with a ruptured hamstring, and Sean McVay has given a 6-10 week timeline.",
-   "tag": "injury",
-   "redraftAdj": 0.4,
-   "dynastyAdj": 0.9,
-   "status": "IR"
-  },
-  {
-   "sleeperId": "8142",
-   "name": "Alec Pierce",
-   "note": "Pierce remains on IR with a heel injury. Shane Steichen said his practice window was 'most likely not' opening in Week 8.",
-   "tag": "injury",
-   "redraftAdj": 0.8,
-   "dynastyAdj": 0.98,
-   "status": "IR"
-  },
-  {
-   "sleeperId": "12484",
-   "name": "Jayden Higgins",
-   "note": "Higgins is on IR with a season-ending ACL injury.",
-   "tag": "injury",
-   "redraftAdj": 0.1,
-   "dynastyAdj": 0.92,
-   "status": "IR"
-  },
-  {
-   "sleeperId": "13301",
-   "name": "Antonio Williams",
-   "note": "With Terry McLaurin out for the season (torn patellar tendon), Williams started Nov 1 vs. Philadelphia as Washington's WR2 behind Stefon Diggs.",
-   "tag": "role_up",
-   "redraftAdj": 1.2,
-   "dynastyAdj": 1.1,
-   "status": ""
-  },
-  {
-   "sleeperId": "13293",
-   "name": "Ja'Kobi Lane",
-   "note": "Lamar Jackson's return lasted one snap on Nov 1 at Buffalo, and the thumb injury is sending him to IR. Undrafted rookie Joe Fagnano is the healthy QB for a short week, which hurts Lane's outlook.",
-   "tag": "role_down",
-   "redraftAdj": 0.85,
-   "dynastyAdj": 0.99,
-   "status": ""
-  },
-  {
-   "sleeperId": "7547",
-   "name": "Amon-Ra St. Brown",
-   "note": "St. Brown was evaluated for a concussion in the first quarter Nov 1 vs. Minnesota but returned to the game. No follow-up diagnosis has been reported, so watch Detroit's first Week 9 practice report.",
-   "tag": "injury",
-   "redraftAdj": 0.97,
-   "dynastyAdj": 1.0,
-   "status": "Questionable"
-  },
-  {
-   "sleeperId": "4983",
-   "name": "DJ Moore",
-   "note": "Moore is managing a shoulder injury, and he is still listed questionable. Buffalo lost Josh Palmer to a hamstring injury on Nov 1, which could add to Moore's targets if he is healthy.",
-   "tag": "injury",
-   "redraftAdj": 0.98,
-   "dynastyAdj": 1.0,
-   "status": "Questionable"
-  },
-  {
-   "sleeperId": "11631",
-   "name": "Brian Thomas Jr.",
-   "note": "Pro Football Talk reported Nov 1 that Pittsburgh, Kansas City and Washington have interest in Thomas ahead of the Nov 10 trade deadline.",
-   "tag": "trade",
-   "redraftAdj": 1.0,
-   "dynastyAdj": 1.0,
-   "status": ""
-  },
-  {
-   "sleeperId": "7049",
-   "name": "Jauan Jennings",
-   "note": "A reported trade to San Francisco fell through, and Jennings reportedly wants to stay in Minnesota. He remains a candidate to be moved before the Nov 10 deadline.",
-   "tag": "trade",
-   "redraftAdj": 1.0,
-   "dynastyAdj": 1.0,
-   "status": ""
-  },
-  {
-   "sleeperId": "13274",
-   "name": "Germie Bernard",
-   "note": "Bernard is Pittsburgh's WR2 with Michael Pittman Jr. on IR. The Steelers are reportedly pursuing a receiver such as Brian Thomas Jr. before the Nov 10 deadline, which would threaten his role.",
-   "tag": "role_up",
-   "redraftAdj": 1.05,
-   "dynastyAdj": 1.03,
-   "status": ""
-  },
-  {
-   "sleeperId": "8146",
-   "name": "Garrett Wilson",
-   "note": "Wilson has 9 targets over his last two games while rookie Omar Cooper Jr. emerges. Adam Schefter reported Oct 31 that the Jets will not trade him.",
-   "tag": "role_down",
-   "redraftAdj": 0.9,
-   "dynastyAdj": 0.98,
-   "status": ""
-  },
-  {
-   "sleeperId": "5947",
-   "name": "Jakobi Meyers",
-   "note": "Sleeper lists Meyers questionable (hamstring) as of Nov 2. Watch Jacksonville's Week 9 practice reports.",
-   "tag": "injury",
-   "redraftAdj": 0.97,
-   "dynastyAdj": 0.99,
-   "status": "Questionable"
-  },
-  {
-   "sleeperId": "10232",
-   "name": "Michael Wilson",
-   "note": "Wilson said he suffered two broken ribs in Arizona's Nov 1 win at Dallas, which puts his Week 9 availability in doubt. Fellow Cardinals WR Kendrick Bourne was reported Nov 2 to be out for the season with a leg fracture, so Wilson's role should grow once he's healthy.",
-   "tag": "injury",
-   "redraftAdj": 0.85,
-   "dynastyAdj": 0.99,
-   "status": "Questionable"
-  },
-  {
-   "sleeperId": "8676",
-   "name": "Rashid Shaheed",
-   "note": "Shaheed (knee) sat out Seattle's 34-17 MNF loss to Chicago on Nov 2. Mike Macdonald had earlier called the injury not long-term, but his Week 9 status is unclear.",
-   "tag": "injury",
-   "redraftAdj": 0.85,
-   "dynastyAdj": 0.99,
-   "status": "Out"
-  },
-  {
-   "sleeperId": "2216",
-   "name": "Mike Evans",
-   "note": "Evans (Achilles/ribs) hasn't played since the Oct 19 game he left with Achilles soreness. No clearance for Week 9 had been reported as of Nov 3.",
-   "tag": "injury",
-   "redraftAdj": 0.65,
-   "dynastyAdj": 0.97,
-   "status": "Out"
-  },
-  {
-   "sleeperId": "13281",
-   "name": "Jordyn Tyson",
-   "note": "Tyson (hamstring) is still on IR but is a featured WR add on RotoBaller's Week 9 waiver lists, with his return expected soon after the Saints' bye.",
-   "tag": "return",
-   "redraftAdj": 1.03,
-   "dynastyAdj": 1.0,
-   "status": "IR"
-  },
-  {
-   "sleeperId": "8121",
-   "name": "Romeo Doubs",
-   "note": "Doubs (shoulder) has been on IR since Oct 19 and is out at least through Week 10.",
-   "tag": "injury",
-   "redraftAdj": 0.65,
-   "dynastyAdj": 0.97,
-   "status": "IR"
-  },
-  {
-   "sleeperId": "5927",
-   "name": "Terry McLaurin",
-   "note": "McLaurin tore his left patellar tendon on Oct 19 and is out for the 2026 season. Washington is described as an almost-certain seller ahead of the Nov 10 trade deadline.",
-   "tag": "injury",
-   "redraftAdj": 0.0,
-   "dynastyAdj": 0.85,
-   "status": "IR"
-  },
-  {
-   "sleeperId": "13402",
-   "name": "Skyler Bell",
-   "note": "Bell was a healthy scratch (coach's decision) for Buffalo's Nov 1 game and has been stuck behind Moore, Coleman, Shakir and Palmer in the rotation.",
-   "tag": "role_down",
-   "redraftAdj": 0.85,
-   "dynastyAdj": 0.97,
-   "status": "Out"
-  },
-  {
-   "sleeperId": "13320",
-   "name": "Zachariah Branch",
-   "note": "Branch (hamstring) missed Atlanta's Week 8 loss to Tampa Bay on Nov 1. No Week 9 update had been reported as of Nov 3.",
-   "tag": "injury",
-   "redraftAdj": 0.9,
-   "dynastyAdj": 1.0,
-   "status": "Out"
-  },
-  {
-   "sleeperId": "11624",
-   "name": "Xavier Worthy",
-   "note": "RotoBaller's Week 9 drop list (Nov 2-3) calls Worthy a hold-or-drop candidate, and ESPN's Jeremy Fowler says Kansas City appears ready to add a receiver before the Nov 10 deadline.",
-   "tag": "role_down",
-   "redraftAdj": 0.92,
-   "dynastyAdj": 0.98,
-   "status": ""
-  },
-  {
-   "sleeperId": "3214",
-   "name": "Hunter Henry",
-   "note": "Henry hurt his foot in the second quarter of the Nov 1 win at Miami and played a season-low eight snaps. On Nov 2, Mike Vrabel had no update and said he had no expectations yet about Henry practicing Wednesday.",
-   "tag": "injury",
-   "redraftAdj": 0.85,
-   "dynastyAdj": 0.98,
-   "status": "Out"
-  },
-  {
-   "sleeperId": "13421",
-   "name": "Eli Raridon",
-   "note": "The rookie played a season-high 55 snaps (92%) in the Nov 1 win over Miami after Hunter Henry (foot) left, and Vrabel praised his improved blocking on Nov 2. He would be the lead TE if Henry misses Week 9.",
-   "tag": "role_up",
-   "redraftAdj": 1.12,
-   "dynastyAdj": 1.04,
-   "status": ""
-  },
-  {
-   "sleeperId": "8110",
-   "name": "Jake Ferguson",
-   "note": "Ferguson was diagnosed with a low-ankle sprain from the Nov 1 loss to Arizona. Brian Schottenheimer said Nov 2 that initial feedback was good, he has a chance to play Sunday at Indianapolis, and his practice reps Wednesday through Friday will decide it.",
-   "tag": "injury",
-   "redraftAdj": 0.9,
-   "dynastyAdj": 0.99,
-   "status": "Questionable"
-  },
-  {
-   "sleeperId": "12487",
-   "name": "Terrance Ferguson",
-   "note": "As of Nov 2 reports, Sean McVay indicated the rookie (ankle, IR) has a chance to practice this week, which would open his return window. That would add him to an already crowded Rams TE rotation.",
-   "tag": "return",
-   "redraftAdj": 0.97,
-   "dynastyAdj": 1.0,
-   "status": "IR"
-  },
-  {
-   "sleeperId": "4993",
-   "name": "Mike Gesicki",
-   "note": "Gesicki led Cincinnati's tight ends with 50 snaps in the Nov 1 win over Tennessee, well ahead of Jack Endries (12). With Erick All Jr. on IR he remains the Bengals' lead receiving TE.",
-   "tag": "role_up",
-   "redraftAdj": 1.1,
-   "dynastyAdj": 1.02,
-   "status": ""
-  }
- ]
+  "updated": "2026-11-03 6:30 AM PT",
+  "players": [
+    {
+      "sleeperId": "4881",
+      "name": "Lamar Jackson",
+      "note": "Jackson injured his throwing-hand thumb on his first snap against Buffalo in Week 8 (Nov. 1) and is headed to IR for thumb surgery, out at least four weeks per coach Jesse Minter. Backup Tyler Huntley also left with turf toe, leaving rookie Joe Fagnano in line for Thursday's game vs. Jacksonville.",
+      "tag": "injury",
+      "redraftAdj": 0.35,
+      "dynastyAdj": 0.95,
+      "status": "IR"
+    },
+    {
+      "sleeperId": "3257",
+      "name": "Jacoby Brissett",
+      "note": "Week 8 recaps (Nov. 2) say coach Mike LaFleur moved off Brissett as Arizona's QB1, which opens the door for Gardner Minshew. Carson Beck remains out.",
+      "tag": "role_down",
+      "redraftAdj": 0.4,
+      "dynastyAdj": 0.9,
+      "status": ""
+    },
+    {
+      "sleeperId": "421",
+      "name": "Matthew Stafford",
+      "note": "Sleeper listed Stafford questionable with an arm injury as of Nov. 2. No severity details were found yet, so monitor practice reports this week.",
+      "tag": "injury",
+      "redraftAdj": 0.95,
+      "dynastyAdj": 1.0,
+      "status": "Questionable"
+    },
+    {
+      "sleeperId": "5849",
+      "name": "Kyler Murray",
+      "note": "Sleeper still lists Murray questionable with a hamstring injury (since Nov. 1). No new details on severity were found as of Nov. 3.",
+      "tag": "injury",
+      "redraftAdj": 0.95,
+      "dynastyAdj": 1.0,
+      "status": "Questionable"
+    },
+    {
+      "sleeperId": "6904",
+      "name": "Jalen Hurts",
+      "note": "Hurts remains on season-ending IR after blood clots were found in his lungs, and Tanner McKee is the Eagles' starter.",
+      "tag": "injury",
+      "redraftAdj": 0.1,
+      "dynastyAdj": 0.94,
+      "status": "IR"
+    },
+    {
+      "sleeperId": "9230",
+      "name": "Tanner McKee",
+      "note": "McKee started Week 8 vs. Washington (Nov. 1) with Hurts on season-ending IR, and no benching has been reported. He remains a volatile superflex QB2.",
+      "tag": "role_up",
+      "redraftAdj": 1.08,
+      "dynastyAdj": 1.0,
+      "status": ""
+    },
+    {
+      "sleeperId": "12508",
+      "name": "Jaxson Dart",
+      "note": "Dart is on IR and out for 2026 after left knee meniscus/MCL surgery, and J.J. McCarthy starts for the Giants.",
+      "tag": "injury",
+      "redraftAdj": 0.05,
+      "dynastyAdj": 0.95,
+      "status": "IR"
+    },
+    {
+      "sleeperId": "11565",
+      "name": "J.J. McCarthy",
+      "note": "McCarthy remains the Giants' starter for the rest of the season with Jaxson Dart on IR. He returns from the Week 8 bye (Nov. 1).",
+      "tag": "role_up",
+      "redraftAdj": 1.25,
+      "dynastyAdj": 1.05,
+      "status": ""
+    },
+    {
+      "sleeperId": "13287",
+      "name": "Jeremiyah Love",
+      "note": "Love's right ankle was rolled up on in the Nov. 1 game at Dallas, and he left after 9 carries for 23 yards. On Nov. 2, coach Mike LaFleur called it a new injury to a 'new portion of the ankle,' would not rule out IR, and said he will give more details Wednesday, Nov. 4.",
+      "tag": "injury",
+      "redraftAdj": 0.75,
+      "dynastyAdj": 0.97,
+      "status": "Out"
+    },
+    {
+      "sleeperId": "8132",
+      "name": "Tyler Allgeier",
+      "note": "Love's new ankle injury could lead to an IR stint (LaFleur on Nov. 2 would not rule it out), and Bam Knight is in the concussion protocol, so Allgeier is in line to lead Arizona's backfield in Week 9.",
+      "tag": "role_up",
+      "redraftAdj": 1.18,
+      "dynastyAdj": 1.01,
+      "status": ""
+    },
+    {
+      "sleeperId": "8122",
+      "name": "Zonovan Knight",
+      "note": "Knight missed Week 8 on Nov. 1 with a concussion and must clear protocol before Week 9. If he clears, he would be in line for work behind Allgeier while Love (ankle) is out.",
+      "tag": "injury",
+      "redraftAdj": 0.92,
+      "dynastyAdj": 0.99,
+      "status": "Out"
+    },
+    {
+      "sleeperId": "6790",
+      "name": "D'Andre Swift",
+      "note": "With Kyle Monangai out, Swift carried 27 times for three rushing TDs in Chicago's 34-17 Monday night win at Seattle on Nov. 2. He averaged only 2.6 yards per carry.",
+      "tag": "role_up",
+      "redraftAdj": 1.15,
+      "dynastyAdj": 1.01,
+      "status": ""
+    },
+    {
+      "sleeperId": "12534",
+      "name": "Kyle Monangai",
+      "note": "Monangai (thumb/toe) missed the Nov. 2 Monday night win at Seattle, and Swift handled 27 carries with three TDs. Monangai's role on returning looks reduced.",
+      "tag": "injury",
+      "redraftAdj": 0.85,
+      "dynastyAdj": 0.98,
+      "status": "Out"
+    },
+    {
+      "sleeperId": "9753",
+      "name": "Zach Charbonnet",
+      "note": "Charbonnet made his season debut after his ACL tear on Nov. 2 vs. Chicago and had 6 carries for 23 yards. Jadarian Price out-carried him 10-6, and Seattle ran for just 81 yards in the 34-17 loss.",
+      "tag": "return",
+      "redraftAdj": 0.97,
+      "dynastyAdj": 1.0,
+      "status": ""
+    },
+    {
+      "sleeperId": "13286",
+      "name": "Jadarian Price",
+      "note": "Price was activated from IR on Nov. 2 and led Seattle's backfield with 10 carries for 29 yards that night vs. Chicago. Charbonnet had 6 carries in his return, so this looks like a committee.",
+      "tag": "return",
+      "redraftAdj": 1.02,
+      "dynastyAdj": 1.0,
+      "status": ""
+    },
+    {
+      "sleeperId": "13345",
+      "name": "Jonah Coleman",
+      "note": "Coleman out-snapped J.K. Dobbins 40-14 and ran 18 routes in the Nov. 1 win over Kansas City, finishing with 11 carries for 41 yards and a TD plus 4 catches for 63 yards. With RJ Harvey on IR, Coleman is Denver's lead back.",
+      "tag": "role_up",
+      "redraftAdj": 1.35,
+      "dynastyAdj": 1.12,
+      "status": ""
+    },
+    {
+      "sleeperId": "6806",
+      "name": "J.K. Dobbins",
+      "note": "Dobbins played only 14 snaps to Jonah Coleman's 40 on Nov. 1 vs. Kansas City and had 7 carries for 13 yards on 4 routes run. He has lost the lead role.",
+      "tag": "role_down",
+      "redraftAdj": 0.72,
+      "dynastyAdj": 0.94,
+      "status": ""
+    },
+    {
+      "sleeperId": "12489",
+      "name": "RJ Harvey",
+      "note": "Harvey went on short-term IR on Oct. 31 with a knee injury suffered at practice. Jonah Coleman's 40-snap breakout on Nov. 1 threatens Harvey's role when he returns.",
+      "tag": "injury",
+      "redraftAdj": 0.7,
+      "dynastyAdj": 0.93,
+      "status": "IR"
+    },
+    {
+      "sleeperId": "6813",
+      "name": "Jonathan Taylor",
+      "note": "Schefter reports the Colts are willing to trade Taylor, and Jordan Schultz calls a deal 'more likely than not' before the Nov. 10 deadline. The Giants are a serious bidder, and Seattle, Denver, Minnesota and Green Bay are also linked.",
+      "tag": "trade",
+      "redraftAdj": 1.0,
+      "dynastyAdj": 1.0,
+      "status": ""
+    },
+    {
+      "sleeperId": "13424",
+      "name": "Seth McGowan",
+      "note": "A Jonathan Taylor trade is now reported as 'more likely than not' before the Nov. 10 deadline, and that would make McGowan Indianapolis' lead back.",
+      "tag": "trade",
+      "redraftAdj": 1.12,
+      "dynastyAdj": 1.05,
+      "status": ""
+    },
+    {
+      "sleeperId": "12481",
+      "name": "Cam Skattebo",
+      "note": "The Giants are reported to be a serious bidder for Jonathan Taylor, with Tony Pollard as a fallback, ahead of the Nov. 10 deadline, which would threaten Skattebo's workload. He is expected back from his hamstring tweak for Nov. 8 at Philadelphia.",
+      "tag": "trade",
+      "redraftAdj": 0.92,
+      "dynastyAdj": 0.96,
+      "status": "Questionable"
+    },
+    {
+      "sleeperId": "5967",
+      "name": "Tony Pollard",
+      "note": "Pollard is named as a trade option and a possible Giants fallback if they miss on Jonathan Taylor before the Nov. 10 deadline. No talks have been confirmed. Tyjae Spears (knee) remains out.",
+      "tag": "trade",
+      "redraftAdj": 1.02,
+      "dynastyAdj": 1.0,
+      "status": ""
+    },
+    {
+      "sleeperId": "9508",
+      "name": "Tyjae Spears",
+      "note": "Spears (knee) missed Week 8 on Nov. 1 after not practicing, and Michael Carter handled the receiving-back work. No return timeline has been reported.",
+      "tag": "injury",
+      "redraftAdj": 0.85,
+      "dynastyAdj": 0.98,
+      "status": "Out"
+    },
+    {
+      "sleeperId": "12495",
+      "name": "Ollie Gordon II",
+      "note": "Gordon played 80% of Miami's snaps for the second straight week in Week 8 (Nov. 1), making him the clear featured back while De'Von Achane is on IR.",
+      "tag": "role_up",
+      "redraftAdj": 1.15,
+      "dynastyAdj": 1.04,
+      "status": ""
+    },
+    {
+      "sleeperId": "7567",
+      "name": "Kenny Gainwell",
+      "note": "Gainwell split Tampa Bay's backfield about evenly with Bucky Irving in the Nov. 1 win over Atlanta, his second straight game with 14 or more carries. ESPN calls him a priority insurance back with standalone value.",
+      "tag": "role_up",
+      "redraftAdj": 1.1,
+      "dynastyAdj": 1.01,
+      "status": ""
+    },
+    {
+      "sleeperId": "11586",
+      "name": "Blake Corum",
+      "note": "Corum ran 11 times for 73 yards and a TD in the Rams' Week 8 win on Nov. 1, and he continues to split work with Kyren Williams.",
+      "tag": "role_up",
+      "redraftAdj": 1.06,
+      "dynastyAdj": 1.02,
+      "status": ""
+    },
+    {
+      "sleeperId": "12490",
+      "name": "Bhayshul Tuten",
+      "note": "Tuten out-snapped Chris Rodriguez 27-12 and out-carried him 16-6 in Week 8 (Nov. 1), but Sleeper listed him questionable (ankle) on Nov. 2.",
+      "tag": "injury",
+      "redraftAdj": 1.02,
+      "dynastyAdj": 1.01,
+      "status": "Questionable"
+    },
+    {
+      "sleeperId": "10219",
+      "name": "Chris Rodriguez Jr.",
+      "note": "Rodriguez played only 12 snaps with 6 carries to Bhayshul Tuten's 27 and 16 in Week 8 (Nov. 1). Sleeper listed him questionable (hand) on Nov. 2.",
+      "tag": "role_down",
+      "redraftAdj": 0.88,
+      "dynastyAdj": 0.98,
+      "status": "Questionable"
+    },
+    {
+      "sleeperId": "8138",
+      "name": "James Cook III",
+      "note": "Cook was evaluated for a neck injury after a low hit late in the Nov. 1 game vs. Baltimore. He was cleared of a concussion and returned, though limping. No diagnosis had been reported as of Nov. 3.",
+      "tag": "injury",
+      "redraftAdj": 0.93,
+      "dynastyAdj": 0.99,
+      "status": "Questionable"
+    },
+    {
+      "sleeperId": "8155",
+      "name": "Breece Hall",
+      "note": "Hall (quad) missed Week 8 on Nov. 1 and has not played since Week 3, and Braelon Allen continues to lead the Jets. He is mentioned as a possible deadline trade piece, but there is little reported smoke.",
+      "tag": "injury",
+      "redraftAdj": 0.85,
+      "dynastyAdj": 0.98,
+      "status": "Out"
+    },
+    {
+      "sleeperId": "8154",
+      "name": "Brian Robinson Jr.",
+      "note": "Robinson (hamstring) sat out Week 8 vs. Tampa Bay on Nov. 1, his second straight missed game, and his Week 9 status is unclear.",
+      "tag": "injury",
+      "redraftAdj": 0.85,
+      "dynastyAdj": 0.99,
+      "status": "Out"
+    },
+    {
+      "sleeperId": "5892",
+      "name": "David Montgomery",
+      "note": "Montgomery (groin) missed Weeks 6-7 before Houston's Week 8 bye. Reports suggest he could rejoin a platoon with Woody Marks in Week 9 vs. the Chargers.",
+      "tag": "injury",
+      "redraftAdj": 0.9,
+      "dynastyAdj": 0.98,
+      "status": "Out"
+    },
+    {
+      "sleeperId": "12474",
+      "name": "Woody Marks",
+      "note": "Marks (knee/leg) got the Week 8 bye to heal, but a possible return by David Montgomery in Week 9 vs. the Chargers could put Houston back in a platoon.",
+      "tag": "injury",
+      "redraftAdj": 0.92,
+      "dynastyAdj": 1.0,
+      "status": "Questionable"
+    },
+    {
+      "sleeperId": "4034",
+      "name": "Christian McCaffrey",
+      "note": "McCaffrey (thigh) was questionable coming out of San Francisco's Week 8 bye, and reports suggest he should play in Week 9 vs. Las Vegas.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
+      "status": "Questionable"
+    },
+    {
+      "sleeperId": "5859",
+      "name": "A.J. Brown",
+      "note": "Brown (ankle, knee) was ruled out and did not play Nov 1 vs. Miami. No Week 9 timeline has been reported as of Nov 2.",
+      "tag": "injury",
+      "redraftAdj": 0.85,
+      "dynastyAdj": 0.99,
+      "status": "Out"
+    },
+    {
+      "sleeperId": "9501",
+      "name": "DeMario Douglas",
+      "note": "With A.J. Brown out Nov 1, Romeo Doubs and Mack Hollins on IR and Hunter Henry leaving with a foot injury, Douglas is one of New England's few healthy top targets. Hollins could come off IR this week.",
+      "tag": "role_up",
+      "redraftAdj": 1.08,
+      "dynastyAdj": 1.02,
+      "status": ""
+    },
+    {
+      "sleeperId": "13279",
+      "name": "Carnell Tate",
+      "note": "Tate (shoulder) was ruled out Nov 1 at Cincinnati after hurting the shoulder in practice. His Week 9 status depends on this week's practices.",
+      "tag": "injury",
+      "redraftAdj": 0.88,
+      "dynastyAdj": 1.0,
+      "status": "Out"
+    },
+    {
+      "sleeperId": "7525",
+      "name": "DeVonta Smith",
+      "note": "Smith (hamstring) missed the Nov 1 game vs. Washington, and the injury has lingered all season. Philadelphia has given no timeline.",
+      "tag": "injury",
+      "redraftAdj": 0.7,
+      "dynastyAdj": 0.97,
+      "status": "Out"
+    },
+    {
+      "sleeperId": "12514",
+      "name": "Emeka Egbuka",
+      "note": "Egbuka (foot) missed his second straight game on Nov 1. FantasyPros reported Nov 2 that his Week 9 availability depends on how his rehab goes.",
+      "tag": "injury",
+      "redraftAdj": 0.85,
+      "dynastyAdj": 1.0,
+      "status": "Out"
+    },
+    {
+      "sleeperId": "13380",
+      "name": "Brenen Thompson",
+      "note": "Thompson (quad) was out for Week 8. It is a recurrence of the quad injury that cost him Weeks 3-5.",
+      "tag": "injury",
+      "redraftAdj": 0.82,
+      "dynastyAdj": 0.99,
+      "status": "Out"
+    },
+    {
+      "sleeperId": "5872",
+      "name": "Deebo Samuel Sr.",
+      "note": "Samuel (hamstring) has missed two straight games. San Francisco was on bye in Week 8, and he is on Week 9 injury reports while targeting a return.",
+      "tag": "injury",
+      "redraftAdj": 0.75,
+      "dynastyAdj": 0.96,
+      "status": "Out"
+    },
+    {
+      "sleeperId": "2133",
+      "name": "Davante Adams",
+      "note": "Adams remains on IR with a ruptured hamstring, and Sean McVay has given a 6-10 week timeline.",
+      "tag": "injury",
+      "redraftAdj": 0.4,
+      "dynastyAdj": 0.9,
+      "status": "IR"
+    },
+    {
+      "sleeperId": "8142",
+      "name": "Alec Pierce",
+      "note": "Pierce remains on IR with a heel injury. Shane Steichen said his practice window was 'most likely not' opening in Week 8.",
+      "tag": "injury",
+      "redraftAdj": 0.8,
+      "dynastyAdj": 0.98,
+      "status": "IR"
+    },
+    {
+      "sleeperId": "12484",
+      "name": "Jayden Higgins",
+      "note": "Higgins is on IR with a season-ending ACL injury.",
+      "tag": "injury",
+      "redraftAdj": 0.1,
+      "dynastyAdj": 0.92,
+      "status": "IR"
+    },
+    {
+      "sleeperId": "13301",
+      "name": "Antonio Williams",
+      "note": "With Terry McLaurin out for the season (torn patellar tendon), Williams started Nov 1 vs. Philadelphia as Washington's WR2 behind Stefon Diggs.",
+      "tag": "role_up",
+      "redraftAdj": 1.2,
+      "dynastyAdj": 1.1,
+      "status": ""
+    },
+    {
+      "sleeperId": "13293",
+      "name": "Ja'Kobi Lane",
+      "note": "Lamar Jackson's return lasted one snap on Nov 1 at Buffalo, and the thumb injury is sending him to IR. Undrafted rookie Joe Fagnano is the healthy QB for a short week, which hurts Lane's outlook.",
+      "tag": "role_down",
+      "redraftAdj": 0.85,
+      "dynastyAdj": 0.99,
+      "status": ""
+    },
+    {
+      "sleeperId": "7547",
+      "name": "Amon-Ra St. Brown",
+      "note": "St. Brown was evaluated for a concussion in the first quarter Nov 1 vs. Minnesota but returned to the game. No follow-up diagnosis has been reported, so watch Detroit's first Week 9 practice report.",
+      "tag": "injury",
+      "redraftAdj": 0.97,
+      "dynastyAdj": 1.0,
+      "status": "Questionable"
+    },
+    {
+      "sleeperId": "4983",
+      "name": "DJ Moore",
+      "note": "Moore is managing a shoulder injury, and he is still listed questionable. Buffalo lost Josh Palmer to a hamstring injury on Nov 1, which could add to Moore's targets if he is healthy.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
+      "status": "Questionable"
+    },
+    {
+      "sleeperId": "11631",
+      "name": "Brian Thomas Jr.",
+      "note": "Pro Football Talk reported Nov 1 that Pittsburgh, Kansas City and Washington have interest in Thomas ahead of the Nov 10 trade deadline.",
+      "tag": "trade",
+      "redraftAdj": 1.0,
+      "dynastyAdj": 1.0,
+      "status": ""
+    },
+    {
+      "sleeperId": "7049",
+      "name": "Jauan Jennings",
+      "note": "A reported trade to San Francisco fell through, and Jennings reportedly wants to stay in Minnesota. He remains a candidate to be moved before the Nov 10 deadline.",
+      "tag": "trade",
+      "redraftAdj": 1.0,
+      "dynastyAdj": 1.0,
+      "status": ""
+    },
+    {
+      "sleeperId": "13274",
+      "name": "Germie Bernard",
+      "note": "Bernard is Pittsburgh's WR2 with Michael Pittman Jr. on IR. The Steelers are reportedly pursuing a receiver such as Brian Thomas Jr. before the Nov 10 deadline, which would threaten his role.",
+      "tag": "role_up",
+      "redraftAdj": 1.05,
+      "dynastyAdj": 1.03,
+      "status": ""
+    },
+    {
+      "sleeperId": "8146",
+      "name": "Garrett Wilson",
+      "note": "Wilson has 9 targets over his last two games while rookie Omar Cooper Jr. emerges. Adam Schefter reported Oct 31 that the Jets will not trade him.",
+      "tag": "role_down",
+      "redraftAdj": 0.9,
+      "dynastyAdj": 0.98,
+      "status": ""
+    },
+    {
+      "sleeperId": "5947",
+      "name": "Jakobi Meyers",
+      "note": "Sleeper lists Meyers questionable (hamstring) as of Nov 2. Watch Jacksonville's Week 9 practice reports.",
+      "tag": "injury",
+      "redraftAdj": 0.97,
+      "dynastyAdj": 0.99,
+      "status": "Questionable"
+    },
+    {
+      "sleeperId": "10232",
+      "name": "Michael Wilson",
+      "note": "Wilson said he suffered two broken ribs in Arizona's Nov 1 win at Dallas, which puts his Week 9 availability in doubt. Fellow Cardinals WR Kendrick Bourne was reported Nov 2 to be out for the season with a leg fracture, so Wilson's role should grow once he's healthy.",
+      "tag": "injury",
+      "redraftAdj": 0.85,
+      "dynastyAdj": 0.99,
+      "status": "Questionable"
+    },
+    {
+      "sleeperId": "8676",
+      "name": "Rashid Shaheed",
+      "note": "Shaheed (knee) sat out Seattle's 34-17 MNF loss to Chicago on Nov 2. Mike Macdonald had earlier called the injury not long-term, but his Week 9 status is unclear.",
+      "tag": "injury",
+      "redraftAdj": 0.85,
+      "dynastyAdj": 0.99,
+      "status": "Out"
+    },
+    {
+      "sleeperId": "2216",
+      "name": "Mike Evans",
+      "note": "Evans (Achilles/ribs) hasn't played since the Oct 19 game he left with Achilles soreness. No clearance for Week 9 had been reported as of Nov 3.",
+      "tag": "injury",
+      "redraftAdj": 0.65,
+      "dynastyAdj": 0.97,
+      "status": "Out"
+    },
+    {
+      "sleeperId": "13281",
+      "name": "Jordyn Tyson",
+      "note": "Tyson (hamstring) is still on IR but is a featured WR add on RotoBaller's Week 9 waiver lists, with his return expected soon after the Saints' bye.",
+      "tag": "return",
+      "redraftAdj": 1.03,
+      "dynastyAdj": 1.0,
+      "status": "IR"
+    },
+    {
+      "sleeperId": "8121",
+      "name": "Romeo Doubs",
+      "note": "Doubs (shoulder) has been on IR since Oct 19 and is out at least through Week 10.",
+      "tag": "injury",
+      "redraftAdj": 0.65,
+      "dynastyAdj": 0.97,
+      "status": "IR"
+    },
+    {
+      "sleeperId": "5927",
+      "name": "Terry McLaurin",
+      "note": "McLaurin tore his left patellar tendon on Oct 19 and is out for the 2026 season. Washington is described as an almost-certain seller ahead of the Nov 10 trade deadline.",
+      "tag": "injury",
+      "redraftAdj": 0.0,
+      "dynastyAdj": 0.85,
+      "status": "IR"
+    },
+    {
+      "sleeperId": "13402",
+      "name": "Skyler Bell",
+      "note": "Bell was a healthy scratch (coach's decision) for Buffalo's Nov 1 game and has been stuck behind Moore, Coleman, Shakir and Palmer in the rotation.",
+      "tag": "role_down",
+      "redraftAdj": 0.85,
+      "dynastyAdj": 0.97,
+      "status": "Out"
+    },
+    {
+      "sleeperId": "13320",
+      "name": "Zachariah Branch",
+      "note": "Branch (hamstring) missed Atlanta's Week 8 loss to Tampa Bay on Nov 1. No Week 9 update had been reported as of Nov 3.",
+      "tag": "injury",
+      "redraftAdj": 0.9,
+      "dynastyAdj": 1.0,
+      "status": "Out"
+    },
+    {
+      "sleeperId": "11624",
+      "name": "Xavier Worthy",
+      "note": "RotoBaller's Week 9 drop list (Nov 2-3) calls Worthy a hold-or-drop candidate, and ESPN's Jeremy Fowler says Kansas City appears ready to add a receiver before the Nov 10 deadline.",
+      "tag": "role_down",
+      "redraftAdj": 0.92,
+      "dynastyAdj": 0.98,
+      "status": ""
+    },
+    {
+      "sleeperId": "3214",
+      "name": "Hunter Henry",
+      "note": "Henry hurt his foot in the second quarter of the Nov 1 win at Miami and played a season-low eight snaps. On Nov 2, Mike Vrabel had no update and said he had no expectations yet about Henry practicing Wednesday.",
+      "tag": "injury",
+      "redraftAdj": 0.85,
+      "dynastyAdj": 0.98,
+      "status": "Out"
+    },
+    {
+      "sleeperId": "13421",
+      "name": "Eli Raridon",
+      "note": "The rookie played a season-high 55 snaps (92%) in the Nov 1 win over Miami after Hunter Henry (foot) left, and Vrabel praised his improved blocking on Nov 2. He would be the lead TE if Henry misses Week 9.",
+      "tag": "role_up",
+      "redraftAdj": 1.12,
+      "dynastyAdj": 1.04,
+      "status": ""
+    },
+    {
+      "sleeperId": "8110",
+      "name": "Jake Ferguson",
+      "note": "Ferguson was diagnosed with a low-ankle sprain from the Nov 1 loss to Arizona. Brian Schottenheimer said Nov 2 that initial feedback was good, he has a chance to play Sunday at Indianapolis, and his practice reps Wednesday through Friday will decide it.",
+      "tag": "injury",
+      "redraftAdj": 0.9,
+      "dynastyAdj": 0.99,
+      "status": "Questionable"
+    },
+    {
+      "sleeperId": "12487",
+      "name": "Terrance Ferguson",
+      "note": "As of Nov 2 reports, Sean McVay indicated the rookie (ankle, IR) has a chance to practice this week, which would open his return window. That would add him to an already crowded Rams TE rotation.",
+      "tag": "return",
+      "redraftAdj": 0.97,
+      "dynastyAdj": 1.0,
+      "status": "IR"
+    },
+    {
+      "sleeperId": "4993",
+      "name": "Mike Gesicki",
+      "note": "Gesicki led Cincinnati's tight ends with 50 snaps in the Nov 1 win over Tennessee, well ahead of Jack Endries (12). With Erick All Jr. on IR he remains the Bengals' lead receiving TE.",
+      "tag": "role_up",
+      "redraftAdj": 1.1,
+      "dynastyAdj": 1.02,
+      "status": ""
+    },
+    {
+      "auto": true,
+      "dynastyAdj": 1.0,
+      "name": "Dalton Kincaid",
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 8:47 AM PT Nov 1. Earlier: Kincaid (chest) remains questionable for Sunday's Nov 1 game against Baltimore after practicing in a non-contact jersey Friday. Reports lean toward him playing, but check Buffalo's inactives around 11:30 a.m. ET.",
+      "redraftAdj": 1.0,
+      "sleeperId": "10236",
+      "status": null,
+      "tag": "injury"
+    },
+    {
+      "auto": true,
+      "dynastyAdj": 1.0,
+      "name": "Colston Loveland",
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 12:47 PM PT Oct 31. Earlier: Loveland (neck) was limited in Friday's practice on Oct 30 and is questionable, but early reports expect him to play Monday night at Seattle on Nov 2. With Cole Kmet out for the year, he remains Chicago's lead TE if active.",
+      "redraftAdj": 1.0,
+      "sleeperId": "12517",
+      "status": null,
+      "tag": "injury"
+    },
+    {
+      "auto": true,
+      "dynastyAdj": 1.0,
+      "name": "TreVeyon Henderson",
+      "note": "Sleeper now lists him out (illness) as of 10:42 AM PT Oct 31. Earlier: Henderson is now questionable for Sunday at Miami with an illness after missing practice Thursday and Friday, Oct. 29-30. That makes him a real risk to sit.",
+      "redraftAdj": 0.85,
+      "sleeperId": "12529",
+      "status": "Out",
+      "tag": "injury"
+    },
+    {
+      "auto": true,
+      "dynastyAdj": 0.95,
+      "name": "Elijah Sarratt",
+      "note": "Sleeper now lists him out (coach's decision) as of 9:43 AM PT Nov 1. Earlier: Sarratt was a healthy scratch on Oct 25 and sits behind Ja'Kobi Lane for Baltimore's WR2 role.",
+      "redraftAdj": 0.85,
+      "sleeperId": "13268",
+      "status": "Out",
+      "tag": "injury"
+    },
+    {
+      "auto": true,
+      "dynastyAdj": 0.99,
+      "name": "Carson Beck",
+      "note": "Sleeper now lists him out (coach's decision) as of 9:43 AM PT Nov 1. Earlier: Beck (back) is questionable for Sunday's Nov. 1 game at Dallas, and reports point to a Beck debut later in the season, possibly around Week 12. Jacoby Brissett remains the starter.",
+      "redraftAdj": 0.9,
+      "sleeperId": "13272",
+      "status": "Out",
+      "tag": "injury"
+    },
+    {
+      "auto": true,
+      "dynastyAdj": 1.0,
+      "name": "Ty Simpson",
+      "note": "Sleeper now lists him out (coach's decision) as of 12:47 PM PT Nov 1.",
+      "redraftAdj": 0.9,
+      "sleeperId": "13275",
+      "status": "Out",
+      "tag": "injury"
+    },
+    {
+      "auto": true,
+      "dynastyAdj": 1.0,
+      "name": "Drew Allar",
+      "note": "Sleeper now lists him out (coach's decision) as of 9:43 AM PT Nov 1.",
+      "redraftAdj": 0.9,
+      "sleeperId": "13289",
+      "status": "Out",
+      "tag": "injury"
+    },
+    {
+      "auto": true,
+      "dynastyAdj": 1.0,
+      "name": "Taylen Green",
+      "note": "Sleeper now lists him out (coach's decision) as of 8:47 AM PT Nov 1.",
+      "redraftAdj": 0.9,
+      "sleeperId": "13306",
+      "status": "Out",
+      "tag": "injury"
+    },
+    {
+      "auto": true,
+      "dynastyAdj": 1.0,
+      "name": "Demond Claiborne",
+      "note": "Sleeper now lists him out (coach's decision) as of 9:43 AM PT Nov 1.",
+      "redraftAdj": 0.9,
+      "sleeperId": "13347",
+      "status": "Out",
+      "tag": "injury"
+    },
+    {
+      "auto": true,
+      "dynastyAdj": 1.0,
+      "name": "Jack Strand",
+      "note": "Sleeper now lists him out (coach's decision) as of 9:43 AM PT Nov 1.",
+      "redraftAdj": 0.9,
+      "sleeperId": "13602",
+      "status": "Out",
+      "tag": "injury"
+    },
+    {
+      "auto": true,
+      "dynastyAdj": 0.99,
+      "name": "Jaylen Waddle",
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 12:47 PM PT Nov 1. Earlier: Waddle (chest) is questionable for Sunday (Nov 1) vs. Kansas City (4:25 ET), and Adam Schefter reports he is trending toward playing. Other outlets still had him around 50/50 after two limited practices, so confirm at Denver's inactives.",
+      "redraftAdj": 1.0,
+      "sleeperId": "7526",
+      "status": null,
+      "tag": "injury"
+    },
+    {
+      "auto": true,
+      "dynastyAdj": 1.0,
+      "name": "Drake London",
+      "note": "Sleeper now lists him questionable (head) as of 10:54 AM PT Nov 1.",
+      "redraftAdj": 0.98,
+      "sleeperId": "8112",
+      "status": "Questionable",
+      "tag": "injury"
+    },
+    {
+      "auto": true,
+      "dynastyAdj": 1.0,
+      "name": "George Pickens",
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 8:47 AM PT Nov 1. Earlier: Pickens (shoulder, hamstring) is questionable for Sunday (Nov 1) vs. Arizona but is reportedly expected to play. If he sits, Ryan Flournoy moves up.",
+      "redraftAdj": 1.0,
+      "sleeperId": "8137",
+      "status": null,
+      "tag": "injury"
+    }
+  ],
+  "statusChecked": "6:26 AM PT Nov 3"
 }
