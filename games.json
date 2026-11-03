@@ -1,24 +1,24 @@
 {
  "season": "2026",
  "week": 8,
- "updated": "2026-11-02 5:45 PM PT",
+ "updated": "2026-11-02 8:33 PM PT",
  "games": [
   {
    "id": "401873036",
    "kickoff": "2026-11-03T01:15Z",
-   "state": "in",
+   "state": "post",
    "home": "SEA",
    "away": "CHI",
-   "homeScore": "0",
-   "awayScore": "7",
+   "homeScore": "17",
+   "awayScore": "34",
    "venue": "Lumen Field",
    "tv": "ESPN",
    "weather": {
     "roof": "open",
-    "temp": 46.3,
+    "temp": 47.3,
     "precip": 0,
-    "code": 3,
-    "wind": 1.8,
+    "code": 2,
+    "wind": 2.4,
     "night": false
    }
   },
@@ -441,12 +441,6 @@
    "std": 3.16,
    "opp": "NE"
   },
-  "11644": {
-   "half": 1.25,
-   "ppr": 1.5,
-   "std": 1.0,
-   "opp": "KC"
-  },
   "12496": {
    "half": 1.29,
    "ppr": 1.6,
@@ -859,12 +853,6 @@
    "half": 13.18,
    "ppr": 14.45,
    "std": 11.91,
-   "opp": "CLE"
-  },
-  "8756": {
-   "half": 1.28,
-   "ppr": 1.55,
-   "std": 1.0,
    "opp": "CLE"
   },
   "96": {
@@ -1616,12 +1604,6 @@
    "ppr": 21.87,
    "std": 18.35,
    "opp": "TB"
-  },
-  "11421": {
-   "half": 1.71,
-   "ppr": 2.09,
-   "std": 1.33,
-   "opp": "MIA"
   },
   "11564": {
    "half": 21.06,
