@@ -829,14 +829,14 @@
       "tag": "injury"
     },
     {
-      "auto": true,
-      "dynastyAdj": 0.99,
-      "name": "Jakobi Meyers",
-      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 8:47 AM PT Nov 1. Earlier: Meyers (hamstring, ankle) is questionable for Sunday (Nov 1) vs. the Colts. Reports are pessimistic after he was a non-participant on Friday (Oct 30), and Yahoo expects him to sit.",
-      "redraftAdj": 1.0,
       "sleeperId": "5947",
-      "status": null,
-      "tag": "injury"
+      "name": "Jakobi Meyers",
+      "note": "Sleeper now lists him questionable (hamstring) as of 5:16 PM PT Nov 2.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
+      "dynastyAdj": 0.99,
+      "status": "Questionable",
+      "auto": true
     },
     {
       "auto": true,
@@ -897,7 +897,27 @@
       "dynastyAdj": 1.0,
       "status": "Questionable",
       "auto": true
+    },
+    {
+      "sleeperId": "10219",
+      "name": "Chris Rodriguez Jr.",
+      "note": "Sleeper now lists him questionable (hand) as of 5:16 PM PT Nov 2.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
+      "status": "Questionable",
+      "auto": true
+    },
+    {
+      "sleeperId": "12490",
+      "name": "Bhayshul Tuten",
+      "note": "Sleeper now lists him questionable (ankle) as of 5:16 PM PT Nov 2.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
+      "status": "Questionable",
+      "auto": true
     }
   ],
-  "statusChecked": "3:47 PM PT Nov 2"
+  "statusChecked": "5:16 PM PT Nov 2"
 }
