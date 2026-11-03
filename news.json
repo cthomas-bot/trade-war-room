@@ -76,11 +76,12 @@
     {
       "sleeperId": "13287",
       "name": "Jeremiyah Love",
-      "note": "Love's right ankle was rolled up on in the Nov. 1 game at Dallas, and he left after 9 carries for 23 yards. On Nov. 2, coach Mike LaFleur called it a new injury to a 'new portion of the ankle,' would not rule out IR, and said he will give more details Wednesday, Nov. 4.",
+      "note": "Sleeper now lists him on injured reserve (ankle) as of 1:56 PM PT Nov 3. Earlier: Love's right ankle was rolled up on in the Nov. 1 game at Dallas, and he left after 9 carries for 23 yards. On Nov. 2, coach Mike LaFleur called it a new injury to a 'new portion of the ankle,' would not rule out IR, and said he will give more details Wednesday, Nov. 4.",
       "tag": "injury",
-      "redraftAdj": 0.75,
+      "redraftAdj": 0.7,
       "dynastyAdj": 0.97,
-      "status": "Out"
+      "status": "IR",
+      "auto": true
     },
     {
       "sleeperId": "8132",
@@ -735,5 +736,5 @@
       "tag": "injury"
     }
   ],
-  "statusChecked": "6:26 AM PT Nov 3"
+  "statusChecked": "1:56 PM PT Nov 3"
 }
