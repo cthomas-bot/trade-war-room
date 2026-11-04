@@ -31,11 +31,12 @@
     {
       "sleeperId": "3257",
       "name": "Jacoby Brissett",
-      "note": "Brissett was benched in Week 8, and Gardner Minshew was named Arizona's Week 9 starter vs. Seattle. Brissett has dropped to emergency third-string QB and is mentioned as a trade candidate before the Nov. 10 deadline.",
-      "tag": "role_down",
+      "note": "Sleeper now lists him out (coach's decision) as of 12:06 PM PT Nov 4. Earlier: Brissett was benched in Week 8, and Gardner Minshew was named Arizona's Week 9 starter vs. Seattle. Brissett has dropped to emergency third-string QB and is mentioned as a trade candidate before the Nov. 10 deadline.",
+      "tag": "injury",
       "redraftAdj": 0.55,
       "dynastyAdj": 0.93,
-      "status": ""
+      "status": "Out",
+      "auto": true
     },
     {
       "sleeperId": "6011",
@@ -859,5 +860,5 @@
       "auto": true
     }
   ],
-  "statusChecked": "11:10 AM PT Nov 4"
+  "statusChecked": "12:06 PM PT Nov 4"
 }

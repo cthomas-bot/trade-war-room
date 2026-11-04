@@ -1001,18 +1001,18 @@
    "t": "NE"
   },
   "3257": {
-   "changed": "2026-11-04T02:59:28.400532+00:00",
+   "changed": "2026-11-04T20:06:22.589041+00:00",
    "entry": {
     "auto": true,
-    "dynastyAdj": 0.95,
+    "dynastyAdj": 0.93,
     "name": "Jacoby Brissett",
-    "note": "Sleeper's depth chart now has him as ARI's backup QB as of 6:59 PM PT Nov 3.",
-    "redraftAdj": 0.8,
+    "note": "Sleeper now lists him out (coach's decision) as of 12:06 PM PT Nov 4. Earlier: Brissett was benched in Week 8, and Gardner Minshew was named Arizona's Week 9 starter vs. Seattle. Brissett has dropped to emergency third-string QB and is mentioned as a trade candidate before the Nov. 10 deadline.",
+    "redraftAdj": 0.55,
     "sleeperId": "3257",
-    "status": "",
-    "tag": "role_down"
+    "status": "Out",
+    "tag": "injury"
    },
-   "i": null,
+   "i": "Out",
    "qb1": false,
    "t": "ARI"
   },
@@ -1520,6 +1520,8 @@
    "t": "ATL"
   },
   "7561": {
+   "changed": null,
+   "entry": null,
    "i": null,
    "qb1": null,
    "t": "PHI"
