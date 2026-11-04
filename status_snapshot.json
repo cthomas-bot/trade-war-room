@@ -371,13 +371,6 @@
    "qb1": null,
    "t": "NE"
   },
-  "12493": {
-   "changed": null,
-   "entry": null,
-   "i": null,
-   "qb1": null,
-   "t": "LAC"
-  },
   "12495": {
    "changed": "2026-10-21T07:53:53.206089+00:00",
    "i": null,
@@ -1081,9 +1074,18 @@
    "t": "CHI"
   },
   "4017": {
-   "changed": null,
-   "entry": null,
-   "i": null,
+   "changed": "2026-11-04T15:00:04.992220+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Deshaun Watson",
+    "note": "Sleeper now lists him questionable (concussion) as of 7:00 AM PT Nov 4.",
+    "redraftAdj": 0.98,
+    "sleeperId": "4017",
+    "status": "Questionable",
+    "tag": "injury"
+   },
+   "i": "Questionable",
    "qb1": true,
    "t": "CLE"
   },
@@ -1410,6 +1412,11 @@
    "i": null,
    "qb1": null,
    "t": "CIN"
+  },
+  "6803": {
+   "i": "DNR",
+   "qb1": null,
+   "t": "SF"
   },
   "6804": {
    "changed": "2026-10-22T20:44:07.420050+00:00",
