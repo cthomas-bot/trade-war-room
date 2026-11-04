@@ -663,16 +663,6 @@
   },
   "13289": {
    "changed": "2026-11-01T17:43:52.231016+00:00",
-   "entry": {
-    "auto": true,
-    "dynastyAdj": 1.0,
-    "name": "Drew Allar",
-    "note": "Sleeper now lists him out (coach's decision) as of 9:43 AM PT Nov 1.",
-    "redraftAdj": 0.9,
-    "sleeperId": "13289",
-    "status": "Out",
-    "tag": "injury"
-   },
    "i": "Out",
    "qb1": false,
    "t": "PIT"
@@ -1545,16 +1535,6 @@
   },
   "7567": {
    "changed": "2026-11-01T17:43:52.231016+00:00",
-   "entry": {
-    "auto": true,
-    "dynastyAdj": 1.0,
-    "name": "Kenny Gainwell",
-    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 9:43 AM PT Nov 1. Earlier: Gainwell (hip) is questionable for Week 8 vs. Atlanta on Nov. 1. Bucky Irving practiced fully and has no designation, so Gainwell stays a handcuff.",
-    "redraftAdj": 1.0,
-    "sleeperId": "7567",
-    "status": null,
-    "tag": "injury"
-   },
    "i": null,
    "qb1": null,
    "t": "TB"
@@ -1729,9 +1709,18 @@
    "t": "NO"
   },
   "8146": {
-   "changed": null,
-   "entry": null,
-   "i": null,
+   "changed": "2026-11-04T17:59:32.861670+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 0.98,
+    "name": "Garrett Wilson",
+    "note": "Sleeper now lists him questionable (concussion) as of 9:59 AM PT Nov 4. Earlier: Adonai Mitchell's Week 8 breakout (7-142-1) took the downfield work, leaving Wilson mostly short-area targets, though analysts still call Wilson the Jets' WR1. Schefter reported Oct 31 that the Jets will not trade him.",
+    "redraftAdj": 0.93,
+    "sleeperId": "8146",
+    "status": "Questionable",
+    "tag": "injury"
+   },
+   "i": "Questionable",
    "qb1": null,
    "t": "NYJ"
   },

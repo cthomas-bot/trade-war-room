@@ -474,11 +474,12 @@
     {
       "sleeperId": "8146",
       "name": "Garrett Wilson",
-      "note": "Adonai Mitchell's Week 8 breakout (7-142-1) took the downfield work, leaving Wilson mostly short-area targets, though analysts still call Wilson the Jets' WR1. Schefter reported Oct 31 that the Jets will not trade him.",
-      "tag": "role_down",
+      "note": "Sleeper now lists him questionable (concussion) as of 9:59 AM PT Nov 4. Earlier: Adonai Mitchell's Week 8 breakout (7-142-1) took the downfield work, leaving Wilson mostly short-area targets, though analysts still call Wilson the Jets' WR1. Schefter reported Oct 31 that the Jets will not trade him.",
+      "tag": "injury",
       "redraftAdj": 0.93,
       "dynastyAdj": 0.98,
-      "status": ""
+      "status": "Questionable",
+      "auto": true
     },
     {
       "sleeperId": "13274",
@@ -848,5 +849,5 @@
       "tag": "injury"
     }
   ],
-  "statusChecked": "8:03 AM PT Nov 4"
+  "statusChecked": "9:59 AM PT Nov 4"
 }
