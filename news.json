@@ -59,20 +59,22 @@
     {
       "sleeperId": "12508",
       "name": "Jaxson Dart",
-      "note": "Dart is on IR and out for 2026 after left knee meniscus/MCL surgery, and J.J. McCarthy starts for the Giants.",
-      "tag": "injury",
-      "redraftAdj": 0.05,
-      "dynastyAdj": 0.95,
-      "status": "IR"
+      "tag": "role_up",
+      "redraftAdj": 1.2,
+      "dynastyAdj": 1.05,
+      "status": "IR",
+      "auto": true,
+      "note": "Sleeper's depth chart now has him as NYG's starting QB as of 3:27 AM PT Nov 4."
     },
     {
       "sleeperId": "11565",
       "name": "J.J. McCarthy",
-      "note": "McCarthy remains the Giants' starter for the rest of the season with Jaxson Dart on IR. He returns from the Week 8 bye (Nov. 1).",
-      "tag": "role_up",
-      "redraftAdj": 1.25,
-      "dynastyAdj": 1.05,
-      "status": ""
+      "tag": "role_down",
+      "redraftAdj": 0.8,
+      "dynastyAdj": 0.95,
+      "status": "",
+      "auto": true,
+      "note": "Sleeper's depth chart now has him as NYG's backup QB as of 3:27 AM PT Nov 4."
     },
     {
       "sleeperId": "13287",
@@ -765,5 +767,5 @@
       "auto": true
     }
   ],
-  "statusChecked": "1:06 AM PT Nov 4"
+  "statusChecked": "3:27 AM PT Nov 4"
 }

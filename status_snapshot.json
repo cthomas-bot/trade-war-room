@@ -102,9 +102,19 @@
    "t": "NE"
   },
   "11565": {
-   "changed": "2026-10-23T19:43:26.095658+00:00",
+   "changed": "2026-11-04T11:27:02.771087+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 0.95,
+    "name": "J.J. McCarthy",
+    "note": "Sleeper's depth chart now has him as NYG's backup QB as of 3:27 AM PT Nov 4.",
+    "redraftAdj": 0.8,
+    "sleeperId": "11565",
+    "status": "",
+    "tag": "role_down"
+   },
    "i": null,
-   "qb1": true,
+   "qb1": false,
    "t": "NYG"
   },
   "11566": {
@@ -402,10 +412,19 @@
    "t": "LAC"
   },
   "12508": {
-   "changed": null,
-   "entry": null,
+   "changed": "2026-11-04T11:27:02.771087+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.05,
+    "name": "Jaxson Dart",
+    "note": "Sleeper's depth chart now has him as NYG's starting QB as of 3:27 AM PT Nov 4.",
+    "redraftAdj": 1.2,
+    "sleeperId": "12508",
+    "status": "IR",
+    "tag": "role_up"
+   },
    "i": "IR",
-   "qb1": false,
+   "qb1": true,
    "t": "NYG"
   },
   "12509": {
