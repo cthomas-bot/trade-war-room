@@ -58,20 +58,22 @@
     {
       "sleeperId": "11565",
       "name": "J.J. McCarthy",
-      "note": "McCarthy is the Giants' starter and has 495 passing yards in two starts since the trade. He is a top Week 9 waiver QB add (vs. Philadelphia), even though Sleeper's depth chart oddly lists him as the backup.",
       "tag": "role_up",
-      "redraftAdj": 1.15,
-      "dynastyAdj": 1.03,
-      "status": ""
+      "redraftAdj": 1.2,
+      "dynastyAdj": 1.05,
+      "status": "",
+      "auto": true,
+      "note": "Sleeper's depth chart now has him as NYG's starting QB as of 8:03 AM PT Nov 4."
     },
     {
       "sleeperId": "12508",
       "name": "Jaxson Dart",
-      "note": "Dart remains on IR with an injury reported as likely season-ending; that injury led the Giants to trade for J.J. McCarthy, who is starting. Sleeper's depth chart listing him as the starter (Nov. 4) looks stale.",
-      "tag": "injury",
-      "redraftAdj": 0.1,
-      "dynastyAdj": 0.96,
-      "status": "IR"
+      "tag": "role_down",
+      "redraftAdj": 0.8,
+      "dynastyAdj": 0.95,
+      "status": "IR",
+      "auto": true,
+      "note": "Sleeper's depth chart now has him as NYG's backup QB as of 8:03 AM PT Nov 4."
     },
     {
       "sleeperId": "6904",
@@ -846,5 +848,5 @@
       "tag": "injury"
     }
   ],
-  "statusChecked": "7:00 AM PT Nov 4"
+  "statusChecked": "8:03 AM PT Nov 4"
 }

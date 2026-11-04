@@ -102,19 +102,19 @@
    "t": "NE"
   },
   "11565": {
-   "changed": "2026-11-04T11:27:02.771087+00:00",
+   "changed": "2026-11-04T16:03:39.511676+00:00",
    "entry": {
     "auto": true,
-    "dynastyAdj": 0.95,
+    "dynastyAdj": 1.05,
     "name": "J.J. McCarthy",
-    "note": "Sleeper's depth chart now has him as NYG's backup QB as of 3:27 AM PT Nov 4.",
-    "redraftAdj": 0.8,
+    "note": "Sleeper's depth chart now has him as NYG's starting QB as of 8:03 AM PT Nov 4.",
+    "redraftAdj": 1.2,
     "sleeperId": "11565",
     "status": "",
-    "tag": "role_down"
+    "tag": "role_up"
    },
    "i": null,
-   "qb1": false,
+   "qb1": true,
    "t": "NYG"
   },
   "11566": {
@@ -405,19 +405,19 @@
    "t": "LAC"
   },
   "12508": {
-   "changed": "2026-11-04T11:27:02.771087+00:00",
+   "changed": "2026-11-04T16:03:39.511676+00:00",
    "entry": {
     "auto": true,
-    "dynastyAdj": 1.05,
+    "dynastyAdj": 0.95,
     "name": "Jaxson Dart",
-    "note": "Sleeper's depth chart now has him as NYG's starting QB as of 3:27 AM PT Nov 4.",
-    "redraftAdj": 1.2,
+    "note": "Sleeper's depth chart now has him as NYG's backup QB as of 8:03 AM PT Nov 4.",
+    "redraftAdj": 0.8,
     "sleeperId": "12508",
     "status": "IR",
-    "tag": "role_up"
+    "tag": "role_down"
    },
    "i": "IR",
-   "qb1": true,
+   "qb1": false,
    "t": "NYG"
   },
   "12509": {
@@ -1414,6 +1414,8 @@
    "t": "CIN"
   },
   "6803": {
+   "changed": null,
+   "entry": null,
    "i": "DNR",
    "qb1": null,
    "t": "SF"
