@@ -1,7 +1,7 @@
 {
  "season": "2026",
  "week": 9,
- "updated": "2026-11-03 8:37 PM PT",
+ "updated": "2026-11-03 11:58 PM PT",
  "games": [
   {
    "id": "401873037",
@@ -23,10 +23,10 @@
    "awayImplied": 25.2,
    "weather": {
     "roof": "open",
-    "temp": 66.9,
+    "temp": 69.1,
     "precip": 14,
-    "code": 3,
-    "wind": 3.9,
+    "code": 2,
+    "wind": 6.1,
     "night": true
    }
   },
@@ -77,10 +77,10 @@
    "awayImplied": 28.8,
    "weather": {
     "roof": "retract",
-    "temp": 54.7,
+    "temp": 54.4,
     "precip": 1,
     "code": 0,
-    "wind": 4.8,
+    "wind": 5.0,
     "night": false
    }
   },
@@ -104,10 +104,10 @@
    "awayImplied": 19.0,
    "weather": {
     "roof": "open",
-    "temp": 55.6,
+    "temp": 53.1,
     "precip": 0,
     "code": 0,
-    "wind": 4.0,
+    "wind": 3.3,
     "night": false
    }
   },
@@ -131,10 +131,10 @@
    "awayImplied": 28.8,
    "weather": {
     "roof": "open",
-    "temp": 85.0,
+    "temp": 87.0,
     "precip": 4,
-    "code": 51,
-    "wind": 7.5,
+    "code": 3,
+    "wind": 0.2,
     "night": false
    }
   },
@@ -180,10 +180,10 @@
    "awayImplied": 21.5,
    "weather": {
     "roof": "open",
-    "temp": 57.9,
+    "temp": 59.7,
     "precip": 1,
     "code": 2,
-    "wind": 14.7,
+    "wind": 14.8,
     "night": false
    }
   },
@@ -207,10 +207,10 @@
    "awayImplied": 26.5,
    "weather": {
     "roof": "open",
-    "temp": 58.7,
+    "temp": 60.7,
     "precip": 0,
     "code": 2,
-    "wind": 13.5,
+    "wind": 13.7,
     "night": false
    }
   },
@@ -224,20 +224,20 @@
    "awayScore": "0",
    "venue": "Bank of America Stadium",
    "tv": "CBS",
-   "details": "DEN -3",
+   "details": "DEN -2.5",
    "total": 43.5,
    "fav": "DEN",
-   "spread": 3.0,
+   "spread": 2.5,
    "homeML": null,
    "awayML": null,
-   "homeImplied": 20.2,
-   "awayImplied": 23.2,
+   "homeImplied": 20.5,
+   "awayImplied": 23.0,
    "weather": {
     "roof": "open",
     "temp": 62.6,
     "precip": 1,
     "code": 0,
-    "wind": 2.9,
+    "wind": 4.7,
     "night": false
    }
   },
@@ -283,10 +283,10 @@
    "awayImplied": 21.8,
    "weather": {
     "roof": "open",
-    "temp": 50.4,
+    "temp": 48.8,
     "precip": 5,
-    "code": 3,
-    "wind": 13.6,
+    "code": 51,
+    "wind": 8.9,
     "night": false
    }
   },
@@ -310,10 +310,10 @@
    "awayImplied": 21.2,
    "weather": {
     "roof": "open",
-    "temp": 70.1,
+    "temp": 72.4,
     "precip": 0,
     "code": 0,
-    "wind": 7.8,
+    "wind": 5.9,
     "night": false
    }
   },
@@ -337,10 +337,10 @@
    "awayImplied": 14.5,
    "weather": {
     "roof": "open",
-    "temp": 54.6,
+    "temp": 54.3,
     "precip": 34,
     "code": 3,
-    "wind": 8.7,
+    "wind": 13.0,
     "night": false
    }
   },
@@ -361,7 +361,15 @@
    "homeML": null,
    "awayML": null,
    "homeImplied": 26.8,
-   "awayImplied": 20.8
+   "awayImplied": 20.8,
+   "weather": {
+    "roof": "open",
+    "temp": 50.6,
+    "precip": 2,
+    "code": 0,
+    "wind": 5.9,
+    "night": true
+   }
   },
   {
    "id": "401873051",
@@ -796,9 +804,9 @@
    "opp": "NE"
   },
   "9486": {
-   "half": 4.7,
-   "ppr": 5.69,
-   "std": 3.71,
+   "half": 4.69,
+   "ppr": 5.68,
+   "std": 3.7,
    "opp": "NYG"
   },
   "10214": {
@@ -862,9 +870,9 @@
    "opp": "KC"
   },
   "11632": {
-   "half": 13.24,
-   "ppr": 15.95,
-   "std": 10.53,
+   "half": 13.17,
+   "ppr": 15.87,
+   "std": 10.46,
    "opp": "PHI"
   },
   "11635": {
@@ -1066,9 +1074,9 @@
    "opp": "DET"
   },
   "8131": {
-   "half": 9.68,
-   "ppr": 11.72,
-   "std": 7.64,
+   "half": 9.59,
+   "ppr": 11.63,
+   "std": 7.55,
    "opp": "PHI"
   },
   "8148": {
@@ -1096,9 +1104,9 @@
    "opp": "NE"
   },
   "9230": {
-   "half": 12.09,
-   "ppr": 12.09,
-   "std": 12.09,
+   "half": 12.08,
+   "ppr": 12.08,
+   "std": 12.08,
    "opp": "NYG"
   },
   "9482": {
@@ -1168,9 +1176,9 @@
    "opp": "LAR"
   },
   "12481": {
-   "half": 11.13,
-   "ppr": 12.02,
-   "std": 10.23,
+   "half": 11.06,
+   "ppr": 11.95,
+   "std": 10.16,
    "opp": "PHI"
   },
   "12491": {
@@ -1330,9 +1338,9 @@
    "opp": "NE"
   },
   "7561": {
-   "half": 6.28,
-   "ppr": 6.84,
-   "std": 5.72,
+   "half": 6.3,
+   "ppr": 6.85,
+   "std": 5.74,
    "opp": "NYG"
   },
   "7588": {
@@ -1402,15 +1410,15 @@
    "opp": "CAR"
   },
   "11565": {
-   "half": 16.79,
-   "ppr": 16.79,
-   "std": 16.79,
+   "half": 16.62,
+   "ppr": 16.62,
+   "std": 16.62,
    "opp": "PHI"
   },
   "11597": {
-   "half": 2.4,
-   "ppr": 2.86,
-   "std": 1.94,
+   "half": 2.38,
+   "ppr": 2.84,
+   "std": 1.92,
    "opp": "PHI"
   },
   "11603": {
@@ -1486,9 +1494,9 @@
    "opp": "NYJ"
   },
   "13150": {
-   "half": 2.09,
-   "ppr": 2.5,
-   "std": 1.68,
+   "half": 2.08,
+   "ppr": 2.49,
+   "std": 1.67,
    "opp": "NYG"
   },
   "13277": {
@@ -1564,9 +1572,9 @@
    "opp": "DAL"
   },
   "4866": {
-   "half": 12.01,
-   "ppr": 12.78,
-   "std": 11.25,
+   "half": 12.05,
+   "ppr": 12.81,
+   "std": 11.29,
    "opp": "NYG"
   },
   "5859": {
@@ -1606,9 +1614,9 @@
    "opp": "CIN"
   },
   "7525": {
-   "half": 10.48,
-   "ppr": 12.86,
-   "std": 8.1,
+   "half": 10.46,
+   "ppr": 12.84,
+   "std": 8.09,
    "opp": "NYG"
   },
   "7594": {
@@ -1774,9 +1782,9 @@
    "opp": "KC"
   },
   "13285": {
-   "half": 4.54,
-   "ppr": 5.37,
-   "std": 3.71,
+   "half": 4.51,
+   "ppr": 5.33,
+   "std": 3.68,
    "opp": "PHI"
   },
   "13414": {
@@ -1865,8 +1873,8 @@
   },
   "7090": {
    "half": 2.23,
-   "ppr": 2.69,
-   "std": 1.78,
+   "ppr": 2.68,
+   "std": 1.77,
    "opp": "PHI"
   },
   "7553": {
@@ -2044,9 +2052,9 @@
    "opp": "WAS"
   },
   "13294": {
-   "half": 3.97,
-   "ppr": 5.2,
-   "std": 2.74,
+   "half": 3.96,
+   "ppr": 5.19,
+   "std": 2.73,
    "opp": "NYG"
   },
   "13319": {
@@ -2116,9 +2124,9 @@
    "opp": "SF"
   },
   "5022": {
-   "half": 7.86,
-   "ppr": 9.63,
-   "std": 6.09,
+   "half": 7.85,
+   "ppr": 9.61,
+   "std": 6.08,
    "opp": "NYG"
   },
   "5850": {
@@ -2134,9 +2142,9 @@
    "opp": "LV"
   },
   "6130": {
-   "half": 8.07,
-   "ppr": 8.88,
-   "std": 7.26,
+   "half": 7.99,
+   "ppr": 8.8,
+   "std": 7.18,
    "opp": "PHI"
   },
   "6797": {
@@ -2325,8 +2333,5 @@
    "std": 17.18,
    "opp": "BUF"
   }
- },
- "errors": [
-  "weather CHI: <urlopen error _ssl.c:994: The handshake operation timed out>"
- ]
+ }
 }
