@@ -8,18 +8,18 @@
    "t": "LV"
   },
   "10219": {
-   "changed": "2026-11-03T01:16:55.707998+00:00",
+   "changed": "2026-11-04T21:01:37.211794+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 1.0,
     "name": "Chris Rodriguez Jr.",
-    "note": "Sleeper now lists him questionable (hand) as of 5:16 PM PT Nov 2.",
-    "redraftAdj": 0.98,
+    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 1:01 PM PT Nov 4. Earlier: Rodriguez (hand) was limited at practice Tuesday (Nov. 3). He would be the top candidate to lead Jacksonville's backfield Thursday at Baltimore if Bhayshul Tuten (ankle/foot, DNP twice) sits.",
+    "redraftAdj": 1.0,
     "sleeperId": "10219",
-    "status": "Questionable",
+    "status": null,
     "tag": "injury"
    },
-   "i": "Questionable",
+   "i": null,
    "qb1": null,
    "t": "JAX"
   },
@@ -822,18 +822,18 @@
    "t": "PHI"
   },
   "13380": {
-   "changed": "2026-11-04T09:06:31.989484+00:00",
+   "changed": "2026-11-04T21:01:37.211794+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 1.0,
     "name": "Brenen Thompson",
-    "note": "Sleeper now lists him questionable (quadriceps) as of 1:06 AM PT Nov 4. Earlier: Thompson (quad) was out for Week 8. It is a recurrence of the quad injury that cost him Weeks 3-5.",
-    "redraftAdj": 0.98,
+    "note": "Sleeper now lists him doubtful (quadriceps) as of 1:01 PM PT Nov 4. Earlier: Thompson (quad) was ruled out for Week 8 on Oct 31, a recurrence of the quad injury that cost him Weeks 3-5. Sleeper lists him questionable for Week 9 as of Nov 4.",
+    "redraftAdj": 0.93,
     "sleeperId": "13380",
-    "status": "Questionable",
+    "status": "Out",
     "tag": "injury"
    },
-   "i": "Questionable",
+   "i": "Doubtful",
    "qb1": null,
    "t": "LAC"
   },
@@ -1001,18 +1001,18 @@
    "t": "NE"
   },
   "3257": {
-   "changed": "2026-11-04T20:06:22.589041+00:00",
+   "changed": "2026-11-04T21:01:37.211794+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 0.93,
     "name": "Jacoby Brissett",
-    "note": "Sleeper now lists him out (coach's decision) as of 12:06 PM PT Nov 4. Earlier: Brissett was benched in Week 8, and Gardner Minshew was named Arizona's Week 9 starter vs. Seattle. Brissett has dropped to emergency third-string QB and is mentioned as a trade candidate before the Nov. 10 deadline.",
-    "redraftAdj": 0.55,
+    "note": "Cleared: no longer on Sleeper's injury report (was out) as of 1:01 PM PT Nov 4.",
+    "redraftAdj": 0.98,
     "sleeperId": "3257",
-    "status": "Out",
+    "status": null,
     "tag": "injury"
    },
-   "i": "Out",
+   "i": null,
    "qb1": false,
    "t": "ARI"
   },
@@ -1282,18 +1282,18 @@
    "t": "SF"
   },
   "5892": {
-   "changed": "2026-11-04T09:06:31.989484+00:00",
+   "changed": "2026-11-04T21:01:37.211794+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 1.0,
     "name": "David Montgomery",
-    "note": "Sleeper now lists him questionable (groin) as of 1:06 AM PT Nov 4. Earlier: Montgomery (groin) missed Weeks 6-7 before Houston's Week 8 bye. Reports suggest he could rejoin a platoon with Woody Marks in Week 9 vs. the Chargers.",
-    "redraftAdj": 0.98,
+    "note": "Sleeper now lists him out (groin) as of 1:01 PM PT Nov 4. Earlier: Montgomery (groin) is questionable after missing two games. DeMeco Ryans said he will be evaluated through the week before a decision for Week 9 vs. the Chargers, and Woody Marks has led the backfield.",
+    "redraftAdj": 0.9,
     "sleeperId": "5892",
-    "status": "Questionable",
+    "status": "Out",
     "tag": "injury"
    },
-   "i": "Questionable",
+   "i": "Out",
    "qb1": null,
    "t": "HOU"
   },
@@ -1304,18 +1304,18 @@
    "t": "WAS"
   },
   "5947": {
-   "changed": "2026-11-03T01:16:55.707998+00:00",
+   "changed": "2026-11-04T21:01:37.211794+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 0.99,
     "name": "Jakobi Meyers",
-    "note": "Sleeper now lists him questionable (hamstring) as of 5:16 PM PT Nov 2.",
-    "redraftAdj": 0.98,
+    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 1:01 PM PT Nov 4. Earlier: Meyers was limited on Monday's (Nov 2) estimated practice report with hamstring and ankle injuries, and he is listed questionable.",
+    "redraftAdj": 1.0,
     "sleeperId": "5947",
-    "status": "Questionable",
+    "status": null,
     "tag": "injury"
    },
-   "i": "Questionable",
+   "i": null,
    "qb1": null,
    "t": "JAX"
   },
@@ -1469,16 +1469,6 @@
   },
   "7526": {
    "changed": "2026-11-01T20:47:14.557385+00:00",
-   "entry": {
-    "auto": true,
-    "dynastyAdj": 0.99,
-    "name": "Jaylen Waddle",
-    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 12:47 PM PT Nov 1. Earlier: Waddle (chest) is questionable for Sunday (Nov 1) vs. Kansas City (4:25 ET), and Adam Schefter reports he is trending toward playing. Other outlets still had him around 50/50 after two limited practices, so confirm at Denver's inactives.",
-    "redraftAdj": 1.0,
-    "sleeperId": "7526",
-    "status": null,
-    "tag": "injury"
-   },
    "i": null,
    "qb1": null,
    "t": "DEN"

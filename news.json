@@ -31,11 +31,11 @@
     {
       "sleeperId": "3257",
       "name": "Jacoby Brissett",
-      "note": "Sleeper now lists him out (coach's decision) as of 12:06 PM PT Nov 4. Earlier: Brissett was benched in Week 8, and Gardner Minshew was named Arizona's Week 9 starter vs. Seattle. Brissett has dropped to emergency third-string QB and is mentioned as a trade candidate before the Nov. 10 deadline.",
+      "note": "Cleared: no longer on Sleeper's injury report (was out) as of 1:01 PM PT Nov 4.",
       "tag": "injury",
-      "redraftAdj": 0.55,
+      "redraftAdj": 0.98,
       "dynastyAdj": 0.93,
-      "status": "Out",
+      "status": null,
       "auto": true
     },
     {
@@ -151,11 +151,12 @@
     {
       "sleeperId": "10219",
       "name": "Chris Rodriguez Jr.",
-      "note": "Rodriguez (hand) was limited at practice Tuesday (Nov. 3). He would be the top candidate to lead Jacksonville's backfield Thursday at Baltimore if Bhayshul Tuten (ankle/foot, DNP twice) sits.",
-      "tag": "role_up",
-      "redraftAdj": 1.12,
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 1:01 PM PT Nov 4. Earlier: Rodriguez (hand) was limited at practice Tuesday (Nov. 3). He would be the top candidate to lead Jacksonville's backfield Thursday at Baltimore if Bhayshul Tuten (ankle/foot, DNP twice) sits.",
+      "tag": "injury",
+      "redraftAdj": 1.0,
       "dynastyAdj": 1.0,
-      "status": "Questionable"
+      "status": null,
+      "auto": true
     },
     {
       "sleeperId": "12481",
@@ -268,11 +269,12 @@
     {
       "sleeperId": "5892",
       "name": "David Montgomery",
-      "note": "Montgomery (groin) is questionable after missing two games. DeMeco Ryans said he will be evaluated through the week before a decision for Week 9 vs. the Chargers, and Woody Marks has led the backfield.",
+      "note": "Sleeper now lists him out (groin) as of 1:01 PM PT Nov 4. Earlier: Montgomery (groin) is questionable after missing two games. DeMeco Ryans said he will be evaluated through the week before a decision for Week 9 vs. the Chargers, and Woody Marks has led the backfield.",
       "tag": "injury",
-      "redraftAdj": 0.95,
+      "redraftAdj": 0.9,
       "dynastyAdj": 1.0,
-      "status": "Questionable"
+      "status": "Out",
+      "auto": true
     },
     {
       "sleeperId": "8154",
@@ -421,11 +423,12 @@
     {
       "sleeperId": "13380",
       "name": "Brenen Thompson",
-      "note": "Thompson (quad) was ruled out for Week 8 on Oct 31, a recurrence of the quad injury that cost him Weeks 3-5. Sleeper lists him questionable for Week 9 as of Nov 4.",
+      "note": "Sleeper now lists him doubtful (quadriceps) as of 1:01 PM PT Nov 4. Earlier: Thompson (quad) was ruled out for Week 8 on Oct 31, a recurrence of the quad injury that cost him Weeks 3-5. Sleeper lists him questionable for Week 9 as of Nov 4.",
       "tag": "injury",
-      "redraftAdj": 0.95,
+      "redraftAdj": 0.93,
       "dynastyAdj": 1.0,
-      "status": "Questionable"
+      "status": "Out",
+      "auto": true
     },
     {
       "sleeperId": "7525",
@@ -457,11 +460,12 @@
     {
       "sleeperId": "5947",
       "name": "Jakobi Meyers",
-      "note": "Meyers was limited on Monday's (Nov 2) estimated practice report with hamstring and ankle injuries, and he is listed questionable.",
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 1:01 PM PT Nov 4. Earlier: Meyers was limited on Monday's (Nov 2) estimated practice report with hamstring and ankle injuries, and he is listed questionable.",
       "tag": "injury",
-      "redraftAdj": 0.95,
+      "redraftAdj": 1.0,
       "dynastyAdj": 0.99,
-      "status": "Questionable"
+      "status": null,
+      "auto": true
     },
     {
       "sleeperId": "11631",
@@ -860,5 +864,5 @@
       "auto": true
     }
   ],
-  "statusChecked": "12:06 PM PT Nov 4"
+  "statusChecked": "1:01 PM PT Nov 4"
 }
