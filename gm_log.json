@@ -44,7 +44,7 @@
    "id": 3,
    "type": "taxi",
    "move": "Cyrus Allen bench -> taxi (frees a roster spot; 2 taxi slots open)",
-   "status": "proposed",
+   "status": "done (owner, by Nov 4)",
    "why": "Open a spot for RB depth once Jeremiyah Love's ankle status is known.",
    "note_1103": "Still pending owner decision; no change on Sleeper."
   },
@@ -53,8 +53,13 @@
    "id": 4,
    "type": "waiver",
    "move": "Add Devin Singletary (NYG) with a $3-5 FAAB bid; drop Cyrus Allen, or move Allen to taxi first",
-   "status": "proposed",
+   "status": "done (owner added Singletary by Nov 4)",
    "why": "Jeremiyah Love likely misses time (LaFleur: new ankle injury, IR possible, update Wed). Singletary is the most-added RB (Skattebo and Tracy hamstrings). Role not fully verified, so decide after Wednesday's Love update."
+  },
+  {
+   "date": "2026-11-04",
+   "type": "note",
+   "note": "Owner also moved Eli Raridon to taxi and is starting Kraft at SUPER_FLEX (Cam Ward appears to be on bye in Week 9). Jeremiyah Love placed on IR Nov 3, out 4-5 weeks: move him to an IR slot if one is open."
   }
  ]
 }
