@@ -959,10 +959,19 @@
    "t": "NE"
   },
   "3257": {
-   "changed": null,
-   "entry": null,
+   "changed": "2026-11-04T02:59:28.400532+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 0.95,
+    "name": "Jacoby Brissett",
+    "note": "Sleeper's depth chart now has him as ARI's backup QB as of 6:59 PM PT Nov 3.",
+    "redraftAdj": 0.8,
+    "sleeperId": "3257",
+    "status": "",
+    "tag": "role_down"
+   },
    "i": null,
-   "qb1": true,
+   "qb1": false,
    "t": "ARI"
   },
   "3271": {
