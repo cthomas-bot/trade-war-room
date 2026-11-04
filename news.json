@@ -615,11 +615,12 @@
     {
       "sleeperId": "10229",
       "name": "Rashee Rice",
-      "note": "Rice returned from a two-game hamstring absence in Week 8 and put up 18.3 PPR points (CBS, Nov 2). He is back as Kansas City's lead receiver, though the Chiefs are still shopping for WR help before the Nov 10 deadline.",
-      "tag": "return",
-      "redraftAdj": 1.08,
-      "dynastyAdj": 1.01,
-      "status": ""
+      "note": "Sleeper now lists him questionable (hamstring) as of 1:57 PM PT Nov 4. Earlier: Rice returned from a two-game hamstring absence in Week 8 and put up 18.3 PPR points (CBS, Nov 2). He is back as Kansas City's lead receiver, though the Chiefs are still shopping for WR help before the Nov 10 deadline.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
+      "status": "Questionable",
+      "auto": true
     },
     {
       "sleeperId": "11624",
@@ -804,14 +805,14 @@
       "tag": "injury"
     },
     {
-      "auto": true,
-      "dynastyAdj": 1.0,
-      "name": "Amon-Ra St. Brown",
-      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 1:06 AM PT Nov 4. Earlier: St. Brown was evaluated for a concussion in the first quarter Nov 1 vs. Minnesota but returned to the game. No follow-up diagnosis has been reported, so watch Detroit's first Week 9 practice report.",
-      "redraftAdj": 1.0,
       "sleeperId": "7547",
-      "status": null,
-      "tag": "injury"
+      "name": "Amon-Ra St. Brown",
+      "note": "Sleeper now lists him questionable (ribs) as of 1:57 PM PT Nov 4.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
+      "status": "Questionable",
+      "auto": true
     },
     {
       "auto": true,
@@ -824,14 +825,14 @@
       "tag": "injury"
     },
     {
-      "auto": true,
-      "dynastyAdj": 1.0,
-      "name": "George Pickens",
-      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 8:47 AM PT Nov 1. Earlier: Pickens (shoulder, hamstring) is questionable for Sunday (Nov 1) vs. Arizona but is reportedly expected to play. If he sits, Ryan Flournoy moves up.",
-      "redraftAdj": 1.0,
       "sleeperId": "8137",
-      "status": null,
-      "tag": "injury"
+      "name": "George Pickens",
+      "note": "Sleeper now lists him questionable (hamstring) as of 1:57 PM PT Nov 4.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
+      "status": "Questionable",
+      "auto": true
     },
     {
       "auto": true,
@@ -862,7 +863,37 @@
       "dynastyAdj": 1.0,
       "status": "Out",
       "auto": true
+    },
+    {
+      "sleeperId": "11643",
+      "name": "Jaylen Wright",
+      "note": "Sleeper now lists him questionable (quadriceps) as of 1:57 PM PT Nov 4.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
+      "status": "Questionable",
+      "auto": true
+    },
+    {
+      "sleeperId": "13405",
+      "name": "Kaytron Allen",
+      "note": "Sleeper now lists him questionable (quadriceps) as of 1:57 PM PT Nov 4.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
+      "status": "Questionable",
+      "auto": true
+    },
+    {
+      "sleeperId": "1466",
+      "name": "Travis Kelce",
+      "note": "Sleeper now lists him questionable (ankle) as of 1:57 PM PT Nov 4.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
+      "status": "Questionable",
+      "auto": true
     }
   ],
-  "statusChecked": "1:01 PM PT Nov 4"
+  "statusChecked": "1:57 PM PT Nov 4"
 }

@@ -24,8 +24,18 @@
    "t": "JAX"
   },
   "10229": {
-   "changed": "2026-10-30T18:56:59.888718+00:00",
-   "i": null,
+   "changed": "2026-11-04T21:57:05.196495+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Rashee Rice",
+    "note": "Sleeper now lists him questionable (hamstring) as of 1:57 PM PT Nov 4. Earlier: Rice returned from a two-game hamstring absence in Week 8 and put up 18.3 PPR points (CBS, Nov 2). He is back as Kansas City's lead receiver, though the Chiefs are still shopping for WR help before the Nov 10 deadline.",
+    "redraftAdj": 0.98,
+    "sleeperId": "10229",
+    "status": "Questionable",
+    "tag": "injury"
+   },
+   "i": "Questionable",
    "qb1": null,
    "t": "KC"
   },
@@ -64,6 +74,11 @@
    "i": null,
    "qb1": null,
    "t": "SEA"
+  },
+  "11557": {
+   "i": null,
+   "qb1": false,
+   "t": "PHI"
   },
   "11559": {
    "changed": "2026-10-21T07:53:53.206089+00:00",
@@ -239,8 +254,18 @@
    "t": "SF"
   },
   "11643": {
-   "changed": "2026-10-28T20:53:41.192426+00:00",
-   "i": null,
+   "changed": "2026-11-04T21:57:05.196495+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Jaylen Wright",
+    "note": "Sleeper now lists him questionable (quadriceps) as of 1:57 PM PT Nov 4.",
+    "redraftAdj": 0.98,
+    "sleeperId": "11643",
+    "status": "Questionable",
+    "tag": "injury"
+   },
+   "i": "Questionable",
    "qb1": null,
    "t": "MIA"
   },
@@ -854,8 +879,18 @@
    "t": "BUF"
   },
   "13405": {
-   "changed": "2026-10-21T07:53:53.206089+00:00",
-   "i": null,
+   "changed": "2026-11-04T21:57:05.196495+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Kaytron Allen",
+    "note": "Sleeper now lists him questionable (quadriceps) as of 1:57 PM PT Nov 4.",
+    "redraftAdj": 0.98,
+    "sleeperId": "13405",
+    "status": "Questionable",
+    "tag": "injury"
+   },
+   "i": "Questionable",
    "qb1": null,
    "t": "MIA"
   },
@@ -925,8 +960,18 @@
    "t": "NYJ"
   },
   "1466": {
-   "changed": "2026-10-30T19:54:43.269793+00:00",
-   "i": null,
+   "changed": "2026-11-04T21:57:05.196495+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Travis Kelce",
+    "note": "Sleeper now lists him questionable (ankle) as of 1:57 PM PT Nov 4.",
+    "redraftAdj": 0.98,
+    "sleeperId": "1466",
+    "status": "Questionable",
+    "tag": "injury"
+   },
+   "i": "Questionable",
    "qb1": null,
    "t": "KC"
   },
@@ -1160,16 +1205,6 @@
   },
   "4983": {
    "changed": "2026-11-01T21:46:02.490379+00:00",
-   "entry": {
-    "auto": true,
-    "dynastyAdj": 1.0,
-    "name": "DJ Moore",
-    "note": "Sleeper now lists him questionable (undisclosed) as of 1:46 PM PT Nov 1.",
-    "redraftAdj": 0.98,
-    "sleeperId": "4983",
-    "status": "Questionable",
-    "tag": "injury"
-   },
    "i": "Questionable",
    "qb1": null,
    "t": "BUF"
@@ -1487,18 +1522,18 @@
    "t": "NO"
   },
   "7547": {
-   "changed": "2026-11-04T09:06:31.989484+00:00",
+   "changed": "2026-11-04T21:57:05.196495+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 1.0,
     "name": "Amon-Ra St. Brown",
-    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 1:06 AM PT Nov 4. Earlier: St. Brown was evaluated for a concussion in the first quarter Nov 1 vs. Minnesota but returned to the game. No follow-up diagnosis has been reported, so watch Detroit's first Week 9 practice report.",
-    "redraftAdj": 1.0,
+    "note": "Sleeper now lists him questionable (ribs) as of 1:57 PM PT Nov 4.",
+    "redraftAdj": 0.98,
     "sleeperId": "7547",
-    "status": null,
+    "status": "Questionable",
     "tag": "injury"
    },
-   "i": null,
+   "i": "Questionable",
    "qb1": null,
    "t": "DET"
   },
@@ -1663,8 +1698,18 @@
    "t": "WAS"
   },
   "8137": {
-   "changed": "2026-11-01T16:47:20.261111+00:00",
-   "i": null,
+   "changed": "2026-11-04T21:57:05.196495+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "George Pickens",
+    "note": "Sleeper now lists him questionable (hamstring) as of 1:57 PM PT Nov 4.",
+    "redraftAdj": 0.98,
+    "sleeperId": "8137",
+    "status": "Questionable",
+    "tag": "injury"
+   },
+   "i": "Questionable",
    "qb1": null,
    "t": "DAL"
   },
