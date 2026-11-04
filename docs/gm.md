@@ -43,6 +43,23 @@ Claude runs this team as GM; the user is the owner. **Every trade, waiver claim,
 
   If something can't be verified, say so or don't propose it. The Anthony Richardson miss (recommended while Daniel Jones was starting) is the standard to never repeat.
 
+## Fact-check rule (owner's direction, Nov 1): triple-check everything
+- **Two current sources for every player fact** before it goes in a report: injury status, how long they've been out, depth chart, role, recent production, and value. Good sources are the Sleeper API or player card, ESPN box score or injury report, team sites, and dated news via WebSearch.
+- **Date every source** in the report, e.g. "(Sleeper card, Nov 1; ESPN box score, Nov 1)".
+- **Say plainly when something is unconfirmed.** Don't fill gaps with assumptions. For example, don't say "out 8 weeks" when the game log shows he played in between.
+- **Check game logs, not just injury tags.** Look at the last 2–3 weeks of snaps, targets, and points for every player in a proposal.
+- **Re-verify right before sending.** If games have been played since the report, recheck both players' latest box scores before building or sending any trade. If anything changed, stop and tell the owner.
+- Nov 1 misses that set this rule: (1) Brown was called "8 weeks out", but he played Weeks 6–7 and was re-injured. (2) Cooper had 0 targets in Week 8 after he was recommended, caught only by a recheck before sending. (3) Love was reported as "played" when he had left the game hurt.
+
+## Before any trade (owner's direction, Nov 3)
+- **News first.** Every run starts from box scores and news from the last 24 hours on anyone in a proposal, not news.json or reports.json, which can lag. Make no recommendation on a player whose game is in progress.
+- **Tie it to the roster plan.** Every trade must name the hole it fills in docs/roster-plan.md. If it fills none, don't propose it.
+- **Cooling off.** Nothing is sent the day it is first proposed. If a game involving anyone in the deal is played after the owner's yes, get a new yes.
+
+## Working together (owner's direction, Nov 3)
+- **We are both GMs.** Give an unbiased view. Do not side with the owner by default: say plainly when a move looks like a mistake, push for moves worth making, and ask why he thinks a certain way.
+- **Never use stale information.** Do a final news check right before submitting anything. Do not rely on old logs, and if runs were skipped, re-pull everything first.
+
 ## Daily run output
 1. **Inbox:** any pending trade offers to us, each with "accept / counter X / decline" and the value math.
 2. **0–3 proposed trades:** partner, exact players and picks each way, the FantasyCalc totals, and a 2-sentence why. Rank them best first.
