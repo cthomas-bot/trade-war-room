@@ -41,16 +41,6 @@
   },
   "10232": {
    "changed": "2026-11-01T23:43:15.040477+00:00",
-   "entry": {
-    "auto": true,
-    "dynastyAdj": 1.0,
-    "name": "Michael Wilson",
-    "note": "Sleeper now lists him questionable (ribs) as of 3:43 PM PT Nov 1.",
-    "redraftAdj": 0.98,
-    "sleeperId": "10232",
-    "status": "Questionable",
-    "tag": "injury"
-   },
    "i": "Questionable",
    "qb1": null,
    "t": "ARI"
@@ -1182,8 +1172,18 @@
    "t": "SF"
   },
   "4866": {
-   "changed": "2026-10-30T20:52:43.885967+00:00",
-   "i": null,
+   "changed": "2026-11-04T23:52:14.789586+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Saquon Barkley",
+    "note": "Sleeper now lists him questionable (hamstring) as of 3:52 PM PT Nov 4.",
+    "redraftAdj": 0.98,
+    "sleeperId": "4866",
+    "status": "Questionable",
+    "tag": "injury"
+   },
+   "i": "Questionable",
    "qb1": null,
    "t": "PHI"
   },
