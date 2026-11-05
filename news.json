@@ -185,11 +185,12 @@
     {
       "sleeperId": "8155",
       "name": "Breece Hall",
-      "note": "Hall (quad) was limited Wednesday (Nov. 4), and Aaron Glenn said he is trending toward returning Sunday vs. Kansas City after five straight inactive games.",
-      "tag": "return",
-      "redraftAdj": 1.1,
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 2:57 PM PT Nov 5. Earlier: Hall (quad) was limited Wednesday (Nov. 4), and Aaron Glenn said he is trending toward returning Sunday vs. Kansas City after five straight inactive games.",
+      "tag": "injury",
+      "redraftAdj": 1.0,
       "dynastyAdj": 1.01,
-      "status": "Questionable"
+      "status": null,
+      "auto": true
     },
     {
       "sleeperId": "11576",
@@ -556,11 +557,12 @@
     {
       "sleeperId": "7049",
       "name": "Jauan Jennings",
-      "note": "A reported trade to San Francisco fell apart, and Tom Pelissero predicts Jennings stays in Minnesota because he wants to remain there. He is still mentioned as a candidate to be moved before the Nov 10 deadline.",
-      "tag": "trade",
-      "redraftAdj": 1.0,
+      "note": "Sleeper now lists him questionable (calf) as of 2:57 PM PT Nov 5. Earlier: A reported trade to San Francisco fell apart, and Tom Pelissero predicts Jennings stays in Minnesota because he wants to remain there. He is still mentioned as a candidate to be moved before the Nov 10 deadline.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
       "dynastyAdj": 1.0,
-      "status": ""
+      "status": "Questionable",
+      "auto": true
     },
     {
       "sleeperId": "13274",
@@ -841,14 +843,14 @@
       "tag": "injury"
     },
     {
-      "auto": true,
-      "dynastyAdj": 1.0,
-      "name": "Demond Claiborne",
-      "note": "Cleared: no longer on Sleeper's injury report (was out) as of 1:06 AM PT Nov 4.",
-      "redraftAdj": 0.98,
       "sleeperId": "13347",
-      "status": null,
-      "tag": "injury"
+      "name": "Demond Claiborne",
+      "note": "Sleeper now lists him questionable (knee) as of 2:57 PM PT Nov 5.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
+      "status": "Questionable",
+      "auto": true
     },
     {
       "auto": true,
@@ -949,7 +951,27 @@
       "dynastyAdj": 1.0,
       "status": "Questionable",
       "auto": true
+    },
+    {
+      "sleeperId": "10236",
+      "name": "Dalton Kincaid",
+      "note": "Sleeper now lists him questionable (chest) as of 2:57 PM PT Nov 5.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
+      "status": "Questionable",
+      "auto": true
+    },
+    {
+      "sleeperId": "11637",
+      "name": "Keon Coleman",
+      "note": "Sleeper now lists him questionable (shoulder) as of 2:57 PM PT Nov 5.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
+      "status": "Questionable",
+      "auto": true
     }
   ],
-  "statusChecked": "1:56 PM PT Nov 5"
+  "statusChecked": "2:57 PM PT Nov 5"
 }
