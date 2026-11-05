@@ -89,11 +89,12 @@
     {
       "sleeperId": "9230",
       "name": "Tanner McKee",
-      "note": "McKee remains Philadelphia's starter with Hurts on season-ending IR. No benching has been reported as of Nov. 4. He is a volatile superflex QB2.",
-      "tag": "role_up",
-      "redraftAdj": 1.08,
-      "dynastyAdj": 1.0,
-      "status": ""
+      "tag": "role_down",
+      "redraftAdj": 0.8,
+      "dynastyAdj": 0.95,
+      "status": "",
+      "auto": true,
+      "note": "Sleeper's depth chart now has him as PHI's backup QB as of 6:59 PM PT Nov 4."
     },
     {
       "sleeperId": "13287",
@@ -316,11 +317,12 @@
     {
       "sleeperId": "7567",
       "name": "Kenny Gainwell",
-      "note": "Gainwell split snaps 30-30 with Bucky Irving in the Nov. 1 win over Atlanta, his second straight game with 14 or more carries. Irving got more of the production, with 27 carries for 170 yards.",
-      "tag": "role_up",
-      "redraftAdj": 1.05,
+      "note": "Sleeper now lists him questionable (hip) as of 6:59 PM PT Nov 4. Earlier: Gainwell split snaps 30-30 with Bucky Irving in the Nov. 1 win over Atlanta, his second straight game with 14 or more carries. Irving got more of the production, with 27 carries for 170 yards.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
       "dynastyAdj": 1.0,
-      "status": ""
+      "status": "Questionable",
+      "auto": true
     },
     {
       "sleeperId": "5967",
@@ -698,12 +700,12 @@
     {
       "sleeperId": "4017",
       "name": "Deshaun Watson",
-      "note": "Sleeper now lists him questionable (concussion) as of 7:00 AM PT Nov 4.",
-      "tag": "injury",
-      "redraftAdj": 0.98,
-      "dynastyAdj": 1.0,
+      "tag": "role_down",
+      "redraftAdj": 0.8,
+      "dynastyAdj": 0.95,
       "status": "Questionable",
-      "auto": true
+      "auto": true,
+      "note": "Sleeper's depth chart now has him as CLE's backup QB as of 6:59 PM PT Nov 4."
     },
     {
       "auto": true,
@@ -858,12 +860,12 @@
     {
       "sleeperId": "4943",
       "name": "Sam Darnold",
-      "note": "Sleeper now lists him out (quadriceps) as of 11:10 AM PT Nov 4.",
-      "tag": "injury",
-      "redraftAdj": 0.9,
-      "dynastyAdj": 1.0,
+      "tag": "role_down",
+      "redraftAdj": 0.8,
+      "dynastyAdj": 0.95,
       "status": "Out",
-      "auto": true
+      "auto": true,
+      "note": "Sleeper's depth chart now has him as SEA's backup QB as of 6:59 PM PT Nov 4."
     },
     {
       "sleeperId": "11643",
@@ -924,7 +926,17 @@
       "dynastyAdj": 1.0,
       "status": "Questionable",
       "auto": true
+    },
+    {
+      "sleeperId": "11557",
+      "name": "Joe Milton",
+      "tag": "role_up",
+      "redraftAdj": 1.2,
+      "dynastyAdj": 1.05,
+      "status": null,
+      "auto": true,
+      "note": "Sleeper's depth chart now has him as PHI's starting QB as of 6:59 PM PT Nov 4."
     }
   ],
-  "statusChecked": "5:19 PM PT Nov 4"
+  "statusChecked": "6:59 PM PT Nov 4"
 }

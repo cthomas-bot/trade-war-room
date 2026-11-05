@@ -66,10 +66,19 @@
    "t": "SEA"
   },
   "11557": {
-   "changed": null,
-   "entry": null,
+   "changed": "2026-11-05T02:59:47.893995+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.05,
+    "name": "Joe Milton",
+    "note": "Sleeper's depth chart now has him as PHI's starting QB as of 6:59 PM PT Nov 4.",
+    "redraftAdj": 1.2,
+    "sleeperId": "11557",
+    "status": null,
+    "tag": "role_up"
+   },
    "i": null,
-   "qb1": false,
+   "qb1": true,
    "t": "PHI"
   },
   "11559": {
@@ -1084,19 +1093,19 @@
    "t": "CHI"
   },
   "4017": {
-   "changed": "2026-11-04T15:00:04.992220+00:00",
+   "changed": "2026-11-05T02:59:47.893995+00:00",
    "entry": {
     "auto": true,
-    "dynastyAdj": 1.0,
+    "dynastyAdj": 0.95,
     "name": "Deshaun Watson",
-    "note": "Sleeper now lists him questionable (concussion) as of 7:00 AM PT Nov 4.",
-    "redraftAdj": 0.98,
+    "note": "Sleeper's depth chart now has him as CLE's backup QB as of 6:59 PM PT Nov 4.",
+    "redraftAdj": 0.8,
     "sleeperId": "4017",
     "status": "Questionable",
-    "tag": "injury"
+    "tag": "role_down"
    },
    "i": "Questionable",
-   "qb1": true,
+   "qb1": false,
    "t": "CLE"
   },
   "4034": {
@@ -1210,19 +1219,19 @@
    "t": "TB"
   },
   "4943": {
-   "changed": "2026-11-04T19:10:12.315860+00:00",
+   "changed": "2026-11-05T02:59:47.893995+00:00",
    "entry": {
     "auto": true,
-    "dynastyAdj": 1.0,
+    "dynastyAdj": 0.95,
     "name": "Sam Darnold",
-    "note": "Sleeper now lists him out (quadriceps) as of 11:10 AM PT Nov 4.",
-    "redraftAdj": 0.9,
+    "note": "Sleeper's depth chart now has him as SEA's backup QB as of 6:59 PM PT Nov 4.",
+    "redraftAdj": 0.8,
     "sleeperId": "4943",
     "status": "Out",
-    "tag": "injury"
+    "tag": "role_down"
    },
    "i": "Out",
-   "qb1": true,
+   "qb1": false,
    "t": "SEA"
   },
   "4983": {
@@ -1570,8 +1579,18 @@
    "t": "CIN"
   },
   "7567": {
-   "changed": "2026-11-01T17:43:52.231016+00:00",
-   "i": null,
+   "changed": "2026-11-05T02:59:47.893995+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Kenny Gainwell",
+    "note": "Sleeper now lists him questionable (hip) as of 6:59 PM PT Nov 4. Earlier: Gainwell split snaps 30-30 with Bucky Irving in the Nov. 1 win over Atlanta, his second straight game with 14 or more carries. Irving got more of the production, with 27 carries for 170 yards.",
+    "redraftAdj": 0.98,
+    "sleeperId": "7567",
+    "status": "Questionable",
+    "tag": "injury"
+   },
+   "i": "Questionable",
    "qb1": null,
    "t": "TB"
   },
@@ -1907,10 +1926,19 @@
    "t": "CAR"
   },
   "9230": {
-   "changed": null,
-   "entry": null,
+   "changed": "2026-11-05T02:59:47.893995+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 0.95,
+    "name": "Tanner McKee",
+    "note": "Sleeper's depth chart now has him as PHI's backup QB as of 6:59 PM PT Nov 4.",
+    "redraftAdj": 0.8,
+    "sleeperId": "9230",
+    "status": "",
+    "tag": "role_down"
+   },
    "i": null,
-   "qb1": true,
+   "qb1": false,
    "t": "PHI"
   },
   "9480": {
