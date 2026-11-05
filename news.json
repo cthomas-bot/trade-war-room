@@ -400,11 +400,12 @@
     {
       "sleeperId": "7567",
       "name": "Kenny Gainwell",
-      "note": "Gainwell is listed as questionable (hip) for Week 9 as of Nov. 4, after splitting snaps 30-30 with Bucky Irving on Nov. 1.",
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 12:58 PM PT Nov 5. Earlier: Gainwell is listed as questionable (hip) for Week 9 as of Nov. 4, after splitting snaps 30-30 with Bucky Irving on Nov. 1.",
       "tag": "injury",
-      "redraftAdj": 0.95,
+      "redraftAdj": 1.0,
       "dynastyAdj": 1.0,
-      "status": "Questionable"
+      "status": null,
+      "auto": true
     },
     {
       "sleeperId": "5859",
@@ -499,11 +500,12 @@
     {
       "sleeperId": "12514",
       "name": "Emeka Egbuka",
-      "note": "Egbuka (foot) did not practice Wednesday (Nov 4) but ran on the side. He has missed two straight games and is uncertain for Week 9 at Chicago.",
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 12:58 PM PT Nov 5. Earlier: Egbuka (foot) did not practice Wednesday (Nov 4) but ran on the side. He has missed two straight games and is uncertain for Week 9 at Chicago.",
       "tag": "injury",
-      "redraftAdj": 0.85,
+      "redraftAdj": 1.0,
       "dynastyAdj": 1.0,
-      "status": "Questionable"
+      "status": null,
+      "auto": true
     },
     {
       "sleeperId": "8146",
@@ -926,5 +928,5 @@
       "auto": true
     }
   ],
-  "statusChecked": "11:08 AM PT Nov 5"
+  "statusChecked": "12:58 PM PT Nov 5"
 }
