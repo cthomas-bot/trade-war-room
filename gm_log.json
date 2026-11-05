@@ -15,10 +15,11 @@
     "give": 2552,
     "get": 2677
    },
-   "status": "proposed",
+   "status": "withdrawn Nov 5",
    "why": "Sell 29yo injured WR for 22yo ascending rookie; Pscoggs 5-2 with DeVonta Smith out.",
    "fallback": "A.J. Brown for Pscoggs 2027 2nd + Tre' Harris",
-   "note_1103": "Still pending owner decision; no change on Sleeper."
+   "note_1103": "Still pending owner decision; no change on Sleeper.",
+   "withdrawn_why": "Cooper: 50 snaps, 0 targets in Week 8 (Sleeper stats, Nov 5). Brown DNP Wed and still Questionable. League trade deadline is Week 11, so sell Brown once he plays healthy instead."
   },
   {
    "date": "2026-11-02",
@@ -37,7 +38,8 @@
    },
    "status": "proposed",
    "why": "Sell 29yo TE (we roster 6 TEs) to 5-2 contender whose Jake Ferguson hurt his ankle Nov 1.",
-   "note_1103": "Still pending owner decision; no change on Sleeper."
+   "note_1103": "Still pending owner decision; no change on Sleeper.",
+   "note_1105": "Still valid: Hockenson 4-35 (W7) and 4-58 (W8), 45/44 snaps (Sleeper stats). JustMyLuckk is now 6-2. Recheck Jake Ferguson ankle before sending."
   },
   {
    "date": "2026-11-02",
@@ -73,6 +75,27 @@
    "move": "Claim Oronde Gadsden back; drop Brandon Aiyuk",
    "status": "proposed",
    "why": "Aiyuk hasn't played in 2026 (reserve/left squad) and has 1/4 of Gadsden's value. Undo unless the owner knows of an imminent Aiyuk signing."
+  },
+  {
+   "date": "2026-11-05",
+   "id": 6,
+   "type": "trade",
+   "partner": "LordCheeseButt",
+   "give": [
+    "LordCheeseButt 2027 1st",
+    "LordCheeseButt 2027 2nd"
+   ],
+   "get": [
+    "Matthew Golden"
+   ],
+   "values": {
+    "give": 5025,
+    "get": 4015
+   },
+   "hole": "#1 true WR1 aged 25 or younger",
+   "status": "proposed (cooling off, send no earlier than Nov 6)",
+   "why": "Golden (23, GB) saw 13/12/13 targets in Weeks 6-8 on 57-63 snaps (Sleeper stats, Nov 5). He played through shoulder/foot issues on Oct 29 (news.json, Nov 1). LCB is 4-4 and gets both of its own picks back.",
+   "floor": "LCB 2027 1st + our 2027 2nd (Mid)"
   }
  ]
 }
