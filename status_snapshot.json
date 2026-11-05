@@ -24,18 +24,18 @@
    "t": "JAX"
   },
   "10229": {
-   "changed": "2026-11-04T21:57:05.196495+00:00",
+   "changed": "2026-11-05T21:56:19.900400+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 1.0,
     "name": "Rashee Rice",
-    "note": "Sleeper now lists him questionable (hamstring) as of 1:57 PM PT Nov 4. Earlier: Rice returned from a two-game hamstring absence in Week 8 and put up 18.3 PPR points (CBS, Nov 2). He is back as Kansas City's lead receiver, though the Chiefs are still shopping for WR help before the Nov 10 deadline.",
-    "redraftAdj": 0.98,
+    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 1:56 PM PT Nov 5. Earlier: Rice was limited in Wednesday's Nov 4 practice with hamstring and knee injuries ahead of Week 9 against the Jets. He had 18.3 PPR points in his Week 8 return.",
+    "redraftAdj": 1.0,
     "sleeperId": "10229",
-    "status": "Questionable",
+    "status": null,
     "tag": "injury"
    },
-   "i": "Questionable",
+   "i": null,
    "qb1": null,
    "t": "KC"
   },
@@ -136,9 +136,18 @@
    "t": "NYJ"
   },
   "11581": {
-   "changed": null,
-   "entry": null,
-   "i": null,
+   "changed": "2026-11-05T21:56:19.900400+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "MarShawn Lloyd",
+    "note": "Sleeper now lists him questionable (knee) as of 1:56 PM PT Nov 5.",
+    "redraftAdj": 0.98,
+    "sleeperId": "11581",
+    "status": "Questionable",
+    "tag": "injury"
+   },
+   "i": "Questionable",
    "qb1": null,
    "t": "GB"
   },
@@ -416,9 +425,18 @@
    "t": "GB"
   },
   "12506": {
-   "changed": null,
-   "entry": null,
-   "i": null,
+   "changed": "2026-11-05T21:56:19.900400+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Harold Fannin Jr.",
+    "note": "Sleeper now lists him questionable (groin) as of 1:56 PM PT Nov 5.",
+    "redraftAdj": 0.98,
+    "sleeperId": "12506",
+    "status": "Questionable",
+    "tag": "injury"
+   },
+   "i": "Questionable",
    "qb1": null,
    "t": "CLE"
   },
@@ -667,16 +685,6 @@
   },
   "13286": {
    "changed": "2026-11-02T21:52:16.639247+00:00",
-   "entry": {
-    "auto": true,
-    "dynastyAdj": 1.0,
-    "name": "Jadarian Price",
-    "note": "Cleared: no longer on Sleeper's injury report (was on injured reserve) as of 1:52 PM PT Nov 2.",
-    "redraftAdj": 0.98,
-    "sleeperId": "13286",
-    "status": null,
-    "tag": "injury"
-   },
    "i": null,
    "qb1": null,
    "t": "SEA"
@@ -987,18 +995,18 @@
    "t": "NYJ"
   },
   "1466": {
-   "changed": "2026-11-04T21:57:05.196495+00:00",
+   "changed": "2026-11-05T21:56:19.900400+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 1.0,
     "name": "Travis Kelce",
-    "note": "Sleeper now lists him questionable (ankle) as of 1:57 PM PT Nov 4.",
-    "redraftAdj": 0.98,
+    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 1:56 PM PT Nov 5. Earlier: Kelce (ankle) was limited in Wednesday's Nov 4 practice, which reports view as likely maintenance. He played through it in Week 8 (5-67 on 7 targets) and has two more chances to practice fully before Sunday vs. the Jets.",
+    "redraftAdj": 1.0,
     "sleeperId": "1466",
-    "status": "Questionable",
+    "status": null,
     "tag": "injury"
    },
-   "i": "Questionable",
+   "i": null,
    "qb1": null,
    "t": "KC"
   },
@@ -1213,18 +1221,18 @@
    "t": "PHI"
   },
   "4881": {
-   "changed": "2026-11-03T11:03:43.188032+00:00",
+   "changed": "2026-11-05T21:56:19.900400+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 0.95,
     "name": "Lamar Jackson",
-    "note": "Sleeper's depth chart now has him as BAL's backup QB as of 3:03 AM PT Nov 3.",
-    "redraftAdj": 0.8,
+    "note": "Sleeper now lists him on injured reserve (thumb) as of 1:56 PM PT Nov 5. Earlier: Jackson (right thumb) is ruled out for Thursday night vs. Jacksonville (Nov. 5), and coach Jesse Minter confirmed he needs surgery, with an IR stint expected that could end his season. Baltimore is finalizing a trade for Jacoby Brissett to start while he is out.",
+    "redraftAdj": 0.2,
     "sleeperId": "4881",
-    "status": "Out",
-    "tag": "role_down"
+    "status": "IR",
+    "tag": "injury"
    },
-   "i": "Out",
+   "i": "IR",
    "qb1": false,
    "t": "BAL"
   },

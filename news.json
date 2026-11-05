@@ -4,11 +4,12 @@
     {
       "sleeperId": "4881",
       "name": "Lamar Jackson",
-      "note": "Jackson (right thumb) is ruled out for Thursday night vs. Jacksonville (Nov. 5), and coach Jesse Minter confirmed he needs surgery, with an IR stint expected that could end his season. Baltimore is finalizing a trade for Jacoby Brissett to start while he is out.",
+      "note": "Sleeper now lists him on injured reserve (thumb) as of 1:56 PM PT Nov 5. Earlier: Jackson (right thumb) is ruled out for Thursday night vs. Jacksonville (Nov. 5), and coach Jesse Minter confirmed he needs surgery, with an IR stint expected that could end his season. Baltimore is finalizing a trade for Jacoby Brissett to start while he is out.",
       "tag": "injury",
       "redraftAdj": 0.2,
       "dynastyAdj": 0.95,
-      "status": "Out"
+      "status": "IR",
+      "auto": true
     },
     {
       "sleeperId": "3257",
@@ -645,11 +646,12 @@
     {
       "sleeperId": "10229",
       "name": "Rashee Rice",
-      "note": "Rice was limited in Wednesday's Nov 4 practice with hamstring and knee injuries ahead of Week 9 against the Jets. He had 18.3 PPR points in his Week 8 return.",
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 1:56 PM PT Nov 5. Earlier: Rice was limited in Wednesday's Nov 4 practice with hamstring and knee injuries ahead of Week 9 against the Jets. He had 18.3 PPR points in his Week 8 return.",
       "tag": "injury",
-      "redraftAdj": 0.95,
+      "redraftAdj": 1.0,
       "dynastyAdj": 1.0,
-      "status": "Questionable"
+      "status": null,
+      "auto": true
     },
     {
       "sleeperId": "8676",
@@ -753,11 +755,12 @@
     {
       "sleeperId": "1466",
       "name": "Travis Kelce",
-      "note": "Kelce (ankle) was limited in Wednesday's Nov 4 practice, which reports view as likely maintenance. He played through it in Week 8 (5-67 on 7 targets) and has two more chances to practice fully before Sunday vs. the Jets.",
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 1:56 PM PT Nov 5. Earlier: Kelce (ankle) was limited in Wednesday's Nov 4 practice, which reports view as likely maintenance. He played through it in Week 8 (5-67 on 7 targets) and has two more chances to practice fully before Sunday vs. the Jets.",
       "tag": "injury",
-      "redraftAdj": 0.97,
+      "redraftAdj": 1.0,
       "dynastyAdj": 1.0,
-      "status": "Questionable"
+      "status": null,
+      "auto": true
     },
     {
       "sleeperId": "12487",
@@ -926,7 +929,27 @@
       "dynastyAdj": 1.0,
       "status": "Questionable",
       "auto": true
+    },
+    {
+      "sleeperId": "11581",
+      "name": "MarShawn Lloyd",
+      "note": "Sleeper now lists him questionable (knee) as of 1:56 PM PT Nov 5.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
+      "status": "Questionable",
+      "auto": true
+    },
+    {
+      "sleeperId": "12506",
+      "name": "Harold Fannin Jr.",
+      "note": "Sleeper now lists him questionable (groin) as of 1:56 PM PT Nov 5.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
+      "status": "Questionable",
+      "auto": true
     }
   ],
-  "statusChecked": "12:58 PM PT Nov 5"
+  "statusChecked": "1:56 PM PT Nov 5"
 }
