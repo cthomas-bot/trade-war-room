@@ -32,11 +32,12 @@
     {
       "sleeperId": "9230",
       "name": "Tanner McKee",
-      "note": "McKee was benched for Joe Milton ahead of Week 9 (reported Nov. 4) after going 0-3 as the starter in place of Jalen Hurts.",
-      "tag": "role_down",
+      "note": "Sleeper now lists him questionable (ribs) as of 3:52 PM PT Nov 5. Earlier: McKee was benched for Joe Milton ahead of Week 9 (reported Nov. 4) after going 0-3 as the starter in place of Jalen Hurts.",
+      "tag": "injury",
       "redraftAdj": 0.5,
       "dynastyAdj": 0.9,
-      "status": ""
+      "status": "Questionable",
+      "auto": true
     },
     {
       "sleeperId": "4943",
@@ -973,5 +974,5 @@
       "auto": true
     }
   ],
-  "statusChecked": "2:57 PM PT Nov 5"
+  "statusChecked": "3:52 PM PT Nov 5"
 }

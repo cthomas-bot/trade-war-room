@@ -1978,18 +1978,18 @@
    "t": "CAR"
   },
   "9230": {
-   "changed": "2026-11-05T02:59:47.893995+00:00",
+   "changed": "2026-11-05T23:52:46.462583+00:00",
    "entry": {
     "auto": true,
-    "dynastyAdj": 0.95,
+    "dynastyAdj": 0.9,
     "name": "Tanner McKee",
-    "note": "Sleeper's depth chart now has him as PHI's backup QB as of 6:59 PM PT Nov 4.",
-    "redraftAdj": 0.8,
+    "note": "Sleeper now lists him questionable (ribs) as of 3:52 PM PT Nov 5. Earlier: McKee was benched for Joe Milton ahead of Week 9 (reported Nov. 4) after going 0-3 as the starter in place of Jalen Hurts.",
+    "redraftAdj": 0.5,
     "sleeperId": "9230",
-    "status": "",
-    "tag": "role_down"
+    "status": "Questionable",
+    "tag": "injury"
    },
-   "i": null,
+   "i": "Questionable",
    "qb1": false,
    "t": "PHI"
   },
