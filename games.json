@@ -1,7 +1,7 @@
 {
  "season": "2026",
  "week": 9,
- "updated": "2026-11-05 2:43 AM PT",
+ "updated": "2026-11-05 5:57 AM PT",
  "games": [
   {
    "id": "401873037",
@@ -24,9 +24,9 @@
    "weather": {
     "roof": "open",
     "temp": 68.4,
-    "precip": 18,
+    "precip": 21,
     "code": 3,
-    "wind": 2.4,
+    "wind": 2.1,
     "night": true
    }
   },
@@ -77,10 +77,10 @@
    "awayImplied": 28.5,
    "weather": {
     "roof": "retract",
-    "temp": 52.2,
+    "temp": 56.5,
     "precip": 0,
-    "code": 3,
-    "wind": 4.5,
+    "code": 0,
+    "wind": 6.0,
     "night": false
    }
   },
@@ -104,10 +104,10 @@
    "awayImplied": 18.8,
    "weather": {
     "roof": "open",
-    "temp": 64.4,
+    "temp": 62.3,
     "precip": 0,
-    "code": 0,
-    "wind": 8.3,
+    "code": 3,
+    "wind": 7.8,
     "night": false
    }
   },
@@ -131,10 +131,10 @@
    "awayImplied": 28.8,
    "weather": {
     "roof": "open",
-    "temp": 82.2,
+    "temp": 82.3,
     "precip": 6,
     "code": 3,
-    "wind": 10.1,
+    "wind": 11.2,
     "night": false
    }
   },
@@ -180,10 +180,10 @@
    "awayImplied": 21.0,
    "weather": {
     "roof": "open",
-    "temp": 57.9,
+    "temp": 59.0,
     "precip": 1,
-    "code": 3,
-    "wind": 11.7,
+    "code": 1,
+    "wind": 13.6,
     "night": false
    }
   },
@@ -197,20 +197,20 @@
    "awayScore": "0",
    "venue": "Northwest Stadium",
    "tv": "Fox",
-   "details": "LAR -5.5",
-   "total": 47.5,
+   "details": "LAR -4.5",
+   "total": 48.5,
    "fav": "LAR",
-   "spread": 5.5,
+   "spread": 4.5,
    "homeML": null,
    "awayML": null,
-   "homeImplied": 21.0,
+   "homeImplied": 22.0,
    "awayImplied": 26.5,
    "weather": {
     "roof": "open",
-    "temp": 58.6,
+    "temp": 60.9,
     "precip": 0,
-    "code": 3,
-    "wind": 11.9,
+    "code": 0,
+    "wind": 13.5,
     "night": false
    }
   },
@@ -234,7 +234,7 @@
    "awayImplied": 23.5,
    "weather": {
     "roof": "open",
-    "temp": 63.1,
+    "temp": 63.3,
     "precip": 0,
     "code": 0,
     "wind": 4.9,
@@ -283,10 +283,10 @@
    "awayImplied": 21.0,
    "weather": {
     "roof": "open",
-    "temp": 44.3,
+    "temp": 47.3,
     "precip": 4,
     "code": 3,
-    "wind": 4.4,
+    "wind": 7.4,
     "night": false
    }
   },
@@ -310,10 +310,10 @@
    "awayImplied": 21.2,
    "weather": {
     "roof": "open",
-    "temp": 72.4,
+    "temp": 72.7,
     "precip": 0,
-    "code": 3,
-    "wind": 6.2,
+    "code": 0,
+    "wind": 5.5,
     "night": false
    }
   },
@@ -337,10 +337,10 @@
    "awayImplied": 15.5,
    "weather": {
     "roof": "open",
-    "temp": 54.3,
+    "temp": 56.4,
     "precip": 19,
-    "code": 53,
-    "wind": 6.1,
+    "code": 51,
+    "wind": 3.0,
     "night": false
    }
   },
@@ -364,10 +364,10 @@
    "awayImplied": 20.8,
    "weather": {
     "roof": "open",
-    "temp": 51.7,
+    "temp": 54.2,
     "precip": 0,
     "code": 0,
-    "wind": 3.8,
+    "wind": 9.1,
     "night": true
    }
   },
@@ -600,9 +600,9 @@
    "opp": "LAC"
   },
   "12501": {
-   "half": 12.52,
-   "ppr": 15.11,
-   "std": 9.94,
+   "half": 12.47,
+   "ppr": 15.05,
+   "std": 9.89,
    "opp": "NE"
   },
   "12509": {
@@ -780,9 +780,9 @@
    "opp": "ATL"
   },
   "9484": {
-   "half": 9.34,
-   "ppr": 11.82,
-   "std": 6.87,
+   "half": 9.3,
+   "ppr": 11.77,
+   "std": 6.84,
    "opp": "NE"
   },
   "9486": {
@@ -882,9 +882,9 @@
    "opp": "DEN"
   },
   "12482": {
-   "half": 4.35,
-   "ppr": 5.56,
-   "std": 3.13,
+   "half": 4.33,
+   "ppr": 5.54,
+   "std": 3.12,
    "opp": "NE"
   },
   "12495": {
@@ -894,15 +894,15 @@
    "opp": "DET"
   },
   "12529": {
-   "half": 5.23,
-   "ppr": 5.88,
-   "std": 4.58,
+   "half": 5.22,
+   "ppr": 5.87,
+   "std": 4.57,
    "opp": "GB"
   },
   "12542": {
-   "half": 3.05,
-   "ppr": 3.71,
-   "std": 2.4,
+   "half": 3.04,
+   "ppr": 3.69,
+   "std": 2.38,
    "opp": "GB"
   },
   "13307": {
@@ -954,9 +954,9 @@
    "opp": "LV"
   },
   "4144": {
-   "half": 1.73,
+   "half": 1.72,
    "ppr": 2.21,
-   "std": 1.24,
+   "std": 1.23,
    "opp": "NE"
   },
   "4147": {
@@ -1081,7 +1081,7 @@
   },
   "8204": {
    "half": 1.56,
-   "ppr": 1.92,
+   "ppr": 1.91,
    "std": 1.2,
    "opp": "NE"
   },
@@ -1158,9 +1158,9 @@
    "opp": "PHI"
   },
   "12491": {
-   "half": 4.41,
-   "ppr": 4.8,
-   "std": 4.02,
+   "half": 4.4,
+   "ppr": 4.79,
+   "std": 4.01,
    "opp": "GB"
   },
   "12492": {
@@ -1308,9 +1308,9 @@
    "opp": "ATL"
   },
   "6804": {
-   "half": 17.41,
-   "ppr": 17.41,
-   "std": 17.41,
+   "half": 17.29,
+   "ppr": 17.29,
+   "std": 17.29,
    "opp": "NE"
   },
   "7561": {
@@ -1368,9 +1368,9 @@
    "opp": "DEN"
   },
   "9501": {
-   "half": 5.7,
-   "ppr": 6.92,
-   "std": 4.48,
+   "half": 5.68,
+   "ppr": 6.9,
+   "std": 4.46,
    "opp": "GB"
   },
   "10225": {
@@ -1458,9 +1458,9 @@
    "opp": "ATL"
   },
   "12547": {
-   "half": 3.11,
-   "ppr": 3.6,
-   "std": 2.63,
+   "half": 3.1,
+   "ppr": 3.58,
+   "std": 2.61,
    "opp": "GB"
   },
   "12670": {
@@ -1524,9 +1524,9 @@
    "opp": "NYJ"
   },
   "13421": {
-   "half": 5.73,
-   "ppr": 7.02,
-   "std": 4.43,
+   "half": 5.7,
+   "ppr": 6.99,
+   "std": 4.41,
    "opp": "GB"
   },
   "1466": {
@@ -1548,9 +1548,9 @@
    "opp": "ARI"
   },
   "4177": {
-   "half": 3.15,
-   "ppr": 3.91,
-   "std": 2.4,
+   "half": 3.14,
+   "ppr": 3.89,
+   "std": 2.39,
    "opp": "GB"
   },
   "4443": {
@@ -1566,9 +1566,9 @@
    "opp": "NYG"
   },
   "5859": {
-   "half": 11.07,
-   "ppr": 13.28,
-   "std": 8.85,
+   "half": 11.02,
+   "ppr": 13.23,
+   "std": 8.81,
    "opp": "GB"
   },
   "5938": {
@@ -1608,9 +1608,9 @@
    "opp": "DEN"
   },
   "7611": {
-   "half": 10.55,
-   "ppr": 12.03,
-   "std": 9.08,
+   "half": 10.52,
+   "ppr": 11.99,
+   "std": 9.05,
    "opp": "GB"
   },
   "8110": {
@@ -1704,9 +1704,9 @@
    "opp": "NYG"
   },
   "11564": {
-   "half": 21.13,
-   "ppr": 21.13,
-   "std": 21.13,
+   "half": 21.02,
+   "ppr": 21.02,
+   "std": 21.02,
    "opp": "GB"
   },
   "11620": {
@@ -1794,9 +1794,9 @@
    "opp": "DAL"
   },
   "3214": {
-   "half": 5.74,
-   "ppr": 7.12,
-   "std": 4.36,
+   "half": 5.71,
+   "ppr": 7.09,
+   "std": 4.33,
    "opp": "GB"
   },
   "4035": {
@@ -1878,9 +1878,9 @@
    "opp": "CIN"
   },
   "8167": {
-   "half": 13.87,
-   "ppr": 16.21,
-   "std": 11.53,
+   "half": 13.8,
+   "ppr": 16.13,
+   "std": 11.46,
    "opp": "NE"
   },
   "8177": {
@@ -1950,9 +1950,9 @@
    "opp": "CIN"
   },
   "11581": {
-   "half": 3.94,
-   "ppr": 4.48,
-   "std": 3.39,
+   "half": 3.92,
+   "ppr": 4.47,
+   "std": 3.38,
    "opp": "NE"
   },
   "11584": {
@@ -2112,9 +2112,9 @@
    "opp": "NYG"
   },
   "5850": {
-   "half": 12.41,
-   "ppr": 14.03,
-   "std": 10.79,
+   "half": 12.37,
+   "ppr": 13.99,
+   "std": 10.76,
    "opp": "NE"
   },
   "5854": {
