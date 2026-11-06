@@ -541,11 +541,12 @@
     {
       "sleeperId": "13346",
       "name": "Denzel Boston",
-      "note": "Boston (calf) was limited in Wednesday's practice (Nov 4) before Cleveland's Week 9 game at New Orleans. His game status is unresolved.",
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 11:58 AM PT Nov 6. Earlier: Boston (calf) was limited in Wednesday's practice (Nov 4) before Cleveland's Week 9 game at New Orleans. His game status is unresolved.",
       "tag": "injury",
-      "redraftAdj": 0.95,
+      "redraftAdj": 1.0,
       "dynastyAdj": 1.0,
-      "status": "Questionable"
+      "status": null,
+      "auto": true
     },
     {
       "sleeperId": "11631",
@@ -820,11 +821,12 @@
     {
       "sleeperId": "12506",
       "name": "Harold Fannin Jr.",
-      "note": "Fannin (groin) is listed as questionable on Sleeper as of Nov 5. He had offseason groin surgery, so the injury is worth watching ahead of Sunday.",
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 11:58 AM PT Nov 6. Earlier: Fannin (groin) is listed as questionable on Sleeper as of Nov 5. He had offseason groin surgery, so the injury is worth watching ahead of Sunday.",
       "tag": "injury",
-      "redraftAdj": 0.95,
+      "redraftAdj": 1.0,
       "dynastyAdj": 1.0,
-      "status": "Questionable"
+      "status": null,
+      "auto": true
     },
     {
       "auto": true,
@@ -997,5 +999,5 @@
       "tag": "injury"
     }
   ],
-  "statusChecked": "11:04 AM PT Nov 6"
+  "statusChecked": "11:58 AM PT Nov 6"
 }
