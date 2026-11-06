@@ -437,11 +437,12 @@
     {
       "sleeperId": "8146",
       "name": "Garrett Wilson",
-      "note": "Wilson has been in the concussion protocol since Nov 4 and must clear an independent consultant. Reports lean toward the Jets playing at Kansas City on Sunday without him.",
+      "note": "Sleeper now lists him out (concussion) as of 9:02 AM PT Nov 6. Earlier: Wilson has been in the concussion protocol since Nov 4 and must clear an independent consultant. Reports lean toward the Jets playing at Kansas City on Sunday without him.",
       "tag": "injury",
       "redraftAdj": 0.75,
       "dynastyAdj": 0.99,
-      "status": "Questionable"
+      "status": "Out",
+      "auto": true
     },
     {
       "sleeperId": "11625",
@@ -992,5 +993,5 @@
       "tag": "injury"
     }
   ],
-  "statusChecked": "6:58 AM PT Nov 6"
+  "statusChecked": "9:02 AM PT Nov 6"
 }
