@@ -1063,8 +1063,19 @@
    "t": "WAS"
   },
   "3161": {
+   "changed": "2026-11-06T02:59:15.197350+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.05,
+    "name": "Carson Wentz",
+    "note": "Sleeper's depth chart now has him as MIN's starting QB as of 6:59 PM PT Nov 5.",
+    "redraftAdj": 1.2,
+    "sleeperId": "3161",
+    "status": null,
+    "tag": "role_up"
+   },
    "i": null,
-   "qb1": false,
+   "qb1": true,
    "t": "MIN"
   },
   "3163": {
@@ -1328,9 +1339,19 @@
    "t": "PIT"
   },
   "5849": {
-   "changed": "2026-11-01T22:45:48.808708+00:00",
+   "changed": "2026-11-06T02:59:15.197350+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 0.95,
+    "name": "Kyler Murray",
+    "note": "Sleeper's depth chart now has him as MIN's backup QB as of 6:59 PM PT Nov 5.",
+    "redraftAdj": 0.8,
+    "sleeperId": "5849",
+    "status": "Questionable",
+    "tag": "role_down"
+   },
    "i": "Questionable",
-   "qb1": true,
+   "qb1": false,
    "t": "MIN"
   },
   "5850": {

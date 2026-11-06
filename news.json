@@ -78,11 +78,12 @@
     {
       "sleeperId": "5849",
       "name": "Kyler Murray",
-      "note": "Murray's sore hamstring keeps his status for Monday night vs. Buffalo (Nov. 9) unresolved, and the Vikings' first practice of the week is Thursday, Nov. 5. Carson Wentz would start if Murray is limited or out.",
-      "tag": "injury",
-      "redraftAdj": 0.85,
-      "dynastyAdj": 1.0,
-      "status": "Questionable"
+      "tag": "role_down",
+      "redraftAdj": 0.8,
+      "dynastyAdj": 0.95,
+      "status": "Questionable",
+      "auto": true,
+      "note": "Sleeper's depth chart now has him as MIN's backup QB as of 6:59 PM PT Nov 5."
     },
     {
       "sleeperId": "6011",
@@ -974,7 +975,17 @@
       "dynastyAdj": 1.0,
       "status": "Questionable",
       "auto": true
+    },
+    {
+      "sleeperId": "3161",
+      "name": "Carson Wentz",
+      "tag": "role_up",
+      "redraftAdj": 1.2,
+      "dynastyAdj": 1.05,
+      "status": null,
+      "auto": true,
+      "note": "Sleeper's depth chart now has him as MIN's starting QB as of 6:59 PM PT Nov 5."
     }
   ],
-  "statusChecked": "5:22 PM PT Nov 5"
+  "statusChecked": "6:59 PM PT Nov 5"
 }
