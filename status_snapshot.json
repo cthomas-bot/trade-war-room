@@ -247,18 +247,18 @@
    "t": "JAX"
   },
   "11632": {
-   "changed": "2026-11-05T19:08:13.945649+00:00",
+   "changed": "2026-11-06T21:51:30.270478+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 1.0,
     "name": "Malik Nabers",
-    "note": "Sleeper now lists him questionable (undisclosed) as of 11:08 AM PT Nov 5.",
-    "redraftAdj": 0.98,
+    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 1:51 PM PT Nov 6. Earlier: Nabers did not practice Thursday, Nov 5, with a knee injury ahead of Week 9 at Philadelphia.",
+    "redraftAdj": 1.0,
     "sleeperId": "11632",
-    "status": "Questionable",
+    "status": null,
     "tag": "injury"
    },
-   "i": "Questionable",
+   "i": null,
    "qb1": null,
    "t": "NYG"
   },
@@ -376,8 +376,18 @@
    "t": "HOU"
   },
   "12481": {
-   "changed": "2026-10-25T21:41:57.749668+00:00",
-   "i": "Questionable",
+   "changed": "2026-11-06T21:51:30.270478+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 0.97,
+    "name": "Cam Skattebo",
+    "note": "Sleeper now lists him doubtful (hamstring) as of 1:51 PM PT Nov 6. Earlier: Skattebo (hamstring) missed practice again Thursday (Nov. 5), working on the side with trainers. He is still day-to-day and looks doubtful to face Philadelphia on Sunday.",
+    "redraftAdj": 0.7,
+    "sleeperId": "12481",
+    "status": "Out",
+    "tag": "injury"
+   },
+   "i": "Doubtful",
    "qb1": null,
    "t": "NYG"
   },
@@ -1233,18 +1243,18 @@
    "t": "SF"
   },
   "4866": {
-   "changed": "2026-11-04T23:52:14.789586+00:00",
+   "changed": "2026-11-06T21:51:30.270478+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 1.0,
     "name": "Saquon Barkley",
-    "note": "Sleeper now lists him questionable (hamstring) as of 3:52 PM PT Nov 4.",
-    "redraftAdj": 0.98,
+    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 1:51 PM PT Nov 6. Earlier: Barkley (hamstring/back) practiced Thursday (Nov. 5) after missing Wednesday, and he looks on track to play Sunday vs. the Giants.",
+    "redraftAdj": 1.0,
     "sleeperId": "4866",
-    "status": "Questionable",
+    "status": null,
     "tag": "injury"
    },
-   "i": "Questionable",
+   "i": null,
    "qb1": null,
    "t": "PHI"
   },
@@ -1579,18 +1589,18 @@
    "t": "JAX"
   },
   "7525": {
-   "changed": "2026-11-04T09:06:31.989484+00:00",
+   "changed": "2026-11-06T21:51:30.270478+00:00",
    "entry": {
     "auto": true,
-    "dynastyAdj": 1.0,
+    "dynastyAdj": 0.99,
     "name": "DeVonta Smith",
-    "note": "Sleeper now lists him questionable (hamstring) as of 1:06 AM PT Nov 4. Earlier: Smith (hamstring) missed the Nov 1 game vs. Washington, and the injury has lingered all season. Philadelphia has given no timeline.",
-    "redraftAdj": 0.98,
+    "note": "Sleeper now lists him out (hamstring) as of 1:51 PM PT Nov 6. Earlier: Smith (hamstring) did not practice Thursday (Nov 5). He is trending toward missing a third straight game, Week 9 vs. the Giants.",
+    "redraftAdj": 0.8,
     "sleeperId": "7525",
-    "status": "Questionable",
+    "status": "Out",
     "tag": "injury"
    },
-   "i": "Questionable",
+   "i": "Out",
    "qb1": null,
    "t": "PHI"
   },
@@ -1964,18 +1974,18 @@
    "t": "MIN"
   },
   "8676": {
-   "changed": "2026-11-04T09:06:31.989484+00:00",
+   "changed": "2026-11-06T21:51:30.270478+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 1.0,
     "name": "Rashid Shaheed",
-    "note": "Sleeper now lists him questionable (knee) as of 1:06 AM PT Nov 4. Earlier: Shaheed (knee) sat out Seattle's 34-17 MNF loss to Chicago on Nov 2. Mike Macdonald had earlier called the injury not long-term, but his Week 9 status is unclear.",
-    "redraftAdj": 0.98,
+    "note": "Sleeper now lists him out (knee) as of 1:51 PM PT Nov 6. Earlier: Shaheed (knee) did not practice Thursday, Nov 5, and is in danger of missing a second straight game.",
+    "redraftAdj": 0.85,
     "sleeperId": "8676",
-    "status": "Questionable",
+    "status": "Out",
     "tag": "injury"
    },
-   "i": "Questionable",
+   "i": "Out",
    "qb1": null,
    "t": "SEA"
   },
@@ -2044,18 +2054,18 @@
    "t": "GB"
   },
   "9486": {
-   "changed": "2026-11-04T09:06:31.989484+00:00",
+   "changed": "2026-11-06T21:51:30.270478+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 1.0,
     "name": "Dontayvion Wicks",
-    "note": "Sleeper now lists him questionable (ankle) as of 1:06 AM PT Nov 4.",
-    "redraftAdj": 0.98,
+    "note": "Sleeper now lists him out (ankle) as of 1:51 PM PT Nov 6.",
+    "redraftAdj": 0.9,
     "sleeperId": "9486",
-    "status": "Questionable",
+    "status": "Out",
     "tag": "injury"
    },
-   "i": "Questionable",
+   "i": "Out",
    "qb1": null,
    "t": "PHI"
   },

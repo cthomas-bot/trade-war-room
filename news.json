@@ -140,20 +140,22 @@
     {
       "sleeperId": "4866",
       "name": "Saquon Barkley",
-      "note": "Barkley (hamstring/back) practiced Thursday (Nov. 5) after missing Wednesday, and he looks on track to play Sunday vs. the Giants.",
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 1:51 PM PT Nov 6. Earlier: Barkley (hamstring/back) practiced Thursday (Nov. 5) after missing Wednesday, and he looks on track to play Sunday vs. the Giants.",
       "tag": "injury",
-      "redraftAdj": 0.96,
+      "redraftAdj": 1.0,
       "dynastyAdj": 1.0,
-      "status": "Questionable"
+      "status": null,
+      "auto": true
     },
     {
       "sleeperId": "12481",
       "name": "Cam Skattebo",
-      "note": "Skattebo (hamstring) missed practice again Thursday (Nov. 5), working on the side with trainers. He is still day-to-day and looks doubtful to face Philadelphia on Sunday.",
+      "note": "Sleeper now lists him doubtful (hamstring) as of 1:51 PM PT Nov 6. Earlier: Skattebo (hamstring) missed practice again Thursday (Nov. 5), working on the side with trainers. He is still day-to-day and looks doubtful to face Philadelphia on Sunday.",
       "tag": "injury",
       "redraftAdj": 0.7,
       "dynastyAdj": 0.97,
-      "status": "Questionable"
+      "status": "Out",
+      "auto": true
     },
     {
       "sleeperId": "6130",
@@ -507,11 +509,12 @@
     {
       "sleeperId": "7525",
       "name": "DeVonta Smith",
-      "note": "Smith (hamstring) did not practice Thursday (Nov 5). He is trending toward missing a third straight game, Week 9 vs. the Giants.",
+      "note": "Sleeper now lists him out (hamstring) as of 1:51 PM PT Nov 6. Earlier: Smith (hamstring) did not practice Thursday (Nov 5). He is trending toward missing a third straight game, Week 9 vs. the Giants.",
       "tag": "injury",
       "redraftAdj": 0.8,
       "dynastyAdj": 0.99,
-      "status": "Questionable"
+      "status": "Out",
+      "auto": true
     },
     {
       "sleeperId": "5872",
@@ -670,20 +673,22 @@
     {
       "sleeperId": "8676",
       "name": "Rashid Shaheed",
-      "note": "Shaheed (knee) did not practice Thursday, Nov 5, and is in danger of missing a second straight game.",
+      "note": "Sleeper now lists him out (knee) as of 1:51 PM PT Nov 6. Earlier: Shaheed (knee) did not practice Thursday, Nov 5, and is in danger of missing a second straight game.",
       "tag": "injury",
       "redraftAdj": 0.85,
       "dynastyAdj": 1.0,
-      "status": "Questionable"
+      "status": "Out",
+      "auto": true
     },
     {
       "sleeperId": "11632",
       "name": "Malik Nabers",
-      "note": "Nabers did not practice Thursday, Nov 5, with a knee injury ahead of Week 9 at Philadelphia.",
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 1:51 PM PT Nov 6. Earlier: Nabers did not practice Thursday, Nov 5, with a knee injury ahead of Week 9 at Philadelphia.",
       "tag": "injury",
-      "redraftAdj": 0.92,
+      "redraftAdj": 1.0,
       "dynastyAdj": 1.0,
-      "status": "Questionable"
+      "status": null,
+      "auto": true
     },
     {
       "sleeperId": "11637",
@@ -991,15 +996,15 @@
       "tag": "injury"
     },
     {
-      "auto": true,
-      "dynastyAdj": 1.0,
-      "name": "Dontayvion Wicks",
-      "note": "Sleeper now lists him questionable (ankle) as of 1:06 AM PT Nov 4.",
-      "redraftAdj": 0.98,
       "sleeperId": "9486",
-      "status": "Questionable",
-      "tag": "injury"
+      "name": "Dontayvion Wicks",
+      "note": "Sleeper now lists him out (ankle) as of 1:51 PM PT Nov 6.",
+      "tag": "injury",
+      "redraftAdj": 0.9,
+      "dynastyAdj": 1.0,
+      "status": "Out",
+      "auto": true
     }
   ],
-  "statusChecked": "12:55 PM PT Nov 6"
+  "statusChecked": "1:51 PM PT Nov 6"
 }
