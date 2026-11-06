@@ -557,18 +557,18 @@
    "t": "LV"
   },
   "12529": {
-   "changed": "2026-11-04T09:06:31.989484+00:00",
+   "changed": "2026-11-06T19:04:06.391264+00:00",
    "entry": {
     "auto": true,
-    "dynastyAdj": 1.0,
+    "dynastyAdj": 0.99,
     "name": "TreVeyon Henderson",
-    "note": "Sleeper now lists him questionable (illness) as of 1:06 AM PT Nov 4.",
-    "redraftAdj": 0.98,
+    "note": "Sleeper now lists him out (illness) as of 11:04 AM PT Nov 6. Earlier: Henderson (illness) missed practice again Thursday (Nov. 5) and hasn't practiced since last Wednesday, so he could miss a second straight game Sunday vs. Green Bay.",
+    "redraftAdj": 0.7,
     "sleeperId": "12529",
-    "status": "Questionable",
+    "status": "Out",
     "tag": "injury"
    },
-   "i": "Questionable",
+   "i": "Out",
    "qb1": null,
    "t": "NE"
   },
@@ -1109,20 +1109,20 @@
    "t": "NE"
   },
   "3257": {
-   "changed": "2026-11-04T21:01:37.211794+00:00",
+   "changed": "2026-11-06T19:04:06.391264+00:00",
    "entry": {
     "auto": true,
-    "dynastyAdj": 0.93,
+    "dynastyAdj": 1,
     "name": "Jacoby Brissett",
-    "note": "Cleared: no longer on Sleeper's injury report (was out) as of 1:01 PM PT Nov 4.",
-    "redraftAdj": 0.98,
+    "note": "Sleeper shows he moved from ARI to BAL as of 11:04 AM PT Nov 6; check his new role.",
+    "redraftAdj": 1,
     "sleeperId": "3257",
-    "status": null,
-    "tag": "injury"
+    "status": "",
+    "tag": "rumor"
    },
    "i": null,
    "qb1": false,
-   "t": "ARI"
+   "t": "BAL"
   },
   "3294": {
    "changed": null,
@@ -1361,18 +1361,18 @@
    "t": "GB"
   },
   "5859": {
-   "changed": "2026-11-04T09:06:31.989484+00:00",
+   "changed": "2026-11-06T19:04:06.391264+00:00",
    "entry": {
     "auto": true,
-    "dynastyAdj": 1.0,
+    "dynastyAdj": 0.98,
     "name": "A.J. Brown",
-    "note": "Sleeper now lists him questionable (ankle) as of 1:06 AM PT Nov 4. Earlier: Brown (ankle, knee) was ruled out and did not play Nov 1 vs. Miami. No Week 9 timeline has been reported as of Nov 2.",
-    "redraftAdj": 0.98,
+    "note": "Sleeper now lists him out (knee) as of 11:04 AM PT Nov 6. Earlier: Brown (knee/ankle) missed practice again Thursday (Nov 5), his third straight absence this week, and Mike Vrabel sidestepped a question about returning him to IR. A Week 9 return vs. Green Bay looks unlikely.",
+    "redraftAdj": 0.75,
     "sleeperId": "5859",
-    "status": "Questionable",
+    "status": "Out",
     "tag": "injury"
    },
-   "i": "Questionable",
+   "i": "Out",
    "qb1": null,
    "t": "NE"
   },
@@ -1744,18 +1744,18 @@
    "t": "NE"
   },
   "8122": {
-   "changed": "2026-11-04T09:06:31.989484+00:00",
+   "changed": "2026-11-06T19:04:06.391264+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 1.0,
     "name": "Zonovan Knight",
-    "note": "Sleeper now lists him questionable (concussion) as of 1:06 AM PT Nov 4. Earlier: Knight missed Week 8 on Nov. 1 with a concussion and must clear protocol before Week 9. If he clears, he would be in line for work behind Allgeier while Love (ankle) is out.",
-    "redraftAdj": 0.98,
+    "note": "Sleeper now lists him out (concussion) as of 11:04 AM PT Nov 6. Earlier: Knight (concussion) is questionable and must clear protocol before Week 9. If healthy, he is the No. 2 behind Tyler Allgeier while Jeremiyah Love is on IR.",
+    "redraftAdj": 0.9,
     "sleeperId": "8122",
-    "status": "Questionable",
+    "status": "Out",
     "tag": "injury"
    },
-   "i": "Questionable",
+   "i": "Out",
    "qb1": null,
    "t": "ARI"
   },
