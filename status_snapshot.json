@@ -40,24 +40,34 @@
    "t": "KC"
   },
   "10232": {
-   "changed": "2026-11-01T23:43:15.040477+00:00",
-   "i": "Questionable",
+   "changed": "2026-11-06T22:52:08.974311+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Michael Wilson",
+    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 2:52 PM PT Nov 6. Earlier: Wilson (ribs/rest) was limited again in Thursday's Nov 5 practice and is still expected to play through broken ribs. Kendrick Bourne's IR placement (Nov 3) leaves more targets for him.",
+    "redraftAdj": 1.0,
+    "sleeperId": "10232",
+    "status": null,
+    "tag": "injury"
+   },
+   "i": null,
    "qb1": null,
    "t": "ARI"
   },
   "10236": {
-   "changed": "2026-11-05T22:57:25.540111+00:00",
+   "changed": "2026-11-06T22:52:08.974311+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 1.0,
     "name": "Dalton Kincaid",
-    "note": "Sleeper now lists him questionable (chest) as of 2:57 PM PT Nov 5.",
-    "redraftAdj": 0.98,
+    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 2:52 PM PT Nov 6. Earlier: Kincaid (chest) is listed as questionable on Sleeper as of Nov 5. He was limited with the same chest injury in late October practices.",
+    "redraftAdj": 1.0,
     "sleeperId": "10236",
-    "status": "Questionable",
+    "status": null,
     "tag": "injury"
    },
-   "i": "Questionable",
+   "i": null,
    "qb1": null,
    "t": "BUF"
   },
@@ -713,16 +723,6 @@
   },
   "13287": {
    "changed": "2026-11-03T21:56:15.842929+00:00",
-   "entry": {
-    "auto": true,
-    "dynastyAdj": 0.97,
-    "name": "Jeremiyah Love",
-    "note": "Sleeper now lists him on injured reserve (ankle) as of 1:56 PM PT Nov 3. Earlier: Love's right ankle was rolled up on in the Nov. 1 game at Dallas, and he left after 9 carries for 23 yards. On Nov. 2, coach Mike LaFleur called it a new injury to a 'new portion of the ankle,' would not rule out IR, and said he will give more details Wednesday, Nov. 4.",
-    "redraftAdj": 0.7,
-    "sleeperId": "13287",
-    "status": "IR",
-    "tag": "injury"
-   },
    "i": "IR",
    "qb1": null,
    "t": "ARI"
@@ -1045,18 +1045,18 @@
    "t": "LAR"
   },
   "2216": {
-   "changed": "2026-11-04T09:06:31.989484+00:00",
+   "changed": "2026-11-06T22:52:08.974311+00:00",
    "entry": {
     "auto": true,
-    "dynastyAdj": 1.0,
+    "dynastyAdj": 0.99,
     "name": "Mike Evans",
-    "note": "Sleeper now lists him questionable (achilles) as of 1:06 AM PT Nov 4. Earlier: Evans (Achilles/ribs) hasn't played since the Oct 19 game he left with Achilles soreness. No clearance for Week 9 had been reported as of Nov 3.",
-    "redraftAdj": 0.98,
+    "note": "Sleeper now lists him out (achilles) as of 2:52 PM PT Nov 6. Earlier: Evans (Achilles) missed practice again Thursday, Nov 5, and Rotoworld reports he is unlikely to play in Week 9 vs. the Raiders.",
+    "redraftAdj": 0.78,
     "sleeperId": "2216",
-    "status": "Questionable",
+    "status": "Out",
     "tag": "injury"
    },
-   "i": "Questionable",
+   "i": "Out",
    "qb1": null,
    "t": "SF"
   },
@@ -1171,8 +1171,18 @@
    "t": "CLE"
   },
   "4034": {
-   "changed": "2026-10-25T18:46:13.710861+00:00",
-   "i": "Questionable",
+   "changed": "2026-11-06T22:52:08.974311+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Christian McCaffrey",
+    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 2:52 PM PT Nov 6. Earlier: McCaffrey (hamstring) returned to practice as a limited participant Thursday (Nov. 5) after sitting out Wednesday, and reporters expect him to play Sunday vs. Las Vegas. Friday's report will give his final designation.",
+    "redraftAdj": 1.0,
+    "sleeperId": "4034",
+    "status": null,
+    "tag": "injury"
+   },
+   "i": null,
    "qb1": null,
    "t": "SF"
   },
@@ -1394,18 +1404,18 @@
    "t": "IND"
   },
   "5872": {
-   "changed": "2026-11-04T09:06:31.989484+00:00",
+   "changed": "2026-11-06T22:52:08.974311+00:00",
    "entry": {
     "auto": true,
-    "dynastyAdj": 1.0,
+    "dynastyAdj": 0.99,
     "name": "Deebo Samuel Sr.",
-    "note": "Sleeper now lists him questionable (hamstring) as of 1:06 AM PT Nov 4. Earlier: Samuel (hamstring) has missed two straight games. San Francisco was on bye in Week 8, and he is on Week 9 injury reports while targeting a return.",
-    "redraftAdj": 0.98,
+    "note": "Sleeper now lists him out (hamstring) as of 2:52 PM PT Nov 6. Earlier: Samuel (hamstring) was absent from practice again Thursday (Nov 5) and is considered unlikely to play Sunday vs. Las Vegas.",
+    "redraftAdj": 0.8,
     "sleeperId": "5872",
-    "status": "Questionable",
+    "status": "Out",
     "tag": "injury"
    },
-   "i": "Questionable",
+   "i": "Out",
    "qb1": null,
    "t": "SF"
   },

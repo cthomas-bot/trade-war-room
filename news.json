@@ -131,11 +131,12 @@
     {
       "sleeperId": "4034",
       "name": "Christian McCaffrey",
-      "note": "McCaffrey (hamstring) returned to practice as a limited participant Thursday (Nov. 5) after sitting out Wednesday, and reporters expect him to play Sunday vs. Las Vegas. Friday's report will give his final designation.",
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 2:52 PM PT Nov 6. Earlier: McCaffrey (hamstring) returned to practice as a limited participant Thursday (Nov. 5) after sitting out Wednesday, and reporters expect him to play Sunday vs. Las Vegas. Friday's report will give his final designation.",
       "tag": "injury",
-      "redraftAdj": 0.96,
+      "redraftAdj": 1.0,
       "dynastyAdj": 1.0,
-      "status": "Questionable"
+      "status": null,
+      "auto": true
     },
     {
       "sleeperId": "4866",
@@ -519,11 +520,12 @@
     {
       "sleeperId": "5872",
       "name": "Deebo Samuel Sr.",
-      "note": "Samuel (hamstring) was absent from practice again Thursday (Nov 5) and is considered unlikely to play Sunday vs. Las Vegas.",
+      "note": "Sleeper now lists him out (hamstring) as of 2:52 PM PT Nov 6. Earlier: Samuel (hamstring) was absent from practice again Thursday (Nov 5) and is considered unlikely to play Sunday vs. Las Vegas.",
       "tag": "injury",
       "redraftAdj": 0.8,
       "dynastyAdj": 0.99,
-      "status": "Questionable"
+      "status": "Out",
+      "auto": true
     },
     {
       "sleeperId": "7547",
@@ -664,11 +666,12 @@
     {
       "sleeperId": "2216",
       "name": "Mike Evans",
-      "note": "Evans (Achilles) missed practice again Thursday, Nov 5, and Rotoworld reports he is unlikely to play in Week 9 vs. the Raiders.",
+      "note": "Sleeper now lists him out (achilles) as of 2:52 PM PT Nov 6. Earlier: Evans (Achilles) missed practice again Thursday, Nov 5, and Rotoworld reports he is unlikely to play in Week 9 vs. the Raiders.",
       "tag": "injury",
       "redraftAdj": 0.78,
       "dynastyAdj": 0.99,
-      "status": "Questionable"
+      "status": "Out",
+      "auto": true
     },
     {
       "sleeperId": "8676",
@@ -702,11 +705,12 @@
     {
       "sleeperId": "10232",
       "name": "Michael Wilson",
-      "note": "Wilson (ribs/rest) was limited again in Thursday's Nov 5 practice and is still expected to play through broken ribs. Kendrick Bourne's IR placement (Nov 3) leaves more targets for him.",
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 2:52 PM PT Nov 6. Earlier: Wilson (ribs/rest) was limited again in Thursday's Nov 5 practice and is still expected to play through broken ribs. Kendrick Bourne's IR placement (Nov 3) leaves more targets for him.",
       "tag": "injury",
-      "redraftAdj": 0.94,
+      "redraftAdj": 1.0,
       "dynastyAdj": 1.0,
-      "status": "Questionable"
+      "status": null,
+      "auto": true
     },
     {
       "sleeperId": "10229",
@@ -819,11 +823,12 @@
     {
       "sleeperId": "10236",
       "name": "Dalton Kincaid",
-      "note": "Kincaid (chest) is listed as questionable on Sleeper as of Nov 5. He was limited with the same chest injury in late October practices.",
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 2:52 PM PT Nov 6. Earlier: Kincaid (chest) is listed as questionable on Sleeper as of Nov 5. He was limited with the same chest injury in late October practices.",
       "tag": "injury",
-      "redraftAdj": 0.95,
+      "redraftAdj": 1.0,
       "dynastyAdj": 1.0,
-      "status": "Questionable"
+      "status": null,
+      "auto": true
     },
     {
       "sleeperId": "12506",
@@ -1006,5 +1011,5 @@
       "auto": true
     }
   ],
-  "statusChecked": "1:51 PM PT Nov 6"
+  "statusChecked": "2:52 PM PT Nov 6"
 }
