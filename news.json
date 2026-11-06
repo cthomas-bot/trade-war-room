@@ -123,11 +123,12 @@
     {
       "sleeperId": "12490",
       "name": "Bhayshul Tuten",
-      "note": "Tuten (ankle/foot) did not practice all week and is officially questionable for TNF at Baltimore tonight (Nov. 5). Liam Coen calls him a game-time decision, though Coen said Tuten told him he feels better.",
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 5:22 PM PT Nov 5. Earlier: Tuten (ankle/foot) did not practice all week and is officially questionable for TNF at Baltimore tonight (Nov. 5). Liam Coen calls him a game-time decision, though Coen said Tuten told him he feels better.",
       "tag": "injury",
-      "redraftAdj": 0.65,
+      "redraftAdj": 1.0,
       "dynastyAdj": 0.99,
-      "status": "Questionable"
+      "status": null,
+      "auto": true
     },
     {
       "sleeperId": "10219",
@@ -595,11 +596,12 @@
     {
       "sleeperId": "13268",
       "name": "Elijah Sarratt",
-      "note": "Sarratt is off the injury report, but Lamar Jackson is out and likely done for the season, and undrafted rookie Joe Fagnano is expected to start tonight (Nov 5) vs. Jacksonville. That drags down Baltimore's passing outlook.",
-      "tag": "role_down",
+      "note": "Sleeper now lists him out (coach's decision) as of 5:22 PM PT Nov 5. Earlier: Sarratt is off the injury report, but Lamar Jackson is out and likely done for the season, and undrafted rookie Joe Fagnano is expected to start tonight (Nov 5) vs. Jacksonville. That drags down Baltimore's passing outlook.",
+      "tag": "injury",
       "redraftAdj": 0.88,
       "dynastyAdj": 0.98,
-      "status": ""
+      "status": "Out",
+      "auto": true
     },
     {
       "sleeperId": "2133",
@@ -974,5 +976,5 @@
       "auto": true
     }
   ],
-  "statusChecked": "3:52 PM PT Nov 5"
+  "statusChecked": "5:22 PM PT Nov 5"
 }
