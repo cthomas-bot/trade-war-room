@@ -1167,18 +1167,18 @@
    "t": "SF"
   },
   "4035": {
-   "changed": "2026-11-04T22:57:09.586210+00:00",
+   "changed": "2026-11-06T20:55:44.714709+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 1.0,
     "name": "Alvin Kamara",
-    "note": "Sleeper now lists him questionable (back) as of 2:57 PM PT Nov 4.",
-    "redraftAdj": 0.98,
+    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 12:55 PM PT Nov 6. Earlier: Kamara's Week 9 listing was for rest (not injury related) on the Nov. 4 report, so there's little concern for Sunday.",
+    "redraftAdj": 1.0,
     "sleeperId": "4035",
-    "status": "Questionable",
+    "status": null,
     "tag": "injury"
    },
-   "i": "Questionable",
+   "i": null,
    "qb1": null,
    "t": "NO"
   },
@@ -1921,8 +1921,18 @@
    "t": "MIA"
   },
   "8167": {
-   "changed": "2026-10-30T02:06:57.561111+00:00",
-   "i": "Questionable",
+   "changed": "2026-11-06T20:55:44.714709+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Christian Watson",
+    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 12:55 PM PT Nov 6. Earlier: Watson (ribs) was limited again Thursday (Nov 5) but practiced in pads. Reports say signs point to him playing Sunday vs. New England.",
+    "redraftAdj": 1.0,
+    "sleeperId": "8167",
+    "status": null,
+    "tag": "injury"
+   },
+   "i": null,
    "qb1": null,
    "t": "GB"
   },

@@ -395,11 +395,12 @@
     {
       "sleeperId": "4035",
       "name": "Alvin Kamara",
-      "note": "Kamara's Week 9 listing was for rest (not injury related) on the Nov. 4 report, so there's little concern for Sunday.",
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 12:55 PM PT Nov 6. Earlier: Kamara's Week 9 listing was for rest (not injury related) on the Nov. 4 report, so there's little concern for Sunday.",
       "tag": "injury",
-      "redraftAdj": 0.98,
+      "redraftAdj": 1.0,
       "dynastyAdj": 1.0,
-      "status": "Questionable"
+      "status": null,
+      "auto": true
     },
     {
       "sleeperId": "13347",
@@ -478,11 +479,12 @@
     {
       "sleeperId": "8167",
       "name": "Christian Watson",
-      "note": "Watson (ribs) was limited again Thursday (Nov 5) but practiced in pads. Reports say signs point to him playing Sunday vs. New England.",
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 12:55 PM PT Nov 6. Earlier: Watson (ribs) was limited again Thursday (Nov 5) but practiced in pads. Reports say signs point to him playing Sunday vs. New England.",
       "tag": "injury",
-      "redraftAdj": 0.97,
+      "redraftAdj": 1.0,
       "dynastyAdj": 1.0,
-      "status": "Questionable"
+      "status": null,
+      "auto": true
     },
     {
       "sleeperId": "4983",
@@ -999,5 +1001,5 @@
       "tag": "injury"
     }
   ],
-  "statusChecked": "11:58 AM PT Nov 6"
+  "statusChecked": "12:55 PM PT Nov 6"
 }
