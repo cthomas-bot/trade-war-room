@@ -13,11 +13,12 @@
     {
       "sleeperId": "3257",
       "name": "Jacoby Brissett",
-      "note": "Traded from Arizona to Baltimore after Lamar Jackson's thumb injury. Per Adam Schefter, the deal wasn't final in time for TNF on Nov. 5, and he is expected to debut in Week 10 Monday night vs. the Chargers.",
-      "tag": "trade",
+      "tag": "role_up",
       "redraftAdj": 1.2,
-      "dynastyAdj": 1.02,
-      "status": ""
+      "dynastyAdj": 1.05,
+      "status": "",
+      "auto": true,
+      "note": "Sleeper's depth chart now has him as BAL's starting QB as of 7:48 AM PT Nov 7."
     },
     {
       "sleeperId": "5849",
@@ -919,5 +920,5 @@
       "tag": "injury"
     }
   ],
-  "statusChecked": "6:51 AM PT Nov 7"
+  "statusChecked": "7:48 AM PT Nov 7"
 }
