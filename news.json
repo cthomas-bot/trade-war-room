@@ -23,11 +23,12 @@
     {
       "sleeperId": "5849",
       "name": "Kyler Murray",
-      "note": "Kevin O'Connell said Nov. 5 that Murray has a hamstring strain and is week to week, so Carson Wentz will start Monday night vs. Buffalo (Nov. 9). He is not headed to IR, but his starting job beyond this week is uncertain.",
+      "note": "Sleeper now lists him out (hamstring) as of 11:51 AM PT Nov 7. Earlier: Kevin O'Connell said Nov. 5 that Murray has a hamstring strain and is week to week, so Carson Wentz will start Monday night vs. Buffalo (Nov. 9). He is not headed to IR, but his starting job beyond this week is uncertain.",
       "tag": "injury",
       "redraftAdj": 0.6,
       "dynastyAdj": 0.95,
-      "status": "Out"
+      "status": "Out",
+      "auto": true
     },
     {
       "sleeperId": "3161",
@@ -473,11 +474,12 @@
     {
       "sleeperId": "4983",
       "name": "DJ Moore",
-      "note": "Moore was limited in practice Thursday (Nov 5) and is questionable. Buffalo plays Monday night at Minnesota, which gives him an extra day.",
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 11:51 AM PT Nov 7. Earlier: Moore was limited in practice Thursday (Nov 5) and is questionable. Buffalo plays Monday night at Minnesota, which gives him an extra day.",
       "tag": "injury",
-      "redraftAdj": 0.97,
+      "redraftAdj": 1.0,
       "dynastyAdj": 1.0,
-      "status": "Questionable"
+      "status": null,
+      "auto": true
     },
     {
       "sleeperId": "13380",
@@ -509,11 +511,12 @@
     {
       "sleeperId": "7049",
       "name": "Jauan Jennings",
-      "note": "Jennings was listed questionable with a calf injury as of Nov 5, and Sleeper now lists him with Minnesota. His Week 9 availability and role in the new offense are unclear.",
-      "tag": "trade",
-      "redraftAdj": 0.95,
+      "note": "Sleeper now lists him out (calf) as of 11:51 AM PT Nov 7. Earlier: Jennings was listed questionable with a calf injury as of Nov 5, and Sleeper now lists him with Minnesota. His Week 9 availability and role in the new offense are unclear.",
+      "tag": "injury",
+      "redraftAdj": 0.9,
       "dynastyAdj": 1.0,
-      "status": "Questionable"
+      "status": "Out",
+      "auto": true
     },
     {
       "sleeperId": "13293",
@@ -617,11 +620,12 @@
     {
       "sleeperId": "11637",
       "name": "Keon Coleman",
-      "note": "Coleman (shoulder) was limited in practice Nov 5. Buffalo plays Monday at Minnesota, so his final designation will come later than other teams'.",
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 11:51 AM PT Nov 7. Earlier: Coleman (shoulder) was limited in practice Nov 5. Buffalo plays Monday at Minnesota, so his final designation will come later than other teams'.",
       "tag": "injury",
-      "redraftAdj": 0.97,
+      "redraftAdj": 1.0,
       "dynastyAdj": 1.0,
-      "status": "Questionable"
+      "status": null,
+      "auto": true
     },
     {
       "sleeperId": "10232",
@@ -820,14 +824,14 @@
       "tag": "injury"
     },
     {
-      "auto": true,
-      "dynastyAdj": 1.0,
-      "name": "Demond Claiborne",
-      "note": "Sleeper now lists him questionable (knee) as of 2:57 PM PT Nov 5.",
-      "redraftAdj": 0.98,
       "sleeperId": "13347",
-      "status": "Questionable",
-      "tag": "injury"
+      "name": "Demond Claiborne",
+      "note": "Sleeper now lists him out (knee) as of 11:51 AM PT Nov 7.",
+      "tag": "injury",
+      "redraftAdj": 0.9,
+      "dynastyAdj": 1.0,
+      "status": "Out",
+      "auto": true
     },
     {
       "auto": true,
@@ -920,5 +924,5 @@
       "tag": "injury"
     }
   ],
-  "statusChecked": "7:48 AM PT Nov 7"
+  "statusChecked": "11:51 AM PT Nov 7"
 }
