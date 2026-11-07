@@ -430,11 +430,11 @@
     {
       "sleeperId": "3286",
       "name": "Demarcus Robinson",
-      "note": "Sleeper now lists him questionable (ankle) as of 1:46 PM PT Nov 7. Earlier: Reports on the 49ers' final Week 9 report (Nov 6) say Robinson (ankle) is expected to be activated from IR for Sunday vs. Las Vegas. Mike Evans, Deebo Samuel and Christian Kirk are all out, so he could step into a big role.",
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 2:47 PM PT Nov 7.",
       "tag": "injury",
-      "redraftAdj": 0.98,
+      "redraftAdj": 1.0,
       "dynastyAdj": 1.0,
-      "status": "Questionable",
+      "status": null,
       "auto": true
     },
     {
@@ -927,5 +927,5 @@
       "tag": "injury"
     }
   ],
-  "statusChecked": "1:46 PM PT Nov 7"
+  "statusChecked": "2:47 PM PT Nov 7"
 }
