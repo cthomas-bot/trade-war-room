@@ -9,16 +9,6 @@
   },
   "10219": {
    "changed": "2026-11-04T21:01:37.211794+00:00",
-   "entry": {
-    "auto": true,
-    "dynastyAdj": 1.0,
-    "name": "Chris Rodriguez Jr.",
-    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 1:01 PM PT Nov 4. Earlier: Rodriguez (hand) was limited at practice Tuesday (Nov. 3). He would be the top candidate to lead Jacksonville's backfield Thursday at Baltimore if Bhayshul Tuten (ankle/foot, DNP twice) sits.",
-    "redraftAdj": 1.0,
-    "sleeperId": "10219",
-    "status": null,
-    "tag": "injury"
-   },
    "i": null,
    "qb1": null,
    "t": "JAX"
@@ -642,9 +632,18 @@
    "t": "TEN"
   },
   "13281": {
-   "changed": null,
-   "entry": null,
-   "i": "IR",
+   "changed": "2026-11-07T21:46:40.407180+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Jordyn Tyson",
+    "note": "Sleeper now lists him questionable (hamstring) as of 1:46 PM PT Nov 7. Earlier: Tyson (hamstring) practiced on a limited basis this week after being designated to return from IR and was considered questionable to debut Sunday vs. Cleveland. As of Nov 6 there was no confirmed activation.",
+    "redraftAdj": 0.98,
+    "sleeperId": "13281",
+    "status": "Questionable",
+    "tag": "injury"
+   },
+   "i": "Questionable",
    "qb1": null,
    "t": "NO"
   },
@@ -835,16 +834,6 @@
   },
   "13380": {
    "changed": "2026-11-04T21:01:37.211794+00:00",
-   "entry": {
-    "auto": true,
-    "dynastyAdj": 1.0,
-    "name": "Brenen Thompson",
-    "note": "Sleeper now lists him doubtful (quadriceps) as of 1:01 PM PT Nov 4. Earlier: Thompson (quad) was ruled out for Week 8 on Oct 31, a recurrence of the quad injury that cost him Weeks 3-5. Sleeper lists him questionable for Week 9 as of Nov 4.",
-    "redraftAdj": 0.93,
-    "sleeperId": "13380",
-    "status": "Out",
-    "tag": "injury"
-   },
    "i": "Doubtful",
    "qb1": null,
    "t": "LAC"
@@ -1035,9 +1024,18 @@
    "t": "BAL"
   },
   "3286": {
-   "changed": null,
-   "entry": null,
-   "i": "IR",
+   "changed": "2026-11-07T21:46:40.407180+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Demarcus Robinson",
+    "note": "Sleeper now lists him questionable (ankle) as of 1:46 PM PT Nov 7. Earlier: Reports on the 49ers' final Week 9 report (Nov 6) say Robinson (ankle) is expected to be activated from IR for Sunday vs. Las Vegas. Mike Evans, Deebo Samuel and Christian Kirk are all out, so he could step into a big role.",
+    "redraftAdj": 0.98,
+    "sleeperId": "3286",
+    "status": "Questionable",
+    "tag": "injury"
+   },
+   "i": "Questionable",
    "qb1": null,
    "t": "SF"
   },
@@ -1338,16 +1336,6 @@
   },
   "5892": {
    "changed": "2026-11-04T21:01:37.211794+00:00",
-   "entry": {
-    "auto": true,
-    "dynastyAdj": 1.0,
-    "name": "David Montgomery",
-    "note": "Sleeper now lists him out (groin) as of 1:01 PM PT Nov 4. Earlier: Montgomery (groin) is questionable after missing two games. DeMeco Ryans said he will be evaluated through the week before a decision for Week 9 vs. the Chargers, and Woody Marks has led the backfield.",
-    "redraftAdj": 0.9,
-    "sleeperId": "5892",
-    "status": "Out",
-    "tag": "injury"
-   },
    "i": "Out",
    "qb1": null,
    "t": "HOU"
@@ -1360,16 +1348,6 @@
   },
   "5947": {
    "changed": "2026-11-04T21:01:37.211794+00:00",
-   "entry": {
-    "auto": true,
-    "dynastyAdj": 0.99,
-    "name": "Jakobi Meyers",
-    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 1:01 PM PT Nov 4. Earlier: Meyers was limited on Monday's (Nov 2) estimated practice report with hamstring and ankle injuries, and he is listed questionable.",
-    "redraftAdj": 1.0,
-    "sleeperId": "5947",
-    "status": null,
-    "tag": "injury"
-   },
    "i": null,
    "qb1": null,
    "t": "JAX"
@@ -1789,18 +1767,18 @@
    "t": "KC"
   },
   "8154": {
-   "changed": "2026-11-06T14:58:02.283636+00:00",
+   "changed": "2026-11-07T21:46:40.407180+00:00",
    "entry": {
     "auto": true,
-    "dynastyAdj": 1.0,
+    "dynastyAdj": 0.97,
     "name": "Brian Robinson Jr.",
-    "note": "Sleeper now lists him out (hamstring) as of 6:58 AM PT Nov 6. Earlier: Sleeper now lists Robinson (hamstring) as out for Week 9, after he missed two straight games without practicing.",
-    "redraftAdj": 0.9,
+    "note": "Sleeper now lists him on injured reserve (hamstring) as of 1:46 PM PT Nov 7. Earlier: Robinson (hamstring) is listed as out for Week 9 and will miss a third straight game.",
+    "redraftAdj": 0.7,
     "sleeperId": "8154",
-    "status": "Out",
+    "status": "IR",
     "tag": "injury"
    },
-   "i": "Out",
+   "i": "IR",
    "qb1": null,
    "t": "ATL"
   },

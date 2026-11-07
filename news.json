@@ -303,11 +303,12 @@
     {
       "sleeperId": "8154",
       "name": "Brian Robinson Jr.",
-      "note": "Robinson (hamstring) is listed as out for Week 9 and will miss a third straight game.",
+      "note": "Sleeper now lists him on injured reserve (hamstring) as of 1:46 PM PT Nov 7. Earlier: Robinson (hamstring) is listed as out for Week 9 and will miss a third straight game.",
       "tag": "injury",
-      "redraftAdj": 0.85,
-      "dynastyAdj": 1.0,
-      "status": "Out"
+      "redraftAdj": 0.7,
+      "dynastyAdj": 0.97,
+      "status": "IR",
+      "auto": true
     },
     {
       "sleeperId": "11576",
@@ -429,11 +430,12 @@
     {
       "sleeperId": "3286",
       "name": "Demarcus Robinson",
-      "note": "Reports on the 49ers' final Week 9 report (Nov 6) say Robinson (ankle) is expected to be activated from IR for Sunday vs. Las Vegas. Mike Evans, Deebo Samuel and Christian Kirk are all out, so he could step into a big role.",
-      "tag": "return",
-      "redraftAdj": 1.2,
-      "dynastyAdj": 1.02,
-      "status": "IR"
+      "note": "Sleeper now lists him questionable (ankle) as of 1:46 PM PT Nov 7. Earlier: Reports on the 49ers' final Week 9 report (Nov 6) say Robinson (ankle) is expected to be activated from IR for Sunday vs. Las Vegas. Mike Evans, Deebo Samuel and Christian Kirk are all out, so he could step into a big role.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
+      "status": "Questionable",
+      "auto": true
     },
     {
       "sleeperId": "6803",
@@ -602,11 +604,12 @@
     {
       "sleeperId": "13281",
       "name": "Jordyn Tyson",
-      "note": "Tyson (hamstring) practiced on a limited basis this week after being designated to return from IR and was considered questionable to debut Sunday vs. Cleveland. As of Nov 6 there was no confirmed activation.",
-      "tag": "return",
-      "redraftAdj": 1.06,
-      "dynastyAdj": 1.01,
-      "status": "IR"
+      "note": "Sleeper now lists him questionable (hamstring) as of 1:46 PM PT Nov 7. Earlier: Tyson (hamstring) practiced on a limited basis this week after being designated to return from IR and was considered questionable to debut Sunday vs. Cleveland. As of Nov 6 there was no confirmed activation.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
+      "status": "Questionable",
+      "auto": true
     },
     {
       "sleeperId": "13317",
@@ -924,5 +927,5 @@
       "tag": "injury"
     }
   ],
-  "statusChecked": "11:51 AM PT Nov 7"
+  "statusChecked": "1:46 PM PT Nov 7"
 }
