@@ -1,7 +1,7 @@
 {
  "season": "2026",
  "week": 9,
- "updated": "2026-11-06 8:31 PM PT",
+ "updated": "2026-11-06 11:42 PM PT",
  "games": [
   {
    "id": "401873037",
@@ -43,7 +43,7 @@
    "weather": {
     "roof": "retract",
     "temp": 59.1,
-    "precip": 18,
+    "precip": 13,
     "code": 3,
     "wind": 4.3,
     "night": false
@@ -124,7 +124,7 @@
    "weather": {
     "roof": "open",
     "temp": 81.4,
-    "precip": 7,
+    "precip": 2,
     "code": 1,
     "wind": 5.0,
     "night": false
@@ -356,10 +356,10 @@
    "awayImplied": 20.8,
    "weather": {
     "roof": "open",
-    "temp": 54.5,
+    "temp": 54.7,
     "precip": 0,
     "code": 0,
-    "wind": 8.6,
+    "wind": 8.9,
     "night": true
    }
   },
