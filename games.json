@@ -1,7 +1,7 @@
 {
  "season": "2026",
  "week": 9,
- "updated": "2026-11-07 2:24 AM PT",
+ "updated": "2026-11-07 5:35 AM PT",
  "games": [
   {
    "id": "401873037",
@@ -42,10 +42,10 @@
    "awayImplied": 27.8,
    "weather": {
     "roof": "retract",
-    "temp": 59.1,
+    "temp": 58.4,
     "precip": 15,
     "code": 3,
-    "wind": 4.3,
+    "wind": 4.4,
     "night": false
    }
   },
@@ -86,13 +86,13 @@
    "awayScore": "0",
    "venue": "Arrowhead Stadium",
    "tv": "CBS",
-   "details": "KC -9.5",
-   "total": 48.5,
+   "details": "KC -8.5",
+   "total": 47.5,
    "fav": "KC",
-   "spread": 9.5,
+   "spread": 8.5,
    "homeML": null,
    "awayML": null,
-   "homeImplied": 29.0,
+   "homeImplied": 28.0,
    "awayImplied": 19.5,
    "weather": {
     "roof": "open",
@@ -124,7 +124,7 @@
    "weather": {
     "roof": "open",
     "temp": 82.0,
-    "precip": 2,
+    "precip": 3,
     "code": 1,
     "wind": 6.6,
     "night": false
@@ -292,14 +292,14 @@
    "awayScore": "0",
    "venue": "Levi's Stadium",
    "tv": "Fox",
-   "details": "SF -10",
+   "details": "SF -9.5",
    "total": 51.5,
    "fav": "SF",
-   "spread": 10.0,
+   "spread": 9.5,
    "homeML": null,
    "awayML": null,
-   "homeImplied": 30.8,
-   "awayImplied": 20.8,
+   "homeImplied": 30.5,
+   "awayImplied": 21.0,
    "weather": {
     "roof": "open",
     "temp": 66.9,
@@ -330,7 +330,7 @@
    "weather": {
     "roof": "open",
     "temp": 54.2,
-    "precip": 10,
+    "precip": 9,
     "code": 3,
     "wind": 10.9,
     "night": false
