@@ -104,11 +104,12 @@
     {
       "sleeperId": "11565",
       "name": "J.J. McCarthy",
-      "note": "Starts for the Giants at Philadelphia on Nov. 8 with Jaxson Dart on IR. He has been listed atop the Giants' depth chart since Nov. 4.",
-      "tag": "role_up",
-      "redraftAdj": 1.2,
-      "dynastyAdj": 1.05,
-      "status": ""
+      "note": "Sleeper now lists him questionable (undisclosed) as of 12:48 PM PT Nov 8. Earlier: Starts for the Giants at Philadelphia on Nov. 8 with Jaxson Dart on IR. He has been listed atop the Giants' depth chart since Nov. 4.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
+      "status": "Questionable",
+      "auto": true
     },
     {
       "sleeperId": "12508",
@@ -703,11 +704,12 @@
     {
       "sleeperId": "3214",
       "name": "Hunter Henry",
-      "note": "Henry (foot) missed Wednesday and Thursday practices, then was limited Friday, Nov 6, and Mike Vrabel listed him as questionable for Sunday's 4:25 PM ET game vs. Green Bay. Check the late inactives list before starting him.",
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 12:48 PM PT Nov 8. Earlier: Henry (foot) missed Wednesday and Thursday practices, then was limited Friday, Nov 6, and Mike Vrabel listed him as questionable for Sunday's 4:25 PM ET game vs. Green Bay. Check the late inactives list before starting him.",
       "tag": "injury",
-      "redraftAdj": 0.8,
+      "redraftAdj": 1.0,
       "dynastyAdj": 0.99,
-      "status": "Questionable"
+      "status": null,
+      "auto": true
     },
     {
       "sleeperId": "13421",
@@ -721,11 +723,11 @@
     {
       "sleeperId": "8110",
       "name": "Jake Ferguson",
-      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 9:45 AM PT Nov 8. Earlier: Ferguson (low-ankle sprain) was limited in practice Friday, Nov 6, and is questionable for Sunday at Indianapolis; Brian Schottenheimer said he has a chance to play. Brevyn Spann-Ford would lead the TEs if Ferguson is inactive.",
+      "note": "Sleeper now lists him questionable (knee) as of 12:48 PM PT Nov 8.",
       "tag": "injury",
-      "redraftAdj": 1.0,
+      "redraftAdj": 0.98,
       "dynastyAdj": 0.99,
-      "status": null,
+      "status": "Questionable",
       "auto": true
     },
     {
@@ -766,14 +768,14 @@
       "tag": "injury"
     },
     {
-      "auto": true,
-      "dynastyAdj": 1.0,
-      "name": "MarShawn Lloyd",
-      "note": "Sleeper now lists him questionable (knee) as of 1:56 PM PT Nov 5.",
-      "redraftAdj": 0.98,
       "sleeperId": "11581",
-      "status": "Questionable",
-      "tag": "injury"
+      "name": "MarShawn Lloyd",
+      "note": "Sleeper now lists him out (knee) as of 12:48 PM PT Nov 8.",
+      "tag": "injury",
+      "redraftAdj": 0.9,
+      "dynastyAdj": 1.0,
+      "status": "Out",
+      "auto": true
     },
     {
       "auto": true,
@@ -968,7 +970,17 @@
     {
       "sleeperId": "7526",
       "name": "Jaylen Waddle",
-      "note": "Sleeper now lists him questionable (head) as of 10:55 AM PT Nov 8.",
+      "note": "Sleeper now lists him out (head) as of 12:48 PM PT Nov 8.",
+      "tag": "injury",
+      "redraftAdj": 0.9,
+      "dynastyAdj": 1.0,
+      "status": "Out",
+      "auto": true
+    },
+    {
+      "sleeperId": "13298",
+      "name": "KC Concepcion Jr.",
+      "note": "Sleeper now lists him questionable (leg) as of 12:48 PM PT Nov 8.",
       "tag": "injury",
       "redraftAdj": 0.98,
       "dynastyAdj": 1.0,
@@ -976,5 +988,5 @@
       "auto": true
     }
   ],
-  "statusChecked": "11:53 AM PT Nov 8"
+  "statusChecked": "12:48 PM PT Nov 8"
 }
