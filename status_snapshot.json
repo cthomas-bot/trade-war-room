@@ -336,18 +336,18 @@
    "t": "HOU"
   },
   "12481": {
-   "changed": "2026-11-06T21:51:30.270478+00:00",
+   "changed": "2026-11-08T16:49:26.073708+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 0.97,
     "name": "Cam Skattebo",
-    "note": "Sleeper now lists him doubtful (hamstring) as of 1:51 PM PT Nov 6. Earlier: Skattebo (hamstring) missed practice again Thursday (Nov. 5), working on the side with trainers. He is still day-to-day and looks doubtful to face Philadelphia on Sunday.",
-    "redraftAdj": 0.7,
+    "note": "Sleeper now lists him out (hamstring) as of 8:49 AM PT Nov 8. Earlier: Skattebo (hamstring) is doubtful for Sunday at Philadelphia (Nov. 8) after not practicing all week, and Ian Rapoport reported he is unlikely to play.",
+    "redraftAdj": 0.6,
     "sleeperId": "12481",
     "status": "Out",
     "tag": "injury"
    },
-   "i": "Doubtful",
+   "i": "Out",
    "qb1": null,
    "t": "NYG"
   },
@@ -588,8 +588,18 @@
    "t": "PIT"
   },
   "13275": {
-   "changed": "2026-11-04T09:06:31.989484+00:00",
-   "i": null,
+   "changed": "2026-11-08T16:49:26.073708+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Ty Simpson",
+    "note": "Sleeper now lists him out (coach's decision) as of 8:49 AM PT Nov 8.",
+    "redraftAdj": 0.9,
+    "sleeperId": "13275",
+    "status": "Out",
+    "tag": "injury"
+   },
+   "i": "Out",
    "qb1": false,
    "t": "LAR"
   },
@@ -612,18 +622,18 @@
    "t": "TEN"
   },
   "13281": {
-   "changed": "2026-11-07T21:46:40.407180+00:00",
+   "changed": "2026-11-08T16:49:26.073708+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 1.0,
     "name": "Jordyn Tyson",
-    "note": "Sleeper now lists him questionable (hamstring) as of 1:46 PM PT Nov 7. Earlier: Tyson (hamstring) practiced on a limited basis this week after being designated to return from IR and was considered questionable to debut Sunday vs. Cleveland. As of Nov 6 there was no confirmed activation.",
-    "redraftAdj": 0.98,
+    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 8:49 AM PT Nov 8. Earlier: Tyson (hamstring) was limited all week after being designated to return from IR on Nov 4. He is questionable for Sunday vs. Cleveland, and as of Nov 8 there was no confirmed activation or word on the Saints' plans.",
+    "redraftAdj": 1.0,
     "sleeperId": "13281",
-    "status": "Questionable",
+    "status": null,
     "tag": "injury"
    },
-   "i": "Questionable",
+   "i": null,
    "qb1": null,
    "t": "NO"
   },
@@ -710,8 +720,18 @@
    "t": "LV"
   },
   "13306": {
-   "changed": "2026-11-04T09:06:31.989484+00:00",
-   "i": null,
+   "changed": "2026-11-08T16:49:26.073708+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Taylen Green",
+    "note": "Sleeper now lists him out (coach's decision) as of 8:49 AM PT Nov 8.",
+    "redraftAdj": 0.9,
+    "sleeperId": "13306",
+    "status": "Out",
+    "tag": "injury"
+   },
+   "i": "Out",
    "qb1": false,
    "t": "CLE"
   },
@@ -1040,8 +1060,18 @@
    "t": "CHI"
   },
   "4017": {
-   "changed": "2026-11-05T02:59:47.893995+00:00",
-   "i": "Questionable",
+   "changed": "2026-11-08T16:49:26.073708+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 0.93,
+    "name": "Deshaun Watson",
+    "note": "Sleeper now lists him out (concussion) as of 8:49 AM PT Nov 8. Earlier: Cleared the concussion protocol Saturday (Nov. 7) but is still listed questionable, and Todd Monken said he can't do team reps yet. Shedeur Sanders remains the starter at New Orleans on Nov. 8.",
+    "redraftAdj": 0.4,
+    "sleeperId": "4017",
+    "status": "Out",
+    "tag": "injury"
+   },
+   "i": "Out",
    "qb1": false,
    "t": "CLE"
   },
@@ -1479,8 +1509,18 @@
    "t": "NO"
   },
   "7547": {
-   "changed": "2026-11-04T21:57:05.196495+00:00",
-   "i": "Questionable",
+   "changed": "2026-11-08T16:49:26.073708+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Amon-Ra St. Brown",
+    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 8:49 AM PT Nov 8. Earlier: Listed questionable (ribs) for Sunday at Miami after limited practices all week, but reports as of Nov 6 say he is expected to play.",
+    "redraftAdj": 1.0,
+    "sleeperId": "7547",
+    "status": null,
+    "tag": "injury"
+   },
+   "i": null,
    "qb1": null,
    "t": "DET"
   },
@@ -1635,8 +1675,18 @@
    "t": "WAS"
   },
   "8137": {
-   "changed": "2026-11-04T21:57:05.196495+00:00",
-   "i": "Questionable",
+   "changed": "2026-11-08T16:49:26.073708+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "George Pickens",
+    "note": "Sleeper now lists him out (hamstring) as of 8:49 AM PT Nov 8. Earlier: Questionable (hamstring) and a game-time decision for Sunday at Indianapolis after limited practices. Brian Schottenheimer said Nov 6 he is hopeful, and RotoBaller expects him to play; Ryan Flournoy is the fill-in if he sits.",
+    "redraftAdj": 0.9,
+    "sleeperId": "8137",
+    "status": "Out",
+    "tag": "injury"
+   },
+   "i": "Out",
    "qb1": null,
    "t": "DAL"
   },

@@ -4,11 +4,12 @@
     {
       "sleeperId": "4017",
       "name": "Deshaun Watson",
-      "note": "Cleared the concussion protocol Saturday (Nov. 7) but is still listed questionable, and Todd Monken said he can't do team reps yet. Shedeur Sanders remains the starter at New Orleans on Nov. 8.",
-      "tag": "role_down",
+      "note": "Sleeper now lists him out (concussion) as of 8:49 AM PT Nov 8. Earlier: Cleared the concussion protocol Saturday (Nov. 7) but is still listed questionable, and Todd Monken said he can't do team reps yet. Shedeur Sanders remains the starter at New Orleans on Nov. 8.",
+      "tag": "injury",
       "redraftAdj": 0.4,
       "dynastyAdj": 0.93,
-      "status": "Questionable"
+      "status": "Out",
+      "auto": true
     },
     {
       "sleeperId": "12524",
@@ -121,11 +122,12 @@
     {
       "sleeperId": "12481",
       "name": "Cam Skattebo",
-      "note": "Skattebo (hamstring) is doubtful for Sunday at Philadelphia (Nov. 8) after not practicing all week, and Ian Rapoport reported he is unlikely to play.",
+      "note": "Sleeper now lists him out (hamstring) as of 8:49 AM PT Nov 8. Earlier: Skattebo (hamstring) is doubtful for Sunday at Philadelphia (Nov. 8) after not practicing all week, and Ian Rapoport reported he is unlikely to play.",
       "tag": "injury",
       "redraftAdj": 0.6,
       "dynastyAdj": 0.97,
-      "status": "Doubtful"
+      "status": "Out",
+      "auto": true
     },
     {
       "sleeperId": "6130",
@@ -445,20 +447,22 @@
     {
       "sleeperId": "7547",
       "name": "Amon-Ra St. Brown",
-      "note": "Listed questionable (ribs) for Sunday at Miami after limited practices all week, but reports as of Nov 6 say he is expected to play.",
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 8:49 AM PT Nov 8. Earlier: Listed questionable (ribs) for Sunday at Miami after limited practices all week, but reports as of Nov 6 say he is expected to play.",
       "tag": "injury",
-      "redraftAdj": 0.97,
+      "redraftAdj": 1.0,
       "dynastyAdj": 1.0,
-      "status": "Questionable"
+      "status": null,
+      "auto": true
     },
     {
       "sleeperId": "8137",
       "name": "George Pickens",
-      "note": "Questionable (hamstring) and a game-time decision for Sunday at Indianapolis after limited practices. Brian Schottenheimer said Nov 6 he is hopeful, and RotoBaller expects him to play; Ryan Flournoy is the fill-in if he sits.",
+      "note": "Sleeper now lists him out (hamstring) as of 8:49 AM PT Nov 8. Earlier: Questionable (hamstring) and a game-time decision for Sunday at Indianapolis after limited practices. Brian Schottenheimer said Nov 6 he is hopeful, and RotoBaller expects him to play; Ryan Flournoy is the fill-in if he sits.",
       "tag": "injury",
-      "redraftAdj": 0.93,
+      "redraftAdj": 0.9,
       "dynastyAdj": 1.0,
-      "status": "Questionable"
+      "status": "Out",
+      "auto": true
     },
     {
       "sleeperId": "12514",
@@ -562,11 +566,12 @@
     {
       "sleeperId": "13281",
       "name": "Jordyn Tyson",
-      "note": "Tyson (hamstring) was limited all week after being designated to return from IR on Nov 4. He is questionable for Sunday vs. Cleveland, and as of Nov 8 there was no confirmed activation or word on the Saints' plans.",
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 8:49 AM PT Nov 8. Earlier: Tyson (hamstring) was limited all week after being designated to return from IR on Nov 4. He is questionable for Sunday vs. Cleveland, and as of Nov 8 there was no confirmed activation or word on the Saints' plans.",
       "tag": "injury",
-      "redraftAdj": 0.98,
+      "redraftAdj": 1.0,
       "dynastyAdj": 1.0,
-      "status": "Questionable"
+      "status": null,
+      "auto": true
     },
     {
       "sleeperId": "2216",
@@ -907,7 +912,27 @@
       "sleeperId": "9486",
       "status": "Out",
       "tag": "injury"
+    },
+    {
+      "sleeperId": "13275",
+      "name": "Ty Simpson",
+      "note": "Sleeper now lists him out (coach's decision) as of 8:49 AM PT Nov 8.",
+      "tag": "injury",
+      "redraftAdj": 0.9,
+      "dynastyAdj": 1.0,
+      "status": "Out",
+      "auto": true
+    },
+    {
+      "sleeperId": "13306",
+      "name": "Taylen Green",
+      "note": "Sleeper now lists him out (coach's decision) as of 8:49 AM PT Nov 8.",
+      "tag": "injury",
+      "redraftAdj": 0.9,
+      "dynastyAdj": 1.0,
+      "status": "Out",
+      "auto": true
     }
   ],
-  "statusChecked": "6:50 AM PT Nov 8"
+  "statusChecked": "8:49 AM PT Nov 8"
 }
