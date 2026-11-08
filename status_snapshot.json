@@ -15,16 +15,6 @@
   },
   "10229": {
    "changed": "2026-11-05T21:56:19.900400+00:00",
-   "entry": {
-    "auto": true,
-    "dynastyAdj": 1.0,
-    "name": "Rashee Rice",
-    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 1:56 PM PT Nov 5. Earlier: Rice was limited in Wednesday's Nov 4 practice with hamstring and knee injuries ahead of Week 9 against the Jets. He had 18.3 PPR points in his Week 8 return.",
-    "redraftAdj": 1.0,
-    "sleeperId": "10229",
-    "status": null,
-    "tag": "injury"
-   },
    "i": null,
    "qb1": null,
    "t": "KC"
@@ -993,16 +983,6 @@
   },
   "1466": {
    "changed": "2026-11-05T21:56:19.900400+00:00",
-   "entry": {
-    "auto": true,
-    "dynastyAdj": 1.0,
-    "name": "Travis Kelce",
-    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 1:56 PM PT Nov 5. Earlier: Kelce (ankle) was limited in Wednesday's Nov 4 practice, which reports view as likely maintenance. He played through it in Week 8 (5-67 on 7 targets) and has two more chances to practice fully before Sunday vs. the Jets.",
-    "redraftAdj": 1.0,
-    "sleeperId": "1466",
-    "status": null,
-    "tag": "injury"
-   },
    "i": null,
    "qb1": null,
    "t": "KC"
@@ -1201,9 +1181,18 @@
    "t": "TB"
   },
   "4046": {
-   "changed": null,
-   "entry": null,
-   "i": null,
+   "changed": "2026-11-08T22:47:25.048089+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Patrick Mahomes",
+    "note": "Sleeper now lists him questionable (elbow) as of 2:47 PM PT Nov 8.",
+    "redraftAdj": 0.98,
+    "sleeperId": "4046",
+    "status": "Questionable",
+    "tag": "injury"
+   },
+   "i": "Questionable",
    "qb1": true,
    "t": "KC"
   },
@@ -1251,16 +1240,6 @@
   },
   "4881": {
    "changed": "2026-11-05T21:56:19.900400+00:00",
-   "entry": {
-    "auto": true,
-    "dynastyAdj": 0.95,
-    "name": "Lamar Jackson",
-    "note": "Sleeper now lists him on injured reserve (thumb) as of 1:56 PM PT Nov 5. Earlier: Jackson (right thumb) is ruled out for Thursday night vs. Jacksonville (Nov. 5), and coach Jesse Minter confirmed he needs surgery, with an IR stint expected that could end his season. Baltimore is finalizing a trade for Jacoby Brissett to start while he is out.",
-    "redraftAdj": 0.2,
-    "sleeperId": "4881",
-    "status": "IR",
-    "tag": "injury"
-   },
    "i": "IR",
    "qb1": false,
    "t": "BAL"
@@ -1356,8 +1335,18 @@
    "t": "MIN"
   },
   "5850": {
-   "changed": "2026-10-21T07:53:53.206089+00:00",
-   "i": null,
+   "changed": "2026-11-08T22:47:25.048089+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Josh Jacobs",
+    "note": "Sleeper now lists him questionable (hand) as of 2:47 PM PT Nov 8.",
+    "redraftAdj": 0.98,
+    "sleeperId": "5850",
+    "status": "Questionable",
+    "tag": "injury"
+   },
+   "i": "Questionable",
    "qb1": null,
    "t": "GB"
   },
@@ -2018,8 +2007,18 @@
    "t": "SEA"
   },
   "9493": {
-   "changed": "2026-10-25T19:38:06.987621+00:00",
-   "i": null,
+   "changed": "2026-11-08T22:47:25.048089+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Puka Nacua",
+    "note": "Sleeper now lists him questionable (knee) as of 2:47 PM PT Nov 8.",
+    "redraftAdj": 0.98,
+    "sleeperId": "9493",
+    "status": "Questionable",
+    "tag": "injury"
+   },
+   "i": "Questionable",
    "qb1": null,
    "t": "LAR"
   },
