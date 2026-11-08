@@ -632,11 +632,12 @@
     {
       "sleeperId": "11624",
       "name": "Xavier Worthy",
-      "note": "Rice is back from injury (full practice Nov 5), and Schefter reports the Chiefs are actively shopping for a receiver before the Nov 10 deadline; Calvin Ridley, Garrett Wilson and Brian Thomas Jr. are the rumored targets. Either would push Worthy down the target order.",
-      "tag": "role_down",
+      "note": "Sleeper now lists him out (hamstring) as of 1:47 PM PT Nov 8. Earlier: Rice is back from injury (full practice Nov 5), and Schefter reports the Chiefs are actively shopping for a receiver before the Nov 10 deadline; Calvin Ridley, Garrett Wilson and Brian Thomas Jr. are the rumored targets. Either would push Worthy down the target order.",
+      "tag": "injury",
       "redraftAdj": 0.9,
       "dynastyAdj": 0.98,
-      "status": ""
+      "status": "Out",
+      "auto": true
     },
     {
       "sleeperId": "9500",
@@ -986,7 +987,17 @@
       "dynastyAdj": 1.0,
       "status": "Questionable",
       "auto": true
+    },
+    {
+      "sleeperId": "11635",
+      "name": "Ladd McConkey",
+      "note": "Sleeper now lists him questionable (back) as of 1:47 PM PT Nov 8.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
+      "status": "Questionable",
+      "auto": true
     }
   ],
-  "statusChecked": "12:48 PM PT Nov 8"
+  "statusChecked": "1:47 PM PT Nov 8"
 }
