@@ -125,6 +125,11 @@
    "qb1": null,
    "t": "NYJ"
   },
+  "11579": {
+   "i": null,
+   "qb1": null,
+   "t": "NO"
+  },
   "11581": {
    "changed": "2026-11-05T21:56:19.900400+00:00",
    "entry": {
@@ -1510,8 +1515,18 @@
    "t": "PHI"
   },
   "7526": {
-   "changed": "2026-11-01T20:47:14.557385+00:00",
-   "i": null,
+   "changed": "2026-11-08T18:55:32.225182+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Jaylen Waddle",
+    "note": "Sleeper now lists him questionable (head) as of 10:55 AM PT Nov 8.",
+    "redraftAdj": 0.98,
+    "sleeperId": "7526",
+    "status": "Questionable",
+    "tag": "injury"
+   },
+   "i": "Questionable",
    "qb1": null,
    "t": "DEN"
   },
