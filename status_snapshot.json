@@ -126,6 +126,8 @@
    "t": "NYJ"
   },
   "11579": {
+   "changed": null,
+   "entry": null,
    "i": null,
    "qb1": null,
    "t": "NO"
@@ -848,8 +850,18 @@
    "t": "PHI"
   },
   "13380": {
-   "changed": "2026-11-04T21:01:37.211794+00:00",
-   "i": "Doubtful",
+   "changed": "2026-11-08T19:53:01.599037+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Brenen Thompson",
+    "note": "Sleeper now lists him out (quadriceps) as of 11:53 AM PT Nov 8. Earlier: Thompson (quad) has been listed doubtful for Week 9 since Nov 4 after missing Week 8. It is the same quad problem that cost him Weeks 3-5.",
+    "redraftAdj": 0.9,
+    "sleeperId": "13380",
+    "status": "Out",
+    "tag": "injury"
+   },
+   "i": "Out",
    "qb1": null,
    "t": "LAC"
   },
