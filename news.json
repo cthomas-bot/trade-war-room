@@ -720,11 +720,12 @@
     {
       "sleeperId": "8110",
       "name": "Jake Ferguson",
-      "note": "Ferguson (low-ankle sprain) was limited in practice Friday, Nov 6, and is questionable for Sunday at Indianapolis; Brian Schottenheimer said he has a chance to play. Brevyn Spann-Ford would lead the TEs if Ferguson is inactive.",
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 9:45 AM PT Nov 8. Earlier: Ferguson (low-ankle sprain) was limited in practice Friday, Nov 6, and is questionable for Sunday at Indianapolis; Brian Schottenheimer said he has a chance to play. Brevyn Spann-Ford would lead the TEs if Ferguson is inactive.",
       "tag": "injury",
-      "redraftAdj": 0.75,
+      "redraftAdj": 1.0,
       "dynastyAdj": 0.99,
-      "status": "Questionable"
+      "status": null,
+      "auto": true
     },
     {
       "sleeperId": "12487",
@@ -932,7 +933,37 @@
       "dynastyAdj": 1.0,
       "status": "Out",
       "auto": true
+    },
+    {
+      "sleeperId": "11643",
+      "name": "Jaylen Wright",
+      "note": "Sleeper now lists him out (quadriceps) as of 9:45 AM PT Nov 8.",
+      "tag": "injury",
+      "redraftAdj": 0.9,
+      "dynastyAdj": 1.0,
+      "status": "Out",
+      "auto": true
+    },
+    {
+      "sleeperId": "13405",
+      "name": "Kaytron Allen",
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 9:45 AM PT Nov 8.",
+      "tag": "injury",
+      "redraftAdj": 1.0,
+      "dynastyAdj": 1.0,
+      "status": null,
+      "auto": true
+    },
+    {
+      "sleeperId": "9757",
+      "name": "Kendre Miller",
+      "tag": "rumor",
+      "redraftAdj": 1,
+      "dynastyAdj": 1,
+      "status": null,
+      "auto": true,
+      "note": "Sleeper shows he was released by NO as of 9:45 AM PT Nov 8; check his new role."
     }
   ],
-  "statusChecked": "8:49 AM PT Nov 8"
+  "statusChecked": "9:45 AM PT Nov 8"
 }

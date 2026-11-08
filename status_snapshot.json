@@ -272,8 +272,18 @@
    "t": "SF"
   },
   "11643": {
-   "changed": "2026-11-04T21:57:05.196495+00:00",
-   "i": "Questionable",
+   "changed": "2026-11-08T17:45:49.373960+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Jaylen Wright",
+    "note": "Sleeper now lists him out (quadriceps) as of 9:45 AM PT Nov 8.",
+    "redraftAdj": 0.9,
+    "sleeperId": "11643",
+    "status": "Out",
+    "tag": "injury"
+   },
+   "i": "Out",
    "qb1": null,
    "t": "MIA"
   },
@@ -845,8 +855,18 @@
    "t": "BUF"
   },
   "13405": {
-   "changed": "2026-11-04T21:57:05.196495+00:00",
-   "i": "Questionable",
+   "changed": "2026-11-08T17:45:49.373960+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Kaytron Allen",
+    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 9:45 AM PT Nov 8.",
+    "redraftAdj": 1.0,
+    "sleeperId": "13405",
+    "status": null,
+    "tag": "injury"
+   },
+   "i": null,
    "qb1": null,
    "t": "MIA"
   },
@@ -1601,8 +1621,18 @@
    "t": "NE"
   },
   "8110": {
-   "changed": "2026-11-04T09:06:31.989484+00:00",
-   "i": "Questionable",
+   "changed": "2026-11-08T17:45:49.373960+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 0.99,
+    "name": "Jake Ferguson",
+    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 9:45 AM PT Nov 8. Earlier: Ferguson (low-ankle sprain) was limited in practice Friday, Nov 6, and is questionable for Sunday at Indianapolis; Brian Schottenheimer said he has a chance to play. Brevyn Spann-Ford would lead the TEs if Ferguson is inactive.",
+    "redraftAdj": 1.0,
+    "sleeperId": "8110",
+    "status": null,
+    "tag": "injury"
+   },
+   "i": null,
    "qb1": null,
    "t": "DAL"
   },
@@ -1986,11 +2016,20 @@
    "t": "MIN"
   },
   "9757": {
-   "changed": null,
-   "entry": null,
+   "changed": "2026-11-08T17:45:49.373960+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1,
+    "name": "Kendre Miller",
+    "note": "Sleeper shows he was released by NO as of 9:45 AM PT Nov 8; check his new role.",
+    "redraftAdj": 1,
+    "sleeperId": "9757",
+    "status": null,
+    "tag": "rumor"
+   },
    "i": null,
    "qb1": null,
-   "t": "NO"
+   "t": null
   },
   "9758": {
    "changed": null,
