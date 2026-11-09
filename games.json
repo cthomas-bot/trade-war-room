@@ -1,24 +1,46 @@
 {
  "season": "2026",
  "week": 9,
- "updated": "2026-11-08 8:45 PM PT",
+ "updated": "2026-11-09 12:03 AM PT",
  "games": [
   {
-   "id": "401873050",
-   "kickoff": "2026-11-09T01:20Z",
+   "id": "401873051",
+   "kickoff": "2026-11-10T01:15Z",
+   "state": "pre",
+   "home": "MIN",
+   "away": "BUF",
+   "homeScore": "0",
+   "awayScore": "0",
+   "venue": "U.S. Bank Stadium",
+   "tv": "ESPN",
+   "details": "BUF -3",
+   "total": 43.5,
+   "fav": "BUF",
+   "spread": 3.0,
+   "homeML": null,
+   "awayML": null,
+   "homeImplied": 20.2,
+   "awayImplied": 23.2,
+   "weather": {
+    "roof": "dome"
+   }
+  },
+  {
+   "id": "401873037",
+   "kickoff": "2026-11-06T01:15Z",
    "state": "post",
-   "home": "CHI",
-   "away": "TB",
-   "homeScore": "27",
-   "awayScore": "24",
-   "venue": "Soldier Field",
-   "tv": "NBC",
+   "home": "BAL",
+   "away": "JAX",
+   "homeScore": "10",
+   "awayScore": "33",
+   "venue": "M&T Bank Stadium",
+   "tv": "Prime Video",
    "weather": {
     "roof": "open",
-    "temp": 47.4,
-    "precip": 0,
-    "code": 0,
-    "wind": 4.7,
+    "temp": 70.8,
+    "precip": 20,
+    "code": 3,
+    "wind": 5.0,
     "night": true
    }
   },
@@ -241,44 +263,22 @@
    }
   },
   {
-   "id": "401873037",
-   "kickoff": "2026-11-06T01:15Z",
+   "id": "401873050",
+   "kickoff": "2026-11-09T01:20Z",
    "state": "post",
-   "home": "BAL",
-   "away": "JAX",
-   "homeScore": "10",
-   "awayScore": "33",
-   "venue": "M&T Bank Stadium",
-   "tv": "Prime Video",
+   "home": "CHI",
+   "away": "TB",
+   "homeScore": "27",
+   "awayScore": "24",
+   "venue": "Soldier Field",
+   "tv": "NBC",
    "weather": {
     "roof": "open",
-    "temp": 70.8,
-    "precip": 20,
-    "code": 3,
-    "wind": 5.0,
+    "temp": 47.4,
+    "precip": 0,
+    "code": 0,
+    "wind": 4.7,
     "night": true
-   }
-  },
-  {
-   "id": "401873051",
-   "kickoff": "2026-11-10T01:15Z",
-   "state": "pre",
-   "home": "MIN",
-   "away": "BUF",
-   "homeScore": "0",
-   "awayScore": "0",
-   "venue": "U.S. Bank Stadium",
-   "tv": "ESPN",
-   "details": "BUF -3",
-   "total": 43.5,
-   "fav": "BUF",
-   "spread": 3.0,
-   "homeML": null,
-   "awayML": null,
-   "homeImplied": 20.2,
-   "awayImplied": 23.2,
-   "weather": {
-    "roof": "dome"
    }
   }
  ],
@@ -2054,15 +2054,15 @@
    "opp": "ARI"
   },
   "4984": {
-   "half": 22.03,
-   "ppr": 22.03,
-   "std": 22.03,
+   "half": 21.9,
+   "ppr": 21.9,
+   "std": 21.9,
    "opp": "MIN"
   },
   "8408": {
-   "half": 8.12,
-   "ppr": 8.59,
-   "std": 7.65,
+   "half": 8.1,
+   "ppr": 8.57,
+   "std": 7.63,
    "opp": "BUF"
   },
   "11575": {
@@ -2072,105 +2072,105 @@
    "opp": "MIN"
   },
   "12700": {
-   "half": 1.77,
-   "ppr": 2.22,
-   "std": 1.32,
+   "half": 1.76,
+   "ppr": 2.21,
+   "std": 1.31,
    "opp": "BUF"
   },
   "4983": {
-   "half": 10.78,
-   "ppr": 12.78,
-   "std": 8.78,
+   "half": 10.73,
+   "ppr": 12.73,
+   "std": 8.74,
    "opp": "MIN"
   },
   "6039": {
-   "half": 4.14,
-   "ppr": 4.88,
-   "std": 3.4,
+   "half": 4.13,
+   "ppr": 4.87,
+   "std": 3.39,
    "opp": "MIN"
   },
   "11377": {
-   "half": 1.68,
+   "half": 1.67,
    "ppr": 1.99,
    "std": 1.36,
    "opp": "MIN"
   },
   "12658": {
-   "half": 0.55,
+   "half": 0.54,
    "ppr": 0.68,
    "std": 0.41,
    "opp": "MIN"
   },
   "4199": {
-   "half": 8.79,
-   "ppr": 9.84,
-   "std": 7.74,
+   "half": 8.77,
+   "ppr": 9.82,
+   "std": 7.72,
    "opp": "BUF"
   },
   "5906": {
-   "half": 2.54,
-   "ppr": 3.19,
-   "std": 1.9,
+   "half": 2.53,
+   "ppr": 3.17,
+   "std": 1.89,
    "opp": "MIN"
   },
   "9756": {
-   "half": 7.84,
-   "ppr": 9.17,
-   "std": 6.52,
+   "half": 7.8,
+   "ppr": 9.13,
+   "std": 6.48,
    "opp": "BUF"
   },
   "11637": {
-   "half": 5.66,
-   "ppr": 6.85,
-   "std": 4.47,
+   "half": 5.64,
+   "ppr": 6.83,
+   "std": 4.45,
    "opp": "MIN"
   },
   "12496": {
-   "half": 2.33,
-   "ppr": 2.86,
-   "std": 1.8,
+   "half": 2.32,
+   "ppr": 2.84,
+   "std": 1.79,
    "opp": "BUF"
   },
   "5844": {
-   "half": 8.35,
-   "ppr": 10.56,
-   "std": 6.14,
+   "half": 8.3,
+   "ppr": 10.51,
+   "std": 6.1,
    "opp": "BUF"
   },
   "5970": {
    "half": 0.51,
-   "ppr": 0.62,
+   "ppr": 0.61,
    "std": 0.4,
    "opp": "MIN"
   },
   "6794": {
-   "half": 14.72,
-   "ppr": 17.59,
-   "std": 11.86,
+   "half": 14.64,
+   "ppr": 17.5,
+   "std": 11.78,
    "opp": "BUF"
   },
   "8138": {
-   "half": 14.08,
-   "ppr": 14.87,
-   "std": 13.3,
+   "half": 14.06,
+   "ppr": 14.84,
+   "std": 13.27,
    "opp": "MIN"
   },
   "10236": {
-   "half": 7.68,
-   "ppr": 9.46,
-   "std": 5.89,
+   "half": 7.65,
+   "ppr": 9.43,
+   "std": 5.87,
    "opp": "MIN"
   },
   "3161": {
-   "half": 14.41,
-   "ppr": 14.41,
-   "std": 14.41,
+   "half": 14.31,
+   "ppr": 14.31,
+   "std": 14.31,
    "opp": "BUF"
   },
   "8134": {
-   "half": 7.36,
-   "ppr": 9.04,
-   "std": 5.68,
+   "half": 7.32,
+   "ppr": 9.0,
+   "std": 5.65,
    "opp": "MIN"
   }
  }
