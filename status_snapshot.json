@@ -1861,9 +1861,18 @@
    "t": "NYJ"
   },
   "8161": {
-   "changed": null,
-   "entry": null,
-   "i": null,
+   "changed": "2026-11-09T15:06:06.523091+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 0.98,
+    "name": "Malik Willis",
+    "note": "Sleeper now lists him questionable (groin) as of 7:06 AM PT Nov 9. Earlier: Visibly hobbled by a groin injury in the Nov. 8 19-9 loss to Detroit, going 13-of-25 for 128 yards, no TDs and an INT; he said afterward the groin 'was tight.' He is listed questionable going forward.",
+    "redraftAdj": 0.85,
+    "sleeperId": "8161",
+    "status": "Questionable",
+    "tag": "injury"
+   },
+   "i": "Questionable",
    "qb1": true,
    "t": "MIA"
   },
