@@ -1,7 +1,7 @@
 {
  "season": "2026",
  "week": 9,
- "updated": "2026-11-09 2:34 AM PT",
+ "updated": "2026-11-09 5:57 AM PT",
  "games": [
   {
    "id": "401873051",
@@ -14,13 +14,13 @@
    "venue": "U.S. Bank Stadium",
    "tv": "ESPN",
    "details": "BUF -3",
-   "total": 43.5,
+   "total": 44.5,
    "fav": "BUF",
    "spread": 3.0,
    "homeML": null,
    "awayML": null,
-   "homeImplied": 20.2,
-   "awayImplied": 23.2,
+   "homeImplied": 20.8,
+   "awayImplied": 23.8,
    "weather": {
     "roof": "dome"
    }
@@ -271,7 +271,15 @@
    "homeScore": "27",
    "awayScore": "24",
    "venue": "Soldier Field",
-   "tv": "NBC"
+   "tv": "NBC",
+   "weather": {
+    "roof": "open",
+    "temp": 47.4,
+    "precip": 0,
+    "code": 0,
+    "wind": 4.7,
+    "night": true
+   }
   }
  ],
  "projections": {
@@ -2046,15 +2054,15 @@
    "opp": "ARI"
   },
   "4984": {
-   "half": 21.9,
-   "ppr": 21.9,
-   "std": 21.9,
+   "half": 22.15,
+   "ppr": 22.15,
+   "std": 22.15,
    "opp": "MIN"
   },
   "8408": {
-   "half": 8.1,
-   "ppr": 8.57,
-   "std": 7.63,
+   "half": 8.14,
+   "ppr": 8.61,
+   "std": 7.67,
    "opp": "BUF"
   },
   "11575": {
@@ -2064,109 +2072,106 @@
    "opp": "MIN"
   },
   "12700": {
-   "half": 1.76,
-   "ppr": 2.21,
-   "std": 1.31,
+   "half": 1.78,
+   "ppr": 2.23,
+   "std": 1.33,
    "opp": "BUF"
   },
   "4983": {
-   "half": 10.73,
-   "ppr": 12.73,
-   "std": 8.74,
+   "half": 10.83,
+   "ppr": 12.84,
+   "std": 8.83,
    "opp": "MIN"
   },
   "6039": {
-   "half": 4.13,
-   "ppr": 4.87,
-   "std": 3.39,
+   "half": 4.15,
+   "ppr": 4.89,
+   "std": 3.41,
    "opp": "MIN"
   },
   "11377": {
-   "half": 1.67,
-   "ppr": 1.99,
-   "std": 1.36,
+   "half": 1.69,
+   "ppr": 2.0,
+   "std": 1.37,
    "opp": "MIN"
   },
   "12658": {
-   "half": 0.54,
+   "half": 0.55,
    "ppr": 0.68,
-   "std": 0.41,
+   "std": 0.42,
    "opp": "MIN"
   },
   "4199": {
-   "half": 8.77,
-   "ppr": 9.82,
-   "std": 7.72,
+   "half": 8.8,
+   "ppr": 9.86,
+   "std": 7.75,
    "opp": "BUF"
   },
   "5906": {
-   "half": 2.53,
-   "ppr": 3.17,
-   "std": 1.89,
+   "half": 2.56,
+   "ppr": 3.2,
+   "std": 1.91,
    "opp": "MIN"
   },
   "9756": {
-   "half": 7.8,
-   "ppr": 9.13,
-   "std": 6.48,
+   "half": 7.89,
+   "ppr": 9.22,
+   "std": 6.56,
    "opp": "BUF"
   },
   "11637": {
-   "half": 5.64,
-   "ppr": 6.83,
-   "std": 4.45,
+   "half": 5.68,
+   "ppr": 6.88,
+   "std": 4.49,
    "opp": "MIN"
   },
   "12496": {
-   "half": 2.32,
-   "ppr": 2.84,
-   "std": 1.79,
+   "half": 2.34,
+   "ppr": 2.87,
+   "std": 1.81,
    "opp": "BUF"
   },
   "5844": {
-   "half": 8.3,
-   "ppr": 10.51,
-   "std": 6.1,
+   "half": 8.39,
+   "ppr": 10.61,
+   "std": 6.18,
    "opp": "BUF"
   },
   "5970": {
    "half": 0.51,
-   "ppr": 0.61,
+   "ppr": 0.62,
    "std": 0.4,
    "opp": "MIN"
   },
   "6794": {
-   "half": 14.64,
-   "ppr": 17.5,
-   "std": 11.78,
+   "half": 14.81,
+   "ppr": 17.68,
+   "std": 11.93,
    "opp": "BUF"
   },
   "8138": {
-   "half": 14.06,
-   "ppr": 14.84,
-   "std": 13.27,
+   "half": 14.11,
+   "ppr": 14.9,
+   "std": 13.32,
    "opp": "MIN"
   },
   "10236": {
-   "half": 7.65,
-   "ppr": 9.43,
-   "std": 5.87,
+   "half": 7.71,
+   "ppr": 9.5,
+   "std": 5.92,
    "opp": "MIN"
   },
   "3161": {
-   "half": 14.31,
-   "ppr": 14.31,
-   "std": 14.31,
+   "half": 14.52,
+   "ppr": 14.52,
+   "std": 14.52,
    "opp": "BUF"
   },
   "8134": {
-   "half": 7.32,
-   "ppr": 9.0,
-   "std": 5.65,
+   "half": 7.39,
+   "ppr": 9.07,
+   "std": 5.7,
    "opp": "MIN"
   }
- },
- "errors": [
-  "weather CHI: <urlopen error _ssl.c:994: The handshake operation timed out>"
- ]
+ }
 }
