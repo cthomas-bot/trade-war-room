@@ -20,18 +20,18 @@
    "t": "KC"
   },
   "10232": {
-   "changed": "2026-11-06T22:52:08.974311+00:00",
+   "changed": "2026-11-09T21:56:50.246842+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 1.0,
     "name": "Michael Wilson",
-    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 2:52 PM PT Nov 6. Earlier: Wilson (ribs/rest) was limited again in Thursday's Nov 5 practice and is still expected to play through broken ribs. Kendrick Bourne's IR placement (Nov 3) leaves more targets for him.",
-    "redraftAdj": 1.0,
+    "note": "Sleeper now lists him out (neck) as of 1:56 PM PT Nov 9. Earlier: Wilson played through broken ribs in Week 9 and scored 9.0 half-PPR points (Sleeper). With Kendrick Bourne on IR since Nov 3, his target share should stay elevated.",
+    "redraftAdj": 0.9,
     "sleeperId": "10232",
-    "status": null,
+    "status": "Out",
     "tag": "injury"
    },
-   "i": null,
+   "i": "Out",
    "qb1": null,
    "t": "ARI"
   },
@@ -244,16 +244,6 @@
   },
   "11632": {
    "changed": "2026-11-06T21:51:30.270478+00:00",
-   "entry": {
-    "auto": true,
-    "dynastyAdj": 1.0,
-    "name": "Malik Nabers",
-    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 1:51 PM PT Nov 6. Earlier: Nabers did not practice Thursday, Nov 5, with a knee injury ahead of Week 9 at Philadelphia.",
-    "redraftAdj": 1.0,
-    "sleeperId": "11632",
-    "status": null,
-    "tag": "injury"
-   },
    "i": null,
    "qb1": null,
    "t": "NYG"
@@ -1173,16 +1163,6 @@
   },
   "4866": {
    "changed": "2026-11-06T21:51:30.270478+00:00",
-   "entry": {
-    "auto": true,
-    "dynastyAdj": 1.0,
-    "name": "Saquon Barkley",
-    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 1:51 PM PT Nov 6. Earlier: Barkley (hamstring/back) practiced Thursday (Nov. 5) after missing Wednesday, and he looks on track to play Sunday vs. the Giants.",
-    "redraftAdj": 1.0,
-    "sleeperId": "4866",
-    "status": null,
-    "tag": "injury"
-   },
    "i": null,
    "qb1": null,
    "t": "PHI"
@@ -1284,18 +1264,18 @@
    "t": "MIN"
   },
   "5850": {
-   "changed": "2026-11-08T22:47:25.048089+00:00",
+   "changed": "2026-11-09T21:56:50.246842+00:00",
    "entry": {
     "auto": true,
-    "dynastyAdj": 1.0,
+    "dynastyAdj": 0.99,
     "name": "Josh Jacobs",
-    "note": "Sleeper now lists him questionable (hand) as of 2:47 PM PT Nov 8.",
-    "redraftAdj": 0.98,
+    "note": "Sleeper now lists him out (finger) as of 1:56 PM PT Nov 9. Earlier: Jacobs fractured the ring finger on his right hand in the first quarter of the Nov. 8 win over New England and did not return, finishing with 4 carries for 5 yards. LaFleur hopes to find a way for him to play with it, and Jacobs said the swelling has gone down. One outlet projects him to play Week 10 vs. Minnesota with protection, but that timeline is not confirmed.",
+    "redraftAdj": 0.85,
     "sleeperId": "5850",
-    "status": "Questionable",
+    "status": "Out",
     "tag": "injury"
    },
-   "i": "Questionable",
+   "i": "Out",
    "qb1": null,
    "t": "GB"
   },
@@ -1353,9 +1333,18 @@
    "t": "TEN"
   },
   "6011": {
-   "changed": null,
-   "entry": null,
-   "i": null,
+   "changed": "2026-11-09T21:56:50.246842+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Gardner Minshew II",
+    "note": "Sleeper now lists him questionable (elbow) as of 1:56 PM PT Nov 9. Earlier: Kept Arizona's starting job after the Jacoby Brissett trade, with Carson Beck promoted to backup, but managed only 7.04 half-PPR points (Sleeper) in the Nov. 8 loss at Seattle.",
+    "redraftAdj": 0.98,
+    "sleeperId": "6011",
+    "status": "Questionable",
+    "tag": "injury"
+   },
+   "i": "Questionable",
    "qb1": true,
    "t": "ARI"
   },
@@ -1498,16 +1487,6 @@
   },
   "7525": {
    "changed": "2026-11-06T21:51:30.270478+00:00",
-   "entry": {
-    "auto": true,
-    "dynastyAdj": 0.99,
-    "name": "DeVonta Smith",
-    "note": "Sleeper now lists him out (hamstring) as of 1:51 PM PT Nov 6. Earlier: Smith (hamstring) did not practice Thursday (Nov 5). He is trending toward missing a third straight game, Week 9 vs. the Giants.",
-    "redraftAdj": 0.8,
-    "sleeperId": "7525",
-    "status": "Out",
-    "tag": "injury"
-   },
    "i": "Out",
    "qb1": null,
    "t": "PHI"
@@ -1841,16 +1820,6 @@
   },
   "8676": {
    "changed": "2026-11-06T21:51:30.270478+00:00",
-   "entry": {
-    "auto": true,
-    "dynastyAdj": 1.0,
-    "name": "Rashid Shaheed",
-    "note": "Sleeper now lists him out (knee) as of 1:51 PM PT Nov 6. Earlier: Shaheed (knee) did not practice Thursday, Nov 5, and is in danger of missing a second straight game.",
-    "redraftAdj": 0.85,
-    "sleeperId": "8676",
-    "status": "Out",
-    "tag": "injury"
-   },
    "i": "Out",
    "qb1": null,
    "t": "SEA"
@@ -1905,16 +1874,6 @@
   },
   "9486": {
    "changed": "2026-11-06T21:51:30.270478+00:00",
-   "entry": {
-    "auto": true,
-    "dynastyAdj": 1.0,
-    "name": "Dontayvion Wicks",
-    "note": "Sleeper now lists him out (ankle) as of 1:51 PM PT Nov 6.",
-    "redraftAdj": 0.9,
-    "sleeperId": "9486",
-    "status": "Out",
-    "tag": "injury"
-   },
    "i": "Out",
    "qb1": null,
    "t": "PHI"
