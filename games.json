@@ -1,7 +1,7 @@
 {
  "season": "2026",
  "week": 9,
- "updated": "2026-11-09 12:03 AM PT",
+ "updated": "2026-11-09 2:34 AM PT",
  "games": [
   {
    "id": "401873051",
@@ -271,15 +271,7 @@
    "homeScore": "27",
    "awayScore": "24",
    "venue": "Soldier Field",
-   "tv": "NBC",
-   "weather": {
-    "roof": "open",
-    "temp": 47.4,
-    "precip": 0,
-    "code": 0,
-    "wind": 4.7,
-    "night": true
-   }
+   "tv": "NBC"
   }
  ],
  "projections": {
@@ -2173,5 +2165,8 @@
    "std": 5.65,
    "opp": "MIN"
   }
- }
+ },
+ "errors": [
+  "weather CHI: <urlopen error _ssl.c:994: The handshake operation timed out>"
+ ]
 }
