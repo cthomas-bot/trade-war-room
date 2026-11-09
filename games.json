@@ -1,77 +1,25 @@
 {
  "season": "2026",
  "week": 9,
- "updated": "2026-11-08 2:18 PM PT",
+ "updated": "2026-11-08 5:52 PM PT",
  "games": [
   {
-   "id": "401873046",
-   "kickoff": "2026-11-08T21:05Z",
+   "id": "401873050",
+   "kickoff": "2026-11-09T01:20Z",
    "state": "in",
-   "home": "LAC",
-   "away": "HOU",
-   "homeScore": "9",
-   "awayScore": "17",
-   "venue": "SoFi Stadium",
-   "tv": "CBS",
-   "weather": {
-    "roof": "dome"
-   }
-  },
-  {
-   "id": "401873049",
-   "kickoff": "2026-11-08T21:25Z",
-   "state": "in",
-   "home": "NE",
-   "away": "GB",
-   "homeScore": "0",
-   "awayScore": "17",
-   "venue": "Gillette Stadium",
-   "tv": "Fox",
-   "weather": {
-    "roof": "open",
-    "temp": 51.6,
-    "precip": 0,
-    "code": 0,
-    "wind": 8.1,
-    "night": false
-   }
-  },
-  {
-   "id": "401873047",
-   "kickoff": "2026-11-08T21:25Z",
-   "state": "in",
-   "home": "SF",
-   "away": "LV",
+   "home": "CHI",
+   "away": "TB",
    "homeScore": "14",
-   "awayScore": "7",
-   "venue": "Levi's Stadium",
-   "tv": "Fox",
+   "awayScore": "0",
+   "venue": "Soldier Field",
+   "tv": "NBC",
    "weather": {
     "roof": "open",
-    "temp": 66.2,
+    "temp": 47.6,
     "precip": 0,
-    "code": 3,
-    "wind": 4.5,
-    "night": false
-   }
-  },
-  {
-   "id": "401873048",
-   "kickoff": "2026-11-08T21:25Z",
-   "state": "in",
-   "home": "SEA",
-   "away": "ARI",
-   "homeScore": "7",
-   "awayScore": "3",
-   "venue": "Lumen Field",
-   "tv": "Fox",
-   "weather": {
-    "roof": "open",
-    "temp": 56.9,
-    "precip": 3,
     "code": 0,
-    "wind": 10.9,
-    "night": false
+    "wind": 7.2,
+    "night": true
    }
   },
   {
@@ -222,30 +170,74 @@
    }
   },
   {
-   "id": "401873050",
-   "kickoff": "2026-11-09T01:20Z",
-   "state": "pre",
-   "home": "CHI",
-   "away": "TB",
-   "homeScore": "0",
-   "awayScore": "0",
-   "venue": "Soldier Field",
-   "tv": "NBC",
-   "details": "CHI -6",
-   "total": 47.5,
-   "fav": "CHI",
-   "spread": 6.0,
-   "homeML": null,
-   "awayML": null,
-   "homeImplied": 26.8,
-   "awayImplied": 20.8,
+   "id": "401873046",
+   "kickoff": "2026-11-08T21:05Z",
+   "state": "post",
+   "home": "LAC",
+   "away": "HOU",
+   "homeScore": "22",
+   "awayScore": "44",
+   "venue": "SoFi Stadium",
+   "tv": "CBS",
+   "weather": {
+    "roof": "dome"
+   }
+  },
+  {
+   "id": "401873049",
+   "kickoff": "2026-11-08T21:25Z",
+   "state": "post",
+   "home": "NE",
+   "away": "GB",
+   "homeScore": "27",
+   "awayScore": "45",
+   "venue": "Gillette Stadium",
+   "tv": "Fox",
    "weather": {
     "roof": "open",
-    "temp": 46.6,
+    "temp": 53.1,
     "precip": 0,
+    "code": 3,
+    "wind": 8.5,
+    "night": false
+   }
+  },
+  {
+   "id": "401873047",
+   "kickoff": "2026-11-08T21:25Z",
+   "state": "post",
+   "home": "SF",
+   "away": "LV",
+   "homeScore": "38",
+   "awayScore": "17",
+   "venue": "Levi's Stadium",
+   "tv": "Fox",
+   "weather": {
+    "roof": "open",
+    "temp": 66.8,
+    "precip": 0,
+    "code": 2,
+    "wind": 5.4,
+    "night": false
+   }
+  },
+  {
+   "id": "401873048",
+   "kickoff": "2026-11-08T21:25Z",
+   "state": "post",
+   "home": "SEA",
+   "away": "ARI",
+   "homeScore": "17",
+   "awayScore": "3",
+   "venue": "Lumen Field",
+   "tv": "Fox",
+   "weather": {
+    "roof": "open",
+    "temp": 56.7,
+    "precip": 3,
     "code": 0,
-    "wind": 7.6,
-    "night": true
+    "wind": 11.2,
+    "night": false
    }
   },
   {
@@ -496,9 +488,9 @@
    "opp": "NO"
   },
   "12517": {
-   "half": 8.86,
-   "ppr": 10.99,
-   "std": 6.74,
+   "half": 8.93,
+   "ppr": 11.05,
+   "std": 6.81,
    "opp": "TB"
   },
   "13296": {
@@ -514,9 +506,9 @@
    "opp": "DET"
   },
   "13317": {
-   "half": 4.04,
-   "ppr": 4.77,
-   "std": 3.31,
+   "half": 4.02,
+   "ppr": 4.75,
+   "std": 3.29,
    "opp": "CHI"
   },
   "13533": {
@@ -580,9 +572,9 @@
    "opp": "MIA"
   },
   "7567": {
-   "half": 6.35,
-   "ppr": 7.2,
-   "std": 5.5,
+   "half": 6.31,
+   "ppr": 7.16,
+   "std": 5.46,
    "opp": "CHI"
   },
   "7595": {
@@ -658,9 +650,9 @@
    "opp": "WAS"
   },
   "10235": {
-   "half": 3.64,
-   "ppr": 4.1,
-   "std": 3.18,
+   "half": 3.68,
+   "ppr": 4.14,
+   "std": 3.22,
    "opp": "TB"
   },
   "11157": {
@@ -676,9 +668,9 @@
    "opp": "NO"
   },
   "11560": {
-   "half": 18.73,
-   "ppr": 18.73,
-   "std": 18.73,
+   "half": 18.95,
+   "ppr": 18.95,
+   "std": 18.95,
    "opp": "TB"
   },
   "11566": {
@@ -1030,9 +1022,9 @@
    "opp": "CAR"
   },
   "12519": {
-   "half": 12.0,
-   "ppr": 14.44,
-   "std": 9.56,
+   "half": 12.11,
+   "ppr": 14.55,
+   "std": 9.67,
    "opp": "TB"
   },
   "12527": {
@@ -1078,9 +1070,9 @@
    "opp": "SF"
   },
   "13322": {
-   "half": 2.08,
-   "ppr": 2.6,
-   "std": 1.55,
+   "half": 2.09,
+   "ppr": 2.61,
+   "std": 1.57,
    "opp": "TB"
   },
   "13333": {
@@ -1138,9 +1130,9 @@
    "opp": "DEN"
   },
   "3634": {
-   "half": 6.16,
-   "ppr": 7.57,
-   "std": 4.75,
+   "half": 6.21,
+   "ppr": 7.62,
+   "std": 4.8,
    "opp": "TB"
   },
   "4066": {
@@ -1378,9 +1370,9 @@
    "opp": "LAR"
   },
   "13411": {
-   "half": 2.64,
-   "ppr": 3.17,
-   "std": 2.11,
+   "half": 2.66,
+   "ppr": 3.19,
+   "std": 2.13,
    "opp": "TB"
   },
   "13413": {
@@ -1438,9 +1430,9 @@
    "opp": "ATL"
   },
   "6790": {
-   "half": 17.69,
-   "ppr": 19.0,
-   "std": 16.38,
+   "half": 17.91,
+   "ppr": 19.21,
+   "std": 16.6,
    "opp": "TB"
   },
   "7075": {
@@ -1558,9 +1550,9 @@
    "opp": "GB"
   },
   "11620": {
-   "half": 9.76,
-   "ppr": 11.58,
-   "std": 7.94,
+   "half": 9.85,
+   "ppr": 11.67,
+   "std": 8.03,
    "opp": "TB"
   },
   "11628": {
@@ -1594,9 +1586,9 @@
    "opp": "SF"
   },
   "12485": {
-   "half": 3.43,
-   "ppr": 4.02,
-   "std": 2.84,
+   "half": 3.42,
+   "ppr": 4.01,
+   "std": 2.82,
    "opp": "CHI"
   },
   "12497": {
@@ -1606,9 +1598,9 @@
    "opp": "ARI"
   },
   "12514": {
-   "half": 8.64,
-   "ppr": 10.45,
-   "std": 6.82,
+   "half": 8.59,
+   "ppr": 10.4,
+   "std": 6.78,
    "opp": "CHI"
   },
   "13151": {
@@ -1666,9 +1658,9 @@
    "opp": "CLE"
   },
   "4037": {
-   "half": 7.54,
-   "ppr": 9.39,
-   "std": 5.7,
+   "half": 7.51,
+   "ppr": 9.35,
+   "std": 5.67,
    "opp": "CHI"
   },
   "4314": {
@@ -1678,9 +1670,9 @@
    "opp": "NYG"
   },
   "4892": {
-   "half": 16.14,
-   "ppr": 16.14,
-   "std": 16.14,
+   "half": 16.02,
+   "ppr": 16.02,
+   "std": 16.02,
    "opp": "CHI"
   },
   "4993": {
@@ -1774,9 +1766,9 @@
    "opp": "DAL"
   },
   "9506": {
-   "half": 1.18,
-   "ppr": 1.22,
-   "std": 1.13,
+   "half": 1.17,
+   "ppr": 1.21,
+   "std": 1.12,
    "opp": "CHI"
   },
   "9754": {
@@ -1822,9 +1814,9 @@
    "opp": "CIN"
   },
   "11584": {
-   "half": 16.1,
-   "ppr": 17.6,
-   "std": 14.59,
+   "half": 15.99,
+   "ppr": 17.49,
+   "std": 14.49,
    "opp": "CHI"
   },
   "11616": {
@@ -2020,9 +2012,9 @@
    "opp": "SEA"
   },
   "8111": {
-   "half": 6.05,
-   "ppr": 7.62,
-   "std": 4.47,
+   "half": 6.02,
+   "ppr": 7.6,
+   "std": 4.45,
    "opp": "CHI"
   },
   "8161": {
