@@ -142,11 +142,12 @@
     {
       "sleeperId": "12534",
       "name": "Kyle Monangai",
-      "note": "Monangai (toe) is officially questionable for Sunday night, but Ian Rapoport reported Nov. 7 that he will not play in Week 9. He is expected back in Week 11 after Chicago's bye.",
+      "note": "Sleeper now lists him out (toe) as of 5:21 PM PT Nov 8. Earlier: Monangai (toe) is officially questionable for Sunday night, but Ian Rapoport reported Nov. 7 that he will not play in Week 9. He is expected back in Week 11 after Chicago's bye.",
       "tag": "injury",
       "redraftAdj": 0.6,
       "dynastyAdj": 0.99,
-      "status": "Out"
+      "status": "Out",
+      "auto": true
     },
     {
       "sleeperId": "6790",
@@ -169,11 +170,12 @@
     {
       "sleeperId": "7611",
       "name": "Rhamondre Stevenson",
-      "note": "With TreVeyon Henderson (illness) ruled out for Sunday (Nov. 8), Stevenson should be New England's lead back again.",
-      "tag": "role_up",
-      "redraftAdj": 1.15,
+      "note": "Sleeper now lists him out (knee) as of 5:21 PM PT Nov 8. Earlier: With TreVeyon Henderson (illness) ruled out for Sunday (Nov. 8), Stevenson should be New England's lead back again.",
+      "tag": "injury",
+      "redraftAdj": 0.9,
       "dynastyAdj": 1.0,
-      "status": ""
+      "status": "Out",
+      "auto": true
     },
     {
       "sleeperId": "6813",
@@ -468,11 +470,12 @@
     {
       "sleeperId": "12514",
       "name": "Emeka Egbuka",
-      "note": "Listed questionable (foot) for Week 9 vs. Chicago despite full practices Thursday and Friday (Nov 5-6). Todd Bowles calls him a game-time decision after he missed the past two games.",
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 5:21 PM PT Nov 8. Earlier: Listed questionable (foot) for Week 9 vs. Chicago despite full practices Thursday and Friday (Nov 5-6). Todd Bowles calls him a game-time decision after he missed the past two games.",
       "tag": "injury",
-      "redraftAdj": 0.97,
+      "redraftAdj": 1.0,
       "dynastyAdj": 1.0,
-      "status": "Questionable"
+      "status": null,
+      "auto": true
     },
     {
       "sleeperId": "13380",
@@ -1027,7 +1030,17 @@
       "dynastyAdj": 1.0,
       "status": "Questionable",
       "auto": true
+    },
+    {
+      "sleeperId": "6797",
+      "name": "Justin Herbert",
+      "note": "Sleeper now lists him questionable (finger) as of 5:21 PM PT Nov 8.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
+      "status": "Questionable",
+      "auto": true
     }
   ],
-  "statusChecked": "2:47 PM PT Nov 8"
+  "statusChecked": "5:21 PM PT Nov 8"
 }

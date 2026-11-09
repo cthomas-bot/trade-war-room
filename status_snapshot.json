@@ -490,18 +490,18 @@
    "t": "CLE"
   },
   "12514": {
-   "changed": "2026-11-06T17:55:38.244122+00:00",
+   "changed": "2026-11-09T01:21:47.762207+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 1.0,
     "name": "Emeka Egbuka",
-    "note": "Sleeper now lists him questionable (foot) as of 9:55 AM PT Nov 6.",
-    "redraftAdj": 0.98,
+    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 5:21 PM PT Nov 8. Earlier: Listed questionable (foot) for Week 9 vs. Chicago despite full practices Thursday and Friday (Nov 5-6). Todd Bowles calls him a game-time decision after he missed the past two games.",
+    "redraftAdj": 1.0,
     "sleeperId": "12514",
-    "status": "Questionable",
+    "status": null,
     "tag": "injury"
    },
-   "i": "Questionable",
+   "i": null,
    "qb1": null,
    "t": "TB"
   },
@@ -575,8 +575,18 @@
    "t": "WAS"
   },
   "12534": {
-   "changed": "2026-11-04T09:06:31.989484+00:00",
-   "i": "Questionable",
+   "changed": "2026-11-09T01:21:47.762207+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 0.99,
+    "name": "Kyle Monangai",
+    "note": "Sleeper now lists him out (toe) as of 5:21 PM PT Nov 8. Earlier: Monangai (toe) is officially questionable for Sunday night, but Ian Rapoport reported Nov. 7 that he will not play in Week 9. He is expected back in Week 11 after Chicago's bye.",
+    "redraftAdj": 0.6,
+    "sleeperId": "12534",
+    "status": "Out",
+    "tag": "injury"
+   },
+   "i": "Out",
    "qb1": null,
    "t": "CHI"
   },
@@ -1461,9 +1471,18 @@
    "t": "MIN"
   },
   "6797": {
-   "changed": null,
-   "entry": null,
-   "i": null,
+   "changed": "2026-11-09T01:21:47.762207+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Justin Herbert",
+    "note": "Sleeper now lists him questionable (finger) as of 5:21 PM PT Nov 8.",
+    "redraftAdj": 0.98,
+    "sleeperId": "6797",
+    "status": "Questionable",
+    "tag": "injury"
+   },
+   "i": "Questionable",
    "qb1": true,
    "t": "LAC"
   },
@@ -1669,9 +1688,18 @@
    "t": "PIT"
   },
   "7611": {
-   "changed": null,
-   "entry": null,
-   "i": null,
+   "changed": "2026-11-09T01:21:47.762207+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Rhamondre Stevenson",
+    "note": "Sleeper now lists him out (knee) as of 5:21 PM PT Nov 8. Earlier: With TreVeyon Henderson (illness) ruled out for Sunday (Nov. 8), Stevenson should be New England's lead back again.",
+    "redraftAdj": 0.9,
+    "sleeperId": "7611",
+    "status": "Out",
+    "tag": "injury"
+   },
+   "i": "Out",
    "qb1": null,
    "t": "NE"
   },
