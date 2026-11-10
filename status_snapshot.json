@@ -555,10 +555,19 @@
    "t": "BAL"
   },
   "13269": {
-   "changed": null,
-   "entry": null,
+   "changed": "2026-11-10T20:56:27.515452+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.05,
+    "name": "Fernando Mendoza",
+    "note": "Sleeper's depth chart now has him as LV's starting QB as of 12:56 PM PT Nov 10.",
+    "redraftAdj": 1.2,
+    "sleeperId": "13269",
+    "status": null,
+    "tag": "role_up"
+   },
    "i": null,
-   "qb1": false,
+   "qb1": true,
    "t": "LV"
   },
   "13272": {
