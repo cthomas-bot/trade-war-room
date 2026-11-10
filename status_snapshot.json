@@ -20,18 +20,18 @@
    "t": "KC"
   },
   "10232": {
-   "changed": "2026-11-09T21:56:50.246842+00:00",
+   "changed": "2026-11-10T22:53:41.937442+00:00",
    "entry": {
     "auto": true,
-    "dynastyAdj": 1.0,
+    "dynastyAdj": 0.97,
     "name": "Michael Wilson",
-    "note": "Sleeper now lists him out (neck) as of 1:56 PM PT Nov 9. Earlier: Wilson played through broken ribs in Week 9 and scored 9.0 half-PPR points (Sleeper). With Kendrick Bourne on IR since Nov 3, his target share should stay elevated.",
-    "redraftAdj": 0.9,
+    "note": "Sleeper now lists him on injured reserve (neck) as of 2:53 PM PT Nov 10. Earlier: Sleeper has listed Wilson out (neck) since Nov 9, after he played through broken ribs in Week 9 (44 snaps, 9.0 half-PPR points). His Week 10 availability is in doubt.",
+    "redraftAdj": 0.7,
     "sleeperId": "10232",
-    "status": "Out",
+    "status": "IR",
     "tag": "injury"
    },
-   "i": "Out",
+   "i": "IR",
    "qb1": null,
    "t": "ARI"
   },
@@ -1031,16 +1031,6 @@
   },
   "3286": {
    "changed": "2026-11-07T22:47:33.762691+00:00",
-   "entry": {
-    "auto": true,
-    "dynastyAdj": 1.0,
-    "name": "Demarcus Robinson",
-    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 2:47 PM PT Nov 7.",
-    "redraftAdj": 1.0,
-    "sleeperId": "3286",
-    "status": null,
-    "tag": "injury"
-   },
    "i": null,
    "qb1": null,
    "t": "SF"
@@ -1284,18 +1274,18 @@
    "t": "TEN"
   },
   "6011": {
-   "changed": "2026-11-09T21:56:50.246842+00:00",
+   "changed": "2026-11-10T22:53:41.937442+00:00",
    "entry": {
     "auto": true,
-    "dynastyAdj": 1.0,
+    "dynastyAdj": 0.97,
     "name": "Gardner Minshew II",
-    "note": "Sleeper now lists him questionable (elbow) as of 1:56 PM PT Nov 9. Earlier: Kept Arizona's starting job after the Jacoby Brissett trade, with Carson Beck promoted to backup, but managed only 7.04 half-PPR points (Sleeper) in the Nov. 8 loss at Seattle.",
-    "redraftAdj": 0.98,
+    "note": "Sleeper now lists him on injured reserve (elbow) as of 2:53 PM PT Nov 10. Earlier: Listed questionable (elbow) as of Nov. 9 after scoring 7.04 half-PPR points (Sleeper) in the Nov. 8 loss at Seattle. Carson Beck is the backup.",
+    "redraftAdj": 0.7,
     "sleeperId": "6011",
-    "status": "Questionable",
+    "status": "IR",
     "tag": "injury"
    },
-   "i": "Questionable",
+   "i": "IR",
    "qb1": true,
    "t": "ARI"
   },
@@ -1929,7 +1919,7 @@
    },
    "i": null,
    "qb1": null,
-   "t": null
+   "t": "DAL"
   },
   "9758": {
    "changed": null,

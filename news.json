@@ -104,11 +104,12 @@
     {
       "sleeperId": "6011",
       "name": "Gardner Minshew II",
-      "note": "Listed questionable (elbow) as of Nov. 9 after scoring 7.04 half-PPR points (Sleeper) in the Nov. 8 loss at Seattle. Carson Beck is the backup.",
+      "note": "Sleeper now lists him on injured reserve (elbow) as of 2:53 PM PT Nov 10. Earlier: Listed questionable (elbow) as of Nov. 9 after scoring 7.04 half-PPR points (Sleeper) in the Nov. 8 loss at Seattle. Carson Beck is the backup.",
       "tag": "injury",
-      "redraftAdj": 0.9,
-      "dynastyAdj": 1.0,
-      "status": "Questionable"
+      "redraftAdj": 0.7,
+      "dynastyAdj": 0.97,
+      "status": "IR",
+      "auto": true
     },
     {
       "sleeperId": "11557",
@@ -654,11 +655,12 @@
     {
       "sleeperId": "10232",
       "name": "Michael Wilson",
-      "note": "Sleeper has listed Wilson out (neck) since Nov 9, after he played through broken ribs in Week 9 (44 snaps, 9.0 half-PPR points). His Week 10 availability is in doubt.",
+      "note": "Sleeper now lists him on injured reserve (neck) as of 2:53 PM PT Nov 10. Earlier: Sleeper has listed Wilson out (neck) since Nov 9, after he played through broken ribs in Week 9 (44 snaps, 9.0 half-PPR points). His Week 10 availability is in doubt.",
       "tag": "injury",
-      "redraftAdj": 0.9,
-      "dynastyAdj": 1.0,
-      "status": "Out"
+      "redraftAdj": 0.7,
+      "dynastyAdj": 0.97,
+      "status": "IR",
+      "auto": true
     },
     {
       "sleeperId": "6819",
@@ -948,5 +950,5 @@
       "note": "Sleeper's depth chart now has him as LV's starting QB as of 12:56 PM PT Nov 10."
     }
   ],
-  "statusChecked": "1:51 PM PT Nov 10"
+  "statusChecked": "2:53 PM PT Nov 10"
 }
