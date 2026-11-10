@@ -249,16 +249,6 @@
   },
   "11637": {
    "changed": "2026-11-07T19:51:11.800741+00:00",
-   "entry": {
-    "auto": true,
-    "dynastyAdj": 1.0,
-    "name": "Keon Coleman",
-    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 11:51 AM PT Nov 7. Earlier: Coleman (shoulder) was limited in practice Nov 5. Buffalo plays Monday at Minnesota, so his final designation will come later than other teams'.",
-    "redraftAdj": 1.0,
-    "sleeperId": "11637",
-    "status": null,
-    "tag": "injury"
-   },
    "i": null,
    "qb1": null,
    "t": "BUF"
@@ -306,11 +296,20 @@
    "t": "NYG"
   },
   "1166": {
-   "changed": null,
-   "entry": null,
+   "changed": "2026-11-10T20:01:41.967260+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1,
+    "name": "Kirk Cousins",
+    "note": "Sleeper shows he moved from LV to MIN as of 12:01 PM PT Nov 10; check his new role.",
+    "redraftAdj": 1,
+    "sleeperId": "1166",
+    "status": null,
+    "tag": "rumor"
+   },
    "i": null,
    "qb1": true,
-   "t": "LV"
+   "t": "MIN"
   },
   "11783": {
    "changed": null,
@@ -940,10 +939,20 @@
    "t": "KC"
   },
   "1479": {
-   "changed": "2026-10-14T21:43:53.279007+00:00",
+   "changed": "2026-11-10T20:01:41.967260+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1,
+    "name": "Keenan Allen",
+    "note": "Sleeper shows he moved from IND to SF as of 12:01 PM PT Nov 10; check his new role.",
+    "redraftAdj": 1,
+    "sleeperId": "1479",
+    "status": null,
+    "tag": "rumor"
+   },
    "i": null,
    "qb1": null,
-   "t": "IND"
+   "t": "SF"
   },
   "2133": {
    "changed": "2026-10-20T21:44:42.145826+00:00",
@@ -1150,16 +1159,6 @@
   },
   "4983": {
    "changed": "2026-11-07T19:51:11.800741+00:00",
-   "entry": {
-    "auto": true,
-    "dynastyAdj": 1.0,
-    "name": "DJ Moore",
-    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 11:51 AM PT Nov 7. Earlier: Moore was limited in practice Thursday (Nov 5) and is questionable. Buffalo plays Monday night at Minnesota, which gives him an extra day.",
-    "redraftAdj": 1.0,
-    "sleeperId": "4983",
-    "status": null,
-    "tag": "injury"
-   },
    "i": null,
    "qb1": null,
    "t": "BUF"
@@ -1212,16 +1211,6 @@
   },
   "5849": {
    "changed": "2026-11-07T19:51:11.800741+00:00",
-   "entry": {
-    "auto": true,
-    "dynastyAdj": 0.95,
-    "name": "Kyler Murray",
-    "note": "Sleeper now lists him out (hamstring) as of 11:51 AM PT Nov 7. Earlier: Kevin O'Connell said Nov. 5 that Murray has a hamstring strain and is week to week, so Carson Wentz will start Monday night vs. Buffalo (Nov. 9). He is not headed to IR, but his starting job beyond this week is uncertain.",
-    "redraftAdj": 0.6,
-    "sleeperId": "5849",
-    "status": "Out",
-    "tag": "injury"
-   },
    "i": "Out",
    "qb1": false,
    "t": "MIN"
@@ -1417,16 +1406,6 @@
   },
   "7049": {
    "changed": "2026-11-07T19:51:11.800741+00:00",
-   "entry": {
-    "auto": true,
-    "dynastyAdj": 1.0,
-    "name": "Jauan Jennings",
-    "note": "Sleeper now lists him out (calf) as of 11:51 AM PT Nov 7. Earlier: Jennings was listed questionable with a calf injury as of Nov 5, and Sleeper now lists him with Minnesota. His Week 9 availability and role in the new offense are unclear.",
-    "redraftAdj": 0.9,
-    "sleeperId": "7049",
-    "status": "Out",
-    "tag": "injury"
-   },
    "i": "Out",
    "qb1": null,
    "t": "MIN"
