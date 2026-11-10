@@ -94,11 +94,12 @@
     {
       "sleeperId": "8161",
       "name": "Malik Willis",
-      "note": "Still listed questionable for Week 10 with the groin injury that hobbled him in the Nov. 8 19-9 loss to Detroit (4.82 half-PPR pts per Sleeper).",
+      "note": "Sleeper now lists him on injured reserve (groin) as of 1:51 PM PT Nov 10. Earlier: Still listed questionable for Week 10 with the groin injury that hobbled him in the Nov. 8 19-9 loss to Detroit (4.82 half-PPR pts per Sleeper).",
       "tag": "injury",
-      "redraftAdj": 0.85,
-      "dynastyAdj": 0.98,
-      "status": "Questionable"
+      "redraftAdj": 0.7,
+      "dynastyAdj": 0.97,
+      "status": "IR",
+      "auto": true
     },
     {
       "sleeperId": "6011",
@@ -607,11 +608,12 @@
     {
       "sleeperId": "9500",
       "name": "Josh Downs",
-      "note": "Downs requested a trade on Oct 28, and as of the morning of Nov 10 the Colts had not traded him. Kansas City and Pittsburgh are reported as likely suitors before today's 4 PM ET deadline.",
-      "tag": "trade",
-      "redraftAdj": 0.97,
-      "dynastyAdj": 1.0,
-      "status": ""
+      "tag": "rumor",
+      "redraftAdj": 1,
+      "dynastyAdj": 1,
+      "status": "",
+      "auto": true,
+      "note": "Sleeper shows he moved from IND to KC as of 1:51 PM PT Nov 10; check his new role."
     },
     {
       "sleeperId": "12519",
@@ -946,5 +948,5 @@
       "note": "Sleeper's depth chart now has him as LV's starting QB as of 12:56 PM PT Nov 10."
     }
   ],
-  "statusChecked": "12:56 PM PT Nov 10"
+  "statusChecked": "1:51 PM PT Nov 10"
 }

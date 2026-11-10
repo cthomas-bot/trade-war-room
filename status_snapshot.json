@@ -1690,16 +1690,6 @@
   },
   "8154": {
    "changed": "2026-11-07T21:46:40.407180+00:00",
-   "entry": {
-    "auto": true,
-    "dynastyAdj": 0.97,
-    "name": "Brian Robinson Jr.",
-    "note": "Sleeper now lists him on injured reserve (hamstring) as of 1:46 PM PT Nov 7. Earlier: Robinson (hamstring) is listed as out for Week 9 and will miss a third straight game.",
-    "redraftAdj": 0.7,
-    "sleeperId": "8154",
-    "status": "IR",
-    "tag": "injury"
-   },
    "i": "IR",
    "qb1": null,
    "t": "ATL"
@@ -1711,18 +1701,18 @@
    "t": "NYJ"
   },
   "8161": {
-   "changed": "2026-11-09T15:06:06.523091+00:00",
+   "changed": "2026-11-10T21:51:34.528567+00:00",
    "entry": {
     "auto": true,
-    "dynastyAdj": 0.98,
+    "dynastyAdj": 0.97,
     "name": "Malik Willis",
-    "note": "Sleeper now lists him questionable (groin) as of 7:06 AM PT Nov 9. Earlier: Visibly hobbled by a groin injury in the Nov. 8 19-9 loss to Detroit, going 13-of-25 for 128 yards, no TDs and an INT; he said afterward the groin 'was tight.' He is listed questionable going forward.",
-    "redraftAdj": 0.85,
+    "note": "Sleeper now lists him on injured reserve (groin) as of 1:51 PM PT Nov 10. Earlier: Still listed questionable for Week 10 with the groin injury that hobbled him in the Nov. 8 19-9 loss to Detroit (4.82 half-PPR pts per Sleeper).",
+    "redraftAdj": 0.7,
     "sleeperId": "8161",
-    "status": "Questionable",
+    "status": "IR",
     "tag": "injury"
    },
-   "i": "Questionable",
+   "i": "IR",
    "qb1": true,
    "t": "MIA"
   },
@@ -1858,10 +1848,20 @@
    "t": "LAR"
   },
   "9500": {
-   "changed": "2026-10-15T20:44:55.307212+00:00",
+   "changed": "2026-11-10T21:51:34.528567+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1,
+    "name": "Josh Downs",
+    "note": "Sleeper shows he moved from IND to KC as of 1:51 PM PT Nov 10; check his new role.",
+    "redraftAdj": 1,
+    "sleeperId": "9500",
+    "status": "",
+    "tag": "rumor"
+   },
    "i": null,
    "qb1": null,
-   "t": "IND"
+   "t": "KC"
   },
   "9501": {
    "changed": null,
