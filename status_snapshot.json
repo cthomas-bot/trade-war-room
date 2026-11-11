@@ -671,8 +671,18 @@
    "t": "LAR"
   },
   "13276": {
-   "changed": "2026-10-18T16:41:56.765540+00:00",
-   "i": null,
+   "changed": "2026-11-11T18:02:23.315923+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Omar Cooper Jr.",
+    "note": "Sleeper now lists him questionable (ankle) as of 10:02 AM PT Nov 11.",
+    "redraftAdj": 0.98,
+    "sleeperId": "13276",
+    "status": "Questionable",
+    "tag": "injury"
+   },
+   "i": "Questionable",
    "qb1": null,
    "t": "NYJ"
   },
@@ -892,8 +902,18 @@
    "t": "DEN"
   },
   "13346": {
-   "changed": "2026-11-06T19:58:04.947866+00:00",
-   "i": null,
+   "changed": "2026-11-11T18:02:23.315923+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Denzel Boston",
+    "note": "Sleeper now lists him questionable (toe) as of 10:02 AM PT Nov 11.",
+    "redraftAdj": 0.98,
+    "sleeperId": "13346",
+    "status": "Questionable",
+    "tag": "injury"
+   },
+   "i": "Questionable",
    "qb1": null,
    "t": "CLE"
   },
@@ -953,16 +973,6 @@
   },
   "13405": {
    "changed": "2026-11-08T17:45:49.373960+00:00",
-   "entry": {
-    "auto": true,
-    "dynastyAdj": 1.0,
-    "name": "Kaytron Allen",
-    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 9:45 AM PT Nov 8.",
-    "redraftAdj": 1.0,
-    "sleeperId": "13405",
-    "status": null,
-    "tag": "injury"
-   },
    "i": null,
    "qb1": null,
    "t": "MIA"
@@ -1087,6 +1097,11 @@
    "i": null,
    "qb1": null,
    "t": "WAS"
+  },
+  "2505": {
+   "i": null,
+   "qb1": null,
+   "t": "CAR"
   },
   "3163": {
    "changed": null,
@@ -2060,16 +2075,6 @@
   },
   "9757": {
    "changed": "2026-11-08T17:45:49.373960+00:00",
-   "entry": {
-    "auto": true,
-    "dynastyAdj": 1,
-    "name": "Kendre Miller",
-    "note": "Sleeper shows he was released by NO as of 9:45 AM PT Nov 8; check his new role.",
-    "redraftAdj": 1,
-    "sleeperId": "9757",
-    "status": null,
-    "tag": "rumor"
-   },
    "i": null,
    "qb1": null,
    "t": "DAL"
