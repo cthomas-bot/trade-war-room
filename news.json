@@ -254,11 +254,12 @@
     {
       "sleeperId": "12474",
       "name": "Woody Marks",
-      "note": "Marks has led Houston's backfield (46 snaps on Nov. 8), but David Montgomery (groin) was upgraded to questionable on Nov. 11 and could cut into his work in Week 10.",
-      "tag": "role_down",
+      "note": "Sleeper now lists him questionable (knee) as of 3:01 PM PT Nov 11. Earlier: Marks has led Houston's backfield (46 snaps on Nov. 8), but David Montgomery (groin) was upgraded to questionable on Nov. 11 and could cut into his work in Week 10.",
+      "tag": "injury",
       "redraftAdj": 0.95,
       "dynastyAdj": 1.0,
-      "status": ""
+      "status": "Questionable",
+      "auto": true
     },
     {
       "sleeperId": "9508",
@@ -769,14 +770,14 @@
       "note": "Sleeper's depth chart now has him as PHI's starting QB as of 8:00 AM PT Nov 11."
     },
     {
-      "auto": true,
-      "dynastyAdj": 1.0,
-      "name": "MarShawn Lloyd",
-      "note": "Sleeper now lists him questionable (knee) as of 1:06 AM PT Nov 11.",
-      "redraftAdj": 0.98,
       "sleeperId": "11581",
-      "status": "Questionable",
-      "tag": "injury"
+      "name": "MarShawn Lloyd",
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 3:01 PM PT Nov 11.",
+      "tag": "injury",
+      "redraftAdj": 1.0,
+      "dynastyAdj": 1.0,
+      "status": null,
+      "auto": true
     },
     {
       "sleeperId": "11643",
@@ -1007,7 +1008,57 @@
       "dynastyAdj": 1.0,
       "status": "Questionable",
       "auto": true
+    },
+    {
+      "sleeperId": "10236",
+      "name": "Dalton Kincaid",
+      "note": "Sleeper now lists him questionable (ankle) as of 3:01 PM PT Nov 11.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
+      "status": "Questionable",
+      "auto": true
+    },
+    {
+      "sleeperId": "11628",
+      "name": "Marvin Harrison Jr.",
+      "note": "Sleeper now lists him questionable (hamstring) as of 3:01 PM PT Nov 11.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
+      "status": "Questionable",
+      "auto": true
+    },
+    {
+      "sleeperId": "12506",
+      "name": "Harold Fannin Jr.",
+      "note": "Sleeper now lists him questionable (groin) as of 3:01 PM PT Nov 11.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
+      "status": "Questionable",
+      "auto": true
+    },
+    {
+      "sleeperId": "4035",
+      "name": "Alvin Kamara",
+      "note": "Sleeper now lists him questionable (back) as of 3:01 PM PT Nov 11.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
+      "status": "Questionable",
+      "auto": true
+    },
+    {
+      "sleeperId": "9502",
+      "name": "Tank Dell",
+      "note": "Sleeper now lists him questionable (hand) as of 3:01 PM PT Nov 11.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
+      "status": "Questionable",
+      "auto": true
     }
   ],
-  "statusChecked": "1:45 PM PT Nov 11"
+  "statusChecked": "3:01 PM PT Nov 11"
 }
