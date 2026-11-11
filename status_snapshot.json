@@ -607,18 +607,18 @@
    "t": "LV"
   },
   "12529": {
-   "changed": "2026-11-11T09:06:37.549130+00:00",
+   "changed": "2026-11-11T23:56:42.090418+00:00",
    "entry": {
     "auto": true,
-    "dynastyAdj": 1.0,
+    "dynastyAdj": 0.99,
     "name": "TreVeyon Henderson",
-    "note": "Sleeper now lists him questionable (illness) as of 1:06 AM PT Nov 11. Earlier: Henderson (illness) has missed two straight games and is still listed as out. Rhamondre Stevenson's Nov. 8 knee injury could make him New England's lead back once he is healthy.",
-    "redraftAdj": 0.98,
+    "note": "Sleeper now lists him out (illness) as of 3:56 PM PT Nov 11. Earlier: Henderson has missed two games after being hospitalized with unexplained neurological symptoms. He is now listed questionable (illness) for Week 10 as of Nov. 11, and he could lead New England's backfield with Rhamondre Stevenson doubtful.",
+    "redraftAdj": 0.9,
     "sleeperId": "12529",
-    "status": "Questionable",
+    "status": "Out",
     "tag": "injury"
    },
-   "i": "Questionable",
+   "i": "Out",
    "qb1": null,
    "t": "NE"
   },
@@ -1197,8 +1197,18 @@
    "t": "BAL"
   },
   "3214": {
-   "changed": "2026-11-08T20:48:27.220189+00:00",
-   "i": null,
+   "changed": "2026-11-11T23:56:42.090418+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 0.99,
+    "name": "Hunter Henry",
+    "note": "Sleeper now lists him questionable (foot) as of 3:56 PM PT Nov 11.",
+    "redraftAdj": 0.98,
+    "sleeperId": "3214",
+    "status": "Questionable",
+    "tag": "injury"
+   },
+   "i": "Questionable",
    "qb1": null,
    "t": "NE"
   },

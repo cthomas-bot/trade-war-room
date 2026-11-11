@@ -173,11 +173,12 @@
     {
       "sleeperId": "12529",
       "name": "TreVeyon Henderson",
-      "note": "Henderson has missed two games after being hospitalized with unexplained neurological symptoms. He is now listed questionable (illness) for Week 10 as of Nov. 11, and he could lead New England's backfield with Rhamondre Stevenson doubtful.",
+      "note": "Sleeper now lists him out (illness) as of 3:56 PM PT Nov 11. Earlier: Henderson has missed two games after being hospitalized with unexplained neurological symptoms. He is now listed questionable (illness) for Week 10 as of Nov. 11, and he could lead New England's backfield with Rhamondre Stevenson doubtful.",
       "tag": "injury",
-      "redraftAdj": 0.95,
+      "redraftAdj": 0.9,
       "dynastyAdj": 0.99,
-      "status": "Questionable"
+      "status": "Out",
+      "auto": true
     },
     {
       "sleeperId": "12491",
@@ -900,14 +901,14 @@
       "tag": "injury"
     },
     {
-      "auto": true,
-      "dynastyAdj": 0.99,
-      "name": "Hunter Henry",
-      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 12:48 PM PT Nov 8. Earlier: Henry (foot) missed Wednesday and Thursday practices, then was limited Friday, Nov 6, and Mike Vrabel listed him as questionable for Sunday's 4:25 PM ET game vs. Green Bay. Check the late inactives list before starting him.",
-      "redraftAdj": 1.0,
       "sleeperId": "3214",
-      "status": null,
-      "tag": "injury"
+      "name": "Hunter Henry",
+      "note": "Sleeper now lists him questionable (foot) as of 3:56 PM PT Nov 11.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
+      "dynastyAdj": 0.99,
+      "status": "Questionable",
+      "auto": true
     },
     {
       "sleeperId": "7547",
@@ -1060,5 +1061,5 @@
       "auto": true
     }
   ],
-  "statusChecked": "3:01 PM PT Nov 11"
+  "statusChecked": "3:56 PM PT Nov 11"
 }
