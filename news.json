@@ -32,12 +32,12 @@
     {
       "sleeperId": "11565",
       "name": "J.J. McCarthy",
-      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 1:06 AM PT Nov 11. Earlier: His Nov. 8 hip injury is a hip pointer (deep bone bruise). John Harbaugh said Nov. 9 that he 'does look like he's going to play' Thursday vs. Washington.",
-      "tag": "injury",
-      "redraftAdj": 1.0,
-      "dynastyAdj": 1.0,
+      "tag": "role_down",
+      "redraftAdj": 0.8,
+      "dynastyAdj": 0.95,
       "status": null,
-      "auto": true
+      "auto": true,
+      "note": "Sleeper's depth chart now has him as NYG's backup QB as of 3:10 AM PT Nov 11."
     },
     {
       "sleeperId": "2306",
@@ -117,20 +117,22 @@
     {
       "sleeperId": "11557",
       "name": "Joe Milton",
-      "note": "Remains Philadelphia's starter with Jalen Hurts on IR after scoring 13.16 half-PPR points (Sleeper) in his Nov. 8 first start. The Eagles are on bye in Week 10.",
-      "tag": "role_up",
-      "redraftAdj": 1.15,
-      "dynastyAdj": 1.04,
-      "status": ""
+      "tag": "role_down",
+      "redraftAdj": 0.8,
+      "dynastyAdj": 0.95,
+      "status": "",
+      "auto": true,
+      "note": "Sleeper's depth chart now has him as PHI's backup QB as of 3:10 AM PT Nov 11."
     },
     {
       "sleeperId": "6904",
       "name": "Jalen Hurts",
-      "note": "Still on IR with blood clots in his lungs. Joe Milton started on Nov. 8, and the Eagles are on bye in Week 10.",
-      "tag": "injury",
-      "redraftAdj": 0.3,
-      "dynastyAdj": 0.95,
-      "status": "IR"
+      "tag": "role_up",
+      "redraftAdj": 1.2,
+      "dynastyAdj": 1.05,
+      "status": "IR",
+      "auto": true,
+      "note": "Sleeper's depth chart now has him as PHI's starting QB as of 3:10 AM PT Nov 11."
     },
     {
       "sleeperId": "3257",
@@ -153,11 +155,12 @@
     {
       "sleeperId": "12508",
       "name": "Jaxson Dart",
-      "note": "Remains on IR after knee surgery. J.J. McCarthy is expected to start Thursday vs. Washington despite a hip pointer.",
-      "tag": "injury",
-      "redraftAdj": 0.5,
-      "dynastyAdj": 0.95,
-      "status": "IR"
+      "tag": "role_up",
+      "redraftAdj": 1.2,
+      "dynastyAdj": 1.05,
+      "status": "IR",
+      "auto": true,
+      "note": "Sleeper's depth chart now has him as NYG's starting QB as of 3:10 AM PT Nov 11."
     },
     {
       "sleeperId": "7611",
@@ -1002,5 +1005,5 @@
       "auto": true
     }
   ],
-  "statusChecked": "1:06 AM PT Nov 11"
+  "statusChecked": "3:10 AM PT Nov 11"
 }
