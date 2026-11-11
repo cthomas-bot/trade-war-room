@@ -76,11 +76,12 @@
     {
       "sleeperId": "6904",
       "name": "Jalen Hurts",
-      "note": "He has been on IR since Oct. 17. Later reports diagnosed a DVT with bilateral pulmonary emboli and said he will miss the rest of the 2026 season, though a full recovery is expected. Tanner McKee has been starting for Philadelphia.",
-      "tag": "injury",
-      "redraftAdj": 0.05,
+      "tag": "role_down",
+      "redraftAdj": 0.8,
       "dynastyAdj": 0.95,
-      "status": "IR"
+      "status": "IR",
+      "auto": true,
+      "note": "Sleeper's depth chart now has him as PHI's backup QB as of 8:00 AM PT Nov 11."
     },
     {
       "sleeperId": "4943",
@@ -131,11 +132,12 @@
     {
       "sleeperId": "11565",
       "name": "J.J. McCarthy",
-      "note": "John Harbaugh said Nov. 9 that McCarthy (hip pointer) looks likely to play Thursday Nov. 12 vs. Washington. Sleeper's depth chart listed him as a backup as of Nov. 11, so watch for the official starter.",
-      "tag": "injury",
-      "redraftAdj": 0.95,
-      "dynastyAdj": 1.0,
-      "status": ""
+      "tag": "role_up",
+      "redraftAdj": 1.2,
+      "dynastyAdj": 1.05,
+      "status": "",
+      "auto": true,
+      "note": "Sleeper's depth chart now has him as NYG's starting QB as of 8:00 AM PT Nov 11."
     },
     {
       "sleeperId": "5850",
@@ -750,14 +752,14 @@
       "status": ""
     },
     {
-      "auto": true,
-      "dynastyAdj": 0.95,
-      "name": "Joe Milton",
-      "note": "Sleeper's depth chart now has him as PHI's backup QB as of 3:10 AM PT Nov 11.",
-      "redraftAdj": 0.8,
       "sleeperId": "11557",
+      "name": "Joe Milton",
+      "tag": "role_up",
+      "redraftAdj": 1.2,
+      "dynastyAdj": 1.05,
       "status": "",
-      "tag": "role_down"
+      "auto": true,
+      "note": "Sleeper's depth chart now has him as PHI's starting QB as of 8:00 AM PT Nov 11."
     },
     {
       "auto": true,
@@ -780,14 +782,14 @@
       "tag": "injury"
     },
     {
-      "auto": true,
-      "dynastyAdj": 1.05,
-      "name": "Jaxson Dart",
-      "note": "Sleeper's depth chart now has him as NYG's starting QB as of 3:10 AM PT Nov 11.",
-      "redraftAdj": 1.2,
       "sleeperId": "12508",
+      "name": "Jaxson Dart",
+      "tag": "role_down",
+      "redraftAdj": 0.8,
+      "dynastyAdj": 0.95,
       "status": "IR",
-      "tag": "role_up"
+      "auto": true,
+      "note": "Sleeper's depth chart now has him as NYG's backup QB as of 8:00 AM PT Nov 11."
     },
     {
       "auto": true,
@@ -920,5 +922,5 @@
       "tag": "rumor"
     }
   ],
-  "statusChecked": "7:02 AM PT Nov 11"
+  "statusChecked": "8:00 AM PT Nov 11"
 }
