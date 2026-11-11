@@ -296,19 +296,19 @@
    "t": "NYG"
   },
   "1166": {
-   "changed": "2026-11-10T20:01:41.967260+00:00",
+   "changed": "2026-11-11T02:59:29.709655+00:00",
    "entry": {
     "auto": true,
-    "dynastyAdj": 1,
+    "dynastyAdj": 0.95,
     "name": "Kirk Cousins",
-    "note": "Sleeper shows he moved from LV to MIN as of 12:01 PM PT Nov 10; check his new role.",
-    "redraftAdj": 1,
+    "note": "Sleeper's depth chart now has him as MIN's backup QB as of 6:59 PM PT Nov 10.",
+    "redraftAdj": 0.8,
     "sleeperId": "1166",
     "status": null,
-    "tag": "rumor"
+    "tag": "role_down"
    },
    "i": null,
-   "qb1": true,
+   "qb1": false,
    "t": "MIN"
   },
   "11783": {
@@ -571,9 +571,19 @@
    "t": "LV"
   },
   "13272": {
-   "changed": "2026-11-04T09:06:31.989484+00:00",
+   "changed": "2026-11-11T02:59:29.709655+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.05,
+    "name": "Carson Beck",
+    "note": "Sleeper's depth chart now has him as ARI's starting QB as of 6:59 PM PT Nov 10.",
+    "redraftAdj": 1.2,
+    "sleeperId": "13272",
+    "status": null,
+    "tag": "role_up"
+   },
    "i": null,
-   "qb1": false,
+   "qb1": true,
    "t": "ARI"
   },
   "13274": {
@@ -1274,19 +1284,19 @@
    "t": "TEN"
   },
   "6011": {
-   "changed": "2026-11-10T22:53:41.937442+00:00",
+   "changed": "2026-11-11T02:59:29.709655+00:00",
    "entry": {
     "auto": true,
-    "dynastyAdj": 0.97,
+    "dynastyAdj": 0.95,
     "name": "Gardner Minshew II",
-    "note": "Sleeper now lists him on injured reserve (elbow) as of 2:53 PM PT Nov 10. Earlier: Listed questionable (elbow) as of Nov. 9 after scoring 7.04 half-PPR points (Sleeper) in the Nov. 8 loss at Seattle. Carson Beck is the backup.",
-    "redraftAdj": 0.7,
+    "note": "Sleeper's depth chart now has him as ARI's backup QB as of 6:59 PM PT Nov 10.",
+    "redraftAdj": 0.8,
     "sleeperId": "6011",
     "status": "IR",
-    "tag": "injury"
+    "tag": "role_down"
    },
    "i": "IR",
-   "qb1": true,
+   "qb1": false,
    "t": "ARI"
   },
   "6130": {

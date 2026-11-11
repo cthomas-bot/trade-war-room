@@ -104,12 +104,12 @@
     {
       "sleeperId": "6011",
       "name": "Gardner Minshew II",
-      "note": "Sleeper now lists him on injured reserve (elbow) as of 2:53 PM PT Nov 10. Earlier: Listed questionable (elbow) as of Nov. 9 after scoring 7.04 half-PPR points (Sleeper) in the Nov. 8 loss at Seattle. Carson Beck is the backup.",
-      "tag": "injury",
-      "redraftAdj": 0.7,
-      "dynastyAdj": 0.97,
+      "tag": "role_down",
+      "redraftAdj": 0.8,
+      "dynastyAdj": 0.95,
       "status": "IR",
-      "auto": true
+      "auto": true,
+      "note": "Sleeper's depth chart now has him as ARI's backup QB as of 6:59 PM PT Nov 10."
     },
     {
       "sleeperId": "11557",
@@ -922,12 +922,12 @@
     {
       "sleeperId": "1166",
       "name": "Kirk Cousins",
-      "tag": "rumor",
-      "redraftAdj": 1,
-      "dynastyAdj": 1,
+      "tag": "role_down",
+      "redraftAdj": 0.8,
+      "dynastyAdj": 0.95,
       "status": null,
       "auto": true,
-      "note": "Sleeper shows he moved from LV to MIN as of 12:01 PM PT Nov 10; check his new role."
+      "note": "Sleeper's depth chart now has him as MIN's backup QB as of 6:59 PM PT Nov 10."
     },
     {
       "sleeperId": "1479",
@@ -948,7 +948,17 @@
       "status": null,
       "auto": true,
       "note": "Sleeper's depth chart now has him as LV's starting QB as of 12:56 PM PT Nov 10."
+    },
+    {
+      "sleeperId": "13272",
+      "name": "Carson Beck",
+      "tag": "role_up",
+      "redraftAdj": 1.2,
+      "dynastyAdj": 1.05,
+      "status": null,
+      "auto": true,
+      "note": "Sleeper's depth chart now has him as ARI's starting QB as of 6:59 PM PT Nov 10."
     }
   ],
-  "statusChecked": "2:53 PM PT Nov 10"
+  "statusChecked": "6:59 PM PT Nov 10"
 }
