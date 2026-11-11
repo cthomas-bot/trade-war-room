@@ -8,8 +8,18 @@
    "t": "LV"
   },
   "10219": {
-   "changed": "2026-11-04T21:01:37.211794+00:00",
-   "i": null,
+   "changed": "2026-11-11T21:45:38.431070+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Chris Rodriguez Jr.",
+    "note": "Sleeper now lists him questionable (hand) as of 1:45 PM PT Nov 11.",
+    "redraftAdj": 0.98,
+    "sleeperId": "10219",
+    "status": "Questionable",
+    "tag": "injury"
+   },
+   "i": "Questionable",
    "qb1": null,
    "t": "JAX"
   },
@@ -195,18 +205,18 @@
    "t": "CHI"
   },
   "11624": {
-   "changed": "2026-11-11T09:06:37.549130+00:00",
+   "changed": "2026-11-11T21:45:38.431070+00:00",
    "entry": {
     "auto": true,
-    "dynastyAdj": 1.0,
+    "dynastyAdj": 0.98,
     "name": "Xavier Worthy",
-    "note": "Sleeper now lists him questionable (hamstring) as of 1:06 AM PT Nov 11. Earlier: Worthy suffered a non-contact left hamstring injury in the fourth quarter on Nov 8 and could not put weight on the leg. As of Nov 10 no imaging results or timeline have been reported, and Sleeper lists him out.",
-    "redraftAdj": 0.98,
+    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 1:45 PM PT Nov 11. Earlier: Sleeper lists Worthy questionable with a hamstring injury from Nov 8, and Andy Reid has reportedly called him day-to-day. KC's Nov 10 trade for Josh Downs adds competition for targets once he returns.",
+    "redraftAdj": 1.0,
     "sleeperId": "11624",
-    "status": "Questionable",
+    "status": null,
     "tag": "injury"
    },
-   "i": "Questionable",
+   "i": null,
    "qb1": null,
    "t": "KC"
   },
@@ -271,18 +281,18 @@
    "t": "SF"
   },
   "11643": {
-   "changed": "2026-11-11T09:06:37.549130+00:00",
+   "changed": "2026-11-11T21:45:38.431070+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 1.0,
     "name": "Jaylen Wright",
-    "note": "Sleeper now lists him questionable (quadriceps) as of 1:06 AM PT Nov 11.",
-    "redraftAdj": 0.98,
+    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 1:45 PM PT Nov 11.",
+    "redraftAdj": 1.0,
     "sleeperId": "11643",
-    "status": "Questionable",
+    "status": null,
     "tag": "injury"
    },
-   "i": "Questionable",
+   "i": null,
    "qb1": null,
    "t": "MIA"
   },
@@ -299,19 +309,19 @@
    "t": "NYG"
   },
   "1166": {
-   "changed": "2026-11-11T02:59:29.709655+00:00",
+   "changed": "2026-11-11T21:45:38.431070+00:00",
    "entry": {
     "auto": true,
-    "dynastyAdj": 0.95,
+    "dynastyAdj": 1.05,
     "name": "Kirk Cousins",
-    "note": "Sleeper's depth chart now has him as MIN's backup QB as of 6:59 PM PT Nov 10.",
-    "redraftAdj": 0.8,
+    "note": "Sleeper's depth chart now has him as MIN's starting QB as of 1:45 PM PT Nov 11.",
+    "redraftAdj": 1.2,
     "sleeperId": "1166",
-    "status": null,
-    "tag": "role_down"
+    "status": "",
+    "tag": "role_up"
    },
    "i": null,
-   "qb1": false,
+   "qb1": true,
    "t": "MIN"
   },
   "11783": {
@@ -383,8 +393,18 @@
    "t": "DEN"
   },
   "12490": {
-   "changed": "2026-11-06T01:22:50.737718+00:00",
-   "i": null,
+   "changed": "2026-11-11T21:45:38.431070+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Bhayshul Tuten",
+    "note": "Sleeper now lists him questionable (ankle) as of 1:45 PM PT Nov 11.",
+    "redraftAdj": 0.98,
+    "sleeperId": "12490",
+    "status": "Questionable",
+    "tag": "injury"
+   },
+   "i": "Questionable",
    "qb1": null,
    "t": "JAX"
   },
@@ -527,10 +547,19 @@
    "t": "TEN"
   },
   "12524": {
-   "changed": null,
-   "entry": null,
+   "changed": "2026-11-11T21:45:38.431070+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 0.95,
+    "name": "Shedeur Sanders",
+    "note": "Sleeper's depth chart now has him as CLE's backup QB as of 1:45 PM PT Nov 11.",
+    "redraftAdj": 0.8,
+    "sleeperId": "12524",
+    "status": "",
+    "tag": "role_down"
+   },
    "i": null,
-   "qb1": true,
+   "qb1": false,
    "t": "CLE"
   },
   "12526": {
@@ -833,9 +862,18 @@
    "t": "CLE"
   },
   "13311": {
-   "changed": null,
-   "entry": null,
-   "i": null,
+   "changed": "2026-11-11T21:45:38.431070+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Chris Bell",
+    "note": "Sleeper now lists him questionable (knee) as of 1:45 PM PT Nov 11.",
+    "redraftAdj": 0.98,
+    "sleeperId": "13311",
+    "status": "Questionable",
+    "tag": "injury"
+   },
+   "i": "Questionable",
    "qb1": null,
    "t": "MIA"
   },
@@ -1106,9 +1144,18 @@
    "t": "CAR"
   },
   "3163": {
-   "changed": null,
-   "entry": null,
-   "i": null,
+   "changed": "2026-11-11T21:45:38.431070+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Jared Goff",
+    "note": "Sleeper now lists him questionable (chest) as of 1:45 PM PT Nov 11.",
+    "redraftAdj": 0.98,
+    "sleeperId": "3163",
+    "status": "Questionable",
+    "tag": "injury"
+   },
+   "i": "Questionable",
    "qb1": true,
    "t": "DET"
   },
@@ -1121,16 +1168,6 @@
   },
   "3214": {
    "changed": "2026-11-08T20:48:27.220189+00:00",
-   "entry": {
-    "auto": true,
-    "dynastyAdj": 0.99,
-    "name": "Hunter Henry",
-    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 12:48 PM PT Nov 8. Earlier: Henry (foot) missed Wednesday and Thursday practices, then was limited Friday, Nov 6, and Mike Vrabel listed him as questionable for Sunday's 4:25 PM ET game vs. Green Bay. Check the late inactives list before starting him.",
-    "redraftAdj": 1.0,
-    "sleeperId": "3214",
-    "status": null,
-    "tag": "injury"
-   },
    "i": null,
    "qb1": null,
    "t": "NE"
@@ -1162,8 +1199,18 @@
    "t": "DAL"
   },
   "3321": {
-   "changed": "2026-10-28T08:08:19.335831+00:00",
-   "i": "Questionable",
+   "changed": "2026-11-11T21:45:38.431070+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 0.95,
+    "name": "Tyreek Hill",
+    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 1:45 PM PT Nov 11. Earlier: Hill is still an unsigned free agent coming off ACL surgery, and no signing has been reported as of Nov 11.",
+    "redraftAdj": 1.0,
+    "sleeperId": "3321",
+    "status": null,
+    "tag": "injury"
+   },
+   "i": null,
    "qb1": null,
    "t": null
   },
@@ -1175,19 +1222,19 @@
    "t": "CHI"
   },
   "4017": {
-   "changed": "2026-11-11T15:02:09.076518+00:00",
+   "changed": "2026-11-11T21:45:38.431070+00:00",
    "entry": {
     "auto": true,
-    "dynastyAdj": 1.0,
+    "dynastyAdj": 1.05,
     "name": "Deshaun Watson",
-    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 7:02 AM PT Nov 11. Earlier: Listed questionable (concussion) for Week 10 as of Nov. 11 after missing Week 9. One unconfirmed report says Cleveland plans to return him to the starting job once he is cleared.",
-    "redraftAdj": 1.0,
+    "note": "Sleeper's depth chart now has him as CLE's starting QB as of 1:45 PM PT Nov 11.",
+    "redraftAdj": 1.2,
     "sleeperId": "4017",
     "status": null,
-    "tag": "injury"
+    "tag": "role_up"
    },
    "i": null,
-   "qb1": false,
+   "qb1": true,
    "t": "CLE"
   },
   "4034": {
@@ -1210,18 +1257,18 @@
    "t": "TB"
   },
   "4046": {
-   "changed": "2026-11-08T22:47:25.048089+00:00",
+   "changed": "2026-11-11T21:45:38.431070+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 1.0,
     "name": "Patrick Mahomes",
-    "note": "Sleeper now lists him questionable (elbow) as of 2:47 PM PT Nov 8.",
-    "redraftAdj": 0.98,
+    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 1:45 PM PT Nov 11. Earlier: Andy Reid called him day-to-day with a right (throwing) elbow strain/sprain after the Nov. 8 win over the Jets and described it as minor; Mahomes says he will follow his usual prep for Sunday at Atlanta. His Wednesday Nov. 11 practice participation had not been reported yet.",
+    "redraftAdj": 1.0,
     "sleeperId": "4046",
-    "status": "Questionable",
+    "status": null,
     "tag": "injury"
    },
-   "i": "Questionable",
+   "i": null,
    "qb1": true,
    "t": "KC"
   },
@@ -1302,8 +1349,18 @@
    "t": "DEN"
   },
   "5844": {
-   "changed": "2026-10-23T20:46:17.650166+00:00",
-   "i": null,
+   "changed": "2026-11-11T21:45:38.431070+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "T.J. Hockenson",
+    "note": "Sleeper now lists him questionable (wrist) as of 1:45 PM PT Nov 11.",
+    "redraftAdj": 0.98,
+    "sleeperId": "5844",
+    "status": "Questionable",
+    "tag": "injury"
+   },
+   "i": "Questionable",
    "qb1": null,
    "t": "MIN"
   },
@@ -1414,8 +1471,18 @@
    "t": "WAS"
   },
   "5947": {
-   "changed": "2026-11-04T21:01:37.211794+00:00",
-   "i": null,
+   "changed": "2026-11-11T21:45:38.431070+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Jakobi Meyers",
+    "note": "Sleeper now lists him questionable (ankle) as of 1:45 PM PT Nov 11.",
+    "redraftAdj": 0.98,
+    "sleeperId": "5947",
+    "status": "Questionable",
+    "tag": "injury"
+   },
+   "i": "Questionable",
    "qb1": null,
    "t": "JAX"
   },
@@ -1580,16 +1647,6 @@
   },
   "7526": {
    "changed": "2026-11-08T20:48:27.220189+00:00",
-   "entry": {
-    "auto": true,
-    "dynastyAdj": 1.0,
-    "name": "Jaylen Waddle",
-    "note": "Sleeper now lists him out (head) as of 12:48 PM PT Nov 8.",
-    "redraftAdj": 0.9,
-    "sleeperId": "7526",
-    "status": "Out",
-    "tag": "injury"
-   },
    "i": "Out",
    "qb1": null,
    "t": "DEN"
@@ -1608,8 +1665,18 @@
    "t": "NO"
   },
   "7547": {
-   "changed": "2026-11-08T16:49:26.073708+00:00",
-   "i": null,
+   "changed": "2026-11-11T21:45:38.431070+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Amon-Ra St. Brown",
+    "note": "Sleeper now lists him questionable (ribs) as of 1:45 PM PT Nov 11.",
+    "redraftAdj": 0.98,
+    "sleeperId": "7547",
+    "status": "Questionable",
+    "tag": "injury"
+   },
+   "i": "Questionable",
    "qb1": null,
    "t": "DET"
   },
@@ -1857,19 +1924,19 @@
    "t": "NYJ"
   },
   "8161": {
-   "changed": "2026-11-10T21:51:34.528567+00:00",
+   "changed": "2026-11-11T21:45:38.431070+00:00",
    "entry": {
     "auto": true,
-    "dynastyAdj": 0.97,
+    "dynastyAdj": 0.95,
     "name": "Malik Willis",
-    "note": "Sleeper now lists him on injured reserve (groin) as of 1:51 PM PT Nov 10. Earlier: Still listed questionable for Week 10 with the groin injury that hobbled him in the Nov. 8 19-9 loss to Detroit (4.82 half-PPR pts per Sleeper).",
-    "redraftAdj": 0.7,
+    "note": "Sleeper's depth chart now has him as MIA's backup QB as of 1:45 PM PT Nov 11.",
+    "redraftAdj": 0.8,
     "sleeperId": "8161",
     "status": "IR",
-    "tag": "injury"
+    "tag": "role_down"
    },
    "i": "IR",
-   "qb1": true,
+   "qb1": false,
    "t": "MIA"
   },
   "8167": {
@@ -1982,18 +2049,18 @@
    "t": "SEA"
   },
   "9493": {
-   "changed": "2026-11-11T09:06:37.549130+00:00",
+   "changed": "2026-11-11T21:45:38.431070+00:00",
    "entry": {
     "auto": true,
-    "dynastyAdj": 0.98,
+    "dynastyAdj": 0.97,
     "name": "Puka Nacua",
-    "note": "Sleeper now lists him doubtful (knee - mcl) as of 1:06 AM PT Nov 11. Earlier: Nacua hurt his knee on the Rams' final offensive snap of the Nov 8 win over Washington and had an MRI scheduled for Nov 9. As of the morning of Nov 10 no results have been reported; the Rams reportedly do not believe the ACL is torn.",
-    "redraftAdj": 0.85,
+    "note": "Sleeper now lists him out (knee - mcl) as of 1:45 PM PT Nov 11. Earlier: The MRI showed MCL and PCL sprains in his right knee plus turf toe, and Sean McVay said on Nov 9 that the Rams expect to place him on IR. He will miss at least four games; the ACL is not believed to be torn.",
+    "redraftAdj": 0.6,
     "sleeperId": "9493",
     "status": "Out",
     "tag": "injury"
    },
-   "i": "Doubtful",
+   "i": "Out",
    "qb1": null,
    "t": "LAR"
   },

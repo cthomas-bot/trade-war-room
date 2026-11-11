@@ -4,11 +4,12 @@
     {
       "sleeperId": "4046",
       "name": "Patrick Mahomes",
-      "note": "Andy Reid called him day-to-day with a right (throwing) elbow strain/sprain after the Nov. 8 win over the Jets and described it as minor; Mahomes says he will follow his usual prep for Sunday at Atlanta. His Wednesday Nov. 11 practice participation had not been reported yet.",
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 1:45 PM PT Nov 11. Earlier: Andy Reid called him day-to-day with a right (throwing) elbow strain/sprain after the Nov. 8 win over the Jets and described it as minor; Mahomes says he will follow his usual prep for Sunday at Atlanta. His Wednesday Nov. 11 practice participation had not been reported yet.",
       "tag": "injury",
-      "redraftAdj": 0.95,
+      "redraftAdj": 1.0,
       "dynastyAdj": 1.0,
-      "status": "Questionable"
+      "status": null,
+      "auto": true
     },
     {
       "sleeperId": "6797",
@@ -31,11 +32,12 @@
     {
       "sleeperId": "1166",
       "name": "Kirk Cousins",
-      "note": "Unconfirmed: Sleeper lists Cousins on Minnesota as of Nov 10 evening, but no trade report was found. Treat as unverified until a team announcement.",
-      "tag": "trade",
-      "redraftAdj": 0.9,
-      "dynastyAdj": 0.97,
-      "status": ""
+      "tag": "role_up",
+      "redraftAdj": 1.2,
+      "dynastyAdj": 1.05,
+      "status": "",
+      "auto": true,
+      "note": "Sleeper's depth chart now has him as MIN's starting QB as of 1:45 PM PT Nov 11."
     },
     {
       "sleeperId": "13269",
@@ -104,30 +106,32 @@
     {
       "sleeperId": "4017",
       "name": "Deshaun Watson",
-      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 7:02 AM PT Nov 11. Earlier: Listed questionable (concussion) for Week 10 as of Nov. 11 after missing Week 9. One unconfirmed report says Cleveland plans to return him to the starting job once he is cleared.",
-      "tag": "injury",
-      "redraftAdj": 1.0,
-      "dynastyAdj": 1.0,
+      "tag": "role_up",
+      "redraftAdj": 1.2,
+      "dynastyAdj": 1.05,
       "status": null,
-      "auto": true
+      "auto": true,
+      "note": "Sleeper's depth chart now has him as CLE's starting QB as of 1:45 PM PT Nov 11."
     },
     {
       "sleeperId": "12524",
       "name": "Shedeur Sanders",
-      "note": "Scored 22.68 half-PPR points starting Nov. 8 at New Orleans, but he could go back to the bench in Week 10 if Deshaun Watson clears concussion protocol. One unconfirmed report says Watson will reclaim the job.",
       "tag": "role_down",
-      "redraftAdj": 0.95,
-      "dynastyAdj": 1.02,
-      "status": ""
+      "redraftAdj": 0.8,
+      "dynastyAdj": 0.95,
+      "status": "",
+      "auto": true,
+      "note": "Sleeper's depth chart now has him as CLE's backup QB as of 1:45 PM PT Nov 11."
     },
     {
       "sleeperId": "8161",
       "name": "Malik Willis",
-      "note": "Miami moved him to injured reserve (groin) on Nov. 10, so he will miss at least the next four games.",
-      "tag": "injury",
-      "redraftAdj": 0.5,
-      "dynastyAdj": 0.97,
-      "status": "IR"
+      "tag": "role_down",
+      "redraftAdj": 0.8,
+      "dynastyAdj": 0.95,
+      "status": "IR",
+      "auto": true,
+      "note": "Sleeper's depth chart now has him as MIA's backup QB as of 1:45 PM PT Nov 11."
     },
     {
       "sleeperId": "11565",
@@ -574,20 +578,22 @@
     {
       "sleeperId": "11624",
       "name": "Xavier Worthy",
-      "note": "Sleeper lists Worthy questionable with a hamstring injury from Nov 8, and Andy Reid has reportedly called him day-to-day. KC's Nov 10 trade for Josh Downs adds competition for targets once he returns.",
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 1:45 PM PT Nov 11. Earlier: Sleeper lists Worthy questionable with a hamstring injury from Nov 8, and Andy Reid has reportedly called him day-to-day. KC's Nov 10 trade for Josh Downs adds competition for targets once he returns.",
       "tag": "injury",
-      "redraftAdj": 0.93,
+      "redraftAdj": 1.0,
       "dynastyAdj": 0.98,
-      "status": "Questionable"
+      "status": null,
+      "auto": true
     },
     {
       "sleeperId": "9493",
       "name": "Puka Nacua",
-      "note": "The MRI showed MCL and PCL sprains in his right knee plus turf toe, and Sean McVay said on Nov 9 that the Rams expect to place him on IR. He will miss at least four games; the ACL is not believed to be torn.",
+      "note": "Sleeper now lists him out (knee - mcl) as of 1:45 PM PT Nov 11. Earlier: The MRI showed MCL and PCL sprains in his right knee plus turf toe, and Sean McVay said on Nov 9 that the Rams expect to place him on IR. He will miss at least four games; the ACL is not believed to be torn.",
       "tag": "injury",
       "redraftAdj": 0.6,
       "dynastyAdj": 0.97,
-      "status": "Out"
+      "status": "Out",
+      "auto": true
     },
     {
       "sleeperId": "2216",
@@ -682,11 +688,12 @@
     {
       "sleeperId": "3321",
       "name": "Tyreek Hill",
-      "note": "Hill is still an unsigned free agent coming off ACL surgery, and no signing has been reported as of Nov 11.",
-      "tag": "role_down",
-      "redraftAdj": 0.75,
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 1:45 PM PT Nov 11. Earlier: Hill is still an unsigned free agent coming off ACL surgery, and no signing has been reported as of Nov 11.",
+      "tag": "injury",
+      "redraftAdj": 1.0,
       "dynastyAdj": 0.95,
-      "status": "Questionable"
+      "status": null,
+      "auto": true
     },
     {
       "sleeperId": "9997",
@@ -772,14 +779,14 @@
       "tag": "injury"
     },
     {
-      "auto": true,
-      "dynastyAdj": 1.0,
-      "name": "Jaylen Wright",
-      "note": "Sleeper now lists him questionable (quadriceps) as of 1:06 AM PT Nov 11.",
-      "redraftAdj": 0.98,
       "sleeperId": "11643",
-      "status": "Questionable",
-      "tag": "injury"
+      "name": "Jaylen Wright",
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 1:45 PM PT Nov 11.",
+      "tag": "injury",
+      "redraftAdj": 1.0,
+      "dynastyAdj": 1.0,
+      "status": null,
+      "auto": true
     },
     {
       "sleeperId": "12508",
@@ -902,14 +909,14 @@
       "tag": "injury"
     },
     {
-      "auto": true,
-      "dynastyAdj": 1.0,
-      "name": "Amon-Ra St. Brown",
-      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 8:49 AM PT Nov 8. Earlier: Listed questionable (ribs) for Sunday at Miami after limited practices all week, but reports as of Nov 6 say he is expected to play.",
-      "redraftAdj": 1.0,
       "sleeperId": "7547",
-      "status": null,
-      "tag": "injury"
+      "name": "Amon-Ra St. Brown",
+      "note": "Sleeper now lists him questionable (ribs) as of 1:45 PM PT Nov 11.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
+      "status": "Questionable",
+      "auto": true
     },
     {
       "auto": true,
@@ -940,7 +947,67 @@
       "dynastyAdj": 1.0,
       "status": "Questionable",
       "auto": true
+    },
+    {
+      "sleeperId": "10219",
+      "name": "Chris Rodriguez Jr.",
+      "note": "Sleeper now lists him questionable (hand) as of 1:45 PM PT Nov 11.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
+      "status": "Questionable",
+      "auto": true
+    },
+    {
+      "sleeperId": "12490",
+      "name": "Bhayshul Tuten",
+      "note": "Sleeper now lists him questionable (ankle) as of 1:45 PM PT Nov 11.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
+      "status": "Questionable",
+      "auto": true
+    },
+    {
+      "sleeperId": "13311",
+      "name": "Chris Bell",
+      "note": "Sleeper now lists him questionable (knee) as of 1:45 PM PT Nov 11.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
+      "status": "Questionable",
+      "auto": true
+    },
+    {
+      "sleeperId": "3163",
+      "name": "Jared Goff",
+      "note": "Sleeper now lists him questionable (chest) as of 1:45 PM PT Nov 11.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
+      "status": "Questionable",
+      "auto": true
+    },
+    {
+      "sleeperId": "5844",
+      "name": "T.J. Hockenson",
+      "note": "Sleeper now lists him questionable (wrist) as of 1:45 PM PT Nov 11.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
+      "status": "Questionable",
+      "auto": true
+    },
+    {
+      "sleeperId": "5947",
+      "name": "Jakobi Meyers",
+      "note": "Sleeper now lists him questionable (ankle) as of 1:45 PM PT Nov 11.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
+      "status": "Questionable",
+      "auto": true
     }
   ],
-  "statusChecked": "10:02 AM PT Nov 11"
+  "statusChecked": "1:45 PM PT Nov 11"
 }
