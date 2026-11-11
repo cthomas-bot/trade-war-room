@@ -102,7 +102,8 @@
    "floor": "LCB 2027 1st + our 2027 2nd (Mid)",
    "note_1106": "Cooling-off done; sendable today. Golden has no injury designation on his Sleeper card (Nov 6); 38 targets over Weeks 6-8 (reports.json, Nov 3). Value 4037. If not sent before Sunday, recheck his Week 9 game first.",
    "note_1109": "Recheck after Week 9: Golden had 10 catches on 10 targets for 164 yards, 27.4 pts on 49 snaps (Sleeper stats, Nov 9). Value rose 3986 -> 4347. Same offer (LCB 2027 1st + 2nd, ~5025) is now ~116%. Re-proposed Nov 9; owner yes needed again. LCB is less likely to sell after the big game.",
-   "note_1110": "Golden value up again to 4678. LCB 2027 1st + 2nd (~5025) is now ~107%. Sendable; needs owner yes."
+   "note_1110": "Golden value up again to 4678. LCB 2027 1st + 2nd (~5025) is now ~107%. Sendable; needs owner yes.",
+   "note_1111": "Golden value 5022 (was 4037 Nov 5): LCB 1st + 2nd (~5025) is now only ~100%. Likely needs more. Alternatives in #8."
   },
   {
    "date": "2026-11-05",
@@ -124,7 +125,8 @@
    "status": "proposed Nov 9 (cooling off; send no earlier than Nov 10)",
    "why": "Buy-low on a 23yo former 1st whose role shrank (W8 snaps: Hampton 18, Vidal 28, Mitchell 19; Sleeper stats + DraftSharks). Cap at ~115% of value; do not add a 2nd-round pick.",
    "note_1109": "Week 9: Hampton led LAC RBs with 13 carries for 60 yards on 29 snaps (Vidal 28 snaps/7 carries, Mitchell 18/7) per Sleeper stats Nov 9. Value 2775. Brown (2390) missed his second straight game, so BeeNyce may balk. Offer Brown + Cyrus Allen; walk if they want a 2nd.",
-   "note_1110": "Cooling off done. Hampton 2850; Brown 2492 (Out again) + Cyrus Allen 952 = ~121%. Sendable; needs owner yes."
+   "note_1110": "Cooling off done. Hampton 2850; Brown 2492 (Out again) + Cyrus Allen 952 = ~121%. Sendable; needs owner yes.",
+   "note_1111": "Hampton 2884, Brown 2314 (Q, knee). Brown + C. Allen ~3208 = ~111%."
   },
   {
    "date": "2026-11-07",
@@ -135,6 +137,31 @@
    "date": "2026-11-08",
    "type": "note",
    "note": "Game day: no new proposals. Golden (#6), Hockenson (#2), Hampton (#7) and Brown all play or sit today, so recheck Week 9 box scores Monday before anything is sent. No incoming trades and no roster changes."
+  },
+  {
+   "date": "2026-11-11",
+   "id": 8,
+   "type": "trade",
+   "partner": "LordCheeseButt",
+   "give": [
+    "LordCheeseButt 2027 1st",
+    "Josh Downs"
+   ],
+   "get": [
+    "Matthew Golden"
+   ],
+   "values": {
+    "give": "~3308 + 2180 = ~5488",
+    "get": 5022
+   },
+   "hole": "#1 true WR1 aged 25 or younger",
+   "status": "proposed (cooling off, send no earlier than Nov 12; recheck after TNF if either plays)",
+   "why": "Downs's value jumped after the Nov 10 trade to KC (1734 -> 2180), so he's a sell-high chip that keeps our 2nds. LCB gets its own 1st back plus a starting WR for a playoff push. Alternative: LCB 1st + BeeNyce 2028 1st (~5573)."
+  },
+  {
+   "date": "2026-11-11",
+   "type": "note",
+   "note": "Owner has added Kaleb Johnson (GB RB) to the roster; Jacobs needs finger surgery."
   }
  ]
 }
