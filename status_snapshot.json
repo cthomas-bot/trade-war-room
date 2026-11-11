@@ -1168,18 +1168,18 @@
    "t": "CHI"
   },
   "4017": {
-   "changed": "2026-11-11T09:06:37.549130+00:00",
+   "changed": "2026-11-11T15:02:09.076518+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 1.0,
     "name": "Deshaun Watson",
-    "note": "Sleeper now lists him questionable (concussion) as of 1:06 AM PT Nov 11. Earlier: Listed questionable for Week 10 (concussion) as of Nov. 9 after missing Week 9. A secondhand report says Cleveland has decided Watson will return as the starter, but that is not confirmed.",
-    "redraftAdj": 0.98,
+    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 7:02 AM PT Nov 11. Earlier: Listed questionable (concussion) for Week 10 as of Nov. 11 after missing Week 9. One unconfirmed report says Cleveland plans to return him to the starting job once he is cleared.",
+    "redraftAdj": 1.0,
     "sleeperId": "4017",
-    "status": "Questionable",
+    "status": null,
     "tag": "injury"
    },
-   "i": "Questionable",
+   "i": null,
    "qb1": false,
    "t": "CLE"
   },
