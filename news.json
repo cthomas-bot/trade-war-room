@@ -664,11 +664,12 @@
     {
       "sleeperId": "9502",
       "name": "Tank Dell",
-      "note": "Sleeper lists Dell questionable (hand) as of Nov 11. No practice detail has been reported yet.",
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 2:57 PM PT Nov 12. Earlier: Sleeper lists Dell questionable (hand) as of Nov 11. No practice detail has been reported yet.",
       "tag": "injury",
-      "redraftAdj": 0.97,
+      "redraftAdj": 1.0,
       "dynastyAdj": 1.0,
-      "status": "Questionable"
+      "status": null,
+      "auto": true
     },
     {
       "sleeperId": "11635",
@@ -953,5 +954,5 @@
       "auto": true
     }
   ],
-  "statusChecked": "1:56 PM PT Nov 12"
+  "statusChecked": "2:57 PM PT Nov 12"
 }

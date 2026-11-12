@@ -957,16 +957,6 @@
   },
   "13347": {
    "changed": "2026-11-09T22:55:51.717456+00:00",
-   "entry": {
-    "auto": true,
-    "dynastyAdj": 0.97,
-    "name": "Demond Claiborne",
-    "note": "Sleeper now lists him on injured reserve (knee) as of 2:55 PM PT Nov 9.",
-    "redraftAdj": 0.7,
-    "sleeperId": "13347",
-    "status": "IR",
-    "tag": "injury"
-   },
    "i": "IR",
    "qb1": null,
    "t": "MIN"
@@ -1767,16 +1757,6 @@
   },
   "8110": {
    "changed": "2026-11-09T22:55:51.717456+00:00",
-   "entry": {
-    "auto": true,
-    "dynastyAdj": 0.99,
-    "name": "Jake Ferguson",
-    "note": "Sleeper now lists him out (knee) as of 2:55 PM PT Nov 9.",
-    "redraftAdj": 0.9,
-    "sleeperId": "8110",
-    "status": "Out",
-    "tag": "injury"
-   },
    "i": "Out",
    "qb1": null,
    "t": "DAL"
@@ -2098,18 +2078,18 @@
    "t": "NE"
   },
   "9502": {
-   "changed": "2026-11-11T23:01:16.649674+00:00",
+   "changed": "2026-11-12T22:57:00.227365+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 1.0,
     "name": "Tank Dell",
-    "note": "Sleeper now lists him questionable (hand) as of 3:01 PM PT Nov 11.",
-    "redraftAdj": 0.98,
+    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 2:57 PM PT Nov 12. Earlier: Sleeper lists Dell questionable (hand) as of Nov 11. No practice detail has been reported yet.",
+    "redraftAdj": 1.0,
     "sleeperId": "9502",
-    "status": "Questionable",
+    "status": null,
     "tag": "injury"
    },
-   "i": "Questionable",
+   "i": null,
    "qb1": null,
    "t": "HOU"
   },
