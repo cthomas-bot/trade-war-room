@@ -636,11 +636,12 @@
     {
       "sleeperId": "8676",
       "name": "Rashid Shaheed",
-      "note": "Sleeper lists Shaheed questionable (knee) as of Nov 11 after he missed his second straight game in Week 9. No return date has been set.",
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 5:25 PM PT Nov 11. Earlier: Sleeper lists Shaheed questionable (knee) as of Nov 11 after he missed his second straight game in Week 9. No return date has been set.",
       "tag": "injury",
-      "redraftAdj": 0.97,
+      "redraftAdj": 1.0,
       "dynastyAdj": 1.0,
-      "status": "Questionable"
+      "status": null,
+      "auto": true
     },
     {
       "sleeperId": "11635",
@@ -1061,5 +1062,5 @@
       "auto": true
     }
   ],
-  "statusChecked": "3:56 PM PT Nov 11"
+  "statusChecked": "5:25 PM PT Nov 11"
 }

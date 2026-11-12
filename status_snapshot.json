@@ -527,16 +527,6 @@
   },
   "12514": {
    "changed": "2026-11-09T01:21:47.762207+00:00",
-   "entry": {
-    "auto": true,
-    "dynastyAdj": 1.0,
-    "name": "Emeka Egbuka",
-    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 5:21 PM PT Nov 8. Earlier: Listed questionable (foot) for Week 9 vs. Chicago despite full practices Thursday and Friday (Nov 5-6). Todd Bowles calls him a game-time decision after he missed the past two games.",
-    "redraftAdj": 1.0,
-    "sleeperId": "12514",
-    "status": null,
-    "tag": "injury"
-   },
    "i": null,
    "qb1": null,
    "t": "TB"
@@ -630,16 +620,6 @@
   },
   "12534": {
    "changed": "2026-11-09T01:21:47.762207+00:00",
-   "entry": {
-    "auto": true,
-    "dynastyAdj": 0.99,
-    "name": "Kyle Monangai",
-    "note": "Sleeper now lists him out (toe) as of 5:21 PM PT Nov 8. Earlier: Monangai (toe) is officially questionable for Sunday night, but Ian Rapoport reported Nov. 7 that he will not play in Week 9. He is expected back in Week 11 after Chicago's bye.",
-    "redraftAdj": 0.6,
-    "sleeperId": "12534",
-    "status": "Out",
-    "tag": "injury"
-   },
    "i": "Out",
    "qb1": null,
    "t": "CHI"
@@ -1584,16 +1564,6 @@
   },
   "6797": {
    "changed": "2026-11-09T01:21:47.762207+00:00",
-   "entry": {
-    "auto": true,
-    "dynastyAdj": 1.0,
-    "name": "Justin Herbert",
-    "note": "Sleeper now lists him questionable (finger) as of 5:21 PM PT Nov 8.",
-    "redraftAdj": 0.98,
-    "sleeperId": "6797",
-    "status": "Questionable",
-    "tag": "injury"
-   },
    "i": "Questionable",
    "qb1": true,
    "t": "LAC"
@@ -2016,18 +1986,18 @@
    "t": "MIN"
   },
   "8676": {
-   "changed": "2026-11-11T09:06:37.549130+00:00",
+   "changed": "2026-11-12T01:25:47.273171+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 1.0,
     "name": "Rashid Shaheed",
-    "note": "Sleeper now lists him questionable (knee) as of 1:06 AM PT Nov 11. Earlier: Shaheed (knee) missed his second straight game in Week 9, and no return date has been set as of Nov 10.",
-    "redraftAdj": 0.98,
+    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 5:25 PM PT Nov 11. Earlier: Sleeper lists Shaheed questionable (knee) as of Nov 11 after he missed his second straight game in Week 9. No return date has been set.",
+    "redraftAdj": 1.0,
     "sleeperId": "8676",
-    "status": "Questionable",
+    "status": null,
     "tag": "injury"
    },
-   "i": "Questionable",
+   "i": null,
    "qb1": null,
    "t": "SEA"
   },
