@@ -113,11 +113,12 @@
     {
       "sleeperId": "6797",
       "name": "Justin Herbert",
-      "note": "X-rays on his left (non-throwing) middle finger were negative, and he expects to play Week 10 MNF at Baltimore on Nov. 16. No practice participation had been reported as of Nov. 11.",
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 3:54 PM PT Nov 12. Earlier: X-rays on his left (non-throwing) middle finger were negative, and he expects to play Week 10 MNF at Baltimore on Nov. 16. No practice participation had been reported as of Nov. 11.",
       "tag": "injury",
-      "redraftAdj": 0.97,
+      "redraftAdj": 1.0,
       "dynastyAdj": 1.0,
-      "status": "Questionable"
+      "status": null,
+      "auto": true
     },
     {
       "sleeperId": "3257",
@@ -952,7 +953,27 @@
       "dynastyAdj": 1.0,
       "status": "Questionable",
       "auto": true
+    },
+    {
+      "sleeperId": "12509",
+      "name": "Tre' Harris",
+      "note": "Sleeper now lists him questionable (shoulder) as of 3:54 PM PT Nov 12.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
+      "status": "Questionable",
+      "auto": true
+    },
+    {
+      "sleeperId": "9511",
+      "name": "Keaton Mitchell",
+      "note": "Sleeper now lists him questionable (hip) as of 3:54 PM PT Nov 12.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
+      "status": "Questionable",
+      "auto": true
     }
   ],
-  "statusChecked": "2:57 PM PT Nov 12"
+  "statusChecked": "3:54 PM PT Nov 12"
 }

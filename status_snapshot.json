@@ -508,8 +508,18 @@
    "t": "NYG"
   },
   "12509": {
-   "changed": "2026-10-30T20:52:43.885967+00:00",
-   "i": null,
+   "changed": "2026-11-12T23:54:14.481144+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Tre' Harris",
+    "note": "Sleeper now lists him questionable (shoulder) as of 3:54 PM PT Nov 12.",
+    "redraftAdj": 0.98,
+    "sleeperId": "12509",
+    "status": "Questionable",
+    "tag": "injury"
+   },
+   "i": "Questionable",
    "qb1": null,
    "t": "LAC"
   },
@@ -1543,8 +1553,18 @@
    "t": "MIN"
   },
   "6797": {
-   "changed": "2026-11-09T01:21:47.762207+00:00",
-   "i": "Questionable",
+   "changed": "2026-11-12T23:54:14.481144+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Justin Herbert",
+    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 3:54 PM PT Nov 12. Earlier: X-rays on his left (non-throwing) middle finger were negative, and he expects to play Week 10 MNF at Baltimore on Nov. 16. No practice participation had been reported as of Nov. 11.",
+    "redraftAdj": 1.0,
+    "sleeperId": "6797",
+    "status": null,
+    "tag": "injury"
+   },
+   "i": null,
    "qb1": true,
    "t": "LAC"
   },
@@ -2117,9 +2137,18 @@
    "t": "ATL"
   },
   "9511": {
-   "changed": null,
-   "entry": null,
-   "i": null,
+   "changed": "2026-11-12T23:54:14.481144+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Keaton Mitchell",
+    "note": "Sleeper now lists him questionable (hip) as of 3:54 PM PT Nov 12.",
+    "redraftAdj": 0.98,
+    "sleeperId": "9511",
+    "status": "Questionable",
+    "tag": "injury"
+   },
+   "i": "Questionable",
    "qb1": null,
    "t": "LAC"
   },
