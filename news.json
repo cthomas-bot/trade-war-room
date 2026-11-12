@@ -94,11 +94,12 @@
     {
       "sleeperId": "3163",
       "name": "Jared Goff",
-      "note": "He was limited Wednesday, Nov. 11 with a chest injury, his first appearance on the practice report this season. Reports see no sign he will miss Sunday's game vs. New England in Munich, but watch Thursday's report.",
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 1:56 PM PT Nov 12. Earlier: He was limited Wednesday, Nov. 11 with a chest injury, his first appearance on the practice report this season. Reports see no sign he will miss Sunday's game vs. New England in Munich, but watch Thursday's report.",
       "tag": "injury",
-      "redraftAdj": 0.97,
+      "redraftAdj": 1.0,
       "dynastyAdj": 1.0,
-      "status": "Questionable"
+      "status": null,
+      "auto": true
     },
     {
       "sleeperId": "4046",
@@ -184,11 +185,12 @@
     {
       "sleeperId": "7611",
       "name": "Rhamondre Stevenson",
-      "note": "Stevenson (knee) did not practice Nov. 11 and is listed doubtful for Week 10 vs. Detroit in Munich. One report says he could miss multiple weeks.",
+      "note": "Sleeper now lists him questionable (knee) as of 1:56 PM PT Nov 12. Earlier: Stevenson (knee) did not practice Nov. 11 and is listed doubtful for Week 10 vs. Detroit in Munich. One report says he could miss multiple weeks.",
       "tag": "injury",
-      "redraftAdj": 0.75,
-      "dynastyAdj": 0.98,
-      "status": "Doubtful"
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
+      "status": "Questionable",
+      "auto": true
     },
     {
       "sleeperId": "12529",
@@ -247,11 +249,12 @@
     {
       "sleeperId": "4035",
       "name": "Alvin Kamara",
-      "note": "Kamara (back) did not practice Nov. 11 and is listed questionable for Week 10.",
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 1:56 PM PT Nov 12. Earlier: Kamara (back) did not practice Nov. 11 and is listed questionable for Week 10.",
       "tag": "injury",
-      "redraftAdj": 0.88,
+      "redraftAdj": 1.0,
       "dynastyAdj": 0.99,
-      "status": "Questionable"
+      "status": null,
+      "auto": true
     },
     {
       "sleeperId": "11579",
@@ -938,7 +941,17 @@
       "sleeperId": "3321",
       "status": null,
       "tag": "injury"
+    },
+    {
+      "sleeperId": "5967",
+      "name": "Tony Pollard",
+      "note": "Sleeper now lists him questionable (finger) as of 1:56 PM PT Nov 12.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
+      "status": "Questionable",
+      "auto": true
     }
   ],
-  "statusChecked": "7:06 AM PT Nov 12"
+  "statusChecked": "1:56 PM PT Nov 12"
 }

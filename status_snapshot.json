@@ -1144,18 +1144,18 @@
    "t": "CAR"
   },
   "3163": {
-   "changed": "2026-11-11T21:45:38.431070+00:00",
+   "changed": "2026-11-12T21:56:55.729955+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 1.0,
     "name": "Jared Goff",
-    "note": "Sleeper now lists him questionable (chest) as of 1:45 PM PT Nov 11.",
-    "redraftAdj": 0.98,
+    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 1:56 PM PT Nov 12. Earlier: He was limited Wednesday, Nov. 11 with a chest injury, his first appearance on the practice report this season. Reports see no sign he will miss Sunday's game vs. New England in Munich, but watch Thursday's report.",
+    "redraftAdj": 1.0,
     "sleeperId": "3163",
-    "status": "Questionable",
+    "status": null,
     "tag": "injury"
    },
-   "i": "Questionable",
+   "i": null,
    "qb1": true,
    "t": "DET"
   },
@@ -1254,18 +1254,18 @@
    "t": "SF"
   },
   "4035": {
-   "changed": "2026-11-11T23:01:16.649674+00:00",
+   "changed": "2026-11-12T21:56:55.729955+00:00",
    "entry": {
     "auto": true,
-    "dynastyAdj": 1.0,
+    "dynastyAdj": 0.99,
     "name": "Alvin Kamara",
-    "note": "Sleeper now lists him questionable (back) as of 3:01 PM PT Nov 11.",
-    "redraftAdj": 0.98,
+    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 1:56 PM PT Nov 12. Earlier: Kamara (back) did not practice Nov. 11 and is listed questionable for Week 10.",
+    "redraftAdj": 1.0,
     "sleeperId": "4035",
-    "status": "Questionable",
+    "status": null,
     "tag": "injury"
    },
-   "i": "Questionable",
+   "i": null,
    "qb1": null,
    "t": "NO"
   },
@@ -1408,16 +1408,6 @@
   },
   "5850": {
    "changed": "2026-11-09T21:56:50.246842+00:00",
-   "entry": {
-    "auto": true,
-    "dynastyAdj": 0.99,
-    "name": "Josh Jacobs",
-    "note": "Sleeper now lists him out (finger) as of 1:56 PM PT Nov 9. Earlier: Jacobs fractured the ring finger on his right hand in the first quarter of the Nov. 8 win over New England and did not return, finishing with 4 carries for 5 yards. LaFleur hopes to find a way for him to play with it, and Jacobs said the swelling has gone down. One outlet projects him to play Week 10 vs. Minnesota with protection, but that timeline is not confirmed.",
-    "redraftAdj": 0.85,
-    "sleeperId": "5850",
-    "status": "Out",
-    "tag": "injury"
-   },
    "i": "Out",
    "qb1": null,
    "t": "GB"
@@ -1507,8 +1497,18 @@
    "t": "JAX"
   },
   "5967": {
-   "changed": "2026-10-14T21:43:53.279007+00:00",
-   "i": null,
+   "changed": "2026-11-12T21:56:55.729955+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Tony Pollard",
+    "note": "Sleeper now lists him questionable (finger) as of 1:56 PM PT Nov 12.",
+    "redraftAdj": 0.98,
+    "sleeperId": "5967",
+    "status": "Questionable",
+    "tag": "injury"
+   },
+   "i": "Questionable",
    "qb1": null,
    "t": "TEN"
   },
@@ -1750,18 +1750,18 @@
    "t": "PIT"
   },
   "7611": {
-   "changed": "2026-11-11T09:06:37.549130+00:00",
+   "changed": "2026-11-12T21:56:55.729955+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 1.0,
     "name": "Rhamondre Stevenson",
-    "note": "Sleeper now lists him doubtful (knee) as of 1:06 AM PT Nov 11. Earlier: Stevenson left the Nov. 8 loss at Green Bay in the third quarter with a knee injury after 38 snaps and 13.3 half-PPR points. Sleeper lists him as out, and as of the morning of Nov. 10 no MRI result or timeline had been reported.",
-    "redraftAdj": 0.93,
+    "note": "Sleeper now lists him questionable (knee) as of 1:56 PM PT Nov 12. Earlier: Stevenson (knee) did not practice Nov. 11 and is listed doubtful for Week 10 vs. Detroit in Munich. One report says he could miss multiple weeks.",
+    "redraftAdj": 0.98,
     "sleeperId": "7611",
-    "status": "Out",
+    "status": "Questionable",
     "tag": "injury"
    },
-   "i": "Doubtful",
+   "i": "Questionable",
    "qb1": null,
    "t": "NE"
   },
