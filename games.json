@@ -1,7 +1,7 @@
 {
  "season": "2026",
  "week": 10,
- "updated": "2026-11-12 8:40 PM PT",
+ "updated": "2026-11-12 11:58 PM PT",
  "games": [
   {
    "id": "401873052",
@@ -12,15 +12,7 @@
    "homeScore": "21",
    "awayScore": "24",
    "venue": "MetLife Stadium",
-   "tv": "Prime Video",
-   "weather": {
-    "roof": "open",
-    "temp": 47.8,
-    "precip": 72,
-    "code": 55,
-    "wind": 9.8,
-    "night": true
-   }
+   "tv": "Prime Video"
   },
   {
    "id": "401873053",
@@ -66,8 +58,8 @@
     "roof": "retract",
     "temp": 55.7,
     "precip": 0,
-    "code": 2,
-    "wind": 1.9,
+    "code": 0,
+    "wind": 2.1,
     "night": false
    }
   },
@@ -91,10 +83,10 @@
    "awayImplied": 22.5,
    "weather": {
     "roof": "open",
-    "temp": 46.3,
+    "temp": 46.7,
     "precip": 34,
     "code": 51,
-    "wind": 12.8,
+    "wind": 11.7,
     "night": false
    }
   },
@@ -118,10 +110,10 @@
    "awayImplied": 19.2,
    "weather": {
     "roof": "open",
-    "temp": 42.5,
+    "temp": 43.5,
     "precip": 0,
     "code": 0,
-    "wind": 3.4,
+    "wind": 2.8,
     "night": false
    }
   },
@@ -145,10 +137,10 @@
    "awayImplied": 28.5,
    "weather": {
     "roof": "open",
-    "temp": 52.9,
+    "temp": 53.0,
     "precip": 0,
-    "code": 2,
-    "wind": 4.9,
+    "code": 3,
+    "wind": 5.0,
     "night": false
    }
   },
@@ -172,10 +164,10 @@
    "awayImplied": 17.5,
    "weather": {
     "roof": "retract",
-    "temp": 49.3,
+    "temp": 50.3,
     "precip": 0,
     "code": 0,
-    "wind": 4.3,
+    "wind": 3.2,
     "night": false
    }
   },
@@ -221,10 +213,10 @@
    "awayImplied": 29.5,
    "weather": {
     "roof": "open",
-    "temp": 46.5,
+    "temp": 49.1,
     "precip": 0,
-    "code": 2,
-    "wind": 14.9,
+    "code": 0,
+    "wind": 13.6,
     "night": false
    }
   },
@@ -270,10 +262,10 @@
    "awayImplied": 24.5,
    "weather": {
     "roof": "retract",
-    "temp": 71.2,
+    "temp": 72.2,
     "precip": 0,
     "code": 0,
-    "wind": 2.4,
+    "wind": 2.5,
     "night": false
    }
   },
@@ -297,10 +289,10 @@
    "awayImplied": 29.5,
    "weather": {
     "roof": "retract",
-    "temp": 48.8,
+    "temp": 47.7,
     "precip": 60,
-    "code": 3,
-    "wind": 13.3,
+    "code": 51,
+    "wind": 13.8,
     "night": false
    }
   },
@@ -324,10 +316,10 @@
    "awayImplied": 23.0,
    "weather": {
     "roof": "open",
-    "temp": 46.2,
+    "temp": 45.3,
     "precip": 0,
     "code": 3,
-    "wind": 3.6,
+    "wind": 3.8,
     "night": true
    }
   },
@@ -351,10 +343,10 @@
    "awayImplied": 17.0,
    "weather": {
     "roof": "open",
-    "temp": 46.2,
+    "temp": 48.3,
     "precip": 0,
     "code": 0,
-    "wind": 5.8,
+    "wind": 3.8,
     "night": true
    }
   }
@@ -2178,5 +2170,8 @@
    "std": 6.33,
    "opp": "BAL"
   }
- }
+ },
+ "errors": [
+  "weather NYG: <urlopen error _ssl.c:994: The handshake operation timed out>"
+ ]
 }
