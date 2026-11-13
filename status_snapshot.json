@@ -1189,9 +1189,18 @@
    "t": "BAL"
   },
   "3271": {
-   "changed": null,
-   "entry": null,
-   "i": null,
+   "changed": "2026-11-13T01:22:29.424339+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Tyler Higbee",
+    "note": "Sleeper now lists him questionable (illness) as of 5:22 PM PT Nov 12.",
+    "redraftAdj": 0.98,
+    "sleeperId": "3271",
+    "status": "Questionable",
+    "tag": "injury"
+   },
+   "i": "Questionable",
    "qb1": null,
    "t": "LAR"
   },
@@ -1734,8 +1743,18 @@
    "t": "HOU"
   },
   "7571": {
-   "changed": "2026-10-22T21:43:18.122840+00:00",
-   "i": null,
+   "changed": "2026-11-13T01:22:29.424339+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Rashod Bateman",
+    "note": "Sleeper now lists him questionable (calf) as of 5:22 PM PT Nov 12.",
+    "redraftAdj": 0.98,
+    "sleeperId": "7571",
+    "status": "Questionable",
+    "tag": "injury"
+   },
+   "i": "Questionable",
    "qb1": null,
    "t": "BAL"
   },
@@ -2059,18 +2078,18 @@
    "t": "SEA"
   },
   "9493": {
-   "changed": "2026-11-11T21:45:38.431070+00:00",
+   "changed": "2026-11-13T01:22:29.424339+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 0.97,
     "name": "Puka Nacua",
-    "note": "Sleeper now lists him out (knee - mcl) as of 1:45 PM PT Nov 11. Earlier: The MRI showed MCL and PCL sprains in his right knee plus turf toe, and Sean McVay said on Nov 9 that the Rams expect to place him on IR. He will miss at least four games; the ACL is not believed to be torn.",
-    "redraftAdj": 0.6,
+    "note": "Sleeper now lists him on injured reserve (knee - mcl) as of 5:22 PM PT Nov 12. Earlier: Nacua (MCL/PCL sprains, turf toe) did not practice Nov 11 and is expected on IR. With the Rams' Week 11 bye, Forbes reports Week 15 is his earliest return.",
+    "redraftAdj": 0.55,
     "sleeperId": "9493",
-    "status": "Out",
+    "status": "IR",
     "tag": "injury"
    },
-   "i": "Out",
+   "i": "IR",
    "qb1": null,
    "t": "LAR"
   },

@@ -629,11 +629,12 @@
     {
       "sleeperId": "9493",
       "name": "Puka Nacua",
-      "note": "Nacua (MCL/PCL sprains, turf toe) did not practice Nov 11 and is expected on IR. With the Rams' Week 11 bye, Forbes reports Week 15 is his earliest return.",
+      "note": "Sleeper now lists him on injured reserve (knee - mcl) as of 5:22 PM PT Nov 12. Earlier: Nacua (MCL/PCL sprains, turf toe) did not practice Nov 11 and is expected on IR. With the Rams' Week 11 bye, Forbes reports Week 15 is his earliest return.",
       "tag": "injury",
       "redraftAdj": 0.55,
       "dynastyAdj": 0.97,
-      "status": "Out"
+      "status": "IR",
+      "auto": true
     },
     {
       "sleeperId": "8676",
@@ -973,7 +974,27 @@
       "dynastyAdj": 1.0,
       "status": "Questionable",
       "auto": true
+    },
+    {
+      "sleeperId": "3271",
+      "name": "Tyler Higbee",
+      "note": "Sleeper now lists him questionable (illness) as of 5:22 PM PT Nov 12.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
+      "status": "Questionable",
+      "auto": true
+    },
+    {
+      "sleeperId": "7571",
+      "name": "Rashod Bateman",
+      "note": "Sleeper now lists him questionable (calf) as of 5:22 PM PT Nov 12.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
+      "status": "Questionable",
+      "auto": true
     }
   ],
-  "statusChecked": "3:54 PM PT Nov 12"
+  "statusChecked": "5:22 PM PT Nov 12"
 }
