@@ -8,18 +8,18 @@
    "t": "LV"
   },
   "10219": {
-   "changed": "2026-11-11T21:45:38.431070+00:00",
+   "changed": "2026-11-14T01:27:19.760674+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 1.0,
     "name": "Chris Rodriguez Jr.",
-    "note": "Sleeper now lists him questionable (hand) as of 1:45 PM PT Nov 11.",
-    "redraftAdj": 0.98,
+    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 5:27 PM PT Nov 13. Earlier: Rodriguez (hand) is listed questionable for Week 10 on Sleeper as of Nov. 11. He played through the hand issue in Week 9 and scored a TD.",
+    "redraftAdj": 1.0,
     "sleeperId": "10219",
-    "status": "Questionable",
+    "status": null,
     "tag": "injury"
    },
-   "i": "Questionable",
+   "i": null,
    "qb1": null,
    "t": "JAX"
   },
@@ -31,33 +31,23 @@
   },
   "10232": {
    "changed": "2026-11-10T22:53:41.937442+00:00",
-   "entry": {
-    "auto": true,
-    "dynastyAdj": 0.97,
-    "name": "Michael Wilson",
-    "note": "Sleeper now lists him on injured reserve (neck) as of 2:53 PM PT Nov 10. Earlier: Sleeper has listed Wilson out (neck) since Nov 9, after he played through broken ribs in Week 9 (44 snaps, 9.0 half-PPR points). His Week 10 availability is in doubt.",
-    "redraftAdj": 0.7,
-    "sleeperId": "10232",
-    "status": "IR",
-    "tag": "injury"
-   },
    "i": "IR",
    "qb1": null,
    "t": "ARI"
   },
   "10236": {
-   "changed": "2026-11-11T23:01:16.649674+00:00",
+   "changed": "2026-11-14T01:27:19.760674+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 1.0,
     "name": "Dalton Kincaid",
-    "note": "Sleeper now lists him questionable (ankle) as of 3:01 PM PT Nov 11.",
-    "redraftAdj": 0.98,
+    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 5:27 PM PT Nov 13. Earlier: Kincaid (ankle) was limited at practice again on Thursday, Nov 12, matching Wednesday. He played through the injury in Week 9 and still looks on track for Sunday at the Jets.",
+    "redraftAdj": 1.0,
     "sleeperId": "10236",
-    "status": "Questionable",
+    "status": null,
     "tag": "injury"
    },
-   "i": "Questionable",
+   "i": null,
    "qb1": null,
    "t": "BUF"
   },
@@ -231,24 +221,34 @@
    "t": "KC"
   },
   "11625": {
-   "changed": "2026-10-23T20:46:17.650166+00:00",
-   "i": null,
-   "qb1": null,
-   "t": "NYJ"
-  },
-  "11628": {
-   "changed": "2026-11-11T23:01:16.649674+00:00",
+   "changed": "2026-11-14T01:27:19.760674+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 1.0,
-    "name": "Marvin Harrison Jr.",
-    "note": "Sleeper now lists him questionable (hamstring) as of 3:01 PM PT Nov 11.",
+    "name": "Adonai Mitchell",
+    "note": "Sleeper now lists him questionable (knee) as of 5:27 PM PT Nov 13. Earlier: Mitchell played 56 snaps at Kansas City on Nov 8 with Garrett Wilson out. Wilson remains in the concussion protocol as of Nov 12, so Mitchell is still the Jets' lead receiver for now.",
     "redraftAdj": 0.98,
-    "sleeperId": "11628",
+    "sleeperId": "11625",
     "status": "Questionable",
     "tag": "injury"
    },
    "i": "Questionable",
+   "qb1": null,
+   "t": "NYJ"
+  },
+  "11628": {
+   "changed": "2026-11-14T01:27:19.760674+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Marvin Harrison Jr.",
+    "note": "Sleeper now lists him out (hamstring) as of 5:27 PM PT Nov 13. Earlier: Harrison (hamstring) was limited in practice Nov 11 and is questionable for Week 10 vs. Cleveland. He has six catches on 11 targets for 60 yards and a score in three games with Houston.",
+    "redraftAdj": 0.9,
+    "sleeperId": "11628",
+    "status": "Out",
+    "tag": "injury"
+   },
+   "i": "Out",
    "qb1": null,
    "t": "HOU"
   },
@@ -361,18 +361,18 @@
    "t": "CLE"
   },
   "12474": {
-   "changed": "2026-11-11T23:01:16.649674+00:00",
+   "changed": "2026-11-14T01:27:19.760674+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 1.0,
     "name": "Woody Marks",
-    "note": "Sleeper now lists him questionable (knee) as of 3:01 PM PT Nov 11. Earlier: Marks has led Houston's backfield (46 snaps on Nov. 8), but David Montgomery (groin) was upgraded to questionable on Nov. 11 and could cut into his work in Week 10.",
-    "redraftAdj": 0.95,
+    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 5:27 PM PT Nov 13. Earlier: Marks (knee) was limited in practice Nov. 11 and is questionable for Week 10 at Cleveland. If he plays, he should remain Houston's lead back while David Montgomery (groin) stays sidelined.",
+    "redraftAdj": 1.0,
     "sleeperId": "12474",
-    "status": "Questionable",
+    "status": null,
     "tag": "injury"
    },
-   "i": "Questionable",
+   "i": null,
    "qb1": null,
    "t": "HOU"
   },
@@ -469,18 +469,18 @@
    "t": "GB"
   },
   "12506": {
-   "changed": "2026-11-11T23:01:16.649674+00:00",
+   "changed": "2026-11-14T01:27:19.760674+00:00",
    "entry": {
     "auto": true,
-    "dynastyAdj": 1.0,
+    "dynastyAdj": 0.99,
     "name": "Harold Fannin Jr.",
-    "note": "Sleeper now lists him questionable (groin) as of 3:01 PM PT Nov 11.",
-    "redraftAdj": 0.98,
+    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 5:27 PM PT Nov 13. Earlier: Fannin (groin) was limited in practice again on Thursday, Nov 12, ahead of Sunday's game vs. Houston. It is his second straight week managing the groin issue.",
+    "redraftAdj": 1.0,
     "sleeperId": "12506",
-    "status": "Questionable",
+    "status": null,
     "tag": "injury"
    },
-   "i": "Questionable",
+   "i": null,
    "qb1": null,
    "t": "CLE"
   },
@@ -508,18 +508,18 @@
    "t": "NYG"
   },
   "12509": {
-   "changed": "2026-11-12T23:54:14.481144+00:00",
+   "changed": "2026-11-14T01:27:19.760674+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 1.0,
     "name": "Tre' Harris",
-    "note": "Sleeper now lists him questionable (shoulder) as of 3:54 PM PT Nov 12.",
-    "redraftAdj": 0.98,
+    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 5:27 PM PT Nov 13. Earlier: Harris is listed questionable (shoulder) as of Nov 12 ahead of the Chargers' Monday night game vs. Baltimore.",
+    "redraftAdj": 1.0,
     "sleeperId": "12509",
-    "status": "Questionable",
+    "status": null,
     "tag": "injury"
    },
-   "i": "Questionable",
+   "i": null,
    "qb1": null,
    "t": "LAC"
   },
@@ -656,16 +656,6 @@
   },
   "13269": {
    "changed": "2026-11-10T20:56:27.515452+00:00",
-   "entry": {
-    "auto": true,
-    "dynastyAdj": 1.05,
-    "name": "Fernando Mendoza",
-    "note": "Sleeper's depth chart now has him as LV's starting QB as of 12:56 PM PT Nov 10.",
-    "redraftAdj": 1.2,
-    "sleeperId": "13269",
-    "status": null,
-    "tag": "role_up"
-   },
    "i": null,
    "qb1": true,
    "t": "LV"
@@ -710,18 +700,18 @@
    "t": "LAR"
   },
   "13276": {
-   "changed": "2026-11-13T20:29:41.047388+00:00",
+   "changed": "2026-11-14T01:27:19.760674+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 1.0,
     "name": "Omar Cooper Jr.",
-    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 12:29 PM PT Nov 13. Earlier: Cooper re-aggravated his ankle but was limited in practice Nov 11 and is reportedly on track to play against Buffalo on Sunday, Nov 15.",
-    "redraftAdj": 1.0,
+    "note": "Sleeper now lists him questionable (ankle) as of 5:27 PM PT Nov 13.",
+    "redraftAdj": 0.98,
     "sleeperId": "13276",
-    "status": null,
+    "status": "Questionable",
     "tag": "injury"
    },
-   "i": null,
+   "i": "Questionable",
    "qb1": null,
    "t": "NYJ"
   },
@@ -1099,18 +1089,18 @@
    "t": "LAR"
   },
   "2216": {
-   "changed": "2026-11-11T09:06:37.549130+00:00",
+   "changed": "2026-11-14T01:27:19.760674+00:00",
    "entry": {
     "auto": true,
-    "dynastyAdj": 1.0,
+    "dynastyAdj": 0.97,
     "name": "Mike Evans",
-    "note": "Sleeper now lists him questionable (achilles) as of 1:06 AM PT Nov 11. Earlier: Evans (ribs/Achilles) missed the 49ers' Week 9 win on Nov 8 and is still listed out on Sleeper. No return timeline has been reported.",
-    "redraftAdj": 0.98,
+    "note": "Sleeper now lists him out (achilles) as of 5:27 PM PT Nov 13. Earlier: Evans (right Achilles tendinitis) is not trending toward a Week 10 return; reports say he is not expected to be ready for Sunday's Nov 15 game at Dallas, and Mike Garafolo called him questionable at best.",
+    "redraftAdj": 0.6,
     "sleeperId": "2216",
-    "status": "Questionable",
+    "status": "Out",
     "tag": "injury"
    },
-   "i": "Questionable",
+   "i": "Out",
    "qb1": null,
    "t": "SF"
   },
@@ -1179,18 +1169,18 @@
    "t": "BAL"
   },
   "3271": {
-   "changed": "2026-11-13T01:22:29.424339+00:00",
+   "changed": "2026-11-14T01:27:19.760674+00:00",
    "entry": {
     "auto": true,
-    "dynastyAdj": 1.0,
+    "dynastyAdj": 0.99,
     "name": "Tyler Higbee",
-    "note": "Sleeper now lists him questionable (illness) as of 5:22 PM PT Nov 12.",
-    "redraftAdj": 0.98,
+    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 5:27 PM PT Nov 13. Earlier: Higbee was added to the Rams' injury report with an illness and did not practice Thursday, Nov 12. Davis Allen was also downgraded to DNP and Colby Parkinson (ribs) was limited, so the Rams' TE room is in flux.",
+    "redraftAdj": 1.0,
     "sleeperId": "3271",
-    "status": "Questionable",
+    "status": null,
     "tag": "injury"
    },
-   "i": "Questionable",
+   "i": null,
    "qb1": null,
    "t": "LAR"
   },
@@ -1362,18 +1352,18 @@
    "t": "DEN"
   },
   "5844": {
-   "changed": "2026-11-11T21:45:38.431070+00:00",
+   "changed": "2026-11-14T01:27:19.760674+00:00",
    "entry": {
     "auto": true,
-    "dynastyAdj": 1.0,
+    "dynastyAdj": 0.99,
     "name": "T.J. Hockenson",
-    "note": "Sleeper now lists him questionable (wrist) as of 1:45 PM PT Nov 11.",
-    "redraftAdj": 0.98,
+    "note": "Sleeper now lists him out (wrist) as of 5:27 PM PT Nov 13. Earlier: Hockenson (wrist/chest) did not practice again on Thursday, Nov 12, giving him back-to-back DNPs to open Week 10 prep. His availability for Sunday at Green Bay hinges on Friday's final report.",
+    "redraftAdj": 0.85,
     "sleeperId": "5844",
-    "status": "Questionable",
+    "status": "Out",
     "tag": "injury"
    },
-   "i": "Questionable",
+   "i": "Out",
    "qb1": null,
    "t": "MIN"
   },
@@ -1384,18 +1374,18 @@
    "t": "PIT"
   },
   "5849": {
-   "changed": "2026-11-11T09:06:37.549130+00:00",
+   "changed": "2026-11-14T01:27:19.760674+00:00",
    "entry": {
     "auto": true,
-    "dynastyAdj": 1.0,
+    "dynastyAdj": 0.93,
     "name": "Kyler Murray",
-    "note": "Sleeper now lists him doubtful (hamstring) as of 1:06 AM PT Nov 11. Earlier: Missed the Nov. 9 loss to Buffalo with a Grade 2 hamstring strain and remains week to week. After Carson Wentz was benched, Minnesota is weighing a QB trade before the Nov. 10 deadline, but no deal was reported as close.",
-    "redraftAdj": 0.93,
+    "note": "Sleeper now lists him out (hamstring) as of 5:27 PM PT Nov 13. Earlier: His Grade 2 hamstring strain has him week-to-week, and as of Nov. 12 he is not expected to play Sunday at Green Bay. O'Connell said he doesn't think you can hold a QB competition in-season, so Murray is in line for a reserve role behind Kirk Cousins.",
+    "redraftAdj": 0.4,
     "sleeperId": "5849",
     "status": "Out",
     "tag": "injury"
    },
-   "i": "Doubtful",
+   "i": "Out",
    "qb1": false,
    "t": "MIN"
   },
@@ -1406,9 +1396,18 @@
    "t": "GB"
   },
   "5854": {
-   "changed": null,
-   "entry": null,
-   "i": "Questionable",
+   "changed": "2026-11-14T01:27:19.760674+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Drew Lock",
+    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 5:27 PM PT Nov 13. Earlier: Mike Macdonald said tests on his oblique came back good and that he expects Lock to start Sunday at Las Vegas with Sam Darnold out. He has been limited all week with elbow/oblique issues and carries a questionable tag.",
+    "redraftAdj": 1.0,
+    "sleeperId": "5854",
+    "status": null,
+    "tag": "injury"
+   },
+   "i": null,
    "qb1": true,
    "t": "SEA"
   },
@@ -1436,18 +1435,18 @@
    "t": "IND"
   },
   "5872": {
-   "changed": "2026-11-11T09:06:37.549130+00:00",
+   "changed": "2026-11-14T01:27:19.760674+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 1.0,
     "name": "Deebo Samuel Sr.",
-    "note": "Sleeper now lists him questionable (hamstring) as of 1:06 AM PT Nov 11. Earlier: Samuel (hamstring) sat out the Nov 8 game vs. Las Vegas. His Week 10 status is unclear.",
-    "redraftAdj": 0.98,
+    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 5:27 PM PT Nov 13. Earlier: Samuel (hamstring) is questionable after missing three games, and no confirmed Week 10 practice report surfaced as of Nov 13. SF also added Keenan Allen on Nov 10, which crowds his target share when he returns.",
+    "redraftAdj": 1.0,
     "sleeperId": "5872",
-    "status": "Questionable",
+    "status": null,
     "tag": "injury"
    },
-   "i": "Questionable",
+   "i": null,
    "qb1": null,
    "t": "SF"
   },
@@ -1490,18 +1489,18 @@
    "t": "JAX"
   },
   "5967": {
-   "changed": "2026-11-12T21:56:55.729955+00:00",
+   "changed": "2026-11-14T01:27:19.760674+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 1.0,
     "name": "Tony Pollard",
-    "note": "Sleeper now lists him questionable (finger) as of 1:56 PM PT Nov 12.",
-    "redraftAdj": 0.98,
+    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 5:27 PM PT Nov 13. Earlier: Pollard (finger) was added to the injury report and listed questionable for Week 10 on Sleeper as of Nov. 12.",
+    "redraftAdj": 1.0,
     "sleeperId": "5967",
-    "status": "Questionable",
+    "status": null,
     "tag": "injury"
    },
-   "i": "Questionable",
+   "i": null,
    "qb1": null,
    "t": "TEN"
   },
@@ -1637,18 +1636,18 @@
    "t": "PIT"
   },
   "7049": {
-   "changed": "2026-11-11T09:06:37.549130+00:00",
+   "changed": "2026-11-14T01:27:19.760674+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 1.0,
     "name": "Jauan Jennings",
-    "note": "Sleeper now lists him questionable (calf) as of 1:06 AM PT Nov 11. Earlier: Jennings (calf) was out for Week 9. He declined an agreed trade back to San Francisco before the Nov 10 deadline and remains a Viking for now.",
-    "redraftAdj": 0.98,
+    "note": "Sleeper now lists him out (calf) as of 5:27 PM PT Nov 13. Earlier: Jennings (calf) is questionable after missing Week 9. No Week 10 practice report surfaced as of Nov 12, and his QB play improves with the Vikings' Nov 10 trade for Kirk Cousins.",
+    "redraftAdj": 0.9,
     "sleeperId": "7049",
-    "status": "Questionable",
+    "status": "Out",
     "tag": "injury"
    },
-   "i": "Questionable",
+   "i": "Out",
    "qb1": null,
    "t": "MIN"
   },
@@ -1741,18 +1740,18 @@
    "t": "HOU"
   },
   "7571": {
-   "changed": "2026-11-13T01:22:29.424339+00:00",
+   "changed": "2026-11-14T01:27:19.760674+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 1.0,
     "name": "Rashod Bateman",
-    "note": "Sleeper now lists him questionable (calf) as of 5:22 PM PT Nov 12.",
-    "redraftAdj": 0.98,
+    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 5:27 PM PT Nov 13.",
+    "redraftAdj": 1.0,
     "sleeperId": "7571",
-    "status": "Questionable",
+    "status": null,
     "tag": "injury"
    },
-   "i": "Questionable",
+   "i": null,
    "qb1": null,
    "t": "BAL"
   },
@@ -1867,18 +1866,18 @@
    "t": "WAS"
   },
   "8137": {
-   "changed": "2026-11-11T09:06:37.549130+00:00",
+   "changed": "2026-11-14T01:27:19.760674+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 1.0,
     "name": "George Pickens",
-    "note": "Sleeper now lists him questionable (hamstring) as of 1:06 AM PT Nov 11. Earlier: Pickens (hamstring) was inactive for the Nov 8 win over Indianapolis after trying to play. CeeDee Lamb scored 28.5 half-PPR points without him, and Pickens has no Week 10 update yet.",
-    "redraftAdj": 0.98,
+    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 5:27 PM PT Nov 13. Earlier: Pickens (hamstring) is questionable after being inactive for the Nov 8 game vs. Indianapolis. Some Week 10 reports say he was limited on Wednesday, Nov 11, but official confirmation was unclear as of Nov 12.",
+    "redraftAdj": 1.0,
     "sleeperId": "8137",
-    "status": "Questionable",
+    "status": null,
     "tag": "injury"
    },
-   "i": "Questionable",
+   "i": null,
    "qb1": null,
    "t": "DAL"
   },
@@ -2102,16 +2101,6 @@
   },
   "9500": {
    "changed": "2026-11-10T21:51:34.528567+00:00",
-   "entry": {
-    "auto": true,
-    "dynastyAdj": 1,
-    "name": "Josh Downs",
-    "note": "Sleeper shows he moved from IND to KC as of 1:51 PM PT Nov 10; check his new role.",
-    "redraftAdj": 1,
-    "sleeperId": "9500",
-    "status": "",
-    "tag": "rumor"
-   },
    "i": null,
    "qb1": null,
    "t": "KC"
@@ -2192,8 +2181,18 @@
    "t": "SEA"
   },
   "9756": {
-   "changed": "2026-10-21T21:46:27.707308+00:00",
-   "i": null,
+   "changed": "2026-11-14T01:27:19.760674+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Jordan Addison",
+    "note": "Sleeper now lists him questionable (thumb) as of 5:27 PM PT Nov 13. Earlier: Minnesota acquired Kirk Cousins from the Raiders for a 2027 third-round pick before the Nov 10 deadline, pending a physical. That should upgrade the Vikings' QB play over Carson Wentz and Max Brosmer.",
+    "redraftAdj": 0.98,
+    "sleeperId": "9756",
+    "status": "Questionable",
+    "tag": "injury"
+   },
+   "i": "Questionable",
    "qb1": null,
    "t": "MIN"
   },
