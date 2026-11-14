@@ -67,16 +67,6 @@
   },
   "11557": {
    "changed": "2026-11-11T16:00:32.614090+00:00",
-   "entry": {
-    "auto": true,
-    "dynastyAdj": 1.05,
-    "name": "Joe Milton",
-    "note": "Sleeper's depth chart now has him as PHI's starting QB as of 8:00 AM PT Nov 11.",
-    "redraftAdj": 1.2,
-    "sleeperId": "11557",
-    "status": "",
-    "tag": "role_up"
-   },
    "i": null,
    "qb1": true,
    "t": "PHI"
@@ -109,16 +99,6 @@
   },
   "11565": {
    "changed": "2026-11-11T16:00:32.614090+00:00",
-   "entry": {
-    "auto": true,
-    "dynastyAdj": 1.05,
-    "name": "J.J. McCarthy",
-    "note": "Sleeper's depth chart now has him as NYG's starting QB as of 8:00 AM PT Nov 11.",
-    "redraftAdj": 1.2,
-    "sleeperId": "11565",
-    "status": "",
-    "tag": "role_up"
-   },
    "i": null,
    "qb1": true,
    "t": "NYG"
@@ -483,16 +463,6 @@
   },
   "12508": {
    "changed": "2026-11-11T16:00:32.614090+00:00",
-   "entry": {
-    "auto": true,
-    "dynastyAdj": 0.95,
-    "name": "Jaxson Dart",
-    "note": "Sleeper's depth chart now has him as NYG's backup QB as of 8:00 AM PT Nov 11.",
-    "redraftAdj": 0.8,
-    "sleeperId": "12508",
-    "status": "IR",
-    "tag": "role_down"
-   },
    "i": "IR",
    "qb1": false,
    "t": "NYG"
@@ -620,13 +590,6 @@
    "i": null,
    "qb1": true,
    "t": "NO"
-  },
-  "12718": {
-   "changed": null,
-   "entry": null,
-   "i": null,
-   "qb1": null,
-   "t": "LAR"
   },
   "13268": {
    "changed": "2026-11-11T09:06:37.549130+00:00",
@@ -871,16 +834,6 @@
   },
   "13346": {
    "changed": "2026-11-11T18:02:23.315923+00:00",
-   "entry": {
-    "auto": true,
-    "dynastyAdj": 1.0,
-    "name": "Denzel Boston",
-    "note": "Sleeper now lists him questionable (toe) as of 10:02 AM PT Nov 11.",
-    "redraftAdj": 0.98,
-    "sleeperId": "13346",
-    "status": "Questionable",
-    "tag": "injury"
-   },
    "i": "Questionable",
    "qb1": null,
    "t": "CLE"
@@ -1341,8 +1294,18 @@
    "t": "SF"
   },
   "5892": {
-   "changed": "2026-11-11T09:06:37.549130+00:00",
-   "i": "Questionable",
+   "changed": "2026-11-14T20:43:51.106251+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "David Montgomery",
+    "note": "Sleeper now lists him out (groin) as of 12:43 PM PT Nov 14. Earlier: Montgomery (groin) reportedly practiced in full on Friday, Nov. 13, and is questionable for Week 10 at Cleveland. That puts him on the verge of returning after missing every game since Week 5.",
+    "redraftAdj": 0.9,
+    "sleeperId": "5892",
+    "status": "Out",
+    "tag": "injury"
+   },
+   "i": "Out",
    "qb1": null,
    "t": "HOU"
   },
@@ -1488,16 +1451,6 @@
   },
   "6904": {
    "changed": "2026-11-11T16:00:32.614090+00:00",
-   "entry": {
-    "auto": true,
-    "dynastyAdj": 0.95,
-    "name": "Jalen Hurts",
-    "note": "Sleeper's depth chart now has him as PHI's backup QB as of 8:00 AM PT Nov 11.",
-    "redraftAdj": 0.8,
-    "sleeperId": "6904",
-    "status": "IR",
-    "tag": "role_down"
-   },
    "i": "IR",
    "qb1": false,
    "t": "PHI"
@@ -1650,8 +1603,18 @@
    "t": "CAR"
   },
   "7600": {
-   "changed": "2026-10-18T16:41:56.765540+00:00",
-   "i": null,
+   "changed": "2026-11-14T20:43:51.106251+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Pat Freiermuth",
+    "note": "Sleeper now lists him questionable (illness) as of 12:43 PM PT Nov 14.",
+    "redraftAdj": 0.98,
+    "sleeperId": "7600",
+    "status": "Questionable",
+    "tag": "injury"
+   },
+   "i": "Questionable",
    "qb1": null,
    "t": "PIT"
   },
@@ -1801,18 +1764,18 @@
    "t": "LAR"
   },
   "8151": {
-   "changed": "2026-11-13T20:29:41.047388+00:00",
+   "changed": "2026-11-14T20:43:51.106251+00:00",
    "entry": {
     "auto": true,
-    "dynastyAdj": 1.0,
+    "dynastyAdj": 0.99,
     "name": "Kenneth Walker III",
-    "note": "Sleeper now lists him questionable (groin) as of 12:29 PM PT Nov 13.",
-    "redraftAdj": 0.98,
+    "note": "Sleeper now lists him out (groin) as of 12:43 PM PT Nov 14. Earlier: Walker missed Friday's practice (Nov. 13) with groin tightness and is questionable for Week 10 at Atlanta. Andy Reid indicated the Chiefs won't take unnecessary chances with him.",
+    "redraftAdj": 0.85,
     "sleeperId": "8151",
-    "status": "Questionable",
+    "status": "Out",
     "tag": "injury"
    },
-   "i": "Questionable",
+   "i": "Out",
    "qb1": null,
    "t": "KC"
   },

@@ -139,11 +139,12 @@
     {
       "sleeperId": "8151",
       "name": "Kenneth Walker III",
-      "note": "Walker missed Friday's practice (Nov. 13) with groin tightness and is questionable for Week 10 at Atlanta. Andy Reid indicated the Chiefs won't take unnecessary chances with him.",
+      "note": "Sleeper now lists him out (groin) as of 12:43 PM PT Nov 14. Earlier: Walker missed Friday's practice (Nov. 13) with groin tightness and is questionable for Week 10 at Atlanta. Andy Reid indicated the Chiefs won't take unnecessary chances with him.",
       "tag": "injury",
       "redraftAdj": 0.85,
       "dynastyAdj": 0.99,
-      "status": "Questionable"
+      "status": "Out",
+      "auto": true
     },
     {
       "sleeperId": "13337",
@@ -157,11 +158,12 @@
     {
       "sleeperId": "5892",
       "name": "David Montgomery",
-      "note": "Montgomery (groin) reportedly practiced in full on Friday, Nov. 13, and is questionable for Week 10 at Cleveland. That puts him on the verge of returning after missing every game since Week 5.",
-      "tag": "return",
-      "redraftAdj": 1.05,
+      "note": "Sleeper now lists him out (groin) as of 12:43 PM PT Nov 14. Earlier: Montgomery (groin) reportedly practiced in full on Friday, Nov. 13, and is questionable for Week 10 at Cleveland. That puts him on the verge of returning after missing every game since Week 5.",
+      "tag": "injury",
+      "redraftAdj": 0.9,
       "dynastyAdj": 1.0,
-      "status": "Questionable"
+      "status": "Out",
+      "auto": true
     },
     {
       "sleeperId": "12474",
@@ -893,7 +895,17 @@
       "sleeperId": "9511",
       "status": "Questionable",
       "tag": "injury"
+    },
+    {
+      "sleeperId": "7600",
+      "name": "Pat Freiermuth",
+      "note": "Sleeper now lists him questionable (illness) as of 12:43 PM PT Nov 14.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
+      "status": "Questionable",
+      "auto": true
     }
   ],
-  "statusChecked": "7:49 AM PT Nov 14"
+  "statusChecked": "12:43 PM PT Nov 14"
 }
