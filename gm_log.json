@@ -1,182 +1,188 @@
 {
- "log": [
-  {
-   "date": "2026-11-02",
-   "id": 1,
-   "type": "trade",
-   "partner": "Pscoggs",
-   "give": [
-    "A.J. Brown"
-   ],
-   "get": [
-    "Omar Cooper Jr."
-   ],
-   "values": {
-    "give": 2552,
-    "get": 2677
-   },
-   "status": "withdrawn Nov 5",
-   "why": "Sell 29yo injured WR for 22yo ascending rookie; Pscoggs 5-2 with DeVonta Smith out.",
-   "fallback": "A.J. Brown for Pscoggs 2027 2nd + Tre' Harris",
-   "note_1103": "Still pending owner decision; no change on Sleeper.",
-   "withdrawn_why": "Cooper: 50 snaps, 0 targets in Week 8 (Sleeper stats, Nov 5). Brown DNP Wed and still Questionable. League trade deadline is Week 11, so sell Brown once he plays healthy instead."
-  },
-  {
-   "date": "2026-11-02",
-   "id": 2,
-   "type": "trade",
-   "partner": "JustMyLuckk",
-   "give": [
-    "T.J. Hockenson"
-   ],
-   "get": [
-    "JustMyLuckk 2027 2nd"
-   ],
-   "values": {
-    "give": 1540,
-    "get": 1486
-   },
-   "status": "proposed",
-   "why": "Sell 29yo TE (we roster 6 TEs) to 5-2 contender whose Jake Ferguson hurt his ankle Nov 1.",
-   "note_1103": "Still pending owner decision; no change on Sleeper.",
-   "note_1105": "Still valid: Hockenson 4-35 (W7) and 4-58 (W8), 45/44 snaps (Sleeper stats). JustMyLuckk is now 6-2. Recheck Jake Ferguson ankle before sending.",
-   "note_1106": "Jake Ferguson (JustMyLuckk TE) has a low-ankle sprain and is questionable for Week 9 (news.json, Nov 6), so JustMyLuckk still needs a TE. Hockenson value 1510.",
-   "note_1109": "Hockenson plays MNF tonight (MIN vs BUF). Recheck his box score Tuesday before sending.",
-   "note_1110": "Rechecked after MNF: Hockenson 4 catches/33 yds on 7 targets, 39 snaps, 5.3 pts (Sleeper, Nov 10). Value 1429. Sendable now."
-  },
-  {
-   "date": "2026-11-02",
-   "id": 3,
-   "type": "taxi",
-   "move": "Cyrus Allen bench -> taxi (frees a roster spot; 2 taxi slots open)",
-   "status": "done (owner, by Nov 4)",
-   "why": "Open a spot for RB depth once Jeremiyah Love's ankle status is known.",
-   "note_1103": "Still pending owner decision; no change on Sleeper."
-  },
-  {
-   "date": "2026-11-03",
-   "id": 4,
-   "type": "waiver",
-   "move": "Add Devin Singletary (NYG) with a $3-5 FAAB bid; drop Cyrus Allen, or move Allen to taxi first",
-   "status": "done (owner added Singletary by Nov 4)",
-   "why": "Jeremiyah Love likely misses time (LaFleur: new ankle injury, IR possible, update Wed). Singletary is the most-added RB (Skattebo and Tracy hamstrings). Role not fully verified, so decide after Wednesday's Love update."
-  },
-  {
-   "date": "2026-11-04",
-   "type": "note",
-   "note": "Owner also moved Eli Raridon to taxi and is starting Kraft at SUPER_FLEX (Cam Ward appears to be on bye in Week 9). Jeremiyah Love placed on IR Nov 3, out 4-5 weeks: move him to an IR slot if one is open."
-  },
-  {
-   "date": "2026-11-04",
-   "type": "note",
-   "note": "Owner claimed Singletary ($5) and Dylan Sampson ($3) on waivers, and swapped Oronde Gadsden for Brandon Aiyuk (Aiyuk is on the 49ers' reserve/left-squad list, latest confirmed Aug 2026, FC value 317 vs Gadsden ~1205)."
-  },
-  {
-   "date": "2026-11-04",
-   "id": 5,
-   "type": "waiver",
-   "move": "Claim Oronde Gadsden back; drop Brandon Aiyuk",
-   "status": "proposed",
-   "why": "Aiyuk hasn't played in 2026 (reserve/left squad) and has 1/4 of Gadsden's value. Undo unless the owner knows of an imminent Aiyuk signing.",
-   "note_1106": "Aiyuk's FC value has risen to 1036 (from 317), so the market may expect his release. Still no 2026 news confirming it."
-  },
-  {
-   "date": "2026-11-05",
-   "id": 6,
-   "type": "trade",
-   "partner": "LordCheeseButt",
-   "give": [
-    "LordCheeseButt 2027 1st",
-    "LordCheeseButt 2027 2nd"
-   ],
-   "get": [
-    "Matthew Golden"
-   ],
-   "values": {
-    "give": 5025,
-    "get": 4015
-   },
-   "hole": "#1 true WR1 aged 25 or younger",
-   "status": "proposed (cooling off, send no earlier than Nov 6)",
-   "why": "Golden (23, GB) saw 13/12/13 targets in Weeks 6-8 on 57-63 snaps (Sleeper stats, Nov 5). He played through shoulder/foot issues on Oct 29 (news.json, Nov 1). LCB is 4-4 and gets both of its own picks back.",
-   "floor": "LCB 2027 1st + our 2027 2nd (Mid)",
-   "note_1106": "Cooling-off done; sendable today. Golden has no injury designation on his Sleeper card (Nov 6); 38 targets over Weeks 6-8 (reports.json, Nov 3). Value 4037. If not sent before Sunday, recheck his Week 9 game first.",
-   "note_1109": "Recheck after Week 9: Golden had 10 catches on 10 targets for 164 yards, 27.4 pts on 49 snaps (Sleeper stats, Nov 9). Value rose 3986 -> 4347. Same offer (LCB 2027 1st + 2nd, ~5025) is now ~116%. Re-proposed Nov 9; owner yes needed again. LCB is less likely to sell after the big game.",
-   "note_1110": "Golden value up again to 4678. LCB 2027 1st + 2nd (~5025) is now ~107%. Sendable; needs owner yes.",
-   "note_1111": "Golden value 5022 (was 4037 Nov 5): LCB 1st + 2nd (~5025) is now only ~100%. Likely needs more. Alternatives in #8."
-  },
-  {
-   "date": "2026-11-05",
-   "id": 7,
-   "type": "trade-candidate",
-   "partner": "BeeNyce1600",
-   "give": [
-    "A.J. Brown",
-    "small sweetener (Cyrus Allen or Chris Bell)"
-   ],
-   "get": [
-    "Omarion Hampton"
-   ],
-   "values": {
-    "give": "2475 + ~950-1317",
-    "get": 2823
-   },
-   "hole": "#2 sell older for younger",
-   "status": "paused Nov 13: Brown ruled out Week 10 and NE has a Week 11 bye, so earliest return is Week 12 (after the league trade deadline). Rework with a different sweetener if Hampton is still wanted.",
-   "why": "Buy-low on a 23yo former 1st whose role shrank (W8 snaps: Hampton 18, Vidal 28, Mitchell 19; Sleeper stats + DraftSharks). Cap at ~115% of value; do not add a 2nd-round pick.",
-   "note_1109": "Week 9: Hampton led LAC RBs with 13 carries for 60 yards on 29 snaps (Vidal 28 snaps/7 carries, Mitchell 18/7) per Sleeper stats Nov 9. Value 2775. Brown (2390) missed his second straight game, so BeeNyce may balk. Offer Brown + Cyrus Allen; walk if they want a 2nd.",
-   "note_1110": "Cooling off done. Hampton 2850; Brown 2492 (Out again) + Cyrus Allen 952 = ~121%. Sendable; needs owner yes.",
-   "note_1111": "Hampton 2884, Brown 2314 (Q, knee). Brown + C. Allen ~3208 = ~111%."
-  },
-  {
-   "date": "2026-11-07",
-   "type": "note",
-   "note": "No owner action on #6 (Golden) or #2 (Hockenson). Values: Golden 3986, Hockenson 1489, Brown 2396 (ruled out Week 9), Hampton 2681, Aiyuk 1061 (new agent pushing for exit; WAS interest per ESPN). Golden plays Sunday: if not sent today, recheck his Week 9 box score Monday before sending."
-  },
-  {
-   "date": "2026-11-08",
-   "type": "note",
-   "note": "Game day: no new proposals. Golden (#6), Hockenson (#2), Hampton (#7) and Brown all play or sit today, so recheck Week 9 box scores Monday before anything is sent. No incoming trades and no roster changes."
-  },
-  {
-   "date": "2026-11-11",
-   "id": 8,
-   "type": "trade",
-   "partner": "LordCheeseButt",
-   "give": [
-    "LordCheeseButt 2027 1st",
-    "Josh Downs"
-   ],
-   "get": [
-    "Matthew Golden"
-   ],
-   "values": {
-    "give": "~3308 + 2180 = ~5488",
-    "get": 5022
-   },
-   "hole": "#1 true WR1 aged 25 or younger",
-   "status": "proposed (cooling off, send no earlier than Nov 12; recheck after TNF if either plays)",
-   "why": "Downs's value jumped after the Nov 10 trade to KC (1734 -> 2180), so he's a sell-high chip that keeps our 2nds. LCB gets its own 1st back plus a starting WR for a playoff push. Alternative: LCB 1st + BeeNyce 2028 1st (~5573)."
-  },
-  {
-   "date": "2026-11-11",
-   "type": "note",
-   "note": "Owner has added Kaleb Johnson (GB RB) to the roster; Jacobs needs finger surgery."
-  },
-  {
-   "date": "2026-11-12",
-   "type": "note",
-   "note": "No owner action yet on #8/#7/#2. Values: Golden 5004, Downs 1874 (down from 2180), LCB 2027 1st (mid) 3351. #8 now ~104%; #8b (LCB 1st + BeeNyce 2028 1st, ~5591) ~112%. Hampton 2668; Brown 2462 (Q) + C. Allen 785 = ~122%. Hockenson 1571 (Q, wrist/chest). Several of these players play Week 10: recheck before sending."
-  },
-  {
-   "date": "2026-11-13",
-   "type": "note",
-   "note": "No owner action. #8b (Golden for LCB 2027 1st + BeeNyce 2028 1st) and #2 (Hockenson, who has 2 straight DNPs) still open. Week 10 games are this weekend, so recheck Monday. League trade deadline is after Week 11."
-  },
-  {
-   "date": "2026-11-14",
-   "type": "note",
-   "note": "No owner action and no league trades. A.J. Brown upgraded to Questionable for Week 10 (Vrabel 'pretty good'). If he plays, revive #7 (Brown for Hampton) Monday. #8b and #2 still open; recheck after Week 10."
-  }
- ]
+  "log": [
+    {
+      "date": "2026-11-02",
+      "id": 1,
+      "type": "trade",
+      "partner": "Pscoggs",
+      "give": [
+        "A.J. Brown"
+      ],
+      "get": [
+        "Omar Cooper Jr."
+      ],
+      "values": {
+        "give": 2552,
+        "get": 2677
+      },
+      "status": "withdrawn Nov 5",
+      "why": "Sell 29yo injured WR for 22yo ascending rookie; Pscoggs 5-2 with DeVonta Smith out.",
+      "fallback": "A.J. Brown for Pscoggs 2027 2nd + Tre' Harris",
+      "note_1103": "Still pending owner decision; no change on Sleeper.",
+      "withdrawn_why": "Cooper: 50 snaps, 0 targets in Week 8 (Sleeper stats, Nov 5). Brown DNP Wed and still Questionable. League trade deadline is Week 11, so sell Brown once he plays healthy instead."
+    },
+    {
+      "date": "2026-11-02",
+      "id": 2,
+      "type": "trade",
+      "partner": "JustMyLuckk",
+      "give": [
+        "T.J. Hockenson"
+      ],
+      "get": [
+        "JustMyLuckk 2027 2nd"
+      ],
+      "values": {
+        "give": 1540,
+        "get": 1486
+      },
+      "status": "proposed",
+      "why": "Sell 29yo TE (we roster 6 TEs) to 5-2 contender whose Jake Ferguson hurt his ankle Nov 1.",
+      "note_1103": "Still pending owner decision; no change on Sleeper.",
+      "note_1105": "Still valid: Hockenson 4-35 (W7) and 4-58 (W8), 45/44 snaps (Sleeper stats). JustMyLuckk is now 6-2. Recheck Jake Ferguson ankle before sending.",
+      "note_1106": "Jake Ferguson (JustMyLuckk TE) has a low-ankle sprain and is questionable for Week 9 (news.json, Nov 6), so JustMyLuckk still needs a TE. Hockenson value 1510.",
+      "note_1109": "Hockenson plays MNF tonight (MIN vs BUF). Recheck his box score Tuesday before sending.",
+      "note_1110": "Rechecked after MNF: Hockenson 4 catches/33 yds on 7 targets, 39 snaps, 5.3 pts (Sleeper, Nov 10). Value 1429. Sendable now."
+    },
+    {
+      "date": "2026-11-02",
+      "id": 3,
+      "type": "taxi",
+      "move": "Cyrus Allen bench -> taxi (frees a roster spot; 2 taxi slots open)",
+      "status": "done (owner, by Nov 4)",
+      "why": "Open a spot for RB depth once Jeremiyah Love's ankle status is known.",
+      "note_1103": "Still pending owner decision; no change on Sleeper."
+    },
+    {
+      "date": "2026-11-03",
+      "id": 4,
+      "type": "waiver",
+      "move": "Add Devin Singletary (NYG) with a $3-5 FAAB bid; drop Cyrus Allen, or move Allen to taxi first",
+      "status": "done (owner added Singletary by Nov 4)",
+      "why": "Jeremiyah Love likely misses time (LaFleur: new ankle injury, IR possible, update Wed). Singletary is the most-added RB (Skattebo and Tracy hamstrings). Role not fully verified, so decide after Wednesday's Love update."
+    },
+    {
+      "date": "2026-11-04",
+      "type": "note",
+      "note": "Owner also moved Eli Raridon to taxi and is starting Kraft at SUPER_FLEX (Cam Ward appears to be on bye in Week 9). Jeremiyah Love placed on IR Nov 3, out 4-5 weeks: move him to an IR slot if one is open."
+    },
+    {
+      "date": "2026-11-04",
+      "type": "note",
+      "note": "Owner claimed Singletary ($5) and Dylan Sampson ($3) on waivers, and swapped Oronde Gadsden for Brandon Aiyuk (Aiyuk is on the 49ers' reserve/left-squad list, latest confirmed Aug 2026, FC value 317 vs Gadsden ~1205)."
+    },
+    {
+      "date": "2026-11-04",
+      "id": 5,
+      "type": "waiver",
+      "move": "Claim Oronde Gadsden back; drop Brandon Aiyuk",
+      "status": "proposed",
+      "why": "Aiyuk hasn't played in 2026 (reserve/left squad) and has 1/4 of Gadsden's value. Undo unless the owner knows of an imminent Aiyuk signing.",
+      "note_1106": "Aiyuk's FC value has risen to 1036 (from 317), so the market may expect his release. Still no 2026 news confirming it."
+    },
+    {
+      "date": "2026-11-05",
+      "id": 6,
+      "type": "trade",
+      "partner": "LordCheeseButt",
+      "give": [
+        "LordCheeseButt 2027 1st",
+        "LordCheeseButt 2027 2nd"
+      ],
+      "get": [
+        "Matthew Golden"
+      ],
+      "values": {
+        "give": 5025,
+        "get": 4015
+      },
+      "hole": "#1 true WR1 aged 25 or younger",
+      "status": "proposed (cooling off, send no earlier than Nov 6)",
+      "why": "Golden (23, GB) saw 13/12/13 targets in Weeks 6-8 on 57-63 snaps (Sleeper stats, Nov 5). He played through shoulder/foot issues on Oct 29 (news.json, Nov 1). LCB is 4-4 and gets both of its own picks back.",
+      "floor": "LCB 2027 1st + our 2027 2nd (Mid)",
+      "note_1106": "Cooling-off done; sendable today. Golden has no injury designation on his Sleeper card (Nov 6); 38 targets over Weeks 6-8 (reports.json, Nov 3). Value 4037. If not sent before Sunday, recheck his Week 9 game first.",
+      "note_1109": "Recheck after Week 9: Golden had 10 catches on 10 targets for 164 yards, 27.4 pts on 49 snaps (Sleeper stats, Nov 9). Value rose 3986 -> 4347. Same offer (LCB 2027 1st + 2nd, ~5025) is now ~116%. Re-proposed Nov 9; owner yes needed again. LCB is less likely to sell after the big game.",
+      "note_1110": "Golden value up again to 4678. LCB 2027 1st + 2nd (~5025) is now ~107%. Sendable; needs owner yes.",
+      "note_1111": "Golden value 5022 (was 4037 Nov 5): LCB 1st + 2nd (~5025) is now only ~100%. Likely needs more. Alternatives in #8."
+    },
+    {
+      "date": "2026-11-05",
+      "id": 7,
+      "type": "trade-candidate",
+      "partner": "BeeNyce1600",
+      "give": [
+        "A.J. Brown",
+        "small sweetener (Cyrus Allen or Chris Bell)"
+      ],
+      "get": [
+        "Omarion Hampton"
+      ],
+      "values": {
+        "give": "2475 + ~950-1317",
+        "get": 2823
+      },
+      "hole": "#2 sell older for younger",
+      "status": "paused Nov 13: Brown ruled out Week 10 and NE has a Week 11 bye, so earliest return is Week 12 (after the league trade deadline). Rework with a different sweetener if Hampton is still wanted.",
+      "why": "Buy-low on a 23yo former 1st whose role shrank (W8 snaps: Hampton 18, Vidal 28, Mitchell 19; Sleeper stats + DraftSharks). Cap at ~115% of value; do not add a 2nd-round pick.",
+      "note_1109": "Week 9: Hampton led LAC RBs with 13 carries for 60 yards on 29 snaps (Vidal 28 snaps/7 carries, Mitchell 18/7) per Sleeper stats Nov 9. Value 2775. Brown (2390) missed his second straight game, so BeeNyce may balk. Offer Brown + Cyrus Allen; walk if they want a 2nd.",
+      "note_1110": "Cooling off done. Hampton 2850; Brown 2492 (Out again) + Cyrus Allen 952 = ~121%. Sendable; needs owner yes.",
+      "note_1111": "Hampton 2884, Brown 2314 (Q, knee). Brown + C. Allen ~3208 = ~111%."
+    },
+    {
+      "date": "2026-11-07",
+      "type": "note",
+      "note": "No owner action on #6 (Golden) or #2 (Hockenson). Values: Golden 3986, Hockenson 1489, Brown 2396 (ruled out Week 9), Hampton 2681, Aiyuk 1061 (new agent pushing for exit; WAS interest per ESPN). Golden plays Sunday: if not sent today, recheck his Week 9 box score Monday before sending."
+    },
+    {
+      "date": "2026-11-08",
+      "type": "note",
+      "note": "Game day: no new proposals. Golden (#6), Hockenson (#2), Hampton (#7) and Brown all play or sit today, so recheck Week 9 box scores Monday before anything is sent. No incoming trades and no roster changes."
+    },
+    {
+      "date": "2026-11-11",
+      "id": 8,
+      "type": "trade",
+      "partner": "LordCheeseButt",
+      "give": [
+        "LordCheeseButt 2027 1st",
+        "Josh Downs"
+      ],
+      "get": [
+        "Matthew Golden"
+      ],
+      "values": {
+        "give": "~3308 + 2180 = ~5488",
+        "get": 5022
+      },
+      "hole": "#1 true WR1 aged 25 or younger",
+      "status": "proposed (cooling off, send no earlier than Nov 12; recheck after TNF if either plays)",
+      "why": "Downs's value jumped after the Nov 10 trade to KC (1734 -> 2180), so he's a sell-high chip that keeps our 2nds. LCB gets its own 1st back plus a starting WR for a playoff push. Alternative: LCB 1st + BeeNyce 2028 1st (~5573)."
+    },
+    {
+      "date": "2026-11-11",
+      "type": "note",
+      "note": "Owner has added Kaleb Johnson (GB RB) to the roster; Jacobs needs finger surgery."
+    },
+    {
+      "date": "2026-11-12",
+      "type": "note",
+      "note": "No owner action yet on #8/#7/#2. Values: Golden 5004, Downs 1874 (down from 2180), LCB 2027 1st (mid) 3351. #8 now ~104%; #8b (LCB 1st + BeeNyce 2028 1st, ~5591) ~112%. Hampton 2668; Brown 2462 (Q) + C. Allen 785 = ~122%. Hockenson 1571 (Q, wrist/chest). Several of these players play Week 10: recheck before sending."
+    },
+    {
+      "date": "2026-11-13",
+      "type": "note",
+      "note": "No owner action. #8b (Golden for LCB 2027 1st + BeeNyce 2028 1st) and #2 (Hockenson, who has 2 straight DNPs) still open. Week 10 games are this weekend, so recheck Monday. League trade deadline is after Week 11."
+    },
+    {
+      "date": "2026-11-14",
+      "type": "note",
+      "note": "No owner action and no league trades. A.J. Brown upgraded to Questionable for Week 10 (Vrabel 'pretty good'). If he plays, revive #7 (Brown for Hampton) Monday. #8b and #2 still open; recheck after Week 10."
+    },
+    {
+      "date": "2026-11-15",
+      "move": "GM run (Sunday, Week 10 games in progress)",
+      "status": "no_proposals",
+      "notes": "No incoming offers; no league trades Wk10-11. Owner dropped Devin Singletary (Nov 14 11:07 PM PT) and set Sampson/Jeanty in lineup. Lineup flag: Kaleb Johnson (GB lead back, Jacobs out after finger surgery) over Dylan Sampson (6.65 proj). McConkey (back, Q) correctly benched. No trade proposals while games are in progress (gm.md); #2 Hockenson (Out Wk10), #5 Gadsden/Aiyuk (Aiyuk still unresolved), #7 Brown/Hampton (Brown active in Munich), #8b Golden all re-check Mon Nov 16 after Week 10 box scores. Fantasy trade deadline after Week 11."
+    }
+  ]
 }
