@@ -212,11 +212,12 @@
     {
       "sleeperId": "7543",
       "name": "Travis Etienne Jr.",
-      "note": "The Saints activated Etienne (hamstring) from injured reserve on Saturday, Nov. 14, ahead of Week 10 against Carolina. He carries a questionable designation after practicing through the week.",
-      "tag": "return",
-      "redraftAdj": 1.08,
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 1:03 PM PT Nov 15. Earlier: The Saints activated Etienne (hamstring) from injured reserve on Saturday, Nov. 14, ahead of Week 10 against Carolina. He carries a questionable designation after practicing through the week.",
+      "tag": "injury",
+      "redraftAdj": 1.0,
       "dynastyAdj": 1.01,
-      "status": "Questionable"
+      "status": null,
+      "auto": true
     },
     {
       "sleeperId": "11579",
@@ -230,11 +231,12 @@
     {
       "sleeperId": "9508",
       "name": "Tyjae Spears",
-      "note": "Spears (knee) practiced fully Friday, Nov. 13, after sitting Wednesday and being limited Thursday. He remains questionable for Week 10 against Jacksonville and is the Titans' only questionable player.",
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 1:03 PM PT Nov 15. Earlier: Spears (knee) practiced fully Friday, Nov. 13, after sitting Wednesday and being limited Thursday. He remains questionable for Week 10 against Jacksonville and is the Titans' only questionable player.",
       "tag": "injury",
-      "redraftAdj": 0.98,
+      "redraftAdj": 1.0,
       "dynastyAdj": 1.0,
-      "status": "Questionable"
+      "status": null,
+      "auto": true
     },
     {
       "sleeperId": "8122",
@@ -329,11 +331,11 @@
     {
       "sleeperId": "5859",
       "name": "A.J. Brown",
-      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 7:40 AM PT Nov 15. Earlier: Brown (ankle/knee) is officially questionable for the Nov 15 game vs. Detroit in Munich after three straight limited practices. On Nov 13 Mike Vrabel said he felt 'pretty good' about his chances, and Ian Rapoport reported Brown has a good chance to play.",
+      "note": "Sleeper now lists him out (hamstring) as of 1:03 PM PT Nov 15.",
       "tag": "injury",
-      "redraftAdj": 1.0,
+      "redraftAdj": 0.9,
       "dynastyAdj": 1.0,
-      "status": null,
+      "status": "Out",
       "auto": true
     },
     {
@@ -358,20 +360,22 @@
     {
       "sleeperId": "8146",
       "name": "Garrett Wilson",
-      "note": "Wilson (concussion) is questionable for the Nov 15 game vs. Buffalo. Aaron Glenn said he is 'very hopeful' Wilson plays, and Wilson reportedly practiced fully Friday, Nov 13.",
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 1:03 PM PT Nov 15. Earlier: Wilson (concussion) is questionable for the Nov 15 game vs. Buffalo. Aaron Glenn said he is 'very hopeful' Wilson plays, and Wilson reportedly practiced fully Friday, Nov 13.",
       "tag": "injury",
-      "redraftAdj": 0.97,
+      "redraftAdj": 1.0,
       "dynastyAdj": 1.0,
-      "status": "Questionable"
+      "status": null,
+      "auto": true
     },
     {
       "sleeperId": "11625",
       "name": "Adonai Mitchell",
-      "note": "Mitchell (knee) is questionable for the Nov 15 game vs. Buffalo, per the Jets' Nov 13 final report. If Garrett Wilson clears the concussion protocol, Mitchell would lose his lead-receiver role.",
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 1:03 PM PT Nov 15. Earlier: Mitchell (knee) is questionable for the Nov 15 game vs. Buffalo, per the Jets' Nov 13 final report. If Garrett Wilson clears the concussion protocol, Mitchell would lose his lead-receiver role.",
       "tag": "injury",
-      "redraftAdj": 0.93,
+      "redraftAdj": 1.0,
       "dynastyAdj": 1.0,
-      "status": "Questionable"
+      "status": null,
+      "auto": true
     },
     {
       "sleeperId": "7049",
@@ -385,29 +389,32 @@
     {
       "sleeperId": "9756",
       "name": "Jordan Addison",
-      "note": "Addison was added to the report Friday, Nov 13, with a thumb injury and is questionable after a limited practice. Jauan Jennings and TJ Hockenson are both out, so Addison would see a heavy target share from Kirk Cousins if he plays.",
+      "note": "Sleeper now lists him out (thumb) as of 1:03 PM PT Nov 15. Earlier: Addison was added to the report Friday, Nov 13, with a thumb injury and is questionable after a limited practice. Jauan Jennings and TJ Hockenson are both out, so Addison would see a heavy target share from Kirk Cousins if he plays.",
       "tag": "injury",
-      "redraftAdj": 0.97,
+      "redraftAdj": 0.9,
       "dynastyAdj": 1.0,
-      "status": "Questionable"
+      "status": "Out",
+      "auto": true
     },
     {
       "sleeperId": "13346",
       "name": "Denzel Boston",
-      "note": "Boston (toe) is questionable for the Nov 15 game vs. Houston. Todd Monken said Nov 13 that he is 'trending in the right direction.'",
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 1:03 PM PT Nov 15. Earlier: Boston (toe) is questionable for the Nov 15 game vs. Houston. Todd Monken said Nov 13 that he is 'trending in the right direction.'",
       "tag": "injury",
-      "redraftAdj": 0.98,
+      "redraftAdj": 1.0,
       "dynastyAdj": 1.0,
-      "status": "Questionable"
+      "status": null,
+      "auto": true
     },
     {
       "sleeperId": "13311",
       "name": "Chris Bell",
-      "note": "Miami listed Bell doubtful (knee) on Nov 13 for the Nov 15 game at Indianapolis after he missed Thursday's practice.",
+      "note": "Sleeper now lists him out (knee) as of 1:03 PM PT Nov 15. Earlier: Miami listed Bell doubtful (knee) on Nov 13 for the Nov 15 game at Indianapolis after he missed Thursday's practice.",
       "tag": "injury",
       "redraftAdj": 0.9,
       "dynastyAdj": 1.0,
-      "status": "Doubtful"
+      "status": "Out",
+      "auto": true
     },
     {
       "sleeperId": "13279",
@@ -547,11 +554,12 @@
     {
       "sleeperId": "13276",
       "name": "Omar Cooper Jr.",
-      "note": "Cooper (ankle) is questionable for Week 10 on Nov 15 after limited practices; he missed time earlier this season with a high ankle sprain, so check inactives before kickoff.",
+      "note": "Sleeper now lists him out (ankle) as of 1:03 PM PT Nov 15. Earlier: Cooper (ankle) is questionable for Week 10 on Nov 15 after limited practices; he missed time earlier this season with a high ankle sprain, so check inactives before kickoff.",
       "tag": "injury",
-      "redraftAdj": 0.95,
+      "redraftAdj": 0.9,
       "dynastyAdj": 1.0,
-      "status": "Questionable"
+      "status": "Out",
+      "auto": true
     },
     {
       "sleeperId": "11624",
@@ -601,11 +609,12 @@
     {
       "sleeperId": "11635",
       "name": "Ladd McConkey",
-      "note": "McConkey (back) was active but did not play in Week 9, and Jim Harbaugh called him day-to-day. The Chargers play Monday night, Nov 16 at Baltimore, so his status may not be settled before Sunday lineups lock.",
+      "note": "Sleeper now lists him out (back) as of 1:03 PM PT Nov 15. Earlier: McConkey (back) was active but did not play in Week 9, and Jim Harbaugh called him day-to-day. The Chargers play Monday night, Nov 16 at Baltimore, so his status may not be settled before Sunday lineups lock.",
       "tag": "injury",
-      "redraftAdj": 0.92,
+      "redraftAdj": 0.9,
       "dynastyAdj": 1.0,
-      "status": "Questionable"
+      "status": "Out",
+      "auto": true
     },
     {
       "sleeperId": "12519",
@@ -682,11 +691,11 @@
     {
       "sleeperId": "11564",
       "name": "Drake Maye",
-      "note": "Sleeper now lists him questionable (ankle) as of 7:40 AM PT Nov 15.",
+      "note": "Sleeper now lists him out (ankle) as of 1:03 PM PT Nov 15.",
       "tag": "injury",
-      "redraftAdj": 0.98,
+      "redraftAdj": 0.9,
       "dynastyAdj": 1.0,
-      "status": "Questionable",
+      "status": "Out",
       "auto": true
     },
     {
@@ -710,14 +719,14 @@
       "tag": "injury"
     },
     {
-      "auto": true,
-      "dynastyAdj": 1.0,
-      "name": "Woody Marks",
-      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 5:27 PM PT Nov 13. Earlier: Marks (knee) was limited in practice Nov. 11 and is questionable for Week 10 at Cleveland. If he plays, he should remain Houston's lead back while David Montgomery (groin) stays sidelined.",
-      "redraftAdj": 1.0,
       "sleeperId": "12474",
-      "status": null,
-      "tag": "injury"
+      "name": "Woody Marks",
+      "note": "Sleeper now lists him out (concussion) as of 1:03 PM PT Nov 15.",
+      "tag": "injury",
+      "redraftAdj": 0.9,
+      "dynastyAdj": 1.0,
+      "status": "Out",
+      "auto": true
     },
     {
       "auto": true,
@@ -848,7 +857,87 @@
       "sleeperId": "9511",
       "status": null,
       "tag": "injury"
+    },
+    {
+      "sleeperId": "11435",
+      "name": "Emanuel Wilson",
+      "note": "Sleeper now lists him out (coach's decision) as of 1:03 PM PT Nov 15.",
+      "tag": "injury",
+      "redraftAdj": 0.9,
+      "dynastyAdj": 1.0,
+      "status": "Out",
+      "auto": true
+    },
+    {
+      "sleeperId": "13275",
+      "name": "Ty Simpson",
+      "note": "Sleeper now lists him out (coach's decision) as of 1:03 PM PT Nov 15.",
+      "tag": "injury",
+      "redraftAdj": 0.9,
+      "dynastyAdj": 1.0,
+      "status": "Out",
+      "auto": true
+    },
+    {
+      "sleeperId": "13288",
+      "name": "Nicholas Singleton",
+      "note": "Sleeper now lists him out (coach's decision) as of 1:03 PM PT Nov 15.",
+      "tag": "injury",
+      "redraftAdj": 0.9,
+      "dynastyAdj": 1.0,
+      "status": "Out",
+      "auto": true
+    },
+    {
+      "sleeperId": "13306",
+      "name": "Taylen Green",
+      "note": "Sleeper now lists him out (coach's decision) as of 1:03 PM PT Nov 15.",
+      "tag": "injury",
+      "redraftAdj": 0.9,
+      "dynastyAdj": 1.0,
+      "status": "Out",
+      "auto": true
+    },
+    {
+      "sleeperId": "13602",
+      "name": "Jack Strand",
+      "note": "Sleeper now lists him out (coach's decision) as of 1:03 PM PT Nov 15.",
+      "tag": "injury",
+      "redraftAdj": 0.9,
+      "dynastyAdj": 1.0,
+      "status": "Out",
+      "auto": true
+    },
+    {
+      "sleeperId": "1373",
+      "name": "Geno Smith",
+      "note": "Sleeper now lists him out (ankle) as of 1:03 PM PT Nov 15.",
+      "tag": "injury",
+      "redraftAdj": 0.9,
+      "dynastyAdj": 1.0,
+      "status": "Out",
+      "auto": true
+    },
+    {
+      "sleeperId": "1466",
+      "name": "Travis Kelce",
+      "note": "Sleeper now lists him questionable (ankle) as of 1:03 PM PT Nov 15.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
+      "status": "Questionable",
+      "auto": true
+    },
+    {
+      "sleeperId": "4892",
+      "name": "Baker Mayfield",
+      "note": "Sleeper now lists him questionable (lower leg) as of 1:03 PM PT Nov 15.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
+      "status": "Questionable",
+      "auto": true
     }
   ],
-  "statusChecked": "7:40 AM PT Nov 15"
+  "statusChecked": "1:03 PM PT Nov 15"
 }
