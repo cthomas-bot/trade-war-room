@@ -186,11 +186,12 @@
     {
       "sleeperId": "12529",
       "name": "TreVeyon Henderson",
-      "note": "Henderson (illness) has been ruled out for Week 10 vs. Detroit, his third straight missed game. There has been no public timeline since he was hospitalized with neurological symptoms in early November.",
+      "note": "Sleeper now lists him on injured reserve (illness) as of 5:04 PM PT Nov 14. Earlier: Henderson (illness) has been ruled out for Week 10 vs. Detroit, his third straight missed game. There has been no public timeline since he was hospitalized with neurological symptoms in early November.",
       "tag": "injury",
-      "redraftAdj": 0.85,
-      "dynastyAdj": 0.98,
-      "status": "Out"
+      "redraftAdj": 0.7,
+      "dynastyAdj": 0.97,
+      "status": "IR",
+      "auto": true
     },
     {
       "sleeperId": "12491",
@@ -222,11 +223,12 @@
     {
       "sleeperId": "7543",
       "name": "Travis Etienne Jr.",
-      "note": "Etienne (hamstring) was designated to return from IR and practiced through the week, including Friday. He is listed questionable for Week 10 vs. Carolina but must be activated by 4 p.m. ET Saturday, Nov. 14, to play.",
-      "tag": "return",
-      "redraftAdj": 1.1,
+      "note": "Sleeper now lists him questionable (hamstring) as of 5:04 PM PT Nov 14. Earlier: Etienne (hamstring) was designated to return from IR and practiced through the week, including Friday. He is listed questionable for Week 10 vs. Carolina but must be activated by 4 p.m. ET Saturday, Nov. 14, to play.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
       "dynastyAdj": 1.0,
-      "status": "Questionable"
+      "status": "Questionable",
+      "auto": true
     },
     {
       "sleeperId": "11583",
@@ -411,11 +413,12 @@
     {
       "sleeperId": "13380",
       "name": "Brenen Thompson",
-      "note": "Thompson did not practice Thursday or Friday (Nov 12-13), now listed with a hamstring injury, ahead of the Chargers' Monday night game vs. Baltimore. A third straight missed game looks likely.",
+      "note": "Sleeper now lists him doubtful (hamstring) as of 5:04 PM PT Nov 14. Earlier: Thompson did not practice Thursday or Friday (Nov 12-13), now listed with a hamstring injury, ahead of the Chargers' Monday night game vs. Baltimore. A third straight missed game looks likely.",
       "tag": "injury",
       "redraftAdj": 0.9,
       "dynastyAdj": 1.0,
-      "status": "Questionable"
+      "status": "Out",
+      "auto": true
     },
     {
       "sleeperId": "5872",
@@ -887,14 +890,14 @@
       "tag": "injury"
     },
     {
-      "auto": true,
-      "dynastyAdj": 1.0,
-      "name": "Keaton Mitchell",
-      "note": "Sleeper now lists him questionable (hip) as of 3:54 PM PT Nov 12.",
-      "redraftAdj": 0.98,
       "sleeperId": "9511",
-      "status": "Questionable",
-      "tag": "injury"
+      "name": "Keaton Mitchell",
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 5:04 PM PT Nov 14.",
+      "tag": "injury",
+      "redraftAdj": 1.0,
+      "dynastyAdj": 1.0,
+      "status": null,
+      "auto": true
     },
     {
       "sleeperId": "7600",
@@ -907,5 +910,5 @@
       "auto": true
     }
   ],
-  "statusChecked": "12:43 PM PT Nov 14"
+  "statusChecked": "5:04 PM PT Nov 14"
 }
