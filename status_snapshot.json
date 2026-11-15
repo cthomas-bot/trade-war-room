@@ -91,9 +91,18 @@
    "t": "DEN"
   },
   "11564": {
-   "changed": null,
-   "entry": null,
-   "i": null,
+   "changed": "2026-11-15T15:40:11.916398+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Drake Maye",
+    "note": "Sleeper now lists him questionable (ankle) as of 7:40 AM PT Nov 15.",
+    "redraftAdj": 0.98,
+    "sleeperId": "11564",
+    "status": "Questionable",
+    "tag": "injury"
+   },
+   "i": "Questionable",
    "qb1": true,
    "t": "NE"
   },
@@ -1195,8 +1204,18 @@
    "t": "SEA"
   },
   "5859": {
-   "changed": "2026-11-11T09:06:37.549130+00:00",
-   "i": "Questionable",
+   "changed": "2026-11-15T15:40:11.916398+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "A.J. Brown",
+    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 7:40 AM PT Nov 15. Earlier: Brown (ankle/knee) is officially questionable for the Nov 15 game vs. Detroit in Munich after three straight limited practices. On Nov 13 Mike Vrabel said he felt 'pretty good' about his chances, and Ian Rapoport reported Brown has a good chance to play.",
+    "redraftAdj": 1.0,
+    "sleeperId": "5859",
+    "status": null,
+    "tag": "injury"
+   },
+   "i": null,
    "qb1": null,
    "t": "NE"
   },
@@ -1456,8 +1475,18 @@
    "t": "NO"
   },
   "7547": {
-   "changed": "2026-11-11T21:45:38.431070+00:00",
-   "i": "Questionable",
+   "changed": "2026-11-15T15:40:11.916398+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Amon-Ra St. Brown",
+    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 7:40 AM PT Nov 15. Earlier: Detroit's Nov 13 final report lists St. Brown questionable (ribs) for the Nov 15 game in Munich after limited practice. Reports call him likely to play.",
+    "redraftAdj": 1.0,
+    "sleeperId": "7547",
+    "status": null,
+    "tag": "injury"
+   },
+   "i": null,
    "qb1": null,
    "t": "DET"
   },
@@ -1548,18 +1577,18 @@
    "t": "PIT"
   },
   "7611": {
-   "changed": "2026-11-12T21:56:55.729955+00:00",
+   "changed": "2026-11-15T15:40:11.916398+00:00",
    "entry": {
     "auto": true,
-    "dynastyAdj": 1.0,
+    "dynastyAdj": 1.01,
     "name": "Rhamondre Stevenson",
-    "note": "Sleeper now lists him questionable (knee) as of 1:56 PM PT Nov 12. Earlier: Stevenson (knee) did not practice Nov. 11 and is listed doubtful for Week 10 vs. Detroit in Munich. One report says he could miss multiple weeks.",
-    "redraftAdj": 0.98,
+    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 7:40 AM PT Nov 15. Earlier: Stevenson (knee) is officially active for the Nov. 15 game against Detroit in Munich after being listed questionable. He was limited Thursday and Friday and may not be at 100%, but Henderson's move to IR leaves him as the lead back.",
+    "redraftAdj": 1.0,
     "sleeperId": "7611",
-    "status": "Questionable",
+    "status": null,
     "tag": "injury"
    },
-   "i": "Questionable",
+   "i": null,
    "qb1": null,
    "t": "NE"
   },

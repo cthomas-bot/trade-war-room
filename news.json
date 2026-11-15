@@ -175,11 +175,12 @@
     {
       "sleeperId": "7611",
       "name": "Rhamondre Stevenson",
-      "note": "Stevenson (knee) is officially active for the Nov. 15 game against Detroit in Munich after being listed questionable. He was limited Thursday and Friday and may not be at 100%, but Henderson's move to IR leaves him as the lead back.",
-      "tag": "return",
-      "redraftAdj": 1.08,
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 7:40 AM PT Nov 15. Earlier: Stevenson (knee) is officially active for the Nov. 15 game against Detroit in Munich after being listed questionable. He was limited Thursday and Friday and may not be at 100%, but Henderson's move to IR leaves him as the lead back.",
+      "tag": "injury",
+      "redraftAdj": 1.0,
       "dynastyAdj": 1.01,
-      "status": ""
+      "status": null,
+      "auto": true
     },
     {
       "sleeperId": "12491",
@@ -328,11 +329,12 @@
     {
       "sleeperId": "5859",
       "name": "A.J. Brown",
-      "note": "Brown (ankle/knee) is officially questionable for the Nov 15 game vs. Detroit in Munich after three straight limited practices. On Nov 13 Mike Vrabel said he felt 'pretty good' about his chances, and Ian Rapoport reported Brown has a good chance to play.",
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 7:40 AM PT Nov 15. Earlier: Brown (ankle/knee) is officially questionable for the Nov 15 game vs. Detroit in Munich after three straight limited practices. On Nov 13 Mike Vrabel said he felt 'pretty good' about his chances, and Ian Rapoport reported Brown has a good chance to play.",
       "tag": "injury",
-      "redraftAdj": 0.95,
+      "redraftAdj": 1.0,
       "dynastyAdj": 1.0,
-      "status": "Questionable"
+      "status": null,
+      "auto": true
     },
     {
       "sleeperId": "9501",
@@ -346,11 +348,12 @@
     {
       "sleeperId": "7547",
       "name": "Amon-Ra St. Brown",
-      "note": "Detroit's Nov 13 final report lists St. Brown questionable (ribs) for the Nov 15 game in Munich after limited practice. Reports call him likely to play.",
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 7:40 AM PT Nov 15. Earlier: Detroit's Nov 13 final report lists St. Brown questionable (ribs) for the Nov 15 game in Munich after limited practice. Reports call him likely to play.",
       "tag": "injury",
-      "redraftAdj": 0.97,
+      "redraftAdj": 1.0,
       "dynastyAdj": 1.0,
-      "status": "Questionable"
+      "status": null,
+      "auto": true
     },
     {
       "sleeperId": "8146",
@@ -675,7 +678,177 @@
       "redraftAdj": 0.9,
       "dynastyAdj": 0.97,
       "status": ""
+    },
+    {
+      "sleeperId": "11564",
+      "name": "Drake Maye",
+      "note": "Sleeper now lists him questionable (ankle) as of 7:40 AM PT Nov 15.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
+      "status": "Questionable",
+      "auto": true
+    },
+    {
+      "auto": true,
+      "dynastyAdj": 1.0,
+      "name": "Chris Rodriguez Jr.",
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 5:27 PM PT Nov 13. Earlier: Rodriguez (hand) is listed questionable for Week 10 on Sleeper as of Nov. 11. He played through the hand issue in Week 9 and scored a TD.",
+      "redraftAdj": 1.0,
+      "sleeperId": "10219",
+      "status": null,
+      "tag": "injury"
+    },
+    {
+      "auto": true,
+      "dynastyAdj": 1.0,
+      "name": "Dalton Kincaid",
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 5:27 PM PT Nov 13. Earlier: Kincaid (ankle) was limited at practice again on Thursday, Nov 12, matching Wednesday. He played through the injury in Week 9 and still looks on track for Sunday at the Jets.",
+      "redraftAdj": 1.0,
+      "sleeperId": "10236",
+      "status": null,
+      "tag": "injury"
+    },
+    {
+      "auto": true,
+      "dynastyAdj": 1.0,
+      "name": "Woody Marks",
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 5:27 PM PT Nov 13. Earlier: Marks (knee) was limited in practice Nov. 11 and is questionable for Week 10 at Cleveland. If he plays, he should remain Houston's lead back while David Montgomery (groin) stays sidelined.",
+      "redraftAdj": 1.0,
+      "sleeperId": "12474",
+      "status": null,
+      "tag": "injury"
+    },
+    {
+      "auto": true,
+      "dynastyAdj": 1.0,
+      "name": "Bhayshul Tuten",
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 12:29 PM PT Nov 13. Earlier: Tuten (ankle) is listed questionable for Week 10 on Sleeper as of Nov. 11. He played through the same issue in Week 9 and scored a TD.",
+      "redraftAdj": 1.0,
+      "sleeperId": "12490",
+      "status": null,
+      "tag": "injury"
+    },
+    {
+      "auto": true,
+      "dynastyAdj": 0.99,
+      "name": "Harold Fannin Jr.",
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 5:27 PM PT Nov 13. Earlier: Fannin (groin) was limited in practice again on Thursday, Nov 12, ahead of Sunday's game vs. Houston. It is his second straight week managing the groin issue.",
+      "redraftAdj": 1.0,
+      "sleeperId": "12506",
+      "status": null,
+      "tag": "injury"
+    },
+    {
+      "auto": true,
+      "dynastyAdj": 1.0,
+      "name": "Tre' Harris",
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 5:27 PM PT Nov 13. Earlier: Harris is listed questionable (shoulder) as of Nov 12 ahead of the Chargers' Monday night game vs. Baltimore.",
+      "redraftAdj": 1.0,
+      "sleeperId": "12509",
+      "status": null,
+      "tag": "injury"
+    },
+    {
+      "auto": true,
+      "dynastyAdj": 1.0,
+      "name": "Jared Goff",
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 1:56 PM PT Nov 12. Earlier: He was limited Wednesday, Nov. 11 with a chest injury, his first appearance on the practice report this season. Reports see no sign he will miss Sunday's game vs. New England in Munich, but watch Thursday's report.",
+      "redraftAdj": 1.0,
+      "sleeperId": "3163",
+      "status": null,
+      "tag": "injury"
+    },
+    {
+      "auto": true,
+      "dynastyAdj": 0.99,
+      "name": "Hunter Henry",
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 12:29 PM PT Nov 13. Earlier: Henry (foot) was limited in practice again on Thursday, Nov 12. Barring a setback, he is expected to play Sunday against Detroit.",
+      "redraftAdj": 1.0,
+      "sleeperId": "3214",
+      "status": null,
+      "tag": "injury"
+    },
+    {
+      "auto": true,
+      "dynastyAdj": 0.99,
+      "name": "Tyler Higbee",
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 5:27 PM PT Nov 13. Earlier: Higbee was added to the Rams' injury report with an illness and did not practice Thursday, Nov 12. Davis Allen was also downgraded to DNP and Colby Parkinson (ribs) was limited, so the Rams' TE room is in flux.",
+      "redraftAdj": 1.0,
+      "sleeperId": "3271",
+      "status": null,
+      "tag": "injury"
+    },
+    {
+      "auto": true,
+      "dynastyAdj": 0.99,
+      "name": "Alvin Kamara",
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 1:56 PM PT Nov 12. Earlier: Kamara (back) did not practice Nov. 11 and is listed questionable for Week 10.",
+      "redraftAdj": 1.0,
+      "sleeperId": "4035",
+      "status": null,
+      "tag": "injury"
+    },
+    {
+      "auto": true,
+      "dynastyAdj": 1.0,
+      "name": "Jakobi Meyers",
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 12:29 PM PT Nov 13. Earlier: Sleeper lists Meyers questionable (ankle) as of Nov 11. No Week 10 practice participation was confirmed as of Nov 12.",
+      "redraftAdj": 1.0,
+      "sleeperId": "5947",
+      "status": null,
+      "tag": "injury"
+    },
+    {
+      "auto": true,
+      "dynastyAdj": 1.0,
+      "name": "Tony Pollard",
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 5:27 PM PT Nov 13. Earlier: Pollard (finger) was added to the injury report and listed questionable for Week 10 on Sleeper as of Nov. 12.",
+      "redraftAdj": 1.0,
+      "sleeperId": "5967",
+      "status": null,
+      "tag": "injury"
+    },
+    {
+      "auto": true,
+      "dynastyAdj": 1.0,
+      "name": "Justin Herbert",
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 3:54 PM PT Nov 12. Earlier: X-rays on his left (non-throwing) middle finger were negative, and he expects to play Week 10 MNF at Baltimore on Nov. 16. No practice participation had been reported as of Nov. 11.",
+      "redraftAdj": 1.0,
+      "sleeperId": "6797",
+      "status": null,
+      "tag": "injury"
+    },
+    {
+      "auto": true,
+      "dynastyAdj": 1.0,
+      "name": "Rashod Bateman",
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 5:27 PM PT Nov 13.",
+      "redraftAdj": 1.0,
+      "sleeperId": "7571",
+      "status": null,
+      "tag": "injury"
+    },
+    {
+      "auto": true,
+      "dynastyAdj": 1.0,
+      "name": "Tank Dell",
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 2:57 PM PT Nov 12. Earlier: Sleeper lists Dell questionable (hand) as of Nov 11. No practice detail has been reported yet.",
+      "redraftAdj": 1.0,
+      "sleeperId": "9502",
+      "status": null,
+      "tag": "injury"
+    },
+    {
+      "auto": true,
+      "dynastyAdj": 1.0,
+      "name": "Keaton Mitchell",
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 5:04 PM PT Nov 14.",
+      "redraftAdj": 1.0,
+      "sleeperId": "9511",
+      "status": null,
+      "tag": "injury"
     }
   ],
-  "statusChecked": "5:04 PM PT Nov 14"
+  "statusChecked": "7:40 AM PT Nov 15"
 }
