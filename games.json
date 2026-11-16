@@ -1,7 +1,7 @@
 {
  "season": "2026",
  "week": 10,
- "updated": "2026-11-15 11:19 PM PT",
+ "updated": "2026-11-16 11:52 AM PT",
  "games": [
   {
    "id": "401873065",
@@ -14,21 +14,13 @@
    "venue": "M&T Bank Stadium",
    "tv": "ESPN",
    "details": "BAL -4.5",
-   "total": 38.5,
+   "total": 39.5,
    "fav": "BAL",
    "spread": 4.5,
    "homeML": null,
    "awayML": null,
-   "homeImplied": 21.5,
-   "awayImplied": 17.0,
-   "weather": {
-    "roof": "open",
-    "temp": 43.2,
-    "precip": 0,
-    "code": 0,
-    "wind": 5.5,
-    "night": true
-   }
+   "homeImplied": 22.0,
+   "awayImplied": 17.5
   },
   {
    "id": "401873052",
@@ -39,15 +31,7 @@
    "homeScore": "21",
    "awayScore": "24",
    "venue": "MetLife Stadium",
-   "tv": "Prime Video",
-   "weather": {
-    "roof": "open",
-    "temp": 47.8,
-    "precip": 72,
-    "code": 55,
-    "wind": 9.8,
-    "night": true
-   }
+   "tv": "Prime Video"
   },
   {
    "id": "401873053",
@@ -72,15 +56,7 @@
    "homeScore": "13",
    "awayScore": "35",
    "venue": "Mercedes-Benz Stadium",
-   "tv": "CBS",
-   "weather": {
-    "roof": "retract",
-    "temp": 53.7,
-    "precip": 0,
-    "code": 0,
-    "wind": 3.1,
-    "night": false
-   }
+   "tv": "CBS"
   },
   {
    "id": "401873056",
@@ -91,15 +67,7 @@
    "homeScore": "27",
    "awayScore": "24",
    "venue": "Huntington Bank Field",
-   "tv": "Fox",
-   "weather": {
-    "roof": "open",
-    "temp": 46.2,
-    "precip": 2,
-    "code": 3,
-    "wind": 13.3,
-    "night": false
-   }
+   "tv": "Fox"
   },
   {
    "id": "401873060",
@@ -1873,130 +1841,136 @@
    "opp": "CLE"
   },
   "8127": {
-   "half": 2.87,
-   "ppr": 3.64,
-   "std": 2.11,
+   "half": 2.94,
+   "ppr": 3.7,
+   "std": 2.18,
    "opp": "BAL"
   },
   "12509": {
    "half": 6.17,
-   "ppr": 7.66,
-   "std": 4.68,
+   "ppr": 7.65,
+   "std": 4.69,
    "opp": "BAL"
   },
   "13324": {
-   "half": 2.24,
+   "half": 2.25,
    "ppr": 2.82,
-   "std": 1.67,
+   "std": 1.68,
    "opp": "LAC"
   },
   "11647": {
-   "half": 5.99,
-   "ppr": 6.77,
-   "std": 5.22,
+   "half": 6.11,
+   "ppr": 6.88,
+   "std": 5.34,
    "opp": "BAL"
   },
   "12670": {
-   "half": 3.86,
-   "ppr": 4.77,
-   "std": 2.95,
+   "half": 3.91,
+   "ppr": 4.8,
+   "std": 3.02,
    "opp": "BAL"
   },
   "5012": {
-   "half": 5.32,
-   "ppr": 6.92,
-   "std": 3.72,
+   "half": 5.34,
+   "ppr": 6.95,
+   "std": 3.74,
    "opp": "LAC"
   },
   "6797": {
-   "half": 13.91,
-   "ppr": 13.91,
-   "std": 13.91,
+   "half": 14.47,
+   "ppr": 14.47,
+   "std": 14.47,
    "opp": "BAL"
   },
   "9754": {
-   "half": 7.29,
-   "ppr": 8.71,
-   "std": 5.87,
+   "half": 7.63,
+   "ppr": 9.04,
+   "std": 6.23,
    "opp": "BAL"
   },
   "10234": {
-   "half": 1.9,
-   "ppr": 2.36,
-   "std": 1.43,
+   "half": 2.01,
+   "ppr": 2.48,
+   "std": 1.54,
    "opp": "BAL"
   },
   "3198": {
-   "half": 14.9,
-   "ppr": 15.56,
-   "std": 14.24,
+   "half": 14.75,
+   "ppr": 15.41,
+   "std": 14.09,
    "opp": "LAC"
   },
   "5995": {
-   "half": 6.29,
-   "ppr": 7.23,
-   "std": 5.34,
+   "half": 6.51,
+   "ppr": 7.45,
+   "std": 5.56,
    "opp": "LAC"
   },
   "7571": {
-   "half": 4.36,
-   "ppr": 5.37,
-   "std": 3.36,
+   "half": 4.57,
+   "ppr": 5.57,
+   "std": 3.57,
    "opp": "LAC"
   },
   "9511": {
-   "half": 5.3,
-   "ppr": 6.19,
-   "std": 4.41,
+   "half": 5.23,
+   "ppr": 6.11,
+   "std": 4.34,
    "opp": "BAL"
   },
   "11629": {
-   "half": 2.14,
-   "ppr": 2.52,
-   "std": 1.77,
+   "half": 2.17,
+   "ppr": 2.54,
+   "std": 1.79,
    "opp": "LAC"
   },
   "12493": {
-   "half": 3.32,
-   "ppr": 4.16,
-   "std": 2.47,
+   "half": 3.39,
+   "ppr": 4.24,
+   "std": 2.54,
    "opp": "BAL"
   },
   "13273": {
-   "half": 1.95,
-   "ppr": 2.47,
-   "std": 1.43,
+   "half": 2.01,
+   "ppr": 2.52,
+   "std": 1.49,
    "opp": "LAC"
   },
   "13293": {
-   "half": 4.35,
-   "ppr": 5.52,
-   "std": 3.18,
+   "half": 4.44,
+   "ppr": 5.63,
+   "std": 3.24,
    "opp": "LAC"
   },
   "3257": {
-   "half": 13.27,
-   "ppr": 13.27,
-   "std": 13.27,
+   "half": 13.55,
+   "ppr": 13.55,
+   "std": 13.55,
    "opp": "LAC"
   },
   "4033": {
-   "half": 3.88,
-   "ppr": 4.94,
-   "std": 2.82,
+   "half": 3.99,
+   "ppr": 5.04,
+   "std": 2.94,
    "opp": "BAL"
   },
   "9997": {
-   "half": 13.37,
-   "ppr": 16.23,
-   "std": 10.51,
+   "half": 13.2,
+   "ppr": 16.01,
+   "std": 10.38,
    "opp": "LAC"
   },
   "12507": {
-   "half": 7.2,
-   "ppr": 7.94,
+   "half": 7.19,
+   "ppr": 7.93,
    "std": 6.45,
    "opp": "BAL"
   }
- }
+ },
+ "errors": [
+  "weather BAL: <urlopen error _ssl.c:994: The handshake operation timed out>",
+  "weather NYG: <urlopen error _ssl.c:994: The handshake operation timed out>",
+  "weather ATL: <urlopen error _ssl.c:994: The handshake operation timed out>",
+  "weather CLE: <urlopen error _ssl.c:994: The handshake operation timed out>"
+ ]
 }
