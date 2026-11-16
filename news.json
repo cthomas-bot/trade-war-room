@@ -286,11 +286,12 @@
     {
       "sleeperId": "7600",
       "name": "Pat Freiermuth",
-      "note": "The Steelers added Freiermuth (illness) to the injury report on Saturday, Nov. 14, and he is questionable for Sunday night's Week 10 game at Cincinnati, though he is expected to play through it. If he sits, Darnell Washington and Robert Tonyan would absorb the TE work, and Pittsburgh's inactives come out at 6:50 PM ET.",
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 5:03 PM PT Nov 15. Earlier: The Steelers added Freiermuth (illness) to the injury report on Saturday, Nov. 14, and he is questionable for Sunday night's Week 10 game at Cincinnati, though he is expected to play through it. If he sits, Darnell Washington and Robert Tonyan would absorb the TE work, and Pittsburgh's inactives come out at 6:50 PM ET.",
       "tag": "injury",
-      "redraftAdj": 0.93,
+      "redraftAdj": 1.0,
       "dynastyAdj": 1.0,
-      "status": "Questionable"
+      "status": null,
+      "auto": true
     },
     {
       "sleeperId": "5844",
@@ -937,7 +938,47 @@
       "dynastyAdj": 1.0,
       "status": "Questionable",
       "auto": true
+    },
+    {
+      "sleeperId": "11604",
+      "name": "Brock Bowers",
+      "note": "Sleeper now lists him out (ankle) as of 5:03 PM PT Nov 15.",
+      "tag": "injury",
+      "redraftAdj": 0.9,
+      "dynastyAdj": 1.0,
+      "status": "Out",
+      "auto": true
+    },
+    {
+      "sleeperId": "13289",
+      "name": "Drew Allar",
+      "note": "Sleeper now lists him out (coach's decision) as of 5:03 PM PT Nov 15.",
+      "tag": "injury",
+      "redraftAdj": 0.9,
+      "dynastyAdj": 1.0,
+      "status": "Out",
+      "auto": true
+    },
+    {
+      "sleeperId": "8112",
+      "name": "Drake London",
+      "note": "Sleeper now lists him questionable (head) as of 5:03 PM PT Nov 15.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
+      "status": "Questionable",
+      "auto": true
+    },
+    {
+      "sleeperId": "8126",
+      "name": "Wan'Dale Robinson",
+      "note": "Sleeper now lists him questionable (ankle) as of 5:03 PM PT Nov 15.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
+      "status": "Questionable",
+      "auto": true
     }
   ],
-  "statusChecked": "1:03 PM PT Nov 15"
+  "statusChecked": "5:03 PM PT Nov 15"
 }

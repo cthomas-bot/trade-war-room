@@ -160,8 +160,18 @@
    "t": "LAR"
   },
   "11604": {
-   "changed": "2026-10-29T21:53:41.771618+00:00",
-   "i": null,
+   "changed": "2026-11-16T01:03:15.914551+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Brock Bowers",
+    "note": "Sleeper now lists him out (ankle) as of 5:03 PM PT Nov 15.",
+    "redraftAdj": 0.9,
+    "sleeperId": "11604",
+    "status": "Out",
+    "tag": "injury"
+   },
+   "i": "Out",
    "qb1": null,
    "t": "LV"
   },
@@ -683,8 +693,18 @@
    "t": "TEN"
   },
   "13289": {
-   "changed": "2026-11-11T09:06:37.549130+00:00",
-   "i": null,
+   "changed": "2026-11-16T01:03:15.914551+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Drew Allar",
+    "note": "Sleeper now lists him out (coach's decision) as of 5:03 PM PT Nov 15.",
+    "redraftAdj": 0.9,
+    "sleeperId": "13289",
+    "status": "Out",
+    "tag": "injury"
+   },
+   "i": "Out",
    "qb1": false,
    "t": "PIT"
   },
@@ -1028,16 +1048,6 @@
   },
   "3163": {
    "changed": "2026-11-12T21:56:55.729955+00:00",
-   "entry": {
-    "auto": true,
-    "dynastyAdj": 1.0,
-    "name": "Jared Goff",
-    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 1:56 PM PT Nov 12. Earlier: He was limited Wednesday, Nov. 11 with a chest injury, his first appearance on the practice report this season. Reports see no sign he will miss Sunday's game vs. New England in Munich, but watch Thursday's report.",
-    "redraftAdj": 1.0,
-    "sleeperId": "3163",
-    "status": null,
-    "tag": "injury"
-   },
    "i": null,
    "qb1": true,
    "t": "DET"
@@ -1121,16 +1131,6 @@
   },
   "4035": {
    "changed": "2026-11-12T21:56:55.729955+00:00",
-   "entry": {
-    "auto": true,
-    "dynastyAdj": 0.99,
-    "name": "Alvin Kamara",
-    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 1:56 PM PT Nov 12. Earlier: Kamara (back) did not practice Nov. 11 and is listed questionable for Week 10.",
-    "redraftAdj": 1.0,
-    "sleeperId": "4035",
-    "status": null,
-    "tag": "injury"
-   },
    "i": null,
    "qb1": null,
    "t": "NO"
@@ -1149,6 +1149,8 @@
    "t": "KC"
   },
   "4147": {
+   "changed": null,
+   "entry": null,
    "i": null,
    "qb1": null,
    "t": "CIN"
@@ -1441,16 +1443,6 @@
   },
   "6797": {
    "changed": "2026-11-12T23:54:14.481144+00:00",
-   "entry": {
-    "auto": true,
-    "dynastyAdj": 1.0,
-    "name": "Justin Herbert",
-    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 3:54 PM PT Nov 12. Earlier: X-rays on his left (non-throwing) middle finger were negative, and he expects to play Week 10 MNF at Baltimore on Nov. 16. No practice participation had been reported as of Nov. 11.",
-    "redraftAdj": 1.0,
-    "sleeperId": "6797",
-    "status": null,
-    "tag": "injury"
-   },
    "i": null,
    "qb1": true,
    "t": "LAC"
@@ -1650,18 +1642,18 @@
    "t": "CAR"
   },
   "7600": {
-   "changed": "2026-11-14T20:43:51.106251+00:00",
+   "changed": "2026-11-16T01:03:15.914551+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 1.0,
     "name": "Pat Freiermuth",
-    "note": "Sleeper now lists him questionable (illness) as of 12:43 PM PT Nov 14.",
-    "redraftAdj": 0.98,
+    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 5:03 PM PT Nov 15. Earlier: The Steelers added Freiermuth (illness) to the injury report on Saturday, Nov. 14, and he is questionable for Sunday night's Week 10 game at Cincinnati, though he is expected to play through it. If he sits, Darnell Washington and Robert Tonyan would absorb the TE work, and Pittsburgh's inactives come out at 6:50 PM ET.",
+    "redraftAdj": 1.0,
     "sleeperId": "7600",
-    "status": "Questionable",
+    "status": null,
     "tag": "injury"
    },
-   "i": "Questionable",
+   "i": null,
    "qb1": null,
    "t": "PIT"
   },
@@ -1688,8 +1680,18 @@
    "t": "DAL"
   },
   "8112": {
-   "changed": "2026-11-04T09:06:31.989484+00:00",
-   "i": null,
+   "changed": "2026-11-16T01:03:15.914551+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Drake London",
+    "note": "Sleeper now lists him questionable (head) as of 5:03 PM PT Nov 15.",
+    "redraftAdj": 0.98,
+    "sleeperId": "8112",
+    "status": "Questionable",
+    "tag": "injury"
+   },
+   "i": "Questionable",
    "qb1": null,
    "t": "ATL"
   },
@@ -1716,9 +1718,18 @@
    "t": "ARI"
   },
   "8126": {
-   "changed": null,
-   "entry": null,
-   "i": null,
+   "changed": "2026-11-16T01:03:15.914551+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Wan'Dale Robinson",
+    "note": "Sleeper now lists him questionable (ankle) as of 5:03 PM PT Nov 15.",
+    "redraftAdj": 0.98,
+    "sleeperId": "8126",
+    "status": "Questionable",
+    "tag": "injury"
+   },
+   "i": "Questionable",
    "qb1": null,
    "t": "TEN"
   },
@@ -1984,16 +1995,6 @@
   },
   "9502": {
    "changed": "2026-11-12T22:57:00.227365+00:00",
-   "entry": {
-    "auto": true,
-    "dynastyAdj": 1.0,
-    "name": "Tank Dell",
-    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 2:57 PM PT Nov 12. Earlier: Sleeper lists Dell questionable (hand) as of Nov 11. No practice detail has been reported yet.",
-    "redraftAdj": 1.0,
-    "sleeperId": "9502",
-    "status": null,
-    "tag": "injury"
-   },
    "i": null,
    "qb1": null,
    "t": "HOU"
