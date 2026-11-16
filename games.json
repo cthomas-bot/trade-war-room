@@ -1,58 +1,52 @@
 {
  "season": "2026",
  "week": 10,
- "updated": "2026-11-15 3:11 PM PT",
+ "updated": "2026-11-15 11:19 PM PT",
  "games": [
   {
-   "id": "401873062",
-   "kickoff": "2026-11-15T21:05Z",
-   "state": "in",
-   "home": "LV",
-   "away": "SEA",
-   "homeScore": "10",
-   "awayScore": "21",
-   "venue": "Allegiant Stadium",
-   "tv": "CBS",
+   "id": "401873065",
+   "kickoff": "2026-11-17T01:15Z",
+   "state": "pre",
+   "home": "BAL",
+   "away": "LAC",
+   "homeScore": "0",
+   "awayScore": "0",
+   "venue": "M&T Bank Stadium",
+   "tv": "ESPN",
+   "details": "BAL -4.5",
+   "total": 38.5,
+   "fav": "BAL",
+   "spread": 4.5,
+   "homeML": null,
+   "awayML": null,
+   "homeImplied": 21.5,
+   "awayImplied": 17.0,
    "weather": {
-    "roof": "dome"
-   }
-  },
-  {
-   "id": "401873061",
-   "kickoff": "2026-11-15T21:05Z",
-   "state": "in",
-   "home": "ARI",
-   "away": "LAR",
-   "homeScore": "6",
-   "awayScore": "31",
-   "venue": "State Farm Stadium",
-   "tv": "CBS",
-   "weather": {
-    "roof": "retract",
-    "temp": 74.1,
+    "roof": "open",
+    "temp": 43.2,
     "precip": 0,
     "code": 0,
-    "wind": 1.6,
-    "night": false
+    "wind": 5.5,
+    "night": true
    }
   },
   {
-   "id": "401873063",
-   "kickoff": "2026-11-15T21:25Z",
-   "state": "in",
-   "home": "DAL",
-   "away": "SF",
-   "homeScore": "16",
-   "awayScore": "17",
-   "venue": "AT&T Stadium",
-   "tv": "Fox",
+   "id": "401873052",
+   "kickoff": "2026-11-13T01:15Z",
+   "state": "post",
+   "home": "NYG",
+   "away": "WAS",
+   "homeScore": "21",
+   "awayScore": "24",
+   "venue": "MetLife Stadium",
+   "tv": "Prime Video",
    "weather": {
-    "roof": "retract",
-    "temp": 47.3,
-    "precip": 9,
-    "code": 3,
-    "wind": 7.6,
-    "night": false
+    "roof": "open",
+    "temp": 47.8,
+    "precip": 72,
+    "code": 55,
+    "wind": 9.8,
+    "night": true
    }
   },
   {
@@ -198,75 +192,73 @@
    }
   },
   {
+   "id": "401873062",
+   "kickoff": "2026-11-15T21:05Z",
+   "state": "post",
+   "home": "LV",
+   "away": "SEA",
+   "homeScore": "13",
+   "awayScore": "21",
+   "venue": "Allegiant Stadium",
+   "tv": "CBS",
+   "weather": {
+    "roof": "dome"
+   }
+  },
+  {
+   "id": "401873061",
+   "kickoff": "2026-11-15T21:05Z",
+   "state": "post",
+   "home": "ARI",
+   "away": "LAR",
+   "homeScore": "6",
+   "awayScore": "34",
+   "venue": "State Farm Stadium",
+   "tv": "CBS",
+   "weather": {
+    "roof": "retract",
+    "temp": 74.1,
+    "precip": 0,
+    "code": 0,
+    "wind": 1.6,
+    "night": false
+   }
+  },
+  {
+   "id": "401873063",
+   "kickoff": "2026-11-15T21:25Z",
+   "state": "post",
+   "home": "DAL",
+   "away": "SF",
+   "homeScore": "40",
+   "awayScore": "46",
+   "venue": "AT&T Stadium",
+   "tv": "Fox",
+   "weather": {
+    "roof": "retract",
+    "temp": 47.3,
+    "precip": 9,
+    "code": 3,
+    "wind": 7.6,
+    "night": false
+   }
+  },
+  {
    "id": "401873064",
    "kickoff": "2026-11-16T01:20Z",
-   "state": "pre",
+   "state": "post",
    "home": "CIN",
    "away": "PIT",
-   "homeScore": "0",
-   "awayScore": "0",
+   "homeScore": "38",
+   "awayScore": "18",
    "venue": "Paycor Stadium",
    "tv": "NBC",
-   "details": "CIN -3.5",
-   "total": 49.5,
-   "fav": "CIN",
-   "spread": 3.5,
-   "homeML": null,
-   "awayML": null,
-   "homeImplied": 26.5,
-   "awayImplied": 23.0,
    "weather": {
     "roof": "open",
-    "temp": 39.0,
+    "temp": 40.6,
     "precip": 0,
     "code": 0,
-    "wind": 2.1,
-    "night": true
-   }
-  },
-  {
-   "id": "401873052",
-   "kickoff": "2026-11-13T01:15Z",
-   "state": "post",
-   "home": "NYG",
-   "away": "WAS",
-   "homeScore": "21",
-   "awayScore": "24",
-   "venue": "MetLife Stadium",
-   "tv": "Prime Video",
-   "weather": {
-    "roof": "open",
-    "temp": 47.8,
-    "precip": 72,
-    "code": 55,
-    "wind": 9.8,
-    "night": true
-   }
-  },
-  {
-   "id": "401873065",
-   "kickoff": "2026-11-17T01:15Z",
-   "state": "pre",
-   "home": "BAL",
-   "away": "LAC",
-   "homeScore": "0",
-   "awayScore": "0",
-   "venue": "M&T Bank Stadium",
-   "tv": "ESPN",
-   "details": "BAL -4.5",
-   "total": 38.5,
-   "fav": "BAL",
-   "spread": 4.5,
-   "homeML": null,
-   "awayML": null,
-   "homeImplied": 21.5,
-   "awayImplied": 17.0,
-   "weather": {
-    "roof": "open",
-    "temp": 41.9,
-    "precip": 0,
-    "code": 0,
-    "wind": 5.1,
+    "wind": 2.3,
     "night": true
    }
   }
@@ -459,9 +451,9 @@
    "opp": "NYJ"
   },
   "13264": {
-   "half": 4.91,
-   "ppr": 6.04,
-   "std": 3.78,
+   "half": 4.92,
+   "ppr": 6.05,
+   "std": 3.79,
    "opp": "PIT"
   },
   "13278": {
@@ -519,9 +511,9 @@
    "opp": "LAR"
   },
   "4147": {
-   "half": 5.31,
-   "ppr": 6.1,
-   "std": 4.51,
+   "half": 5.32,
+   "ppr": 6.12,
+   "std": 4.53,
    "opp": "PIT"
   },
   "4177": {
@@ -591,9 +583,9 @@
    "opp": "DET"
   },
   "7757": {
-   "half": 2.31,
-   "ppr": 2.75,
-   "std": 1.86,
+   "half": 2.3,
+   "ppr": 2.74,
+   "std": 1.85,
    "opp": "CIN"
   },
   "7812": {
@@ -657,9 +649,9 @@
    "opp": "LAR"
   },
   "9479": {
-   "half": 6.2,
-   "ppr": 7.58,
-   "std": 4.82,
+   "half": 6.18,
+   "ppr": 7.56,
+   "std": 4.8,
    "opp": "CIN"
   },
   "9501": {
@@ -819,9 +811,9 @@
    "opp": "JAX"
   },
   "5846": {
-   "half": 10.43,
-   "ppr": 12.42,
-   "std": 8.43,
+   "half": 10.39,
+   "ppr": 12.39,
+   "std": 8.4,
    "opp": "CIN"
   },
   "5870": {
@@ -897,9 +889,9 @@
    "opp": "NE"
   },
   "9224": {
-   "half": 11.63,
-   "ppr": 13.72,
-   "std": 9.53,
+   "half": 11.65,
+   "ppr": 13.74,
+   "std": 9.56,
    "opp": "PIT"
   },
   "10218": {
@@ -1048,20 +1040,20 @@
   },
   "6001": {
    "half": 2.49,
-   "ppr": 3.22,
+   "ppr": 3.23,
    "std": 1.76,
    "opp": "PIT"
   },
   "6770": {
-   "half": 22.43,
-   "ppr": 22.43,
-   "std": 22.43,
+   "half": 22.53,
+   "ppr": 22.53,
+   "std": 22.53,
    "opp": "PIT"
   },
   "6801": {
-   "half": 14.59,
-   "ppr": 17.15,
-   "std": 12.02,
+   "half": 14.61,
+   "ppr": 17.17,
+   "std": 12.04,
    "opp": "PIT"
   },
   "7595": {
@@ -1311,15 +1303,15 @@
    "opp": "CAR"
   },
   "7564": {
-   "half": 16.75,
-   "ppr": 19.85,
-   "std": 13.64,
+   "half": 16.79,
+   "ppr": 19.89,
+   "std": 13.69,
    "opp": "PIT"
   },
   "7865": {
    "half": 1.49,
-   "ppr": 1.81,
-   "std": 1.18,
+   "ppr": 1.8,
+   "std": 1.17,
    "opp": "CIN"
   },
   "8130": {
@@ -1341,9 +1333,9 @@
    "opp": "BUF"
   },
   "8228": {
-   "half": 15.6,
-   "ppr": 17.15,
-   "std": 14.05,
+   "half": 15.55,
+   "ppr": 17.1,
+   "std": 14.0,
    "opp": "CIN"
   },
   "8917": {
@@ -1445,7 +1437,7 @@
   "12543": {
    "half": 0.51,
    "ppr": 0.55,
-   "std": 0.46,
+   "std": 0.47,
    "opp": "PIT"
   },
   "12547": {
@@ -1467,9 +1459,9 @@
    "opp": "DET"
   },
   "13274": {
-   "half": 8.9,
-   "ppr": 11.12,
-   "std": 6.68,
+   "half": 8.87,
+   "ppr": 11.09,
+   "std": 6.66,
    "opp": "CIN"
   },
   "13281": {
@@ -1511,7 +1503,7 @@
   "13477": {
    "half": 0.52,
    "ppr": 0.67,
-   "std": 0.37,
+   "std": 0.38,
    "opp": "PIT"
   },
   "2359": {
@@ -1563,9 +1555,9 @@
    "opp": "NO"
   },
   "7600": {
-   "half": 7.31,
-   "ppr": 8.88,
-   "std": 5.74,
+   "half": 7.28,
+   "ppr": 8.85,
+   "std": 5.71,
    "opp": "CIN"
   },
   "8148": {
@@ -1611,9 +1603,9 @@
    "opp": "ATL"
   },
   "96": {
-   "half": 17.64,
-   "ppr": 17.64,
-   "std": 17.64,
+   "half": 17.53,
+   "ppr": 17.53,
+   "std": 17.53,
    "opp": "CIN"
   },
   "10219": {
@@ -1761,9 +1753,9 @@
    "opp": "NYJ"
   },
   "4993": {
-   "half": 8.21,
-   "ppr": 9.76,
-   "std": 6.67,
+   "half": 8.24,
+   "ppr": 9.78,
+   "std": 6.69,
    "opp": "PIT"
   },
   "6865": {
@@ -1779,9 +1771,9 @@
    "opp": "GB"
   },
   "7021": {
-   "half": 8.9,
-   "ppr": 9.95,
-   "std": 7.86,
+   "half": 8.86,
+   "ppr": 9.91,
+   "std": 7.82,
    "opp": "CIN"
   },
   "7543": {
@@ -1883,7 +1875,7 @@
   "8127": {
    "half": 2.87,
    "ppr": 3.64,
-   "std": 2.1,
+   "std": 2.11,
    "opp": "BAL"
   },
   "12509": {
@@ -1900,14 +1892,14 @@
   },
   "11647": {
    "half": 5.99,
-   "ppr": 6.76,
+   "ppr": 6.77,
    "std": 5.22,
    "opp": "BAL"
   },
   "12670": {
-   "half": 4.21,
-   "ppr": 5.2,
-   "std": 3.22,
+   "half": 3.86,
+   "ppr": 4.77,
+   "std": 2.95,
    "opp": "BAL"
   },
   "5012": {
@@ -1923,9 +1915,9 @@
    "opp": "BAL"
   },
   "9754": {
-   "half": 6.91,
-   "ppr": 8.26,
-   "std": 5.57,
+   "half": 7.29,
+   "ppr": 8.71,
+   "std": 5.87,
    "opp": "BAL"
   },
   "10234": {
@@ -1965,7 +1957,7 @@
    "opp": "LAC"
   },
   "12493": {
-   "half": 3.31,
+   "half": 3.32,
    "ppr": 4.16,
    "std": 2.47,
    "opp": "BAL"
@@ -2001,8 +1993,8 @@
    "opp": "LAC"
   },
   "12507": {
-   "half": 7.19,
-   "ppr": 7.93,
+   "half": 7.2,
+   "ppr": 7.94,
    "std": 6.45,
    "opp": "BAL"
   }
