@@ -427,11 +427,12 @@
     {
       "sleeperId": "13380",
       "name": "Brenen Thompson",
-      "note": "Thompson (hamstring) is doubtful for Monday night's Nov 16 game vs. Baltimore after missing practice Nov 12-13. It would be his third straight missed game.",
+      "note": "Sleeper now lists him out (hamstring) as of 6:28 PM PT Nov 16. Earlier: Thompson (hamstring) is doubtful for Monday night's Nov 16 game vs. Baltimore after missing practice Nov 12-13. It would be his third straight missed game.",
       "tag": "injury",
       "redraftAdj": 0.9,
       "dynastyAdj": 1.0,
-      "status": "Doubtful"
+      "status": "Out",
+      "auto": true
     },
     {
       "sleeperId": "5872",
@@ -936,7 +937,17 @@
       "sleeperId": "9511",
       "status": null,
       "tag": "injury"
+    },
+    {
+      "sleeperId": "13268",
+      "name": "Elijah Sarratt",
+      "note": "Sleeper now lists him out (coach's decision) as of 6:28 PM PT Nov 16.",
+      "tag": "injury",
+      "redraftAdj": 0.9,
+      "dynastyAdj": 1.0,
+      "status": "Out",
+      "auto": true
     }
   ],
-  "statusChecked": "10:33 AM PT Nov 16"
+  "statusChecked": "6:28 PM PT Nov 16"
 }
