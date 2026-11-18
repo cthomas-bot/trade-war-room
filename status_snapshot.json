@@ -7,6 +7,11 @@
    "qb1": null,
    "t": "LV"
   },
+  "10218": {
+   "i": null,
+   "qb1": null,
+   "t": "HOU"
+  },
   "10219": {
    "changed": "2026-11-14T01:27:19.760674+00:00",
    "i": null,
@@ -39,6 +44,8 @@
    "t": "DET"
   },
   "11199": {
+   "changed": null,
+   "entry": null,
    "i": null,
    "qb1": null,
    "t": "HOU"
@@ -379,6 +386,8 @@
    "t": "DEN"
   },
   "12494": {
+   "changed": null,
+   "entry": null,
    "i": null,
    "qb1": true,
    "t": "MIA"
@@ -390,6 +399,8 @@
    "t": "MIA"
   },
   "12499": {
+   "changed": null,
+   "entry": null,
    "i": null,
    "qb1": null,
    "t": "TEN"
@@ -548,6 +559,8 @@
    "t": "NO"
   },
   "12718": {
+   "changed": null,
+   "entry": null,
    "i": null,
    "qb1": null,
    "t": "LAR"
@@ -730,9 +743,18 @@
    "t": "WAS"
   },
   "13302": {
-   "changed": null,
-   "entry": null,
-   "i": "IR",
+   "changed": "2026-11-18T20:32:57.794491+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 0.99,
+    "name": "Adam Randall",
+    "note": "Cleared: no longer on Sleeper's injury report (was on injured reserve) as of 12:32 PM PT Nov 18. Earlier: Randall remains on IR after not playing Nov. 16 vs. the Chargers. His practice window opened in late October, so an activation decision is due soon.",
+    "redraftAdj": 0.98,
+    "sleeperId": "13302",
+    "status": null,
+    "tag": "injury"
+   },
+   "i": null,
    "qb1": null,
    "t": "BAL"
   },
@@ -925,6 +947,8 @@
    "t": "IND"
   },
   "13425": {
+   "changed": null,
+   "entry": null,
    "i": null,
    "qb1": false,
    "t": "TB"
@@ -1025,9 +1049,18 @@
    "t": "WAS"
   },
   "2505": {
-   "changed": null,
-   "entry": null,
-   "i": null,
+   "changed": "2026-11-18T20:32:57.794491+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Darren Waller",
+    "note": "Sleeper now lists him questionable (knee) as of 12:32 PM PT Nov 18.",
+    "redraftAdj": 0.98,
+    "sleeperId": "2505",
+    "status": "Questionable",
+    "tag": "injury"
+   },
+   "i": "Questionable",
    "qb1": null,
    "t": "CAR"
   },
@@ -1509,16 +1542,6 @@
   },
   "7547": {
    "changed": "2026-11-15T15:40:11.916398+00:00",
-   "entry": {
-    "auto": true,
-    "dynastyAdj": 1.0,
-    "name": "Amon-Ra St. Brown",
-    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 7:40 AM PT Nov 15. Earlier: Detroit's Nov 13 final report lists St. Brown questionable (ribs) for the Nov 15 game in Munich after limited practice. Reports call him likely to play.",
-    "redraftAdj": 1.0,
-    "sleeperId": "7547",
-    "status": null,
-    "tag": "injury"
-   },
    "i": null,
    "qb1": null,
    "t": "DET"
@@ -1594,16 +1617,6 @@
   },
   "7611": {
    "changed": "2026-11-15T15:40:11.916398+00:00",
-   "entry": {
-    "auto": true,
-    "dynastyAdj": 1.01,
-    "name": "Rhamondre Stevenson",
-    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 7:40 AM PT Nov 15. Earlier: Stevenson (knee) is officially active for the Nov. 15 game against Detroit in Munich after being listed questionable. He was limited Thursday and Friday and may not be at 100%, but Henderson's move to IR leaves him as the lead back.",
-    "redraftAdj": 1.0,
-    "sleeperId": "7611",
-    "status": null,
-    "tag": "injury"
-   },
    "i": null,
    "qb1": null,
    "t": "NE"
@@ -1794,6 +1807,8 @@
    "t": "SF"
   },
   "8210": {
+   "changed": null,
+   "entry": null,
    "i": null,
    "qb1": null,
    "t": "WAS"
@@ -1905,13 +1920,6 @@
    "i": null,
    "qb1": null,
    "t": "KC"
-  },
-  "9501": {
-   "changed": null,
-   "entry": null,
-   "i": null,
-   "qb1": null,
-   "t": "NE"
   },
   "9502": {
    "changed": "2026-11-12T22:57:00.227365+00:00",
