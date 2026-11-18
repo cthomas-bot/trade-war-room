@@ -479,16 +479,6 @@
   },
   "12529": {
    "changed": "2026-11-15T01:04:05.034498+00:00",
-   "entry": {
-    "auto": true,
-    "dynastyAdj": 0.97,
-    "name": "TreVeyon Henderson",
-    "note": "Sleeper now lists him on injured reserve (illness) as of 5:04 PM PT Nov 14. Earlier: Henderson (illness) has been ruled out for Week 10 vs. Detroit, his third straight missed game. There has been no public timeline since he was hospitalized with neurological symptoms in early November.",
-    "redraftAdj": 0.7,
-    "sleeperId": "12529",
-    "status": "IR",
-    "tag": "injury"
-   },
    "i": "IR",
    "qb1": null,
    "t": "NE"
@@ -1518,18 +1508,18 @@
    "t": "ARI"
   },
   "8126": {
-   "changed": "2026-11-16T01:03:15.914551+00:00",
+   "changed": "2026-11-18T02:54:27.448865+00:00",
    "entry": {
     "auto": true,
-    "dynastyAdj": 1.0,
+    "dynastyAdj": 0.97,
     "name": "Wan'Dale Robinson",
-    "note": "Sleeper now lists him questionable (ankle) as of 5:03 PM PT Nov 15.",
-    "redraftAdj": 0.98,
+    "note": "Sleeper now lists him on injured reserve (ankle) as of 6:54 PM PT Nov 17. Earlier: Robinson (ankle) was questionable to return and left the Nov 15 game early, playing 20 of 57 snaps with 3 catches for 10 yards (per Sleeper). Sleeper still lists him as questionable; no post-game update was found.",
+    "redraftAdj": 0.7,
     "sleeperId": "8126",
-    "status": "Questionable",
+    "status": "IR",
     "tag": "injury"
    },
-   "i": "Questionable",
+   "i": "IR",
    "qb1": null,
    "t": "TEN"
   },
@@ -1794,16 +1784,6 @@
   },
   "9511": {
    "changed": "2026-11-15T01:04:05.034498+00:00",
-   "entry": {
-    "auto": true,
-    "dynastyAdj": 1.0,
-    "name": "Keaton Mitchell",
-    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 5:04 PM PT Nov 14.",
-    "redraftAdj": 1.0,
-    "sleeperId": "9511",
-    "status": null,
-    "tag": "injury"
-   },
    "i": null,
    "qb1": null,
    "t": "LAC"

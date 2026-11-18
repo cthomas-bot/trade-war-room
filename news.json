@@ -607,11 +607,12 @@
     {
       "sleeperId": "8126",
       "name": "Wan'Dale Robinson",
-      "note": "Robinson (ankle) was questionable to return and left the Nov 15 game early, playing 20 of 57 snaps with 3 catches for 10 yards (per Sleeper). Sleeper still lists him as questionable; no post-game update was found.",
+      "note": "Sleeper now lists him on injured reserve (ankle) as of 6:54 PM PT Nov 17. Earlier: Robinson (ankle) was questionable to return and left the Nov 15 game early, playing 20 of 57 snaps with 3 catches for 10 yards (per Sleeper). Sleeper still lists him as questionable; no post-game update was found.",
       "tag": "injury",
-      "redraftAdj": 0.85,
-      "dynastyAdj": 0.99,
-      "status": "Questionable"
+      "redraftAdj": 0.7,
+      "dynastyAdj": 0.97,
+      "status": "IR",
+      "auto": true
     },
     {
       "sleeperId": "11635",
@@ -933,5 +934,5 @@
       "tag": "injury"
     }
   ],
-  "statusChecked": "12:56 PM PT Nov 17"
+  "statusChecked": "6:54 PM PT Nov 17"
 }
