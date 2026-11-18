@@ -38,6 +38,11 @@
    "qb1": null,
    "t": "DET"
   },
+  "11199": {
+   "i": null,
+   "qb1": null,
+   "t": "HOU"
+  },
   "11435": {
    "changed": "2026-11-15T21:03:05.967553+00:00",
    "entry": {
@@ -140,18 +145,18 @@
    "t": "LAR"
   },
   "11604": {
-   "changed": "2026-11-16T01:03:15.914551+00:00",
+   "changed": "2026-11-18T11:44:20.156777+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 1.0,
     "name": "Brock Bowers",
-    "note": "Sleeper now lists him out (ankle) as of 5:03 PM PT Nov 15.",
-    "redraftAdj": 0.9,
+    "note": "Sleeper now lists him questionable (ankle) as of 3:44 AM PT Nov 18. Earlier: Bowers hurt his right ankle on the opening drive in Week 10 (11 snaps, 2-18). On Monday, Nov 16, coach Klint Kubiak called him day-to-day, saying the injury is 'not as bad as we thought' but 'still a significant injury'; a high-ankle sprain has been reported but not confirmed, and his Week 11 status vs. Denver is uncertain.",
+    "redraftAdj": 0.98,
     "sleeperId": "11604",
-    "status": "Out",
+    "status": "Questionable",
     "tag": "injury"
    },
-   "i": "Out",
+   "i": "Questionable",
    "qb1": null,
    "t": "LV"
   },
@@ -198,8 +203,18 @@
    "t": "NYJ"
   },
   "11628": {
-   "changed": "2026-11-14T01:27:19.760674+00:00",
-   "i": "Out",
+   "changed": "2026-11-18T11:44:20.156777+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Marvin Harrison Jr.",
+    "note": "Sleeper now lists him questionable (hamstring) as of 3:44 AM PT Nov 18. Earlier: Harrison (hamstring) did not practice late last week and missed the Nov 15 game vs. Cleveland. Houston plays again Thursday, so his Week 11 status is doubtful.",
+    "redraftAdj": 0.98,
+    "sleeperId": "11628",
+    "status": "Questionable",
+    "tag": "injury"
+   },
+   "i": "Questionable",
    "qb1": null,
    "t": "HOU"
   },
@@ -223,18 +238,18 @@
    "t": "NYG"
   },
   "11635": {
-   "changed": "2026-11-15T21:03:05.967553+00:00",
+   "changed": "2026-11-18T11:44:20.156777+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 1.0,
     "name": "Ladd McConkey",
-    "note": "Sleeper now lists him out (back) as of 1:03 PM PT Nov 15. Earlier: McConkey (back) was active but did not play in Week 9, and Jim Harbaugh called him day-to-day. The Chargers play Monday night, Nov 16 at Baltimore, so his status may not be settled before Sunday lineups lock.",
-    "redraftAdj": 0.9,
+    "note": "Sleeper now lists him questionable (back) as of 3:44 AM PT Nov 18. Earlier: McConkey (back spasms) sat out the Chargers' Monday night game at Baltimore on Nov 16, and Sleeper still lists him as out. That is his second straight week without game action.",
+    "redraftAdj": 0.98,
     "sleeperId": "11635",
-    "status": "Out",
+    "status": "Questionable",
     "tag": "injury"
    },
-   "i": "Out",
+   "i": "Questionable",
    "qb1": null,
    "t": "LAC"
   },
@@ -302,18 +317,18 @@
    "t": "CLE"
   },
   "12474": {
-   "changed": "2026-11-15T21:03:05.967553+00:00",
+   "changed": "2026-11-18T11:44:20.156777+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 1.0,
     "name": "Woody Marks",
-    "note": "Sleeper now lists him out (concussion) as of 1:03 PM PT Nov 15.",
-    "redraftAdj": 0.9,
+    "note": "Sleeper now lists him doubtful (concussion) as of 3:44 AM PT Nov 18. Earlier: Marks suffered a concussion on Nov. 15 vs. Cleveland and did not return. Reports say he is not likely to be cleared for Houston's short-week Thursday game vs. the Colts (Nov. 19).",
+    "redraftAdj": 0.93,
     "sleeperId": "12474",
     "status": "Out",
     "tag": "injury"
    },
-   "i": "Out",
+   "i": "Doubtful",
    "qb1": null,
    "t": "HOU"
   },
@@ -363,11 +378,21 @@
    "qb1": null,
    "t": "DEN"
   },
+  "12494": {
+   "i": null,
+   "qb1": true,
+   "t": "MIA"
+  },
   "12495": {
    "changed": "2026-10-21T07:53:53.206089+00:00",
    "i": null,
    "qb1": null,
    "t": "MIA"
+  },
+  "12499": {
+   "i": null,
+   "qb1": null,
+   "t": "TEN"
   },
   "12500": {
    "changed": null,
@@ -445,8 +470,18 @@
    "t": "IND"
   },
   "12519": {
-   "changed": "2026-11-09T05:17:38.432989+00:00",
-   "i": "Questionable",
+   "changed": "2026-11-18T11:44:20.156777+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Luther Burden III",
+    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 3:44 AM PT Nov 18. Earlier: Burden (concussion, Nov 8) is still listed questionable on Sleeper after Chicago's Week 10 bye; he must clear the protocol before Week 11.",
+    "redraftAdj": 1.0,
+    "sleeperId": "12519",
+    "status": null,
+    "tag": "injury"
+   },
+   "i": null,
    "qb1": null,
    "t": "CHI"
   },
@@ -490,8 +525,18 @@
    "t": "WAS"
   },
   "12534": {
-   "changed": "2026-11-09T01:21:47.762207+00:00",
-   "i": "Out",
+   "changed": "2026-11-18T11:44:20.156777+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Kyle Monangai",
+    "note": "Sleeper now lists him questionable (toe) as of 3:44 AM PT Nov 18. Earlier: Monangai (toe) is still listed out on Sleeper as of Nov. 16, coming out of Chicago's Week 10 bye. D'Andre Swift remains the lead back.",
+    "redraftAdj": 0.98,
+    "sleeperId": "12534",
+    "status": "Questionable",
+    "tag": "injury"
+   },
+   "i": "Questionable",
    "qb1": null,
    "t": "CHI"
   },
@@ -502,19 +547,24 @@
    "qb1": true,
    "t": "NO"
   },
+  "12718": {
+   "i": null,
+   "qb1": null,
+   "t": "LAR"
+  },
   "13268": {
-   "changed": "2026-11-17T02:28:27.443278+00:00",
+   "changed": "2026-11-18T11:44:20.156777+00:00",
    "entry": {
     "auto": true,
-    "dynastyAdj": 1.0,
+    "dynastyAdj": 0.94,
     "name": "Elijah Sarratt",
-    "note": "Sleeper now lists him out (coach's decision) as of 6:28 PM PT Nov 16.",
-    "redraftAdj": 0.9,
+    "note": "Cleared: no longer on Sleeper's injury report (was out) as of 3:44 AM PT Nov 18. Earlier: Sarratt was out for the Nov 16 MNF game vs. the Chargers as a coach's decision, and Ja'Kobi Lane took on an 11-target role. His spot in Baltimore's rotation is now in question.",
+    "redraftAdj": 0.98,
     "sleeperId": "13268",
-    "status": "Out",
+    "status": null,
     "tag": "injury"
    },
-   "i": "Out",
+   "i": null,
    "qb1": null,
    "t": "BAL"
   },
@@ -554,18 +604,18 @@
    "t": "LAR"
   },
   "13276": {
-   "changed": "2026-11-15T21:03:05.967553+00:00",
+   "changed": "2026-11-18T11:44:20.156777+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 1.0,
     "name": "Omar Cooper Jr.",
-    "note": "Sleeper now lists him out (ankle) as of 1:03 PM PT Nov 15. Earlier: Cooper (ankle) is questionable for Week 10 on Nov 15 after limited practices; he missed time earlier this season with a high ankle sprain, so check inactives before kickoff.",
-    "redraftAdj": 0.9,
+    "note": "Sleeper now lists him questionable (ankle) as of 3:44 AM PT Nov 18. Earlier: Cooper played 1 of 71 snaps on Nov 15 vs. Buffalo before he was ruled out with an aggravation of his ankle injury (he had a high ankle sprain earlier this season). He was set for imaging Monday, Nov 16; no result had been reported as of Tuesday morning.",
+    "redraftAdj": 0.98,
     "sleeperId": "13276",
-    "status": "Out",
+    "status": "Questionable",
     "tag": "injury"
    },
-   "i": "Out",
+   "i": "Questionable",
    "qb1": null,
    "t": "NYJ"
   },
@@ -576,8 +626,18 @@
    "t": "LAR"
   },
   "13279": {
-   "changed": "2026-11-13T20:29:41.047388+00:00",
-   "i": "Out",
+   "changed": "2026-11-18T11:44:20.156777+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Carnell Tate",
+    "note": "Sleeper now lists him questionable (shoulder) as of 3:44 AM PT Nov 18. Earlier: Tate (shoulder) missed the Nov 15 game vs. Jacksonville and Sleeper still lists him out. His Week 11 status is unclear.",
+    "redraftAdj": 0.98,
+    "sleeperId": "13279",
+    "status": "Questionable",
+    "tag": "injury"
+   },
+   "i": "Questionable",
    "qb1": null,
    "t": "TEN"
   },
@@ -607,34 +667,34 @@
    "t": "ARI"
   },
   "13288": {
-   "changed": "2026-11-15T21:03:05.967553+00:00",
+   "changed": "2026-11-18T11:44:20.156777+00:00",
    "entry": {
     "auto": true,
-    "dynastyAdj": 1.0,
+    "dynastyAdj": 0.97,
     "name": "Nicholas Singleton",
-    "note": "Sleeper now lists him out (coach's decision) as of 1:03 PM PT Nov 15.",
-    "redraftAdj": 0.9,
+    "note": "Cleared: no longer on Sleeper's injury report (was out) as of 3:44 AM PT Nov 18. Earlier: Singleton was a healthy scratch (coach's decision) on Nov. 15 vs. Jacksonville, while Tony Pollard (8 catches, 1 TD) and Tyjae Spears both played.",
+    "redraftAdj": 0.98,
     "sleeperId": "13288",
-    "status": "Out",
+    "status": null,
     "tag": "injury"
    },
-   "i": "Out",
+   "i": null,
    "qb1": null,
    "t": "TEN"
   },
   "13289": {
-   "changed": "2026-11-16T01:03:15.914551+00:00",
+   "changed": "2026-11-18T11:44:20.156777+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 1.0,
     "name": "Drew Allar",
-    "note": "Sleeper now lists him out (coach's decision) as of 5:03 PM PT Nov 15.",
-    "redraftAdj": 0.9,
+    "note": "Cleared: no longer on Sleeper's injury report (was out) as of 3:44 AM PT Nov 18.",
+    "redraftAdj": 0.98,
     "sleeperId": "13289",
-    "status": "Out",
+    "status": null,
     "tag": "injury"
    },
-   "i": "Out",
+   "i": null,
    "qb1": false,
    "t": "PIT"
   },
@@ -706,18 +766,18 @@
    "t": "CLE"
   },
   "13311": {
-   "changed": "2026-11-15T21:03:05.967553+00:00",
+   "changed": "2026-11-18T11:44:20.156777+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 1.0,
     "name": "Chris Bell",
-    "note": "Sleeper now lists him out (knee) as of 1:03 PM PT Nov 15. Earlier: Miami listed Bell doubtful (knee) on Nov 13 for the Nov 15 game at Indianapolis after he missed Thursday's practice.",
-    "redraftAdj": 0.9,
+    "note": "Sleeper now lists him questionable (knee) as of 3:44 AM PT Nov 18. Earlier: Bell (knee) missed the Nov 15 game at Indianapolis, and Sleeper still lists him out. Caleb Douglas led Miami's receivers with 8 targets in his absence.",
+    "redraftAdj": 0.98,
     "sleeperId": "13311",
-    "status": "Out",
+    "status": "Questionable",
     "tag": "injury"
    },
-   "i": "Out",
+   "i": "Questionable",
    "qb1": null,
    "t": "MIA"
   },
@@ -802,18 +862,18 @@
    "t": "PHI"
   },
   "13380": {
-   "changed": "2026-11-17T02:28:27.443278+00:00",
+   "changed": "2026-11-18T11:44:20.156777+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 1.0,
     "name": "Brenen Thompson",
-    "note": "Sleeper now lists him out (hamstring) as of 6:28 PM PT Nov 16. Earlier: Thompson (hamstring) is doubtful for Monday night's Nov 16 game vs. Baltimore after missing practice Nov 12-13. It would be his third straight missed game.",
-    "redraftAdj": 0.9,
+    "note": "Sleeper now lists him questionable (hamstring) as of 3:44 AM PT Nov 18. Earlier: Thompson (hamstring) missed the Nov 16 MNF game vs. Baltimore, his third straight absence. His Week 11 availability is unclear.",
+    "redraftAdj": 0.98,
     "sleeperId": "13380",
-    "status": "Out",
+    "status": "Questionable",
     "tag": "injury"
    },
-   "i": "Out",
+   "i": "Questionable",
    "qb1": null,
    "t": "LAC"
   },
@@ -864,6 +924,11 @@
    "qb1": null,
    "t": "IND"
   },
+  "13425": {
+   "i": null,
+   "qb1": false,
+   "t": "TB"
+  },
   "13533": {
    "changed": null,
    "entry": null,
@@ -888,34 +953,34 @@
    "t": "ATL"
   },
   "1373": {
-   "changed": "2026-11-15T21:03:05.967553+00:00",
+   "changed": "2026-11-18T11:44:20.156777+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 1.0,
     "name": "Geno Smith",
-    "note": "Sleeper now lists him out (ankle) as of 1:03 PM PT Nov 15.",
-    "redraftAdj": 0.9,
-    "sleeperId": "1373",
-    "status": "Out",
-    "tag": "injury"
-   },
-   "i": "Out",
-   "qb1": true,
-   "t": "NYJ"
-  },
-  "1466": {
-   "changed": "2026-11-15T21:03:05.967553+00:00",
-   "entry": {
-    "auto": true,
-    "dynastyAdj": 1.0,
-    "name": "Travis Kelce",
-    "note": "Sleeper now lists him questionable (ankle) as of 1:03 PM PT Nov 15.",
+    "note": "Sleeper now lists him questionable (ankle) as of 3:44 AM PT Nov 18. Earlier: Against Buffalo on Nov. 15, he was evaluated for a concussion after a hit late in the first half, came back for one series, then left with an ankle injury and did not return (13-of-21, 148 yards). Aaron Glenn said Smith's availability for Week 11 at the Chargers will be decided during the week.",
     "redraftAdj": 0.98,
-    "sleeperId": "1466",
+    "sleeperId": "1373",
     "status": "Questionable",
     "tag": "injury"
    },
    "i": "Questionable",
+   "qb1": true,
+   "t": "NYJ"
+  },
+  "1466": {
+   "changed": "2026-11-18T11:44:20.156777+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 0.99,
+    "name": "Travis Kelce",
+    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 3:44 AM PT Nov 18. Earlier: Kelce played only 20 of 65 snaps in Week 10 vs. Atlanta on Nov 15 (2-30). Andy Reid tied a calf issue to Kelce's lingering ankle injury, and Kelce said he is 'all good,' but there was no official Week 11 update as of Nov 16.",
+    "redraftAdj": 1.0,
+    "sleeperId": "1466",
+    "status": null,
+    "tag": "injury"
+   },
+   "i": null,
    "qb1": null,
    "t": "KC"
   },
@@ -932,8 +997,18 @@
    "t": "LAR"
   },
   "2216": {
-   "changed": "2026-11-14T01:27:19.760674+00:00",
-   "i": "Out",
+   "changed": "2026-11-18T11:44:20.156777+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Mike Evans",
+    "note": "Sleeper now lists him questionable (achilles) as of 3:44 AM PT Nov 18. Earlier: Evans (Achilles tendinitis) sat out again on Nov 15 at Dallas, and as of Nov 17 no return timeline has been reported.",
+    "redraftAdj": 0.98,
+    "sleeperId": "2216",
+    "status": "Questionable",
+    "tag": "injury"
+   },
+   "i": "Questionable",
    "qb1": null,
    "t": "SF"
   },
@@ -995,8 +1070,18 @@
    "t": "DAL"
   },
   "3321": {
-   "changed": "2026-11-11T21:45:38.431070+00:00",
-   "i": null,
+   "changed": "2026-11-18T11:44:20.156777+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 0.97,
+    "name": "Tyreek Hill",
+    "note": "Sleeper now lists him questionable (knee - acl) as of 3:44 AM PT Nov 18. Earlier: As of mid-November, Hill remains an unsigned free agent coming off ACL surgery. The NFL says his personal-conduct matter is still under review, so a team that signs him could face a suspension.",
+    "redraftAdj": 0.9,
+    "sleeperId": "3321",
+    "status": "Questionable",
+    "tag": "injury"
+   },
+   "i": "Questionable",
    "qb1": null,
    "t": null
   },
@@ -1132,8 +1217,18 @@
    "t": "DEN"
   },
   "5844": {
-   "changed": "2026-11-14T01:27:19.760674+00:00",
-   "i": "Out",
+   "changed": "2026-11-18T11:44:20.156777+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "T.J. Hockenson",
+    "note": "Sleeper now lists him questionable (wrist) as of 3:44 AM PT Nov 18. Earlier: Hockenson (wrist/chest) missed Week 10. On Monday, Nov 16, Kevin O'Connell said the Vikings expect him to progress ahead of Week 11 vs. San Francisco, so he is trending toward a return, but nothing is confirmed.",
+    "redraftAdj": 0.98,
+    "sleeperId": "5844",
+    "status": "Questionable",
+    "tag": "injury"
+   },
+   "i": "Questionable",
    "qb1": null,
    "t": "MIN"
   },
@@ -1191,8 +1286,18 @@
    "t": "SF"
   },
   "5892": {
-   "changed": "2026-11-14T20:43:51.106251+00:00",
-   "i": "Out",
+   "changed": "2026-11-18T11:44:20.156777+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 0.99,
+    "name": "David Montgomery",
+    "note": "Cleared: no longer on Sleeper's injury report (was out) as of 3:44 AM PT Nov 18. Earlier: Montgomery (groin) missed Week 10, and DeMeco Ryans said he is uncertain for Thursday's Nov. 19 game vs. the Colts, calling it day-to-day. With Woody Marks likely out with a concussion, Montgomery would lead the backfield if he is cleared.",
+    "redraftAdj": 0.98,
+    "sleeperId": "5892",
+    "status": null,
+    "tag": "injury"
+   },
+   "i": null,
    "qb1": null,
    "t": "HOU"
   },
@@ -1326,8 +1431,18 @@
    "t": "PIT"
   },
   "7049": {
-   "changed": "2026-11-14T01:27:19.760674+00:00",
-   "i": "Out",
+   "changed": "2026-11-18T11:44:20.156777+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Jauan Jennings",
+    "note": "Sleeper now lists him questionable (calf) as of 3:44 AM PT Nov 18. Earlier: Jennings (calf) missed his second straight game on Nov 15 at Green Bay. No Week 11 update was found as of Nov 16.",
+    "redraftAdj": 0.98,
+    "sleeperId": "7049",
+    "status": "Questionable",
+    "tag": "injury"
+   },
+   "i": "Questionable",
    "qb1": null,
    "t": "MIN"
   },
@@ -1339,14 +1454,34 @@
    "t": "JAX"
   },
   "7525": {
-   "changed": "2026-11-06T21:51:30.270478+00:00",
-   "i": "Out",
+   "changed": "2026-11-18T11:44:20.156777+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "DeVonta Smith",
+    "note": "Sleeper now lists him questionable (hamstring) as of 3:44 AM PT Nov 18. Earlier: Smith (hamstring) has missed three straight games, the last of them before Philadelphia's Week 10 bye. Sleeper still lists him out, and Week 11 is the earliest he could return.",
+    "redraftAdj": 0.98,
+    "sleeperId": "7525",
+    "status": "Questionable",
+    "tag": "injury"
+   },
+   "i": "Questionable",
    "qb1": null,
    "t": "PHI"
   },
   "7526": {
-   "changed": "2026-11-08T20:48:27.220189+00:00",
-   "i": "Out",
+   "changed": "2026-11-18T11:44:20.156777+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Jaylen Waddle",
+    "note": "Sleeper now lists him questionable (concussion) as of 3:44 AM PT Nov 18. Earlier: Waddle (concussion, Nov 8) went through the protocol during Denver's Week 10 bye. He is aiming to return Nov 22 vs. Las Vegas.",
+    "redraftAdj": 0.98,
+    "sleeperId": "7526",
+    "status": "Questionable",
+    "tag": "injury"
+   },
+   "i": "Questionable",
    "qb1": null,
    "t": "DEN"
   },
@@ -1612,8 +1747,18 @@
    "t": "LAR"
   },
   "8151": {
-   "changed": "2026-11-14T20:43:51.106251+00:00",
-   "i": "Out",
+   "changed": "2026-11-18T11:44:20.156777+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Kenneth Walker III",
+    "note": "Sleeper now lists him questionable (groin) as of 3:44 AM PT Nov 18. Earlier: Walker (groin) missed the Nov. 15 win at Atlanta and is still listed out on Sleeper. His next chance to play is Week 11 vs. Arizona on Nov. 22, but rookie Emmett Johnson's 171-yard, 2-TD start could cut into his workload.",
+    "redraftAdj": 0.98,
+    "sleeperId": "8151",
+    "status": "Questionable",
+    "tag": "injury"
+   },
+   "i": "Questionable",
    "qb1": null,
    "t": "KC"
   },
@@ -1647,6 +1792,11 @@
    "i": null,
    "qb1": true,
    "t": "SF"
+  },
+  "8210": {
+   "i": null,
+   "qb1": null,
+   "t": "WAS"
   },
   "8228": {
    "changed": null,
@@ -1716,8 +1866,18 @@
    "t": "GB"
   },
   "9486": {
-   "changed": "2026-11-06T21:51:30.270478+00:00",
-   "i": "Out",
+   "changed": "2026-11-18T11:44:20.156777+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Dontayvion Wicks",
+    "note": "Sleeper now lists him questionable (ankle) as of 3:44 AM PT Nov 18.",
+    "redraftAdj": 0.98,
+    "sleeperId": "9486",
+    "status": "Questionable",
+    "tag": "injury"
+   },
+   "i": "Questionable",
    "qb1": null,
    "t": "PHI"
   },
@@ -1758,22 +1918,6 @@
    "i": null,
    "qb1": null,
    "t": "HOU"
-  },
-  "9508": {
-   "changed": "2026-11-15T21:03:05.967553+00:00",
-   "entry": {
-    "auto": true,
-    "dynastyAdj": 1.0,
-    "name": "Tyjae Spears",
-    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 1:03 PM PT Nov 15. Earlier: Spears (knee) practiced fully Friday, Nov. 13, after sitting Wednesday and being limited Thursday. He remains questionable for Week 10 against Jacksonville and is the Titans' only questionable player.",
-    "redraftAdj": 1.0,
-    "sleeperId": "9508",
-    "status": null,
-    "tag": "injury"
-   },
-   "i": null,
-   "qb1": null,
-   "t": "TEN"
   },
   "9509": {
    "changed": null,
