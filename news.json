@@ -31,20 +31,22 @@
     {
       "sleeperId": "4892",
       "name": "Baker Mayfield",
-      "note": "NFL Network reported Nov. 15 that his Week 11 status vs. Detroit is in doubt because of a lower-leg (ankle/foot) injury from the Nov. 8 loss to Chicago. Tampa Bay will monitor him as practice resumes this week, and no practice report was available as of Nov. 18.",
-      "tag": "injury",
+      "tag": "role_down",
       "redraftAdj": 0.8,
-      "dynastyAdj": 1.0,
-      "status": "Questionable"
+      "dynastyAdj": 0.95,
+      "status": "Questionable",
+      "auto": true,
+      "note": "Sleeper's depth chart now has him as TB's backup QB as of 6:34 PM PT Nov 18."
     },
     {
       "sleeperId": "13425",
       "name": "Jalon Daniels",
-      "note": "He is the likely Week 11 starter vs. Detroit if Baker Mayfield (ankle/foot) can't practice early this week, per a Nov. 2026 SI report.",
       "tag": "role_up",
-      "redraftAdj": 1.15,
-      "dynastyAdj": 1.02,
-      "status": ""
+      "redraftAdj": 1.2,
+      "dynastyAdj": 1.05,
+      "status": "",
+      "auto": true,
+      "note": "Sleeper's depth chart now has him as TB's starting QB as of 6:34 PM PT Nov 18."
     },
     {
       "sleeperId": "5849",
@@ -175,11 +177,12 @@
     {
       "sleeperId": "12474",
       "name": "Woody Marks",
-      "note": "Marks (concussion) did not practice Tuesday, Nov. 17, and Ryans said he is unlikely to play Thursday vs. the Colts. He is listed as doubtful.",
+      "note": "Sleeper now lists him out (concussion) as of 6:34 PM PT Nov 18. Earlier: Marks (concussion) did not practice Tuesday, Nov. 17, and Ryans said he is unlikely to play Thursday vs. the Colts. He is listed as doubtful.",
       "tag": "injury",
       "redraftAdj": 0.85,
       "dynastyAdj": 1.0,
-      "status": "Doubtful"
+      "status": "Out",
+      "auto": true
     },
     {
       "sleeperId": "5850",
@@ -229,11 +232,12 @@
     {
       "sleeperId": "12534",
       "name": "Kyle Monangai",
-      "note": "Monangai (toe) has been upgraded to questionable on Sleeper (Nov. 18) after Chicago's Week 10 bye. D'Andre Swift remains the lead back.",
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 6:34 PM PT Nov 18. Earlier: Monangai (toe) has been upgraded to questionable on Sleeper (Nov. 18) after Chicago's Week 10 bye. D'Andre Swift remains the lead back.",
       "tag": "injury",
-      "redraftAdj": 0.98,
+      "redraftAdj": 1.0,
       "dynastyAdj": 1.0,
-      "status": "Questionable"
+      "status": null,
+      "auto": true
     },
     {
       "sleeperId": "11586",
@@ -437,11 +441,12 @@
     {
       "sleeperId": "7049",
       "name": "Jauan Jennings",
-      "note": "Jennings (calf) has missed two straight games, the latest on Nov 15 at Green Bay. Sleeper lists him questionable as of Nov 18, and with Jordan Addison now out after thumb surgery, he is in line for more targets if he returns.",
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 6:34 PM PT Nov 18. Earlier: Jennings (calf) has missed two straight games, the latest on Nov 15 at Green Bay. Sleeper lists him questionable as of Nov 18, and with Jordan Addison now out after thumb surgery, he is in line for more targets if he returns.",
       "tag": "injury",
       "redraftAdj": 1.0,
       "dynastyAdj": 1.0,
-      "status": "Questionable"
+      "status": null,
+      "auto": true
     },
     {
       "sleeperId": "13311",
@@ -455,11 +460,12 @@
     {
       "sleeperId": "13296",
       "name": "Caleb Douglas",
-      "note": "With Chris Bell (knee) out on Nov 15, Douglas played 58 of 69 snaps and caught 3 of 8 targets for 71 yards. Bell was upgraded to questionable on Nov 18, which puts Douglas' expanded role at risk.",
-      "tag": "role_up",
-      "redraftAdj": 1.04,
-      "dynastyAdj": 1.02,
-      "status": ""
+      "note": "Sleeper now lists him questionable (shoulder) as of 6:34 PM PT Nov 18. Earlier: With Chris Bell (knee) out on Nov 15, Douglas played 58 of 69 snaps and caught 3 of 8 targets for 71 yards. Bell was upgraded to questionable on Nov 18, which puts Douglas' expanded role at risk.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
+      "status": "Questionable",
+      "auto": true
     },
     {
       "sleeperId": "13279",
@@ -563,11 +569,12 @@
     {
       "sleeperId": "11628",
       "name": "Marvin Harrison Jr.",
-      "note": "Harrison (hamstring) missed the Nov 15 game vs. Cleveland after not practicing late last week, and Sleeper lists him questionable as of Nov 18. Houston hosts the Colts on Thursday, Nov 19, so the short week makes his availability shaky; no Wednesday practice estimate had been found.",
+      "note": "Sleeper now lists him out (hamstring) as of 6:34 PM PT Nov 18. Earlier: Harrison (hamstring) missed the Nov 15 game vs. Cleveland after not practicing late last week, and Sleeper lists him questionable as of Nov 18. Houston hosts the Colts on Thursday, Nov 19, so the short week makes his availability shaky; no Wednesday practice estimate had been found.",
       "tag": "injury",
       "redraftAdj": 0.85,
       "dynastyAdj": 1.0,
-      "status": "Questionable"
+      "status": "Out",
+      "auto": true
     },
     {
       "sleeperId": "7569",
@@ -689,11 +696,12 @@
     {
       "sleeperId": "13281",
       "name": "Jordyn Tyson",
-      "note": "Tyson caught 11 of 13 targets for 80 yards on Nov 15 (per Sleeper). RotoBaller ranks him the top overall Week 11 waiver add, with WR3/flex appeal against Chicago.",
-      "tag": "role_up",
-      "redraftAdj": 1.06,
-      "dynastyAdj": 1.02,
-      "status": ""
+      "note": "Sleeper now lists him questionable (chest) as of 6:34 PM PT Nov 18. Earlier: Tyson caught 11 of 13 targets for 80 yards on Nov 15 (per Sleeper). RotoBaller ranks him the top overall Week 11 waiver add, with WR3/flex appeal against Chicago.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
+      "status": "Questionable",
+      "auto": true
     },
     {
       "sleeperId": "12718",
@@ -915,7 +923,47 @@
       "sleeperId": "9486",
       "status": "Questionable",
       "tag": "injury"
+    },
+    {
+      "sleeperId": "10219",
+      "name": "Chris Rodriguez Jr.",
+      "note": "Sleeper now lists him questionable (hand) as of 6:34 PM PT Nov 18.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
+      "status": "Questionable",
+      "auto": true
+    },
+    {
+      "sleeperId": "10236",
+      "name": "Dalton Kincaid",
+      "note": "Sleeper now lists him questionable (thumb) as of 6:34 PM PT Nov 18.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
+      "status": "Questionable",
+      "auto": true
+    },
+    {
+      "sleeperId": "12490",
+      "name": "Bhayshul Tuten",
+      "note": "Sleeper now lists him questionable (ankle) as of 6:34 PM PT Nov 18.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
+      "status": "Questionable",
+      "auto": true
+    },
+    {
+      "sleeperId": "5947",
+      "name": "Jakobi Meyers",
+      "note": "Sleeper now lists him questionable (appendix) as of 6:34 PM PT Nov 18.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
+      "status": "Questionable",
+      "auto": true
     }
   ],
-  "statusChecked": "12:32 PM PT Nov 18"
+  "statusChecked": "6:34 PM PT Nov 18"
 }
