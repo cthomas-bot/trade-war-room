@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T13:58:36+00:00",
+ "updated": "2026-11-19T13:58:55+00:00",
  "leagues": {
   "1349553170841374720": {
    "1131806998242168832": {
@@ -149,7 +149,7 @@
      "season": 0,
      "last": 2
     },
-    "moves": 28,
+    "moves": 29,
     "tradeRate": "rare",
     "partners": [
      "1110607628964659200",
@@ -345,7 +345,7 @@
      "season": 1,
      "last": null
     },
-    "moves": 27,
+    "moves": 30,
     "tradeRate": "very active",
     "partners": [
      "1110607628964659200"
@@ -363,12 +363,14 @@
     "rank": 2,
     "stance": "contender",
     "trades": {
-     "season": 0,
+     "season": 1,
      "last": null
     },
     "moves": 16,
     "tradeRate": "active",
-    "partners": [],
+    "partners": [
+     "1350284851969818624"
+    ],
     "notes": [],
     "rules": {},
     "rejected": []
@@ -380,13 +382,14 @@
     "rank": 5,
     "stance": "bubble",
     "trades": {
-     "season": 4,
+     "season": 5,
      "last": null
     },
     "moves": 23,
     "tradeRate": "very active",
     "partners": [
      "1110607628964659200",
+     "1131806998242168832",
      "1133579780299030528"
     ],
     "notes": [
