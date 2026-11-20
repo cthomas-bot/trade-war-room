@@ -31,11 +31,12 @@
     {
       "sleeperId": "4892",
       "name": "Baker Mayfield",
-      "note": "His Week 11 status vs. Detroit is in doubt with a foot/lower-leg injury from the Nov. 8 loss at Chicago, and he wore a walking boot during the bye. As of Nov. 18, Sleeper's depth chart lists him as Tampa Bay's backup behind Jalon Daniels.",
-      "tag": "injury",
-      "redraftAdj": 0.6,
-      "dynastyAdj": 0.95,
-      "status": "Questionable"
+      "tag": "role_up",
+      "redraftAdj": 1.2,
+      "dynastyAdj": 1.05,
+      "status": "Questionable",
+      "auto": true,
+      "note": "Sleeper's depth chart now has him as TB's starting QB as of 6:19 PM PT Nov 19."
     },
     {
       "sleeperId": "13425",
@@ -148,11 +149,12 @@
     {
       "sleeperId": "13272",
       "name": "Carson Beck",
-      "note": "He remains Arizona's starter with Gardner Minshew on IR, despite a 108-yard, 2-INT debut start on Nov. 15. His fantasy floor is very low.",
-      "tag": "role_down",
+      "note": "Sleeper now lists him questionable (back) as of 6:19 PM PT Nov 19. Earlier: He remains Arizona's starter with Gardner Minshew on IR, despite a 108-yard, 2-INT debut start on Nov. 15. His fantasy floor is very low.",
+      "tag": "injury",
       "redraftAdj": 0.9,
       "dynastyAdj": 0.98,
-      "status": ""
+      "status": "Questionable",
+      "auto": true
     },
     {
       "sleeperId": "4017",
@@ -445,11 +447,12 @@
     {
       "sleeperId": "7525",
       "name": "DeVonta Smith",
-      "note": "Smith (hamstring) was limited in practice on Wednesday, Nov 18, after missing the three games before Philadelphia's bye. He is on track to return in Week 11 vs. Pittsburgh if he gets more work in later this week.",
-      "tag": "return",
-      "redraftAdj": 0.95,
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 6:19 PM PT Nov 19. Earlier: Smith (hamstring) was limited in practice on Wednesday, Nov 18, after missing the three games before Philadelphia's bye. He is on track to return in Week 11 vs. Pittsburgh if he gets more work in later this week.",
+      "tag": "injury",
+      "redraftAdj": 1.0,
       "dynastyAdj": 1.0,
-      "status": "Questionable"
+      "status": null,
+      "auto": true
     },
     {
       "sleeperId": "13279",
@@ -807,7 +810,17 @@
       "sleeperId": "9486",
       "status": "Questionable",
       "tag": "injury"
+    },
+    {
+      "sleeperId": "12467",
+      "name": "Jordan James",
+      "note": "Sleeper now lists him questionable (calf) as of 6:19 PM PT Nov 19.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
+      "status": "Questionable",
+      "auto": true
     }
   ],
-  "statusChecked": "12:38 PM PT Nov 19"
+  "statusChecked": "6:19 PM PT Nov 19"
 }

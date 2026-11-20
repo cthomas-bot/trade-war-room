@@ -304,8 +304,18 @@
    "t": "NO"
   },
   "12467": {
-   "changed": "2026-10-07T08:36:37.043387+00:00",
-   "i": null,
+   "changed": "2026-11-20T02:19:43.934644+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Jordan James",
+    "note": "Sleeper now lists him questionable (calf) as of 6:19 PM PT Nov 19.",
+    "redraftAdj": 0.98,
+    "sleeperId": "12467",
+    "status": "Questionable",
+    "tag": "injury"
+   },
+   "i": "Questionable",
    "qb1": null,
    "t": "SF"
   },
@@ -419,6 +429,11 @@
    "i": null,
    "qb1": null,
    "t": "GB"
+  },
+  "12502": {
+   "i": null,
+   "qb1": null,
+   "t": "TEN"
   },
   "12504": {
    "changed": null,
@@ -548,6 +563,8 @@
    "t": "CHI"
   },
   "12540": {
+   "changed": null,
+   "entry": null,
    "i": null,
    "qb1": null,
    "t": "TEN"
@@ -589,8 +606,18 @@
    "t": "LV"
   },
   "13272": {
-   "changed": "2026-11-11T02:59:29.709655+00:00",
-   "i": null,
+   "changed": "2026-11-20T02:19:43.934644+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 0.98,
+    "name": "Carson Beck",
+    "note": "Sleeper now lists him questionable (back) as of 6:19 PM PT Nov 19. Earlier: He remains Arizona's starter with Gardner Minshew on IR, despite a 108-yard, 2-INT debut start on Nov. 15. His fantasy floor is very low.",
+    "redraftAdj": 0.9,
+    "sleeperId": "13272",
+    "status": "Questionable",
+    "tag": "injury"
+   },
+   "i": "Questionable",
    "qb1": true,
    "t": "ARI"
   },
@@ -1169,19 +1196,19 @@
    "t": "BAL"
   },
   "4892": {
-   "changed": "2026-11-19T02:34:52.153307+00:00",
+   "changed": "2026-11-20T02:19:43.934644+00:00",
    "entry": {
     "auto": true,
-    "dynastyAdj": 0.95,
+    "dynastyAdj": 1.05,
     "name": "Baker Mayfield",
-    "note": "Sleeper's depth chart now has him as TB's backup QB as of 6:34 PM PT Nov 18.",
-    "redraftAdj": 0.8,
+    "note": "Sleeper's depth chart now has him as TB's starting QB as of 6:19 PM PT Nov 19.",
+    "redraftAdj": 1.2,
     "sleeperId": "4892",
     "status": "Questionable",
-    "tag": "role_down"
+    "tag": "role_up"
    },
    "i": "Questionable",
-   "qb1": false,
+   "qb1": true,
    "t": "TB"
   },
   "4943": {
@@ -1209,6 +1236,11 @@
    "i": null,
    "qb1": null,
    "t": "CIN"
+  },
+  "5001": {
+   "i": null,
+   "qb1": null,
+   "t": "HOU"
   },
   "5022": {
    "changed": "2026-10-24T20:39:43.488750+00:00",
@@ -1461,18 +1493,18 @@
    "t": "JAX"
   },
   "7525": {
-   "changed": "2026-11-18T11:44:20.156777+00:00",
+   "changed": "2026-11-20T02:19:43.934644+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 1.0,
     "name": "DeVonta Smith",
-    "note": "Sleeper now lists him questionable (hamstring) as of 3:44 AM PT Nov 18. Earlier: Smith (hamstring) has missed three straight games, the last of them before Philadelphia's Week 10 bye. Sleeper still lists him out, and Week 11 is the earliest he could return.",
-    "redraftAdj": 0.98,
+    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 6:19 PM PT Nov 19. Earlier: Smith (hamstring) was limited in practice on Wednesday, Nov 18, after missing the three games before Philadelphia's bye. He is on track to return in Week 11 vs. Pittsburgh if he gets more work in later this week.",
+    "redraftAdj": 1.0,
     "sleeperId": "7525",
-    "status": "Questionable",
+    "status": null,
     "tag": "injury"
    },
-   "i": "Questionable",
+   "i": null,
    "qb1": null,
    "t": "PHI"
   },
@@ -1598,22 +1630,6 @@
    "i": null,
    "qb1": null,
    "t": "ARI"
-  },
-  "8126": {
-   "changed": "2026-11-18T02:54:27.448865+00:00",
-   "entry": {
-    "auto": true,
-    "dynastyAdj": 0.97,
-    "name": "Wan'Dale Robinson",
-    "note": "Sleeper now lists him on injured reserve (ankle) as of 6:54 PM PT Nov 17. Earlier: Robinson (ankle) was questionable to return and left the Nov 15 game early, playing 20 of 57 snaps with 3 catches for 10 yards (per Sleeper). Sleeper still lists him as questionable; no post-game update was found.",
-    "redraftAdj": 0.7,
-    "sleeperId": "8126",
-    "status": "IR",
-    "tag": "injury"
-   },
-   "i": "IR",
-   "qb1": null,
-   "t": "TEN"
   },
   "8130": {
    "changed": null,
