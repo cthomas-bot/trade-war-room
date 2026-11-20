@@ -43,18 +43,18 @@
    "t": "ARI"
   },
   "10236": {
-   "changed": "2026-11-19T02:34:52.153307+00:00",
+   "changed": "2026-11-20T20:22:43.759513+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 1.0,
     "name": "Dalton Kincaid",
-    "note": "Sleeper now lists him questionable (thumb) as of 6:34 PM PT Nov 18.",
-    "redraftAdj": 0.98,
+    "note": "Sleeper now lists him doubtful (thumb) as of 12:22 PM PT Nov 20. Earlier: Kincaid (thumb/ankle) did not practice Wednesday, Nov 18, and is listed as questionable for Week 11 vs. Miami. Dawson Knox would be next up if he is limited or out.",
+    "redraftAdj": 0.92,
     "sleeperId": "10236",
-    "status": "Questionable",
+    "status": "Out",
     "tag": "injury"
    },
-   "i": "Questionable",
+   "i": "Doubtful",
    "qb1": null,
    "t": "BUF"
   },
@@ -593,6 +593,11 @@
    "qb1": true,
    "t": "LV"
   },
+  "13270": {
+   "i": null,
+   "qb1": null,
+   "t": "LAR"
+  },
   "13272": {
    "changed": "2026-11-20T02:19:43.934644+00:00",
    "entry": {
@@ -623,18 +628,18 @@
    "t": "LAR"
   },
   "13276": {
-   "changed": "2026-11-18T11:44:20.156777+00:00",
+   "changed": "2026-11-20T20:22:43.759513+00:00",
    "entry": {
     "auto": true,
-    "dynastyAdj": 1.0,
+    "dynastyAdj": 0.99,
     "name": "Omar Cooper Jr.",
-    "note": "Sleeper now lists him questionable (ankle) as of 3:44 AM PT Nov 18. Earlier: Cooper played 1 of 71 snaps on Nov 15 vs. Buffalo before he was ruled out with an aggravation of his ankle injury (he had a high ankle sprain earlier this season). He was set for imaging Monday, Nov 16; no result had been reported as of Tuesday morning.",
-    "redraftAdj": 0.98,
+    "note": "Sleeper now lists him out (ankle) as of 12:22 PM PT Nov 20. Earlier: Cooper (ankle/hip) did not practice Nov 18 after aggravating the ankle Nov 15. No imaging result or Thursday practice status had been reported as of Nov 20, ahead of Sunday vs. the Chargers.",
+    "redraftAdj": 0.8,
     "sleeperId": "13276",
-    "status": "Questionable",
+    "status": "Out",
     "tag": "injury"
    },
-   "i": "Questionable",
+   "i": "Out",
    "qb1": null,
    "t": "NYJ"
   },
@@ -661,18 +666,18 @@
    "t": "TEN"
   },
   "13281": {
-   "changed": "2026-11-19T02:34:52.153307+00:00",
+   "changed": "2026-11-20T20:22:43.759513+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 1.0,
     "name": "Jordyn Tyson",
-    "note": "Sleeper now lists him questionable (chest) as of 6:34 PM PT Nov 18. Earlier: Tyson caught 11 of 13 targets for 80 yards on Nov 15 (per Sleeper). RotoBaller ranks him the top overall Week 11 waiver add, with WR3/flex appeal against Chicago.",
-    "redraftAdj": 0.98,
+    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 12:22 PM PT Nov 20. Earlier: Tyson (chest) was limited at practice Nov 18 after an 11-catch game on Nov 15. No Thursday status had been reported as of Nov 20 for Sunday vs. Chicago.",
+    "redraftAdj": 1.0,
     "sleeperId": "13281",
-    "status": "Questionable",
+    "status": null,
     "tag": "injury"
    },
-   "i": "Questionable",
+   "i": null,
    "qb1": null,
    "t": "NO"
   },
@@ -1062,6 +1067,11 @@
    "qb1": null,
    "t": "CAR"
   },
+  "260": {
+   "i": null,
+   "qb1": false,
+   "t": "ARI"
+  },
   "3163": {
    "changed": "2026-11-12T21:56:55.729955+00:00",
    "i": null,
@@ -1235,6 +1245,8 @@
    "t": "HOU"
   },
   "5012": {
+   "changed": null,
+   "entry": null,
    "i": null,
    "qb1": null,
    "t": "BAL"
@@ -1253,18 +1265,18 @@
    "t": "DEN"
   },
   "5844": {
-   "changed": "2026-11-18T11:44:20.156777+00:00",
+   "changed": "2026-11-20T20:22:43.759513+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 1.0,
     "name": "T.J. Hockenson",
-    "note": "Sleeper now lists him questionable (wrist) as of 3:44 AM PT Nov 18. Earlier: Hockenson (wrist/chest) missed Week 10. On Monday, Nov 16, Kevin O'Connell said the Vikings expect him to progress ahead of Week 11 vs. San Francisco, so he is trending toward a return, but nothing is confirmed.",
-    "redraftAdj": 0.98,
+    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 12:22 PM PT Nov 20. Earlier: Hockenson (wrist/chest) was limited Wednesday, Nov 18, after missing Week 10, and remains questionable for Sunday vs. San Francisco in Mexico City. Kevin O'Connell is hopeful he returns, and Jordan Addison's thumb surgery could mean more targets for him.",
+    "redraftAdj": 1.0,
     "sleeperId": "5844",
-    "status": "Questionable",
+    "status": null,
     "tag": "injury"
    },
-   "i": "Questionable",
+   "i": null,
    "qb1": null,
    "t": "MIN"
   },
@@ -1636,9 +1648,18 @@
    "t": "ARI"
   },
   "8131": {
-   "changed": null,
-   "entry": null,
-   "i": null,
+   "changed": "2026-11-20T20:22:43.759513+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Isaiah Likely",
+    "note": "Sleeper now lists him questionable (undisclosed) as of 12:22 PM PT Nov 20. Earlier: Likely caught 9 of 11 targets for 127 yards and a TD on 57 of 65 snaps in Week 10 (Nov 15). That locks him in as the Giants' every-down TE1 for Week 11.",
+    "redraftAdj": 0.98,
+    "sleeperId": "8131",
+    "status": "Questionable",
+    "tag": "injury"
+   },
+   "i": "Questionable",
    "qb1": null,
    "t": "NYG"
   },
