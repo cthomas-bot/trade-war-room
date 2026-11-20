@@ -276,11 +276,12 @@
     {
       "sleeperId": "13424",
       "name": "Seth McGowan",
-      "note": "As Jonathan Taylor's change-of-pace back in Week 10 (Nov. 15), McGowan turned 17 snaps into 12 carries for 77 yards and a TD. Indianapolis plays at Houston on Thursday, Nov. 19.",
-      "tag": "role_up",
-      "redraftAdj": 1.06,
-      "dynastyAdj": 1.03,
-      "status": ""
+      "note": "Sleeper now lists him out (hamstring) as of 3:41 AM PT Nov 20. Earlier: As Jonathan Taylor's change-of-pace back in Week 10 (Nov. 15), McGowan turned 17 snaps into 12 carries for 77 yards and a TD. Indianapolis plays at Houston on Thursday, Nov. 19.",
+      "tag": "injury",
+      "redraftAdj": 0.9,
+      "dynastyAdj": 1.0,
+      "status": "Out",
+      "auto": true
     },
     {
       "sleeperId": "13287",
@@ -822,5 +823,5 @@
       "auto": true
     }
   ],
-  "statusChecked": "6:19 PM PT Nov 19"
+  "statusChecked": "3:41 AM PT Nov 20"
 }

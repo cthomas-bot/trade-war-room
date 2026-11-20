@@ -383,13 +383,6 @@
    "qb1": null,
    "t": "JAX"
   },
-  "12491": {
-   "changed": null,
-   "entry": null,
-   "i": null,
-   "qb1": null,
-   "t": "NE"
-  },
   "12492": {
    "changed": null,
    "entry": null,
@@ -431,6 +424,8 @@
    "t": "GB"
   },
   "12502": {
+   "changed": null,
+   "entry": null,
    "i": null,
    "qb1": null,
    "t": "TEN"
@@ -575,13 +570,6 @@
    "i": null,
    "qb1": true,
    "t": "NO"
-  },
-  "12718": {
-   "changed": null,
-   "entry": null,
-   "i": null,
-   "qb1": null,
-   "t": "LAR"
   },
   "13268": {
    "changed": "2026-11-18T11:44:20.156777+00:00",
@@ -958,9 +946,18 @@
    "t": "NE"
   },
   "13424": {
-   "changed": null,
-   "entry": null,
-   "i": null,
+   "changed": "2026-11-20T11:41:47.773227+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Seth McGowan",
+    "note": "Sleeper now lists him out (hamstring) as of 3:41 AM PT Nov 20. Earlier: As Jonathan Taylor's change-of-pace back in Week 10 (Nov. 15), McGowan turned 17 snaps into 12 carries for 77 yards and a TD. Indianapolis plays at Houston on Thursday, Nov. 19.",
+    "redraftAdj": 0.9,
+    "sleeperId": "13424",
+    "status": "Out",
+    "tag": "injury"
+   },
+   "i": "Out",
    "qb1": null,
    "t": "IND"
   },
@@ -1157,13 +1154,6 @@
    "qb1": true,
    "t": "KC"
   },
-  "4147": {
-   "changed": null,
-   "entry": null,
-   "i": null,
-   "qb1": null,
-   "t": "CIN"
-  },
   "4199": {
    "changed": "2026-10-30T18:56:59.888718+00:00",
    "i": null,
@@ -1238,9 +1228,16 @@
    "t": "CIN"
   },
   "5001": {
+   "changed": null,
+   "entry": null,
    "i": null,
    "qb1": null,
    "t": "HOU"
+  },
+  "5012": {
+   "i": null,
+   "qb1": null,
+   "t": "BAL"
   },
   "5022": {
    "changed": "2026-10-24T20:39:43.488750+00:00",
