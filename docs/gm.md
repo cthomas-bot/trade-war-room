@@ -69,6 +69,8 @@ Claude runs this team as GM; the user is the owner. **Every trade, waiver claim,
 
 Zero moves is a valid day. Only propose trades that are actually good.
 
+**Usage data (owner's direction, Nov 20):** score WR buy/sell targets with our own utilization report in `utilization/data/` (refreshed every Tuesday; dashboard https://claude.ai/artifact/HkJFXiPoiFPvjNSQsB4neU). Use the `last4` window for trends and `season` for the baseline; the 5-metric WR checklist is pre-scored in `wr_checks`/`wr_tier`. Route %, TPRR and YPRR are estimates (see `utilization/README.md`).
+
 ## Execution (after the owner approves)
 - Use the owner's own Chrome, through Claude in Chrome, when it's connected. Open sleeper.com, build the exact approved offer, and **check every player and pick on the review screen against what was approved** before submitting.
 - If any detail differs, or the browser isn't available, stop. Give the owner exact tap-by-tap steps instead.
