@@ -31,11 +31,12 @@
     {
       "sleeperId": "1373",
       "name": "Geno Smith",
-      "note": "He was limited in practice on Wednesday and Thursday (Nov. 18-19) with a left-ankle injury. He says he plans to play, and the Jets believe he can start Sunday at the Chargers.",
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 6:16 PM PT Nov 20. Earlier: He was limited in practice on Wednesday and Thursday (Nov. 18-19) with a left-ankle injury. He says he plans to play, and the Jets believe he can start Sunday at the Chargers.",
       "tag": "injury",
-      "redraftAdj": 0.9,
+      "redraftAdj": 1.0,
       "dynastyAdj": 1.0,
-      "status": "Questionable"
+      "status": null,
+      "auto": true
     },
     {
       "sleeperId": "13303",
@@ -193,11 +194,12 @@
     {
       "sleeperId": "8151",
       "name": "Kenneth Walker III",
-      "note": "Walker (groin) missed practice again Wednesday, Nov. 18, which leaves his status for Nov. 22 vs. Arizona uncertain despite earlier reports that he was expected to play. Reid called it a sore groin that is improving and said the team won't rush him.",
+      "note": "Sleeper now lists him out (groin) as of 6:16 PM PT Nov 20. Earlier: Walker (groin) missed practice again Wednesday, Nov. 18, which leaves his status for Nov. 22 vs. Arizona uncertain despite earlier reports that he was expected to play. Reid called it a sore groin that is improving and said the team won't rush him.",
       "tag": "injury",
       "redraftAdj": 0.88,
       "dynastyAdj": 1.0,
-      "status": "Questionable"
+      "status": "Out",
+      "auto": true
     },
     {
       "sleeperId": "13337",
@@ -220,20 +222,22 @@
     {
       "sleeperId": "10219",
       "name": "Chris Rodriguez Jr.",
-      "note": "Rodriguez (hand) was a limited practice participant again Wednesday, Nov. 18, and remains questionable for Jacksonville's Week 11 game. He has played through the hand issue before.",
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 6:16 PM PT Nov 20. Earlier: Rodriguez (hand) was a limited practice participant again Wednesday, Nov. 18, and remains questionable for Jacksonville's Week 11 game. He has played through the hand issue before.",
       "tag": "injury",
-      "redraftAdj": 0.97,
+      "redraftAdj": 1.0,
       "dynastyAdj": 1.0,
-      "status": "Questionable"
+      "status": null,
+      "auto": true
     },
     {
       "sleeperId": "12490",
       "name": "Bhayshul Tuten",
-      "note": "Sleeper has listed Tuten questionable (ankle) since Nov. 18 ahead of Jacksonville's Week 11 game, and no practice update has been found yet. Friday's final designation will decide his availability.",
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 6:16 PM PT Nov 20. Earlier: Sleeper has listed Tuten questionable (ankle) since Nov. 18 ahead of Jacksonville's Week 11 game, and no practice update has been found yet. Friday's final designation will decide his availability.",
       "tag": "injury",
-      "redraftAdj": 0.95,
+      "redraftAdj": 1.0,
       "dynastyAdj": 1.0,
-      "status": "Questionable"
+      "status": null,
+      "auto": true
     },
     {
       "sleeperId": "12467",
@@ -384,11 +388,11 @@
     {
       "sleeperId": "8131",
       "name": "Isaiah Likely",
-      "note": "Sleeper now lists him questionable (undisclosed) as of 12:22 PM PT Nov 20. Earlier: Likely caught 9 of 11 targets for 127 yards and a TD on 57 of 65 snaps in Week 10 (Nov 15). That locks him in as the Giants' every-down TE1 for Week 11.",
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 6:16 PM PT Nov 20.",
       "tag": "injury",
-      "redraftAdj": 0.98,
+      "redraftAdj": 1.0,
       "dynastyAdj": 1.0,
-      "status": "Questionable",
+      "status": null,
       "auto": true
     },
     {
@@ -448,11 +452,12 @@
     {
       "sleeperId": "7526",
       "name": "Jaylen Waddle",
-      "note": "Waddle (concussion) practiced fully Nov 18, and reports had him at full again Thursday, Nov 19. He is trending toward playing Nov 22 vs. Las Vegas, pending formal clearance from the protocol.",
-      "tag": "return",
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 6:16 PM PT Nov 20. Earlier: Waddle (concussion) practiced fully Nov 18, and reports had him at full again Thursday, Nov 19. He is trending toward playing Nov 22 vs. Las Vegas, pending formal clearance from the protocol.",
+      "tag": "injury",
       "redraftAdj": 1.0,
       "dynastyAdj": 1.0,
-      "status": "Questionable"
+      "status": null,
+      "auto": true
     },
     {
       "sleeperId": "7525",
@@ -475,38 +480,42 @@
     {
       "sleeperId": "13311",
       "name": "Chris Bell",
-      "note": "Bell (knee) was limited in his return to practice this week (Nov 18-19) after being ruled out of Week 10. He is described as day-to-day ahead of Sunday vs. Buffalo.",
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 6:16 PM PT Nov 20. Earlier: Bell (knee) was limited in his return to practice this week (Nov 18-19) after being ruled out of Week 10. He is described as day-to-day ahead of Sunday vs. Buffalo.",
       "tag": "injury",
-      "redraftAdj": 0.95,
+      "redraftAdj": 1.0,
       "dynastyAdj": 1.0,
-      "status": "Questionable"
+      "status": null,
+      "auto": true
     },
     {
       "sleeperId": "13296",
       "name": "Caleb Douglas",
-      "note": "Douglas (shoulder) was limited and wore a non-contact jersey Nov 18, but he is reportedly on track to play Sunday vs. Buffalo. Chris Bell's return to practice threatens Douglas' expanded role.",
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 6:16 PM PT Nov 20. Earlier: Douglas (shoulder) was limited and wore a non-contact jersey Nov 18, but he is reportedly on track to play Sunday vs. Buffalo. Chris Bell's return to practice threatens Douglas' expanded role.",
       "tag": "injury",
-      "redraftAdj": 0.93,
+      "redraftAdj": 1.0,
       "dynastyAdj": 1.0,
-      "status": "Questionable"
+      "status": null,
+      "auto": true
     },
     {
       "sleeperId": "5947",
       "name": "Jakobi Meyers",
-      "note": "Meyers was limited with an ankle injury Nov 18; he has played through the injury for several weeks. Jacksonville faces the Giants Sunday.",
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 6:16 PM PT Nov 20. Earlier: Meyers was limited with an ankle injury Nov 18; he has played through the injury for several weeks. Jacksonville faces the Giants Sunday.",
       "tag": "injury",
-      "redraftAdj": 0.97,
+      "redraftAdj": 1.0,
       "dynastyAdj": 1.0,
-      "status": "Questionable"
+      "status": null,
+      "auto": true
     },
     {
       "sleeperId": "13380",
       "name": "Brenen Thompson",
-      "note": "Thompson (hamstring) has missed three straight games and did not practice Nov 18 ahead of the Chargers' Week 11 game vs. the Jets. A fourth straight absence looks likely.",
+      "note": "Sleeper now lists him doubtful (hamstring) as of 6:16 PM PT Nov 20. Earlier: Thompson (hamstring) has missed three straight games and did not practice Nov 18 ahead of the Chargers' Week 11 game vs. the Jets. A fourth straight absence looks likely.",
       "tag": "injury",
       "redraftAdj": 0.9,
       "dynastyAdj": 1.0,
-      "status": "Questionable"
+      "status": "Out",
+      "auto": true
     },
     {
       "sleeperId": "5872",
@@ -786,15 +795,25 @@
       "tag": "injury"
     },
     {
-      "auto": true,
-      "dynastyAdj": 1.0,
-      "name": "Dontayvion Wicks",
-      "note": "Sleeper now lists him questionable (ankle) as of 3:44 AM PT Nov 18.",
-      "redraftAdj": 0.98,
       "sleeperId": "9486",
+      "name": "Dontayvion Wicks",
+      "note": "Sleeper now lists him out (ankle) as of 6:16 PM PT Nov 20.",
+      "tag": "injury",
+      "redraftAdj": 0.9,
+      "dynastyAdj": 1.0,
+      "status": "Out",
+      "auto": true
+    },
+    {
+      "sleeperId": "8136",
+      "name": "Rachaad White",
+      "note": "Sleeper now lists him questionable (heel) as of 6:16 PM PT Nov 20.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
       "status": "Questionable",
-      "tag": "injury"
+      "auto": true
     }
   ],
-  "statusChecked": "12:22 PM PT Nov 20"
+  "statusChecked": "6:16 PM PT Nov 20"
 }
