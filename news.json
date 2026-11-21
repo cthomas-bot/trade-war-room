@@ -40,11 +40,12 @@
     {
       "sleeperId": "13272",
       "name": "Carson Beck",
-      "note": "He was limited on Thursday, Nov. 19, with a back injury and is questionable for Week 11 vs. Kansas City. He is starting with Gardner Minshew on IR, and his fantasy floor is low.",
+      "note": "Sleeper now lists him out (back) as of 3:17 PM PT Nov 21. Earlier: He was limited on Thursday, Nov. 19, with a back injury and is questionable for Week 11 vs. Kansas City. He is starting with Gardner Minshew on IR, and his fantasy floor is low.",
       "tag": "injury",
       "redraftAdj": 0.85,
       "dynastyAdj": 0.98,
-      "status": "Questionable"
+      "status": "Out",
+      "auto": true
     },
     {
       "sleeperId": "11564",
@@ -248,11 +249,12 @@
     {
       "sleeperId": "8150",
       "name": "Kyren Williams",
-      "note": "Williams managed only 12 carries for 23 yards in Week 10 (Nov. 15), and Blake Corum out-carried him on an even snap split. The Rams look like a committee.",
-      "tag": "role_down",
+      "note": "Sleeper now lists him questionable (toe) as of 3:17 PM PT Nov 21. Earlier: Williams managed only 12 carries for 23 yards in Week 10 (Nov. 15), and Blake Corum out-carried him on an even snap split. The Rams look like a committee.",
+      "tag": "injury",
       "redraftAdj": 0.87,
       "dynastyAdj": 0.96,
-      "status": ""
+      "status": "Questionable",
+      "auto": true
     },
     {
       "sleeperId": "7611",
@@ -599,11 +601,12 @@
     {
       "sleeperId": "11630",
       "name": "Roman Wilson",
-      "note": "Wilson (hand) practiced fully all three days in his IR window and is listed questionable for Sunday at Philadelphia. The Steelers must activate him by 4 PM ET Saturday, Nov 21, and they have two open roster spots.",
-      "tag": "return",
-      "redraftAdj": 0.95,
-      "dynastyAdj": 0.99,
-      "status": "IR"
+      "note": "Sleeper now lists him questionable (hand) as of 3:17 PM PT Nov 21. Earlier: Wilson (hand) practiced fully all three days in his IR window and is listed questionable for Sunday at Philadelphia. The Steelers must activate him by 4 PM ET Saturday, Nov 21, and they have two open roster spots.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
+      "status": "Questionable",
+      "auto": true
     },
     {
       "sleeperId": "9493",
@@ -775,15 +778,15 @@
       "tag": "injury"
     },
     {
-      "auto": true,
-      "dynastyAdj": 1.0,
-      "name": "Dontayvion Wicks",
-      "note": "Sleeper now lists him out (ankle) as of 6:16 PM PT Nov 20.",
-      "redraftAdj": 0.9,
       "sleeperId": "9486",
-      "status": "Out",
-      "tag": "injury"
+      "name": "Dontayvion Wicks",
+      "note": "Sleeper now lists him on injured reserve (ankle) as of 3:17 PM PT Nov 21.",
+      "tag": "injury",
+      "redraftAdj": 0.7,
+      "dynastyAdj": 0.97,
+      "status": "IR",
+      "auto": true
     }
   ],
-  "statusChecked": "9:33 AM PT Nov 21"
+  "statusChecked": "3:17 PM PT Nov 21"
 }

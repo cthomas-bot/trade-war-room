@@ -201,8 +201,18 @@
    "t": "HOU"
   },
   "11630": {
-   "changed": "2026-10-17T19:36:17.461901+00:00",
-   "i": "IR",
+   "changed": "2026-11-21T23:17:50.915758+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Roman Wilson",
+    "note": "Sleeper now lists him questionable (hand) as of 3:17 PM PT Nov 21. Earlier: Wilson (hand) practiced fully all three days in his IR window and is listed questionable for Sunday at Philadelphia. The Steelers must activate him by 4 PM ET Saturday, Nov 21, and they have two open roster spots.",
+    "redraftAdj": 0.98,
+    "sleeperId": "11630",
+    "status": "Questionable",
+    "tag": "injury"
+   },
+   "i": "Questionable",
    "qb1": null,
    "t": "PIT"
   },
@@ -554,18 +564,18 @@
    "t": "LAR"
   },
   "13272": {
-   "changed": "2026-11-20T02:19:43.934644+00:00",
+   "changed": "2026-11-21T23:17:50.915758+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 0.98,
     "name": "Carson Beck",
-    "note": "Sleeper now lists him questionable (back) as of 6:19 PM PT Nov 19. Earlier: He remains Arizona's starter with Gardner Minshew on IR, despite a 108-yard, 2-INT debut start on Nov. 15. His fantasy floor is very low.",
-    "redraftAdj": 0.9,
+    "note": "Sleeper now lists him out (back) as of 3:17 PM PT Nov 21. Earlier: He was limited on Thursday, Nov. 19, with a back injury and is questionable for Week 11 vs. Kansas City. He is starting with Gardner Minshew on IR, and his fantasy floor is low.",
+    "redraftAdj": 0.85,
     "sleeperId": "13272",
-    "status": "Questionable",
+    "status": "Out",
     "tag": "injury"
    },
-   "i": "Questionable",
+   "i": "Out",
    "qb1": true,
    "t": "ARI"
   },
@@ -700,16 +710,6 @@
   },
   "13302": {
    "changed": "2026-11-18T20:32:57.794491+00:00",
-   "entry": {
-    "auto": true,
-    "dynastyAdj": 0.99,
-    "name": "Adam Randall",
-    "note": "Cleared: no longer on Sleeper's injury report (was on injured reserve) as of 12:32 PM PT Nov 18. Earlier: Randall remains on IR after not playing Nov. 16 vs. the Chargers. His practice window opened in late October, so an activation decision is due soon.",
-    "redraftAdj": 0.98,
-    "sleeperId": "13302",
-    "status": null,
-    "tag": "injury"
-   },
    "i": null,
    "qb1": null,
    "t": "BAL"
@@ -958,16 +958,6 @@
   },
   "2505": {
    "changed": "2026-11-18T20:32:57.794491+00:00",
-   "entry": {
-    "auto": true,
-    "dynastyAdj": 1.0,
-    "name": "Darren Waller",
-    "note": "Sleeper now lists him questionable (knee) as of 12:32 PM PT Nov 18.",
-    "redraftAdj": 0.98,
-    "sleeperId": "2505",
-    "status": "Questionable",
-    "tag": "injury"
-   },
    "i": "Questionable",
    "qb1": null,
    "t": "CAR"
@@ -1627,9 +1617,18 @@
    "t": "DET"
   },
   "8150": {
-   "changed": null,
-   "entry": null,
-   "i": null,
+   "changed": "2026-11-21T23:17:50.915758+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 0.96,
+    "name": "Kyren Williams",
+    "note": "Sleeper now lists him questionable (toe) as of 3:17 PM PT Nov 21. Earlier: Williams managed only 12 carries for 23 yards in Week 10 (Nov. 15), and Blake Corum out-carried him on an even snap split. The Rams look like a committee.",
+    "redraftAdj": 0.87,
+    "sleeperId": "8150",
+    "status": "Questionable",
+    "tag": "injury"
+   },
+   "i": "Questionable",
    "qb1": null,
    "t": "LAR"
   },
@@ -1755,18 +1754,18 @@
    "t": "GB"
   },
   "9486": {
-   "changed": "2026-11-21T02:16:51.905620+00:00",
+   "changed": "2026-11-21T23:17:50.915758+00:00",
    "entry": {
     "auto": true,
-    "dynastyAdj": 1.0,
+    "dynastyAdj": 0.97,
     "name": "Dontayvion Wicks",
-    "note": "Sleeper now lists him out (ankle) as of 6:16 PM PT Nov 20.",
-    "redraftAdj": 0.9,
+    "note": "Sleeper now lists him on injured reserve (ankle) as of 3:17 PM PT Nov 21.",
+    "redraftAdj": 0.7,
     "sleeperId": "9486",
-    "status": "Out",
+    "status": "IR",
     "tag": "injury"
    },
-   "i": "Out",
+   "i": "IR",
    "qb1": null,
    "t": "PHI"
   },
