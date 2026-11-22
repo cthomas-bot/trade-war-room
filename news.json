@@ -4,11 +4,12 @@
     {
       "sleeperId": "4892",
       "name": "Baker Mayfield",
-      "note": "He is officially questionable (foot, right thumb) for Sunday's Nov. 22 game at Detroit after limited practices Thursday and Friday. Ian Rapoport reports he will play, and Tom Pelissero says he is good to go barring a setback.",
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 1:47 PM PT Nov 22. Earlier: He is officially questionable (foot, right thumb) for Sunday's Nov. 22 game at Detroit after limited practices Thursday and Friday. Ian Rapoport reports he will play, and Tom Pelissero says he is good to go barring a setback.",
       "tag": "injury",
-      "redraftAdj": 0.97,
+      "redraftAdj": 1.0,
       "dynastyAdj": 1.0,
-      "status": "Questionable"
+      "status": null,
+      "auto": true
     },
     {
       "sleeperId": "6770",
@@ -337,11 +338,12 @@
     {
       "sleeperId": "11604",
       "name": "Brock Bowers",
-      "note": "Bowers (ankle/quad) is questionable for Sunday's 4:25 PM ET game at Denver after limited practices Thursday and Friday (Nov 19-20). Mike Florio reported he is expected to play, but Bowers and Klint Kubiak would not commit, so check the final inactives.",
+      "note": "Sleeper now lists him out (ankle) as of 1:47 PM PT Nov 22. Earlier: Bowers (ankle/quad) is questionable for Sunday's 4:25 PM ET game at Denver after limited practices Thursday and Friday (Nov 19-20). Mike Florio reported he is expected to play, but Bowers and Klint Kubiak would not commit, so check the final inactives.",
       "tag": "injury",
-      "redraftAdj": 0.95,
+      "redraftAdj": 0.9,
       "dynastyAdj": 1.0,
-      "status": "Questionable"
+      "status": "Out",
+      "auto": true
     },
     {
       "sleeperId": "9482",
@@ -355,11 +357,12 @@
     {
       "sleeperId": "10236",
       "name": "Dalton Kincaid",
-      "note": "Kincaid (thumb/ankle) did not practice all week and is doubtful for Week 11 as of Nov 21. Dawson Knox is expected to lead the Bills' TE room if Kincaid sits.",
+      "note": "Sleeper now lists him out (thumb) as of 1:47 PM PT Nov 22. Earlier: Kincaid (thumb/ankle) did not practice all week and is doubtful for Week 11 as of Nov 21. Dawson Knox is expected to lead the Bills' TE room if Kincaid sits.",
       "tag": "injury",
       "redraftAdj": 0.85,
       "dynastyAdj": 0.99,
-      "status": "Doubtful"
+      "status": "Out",
+      "auto": true
     },
     {
       "sleeperId": "5844",
@@ -418,20 +421,22 @@
     {
       "sleeperId": "13279",
       "name": "Carnell Tate",
-      "note": "Tate (shoulder) was limited in practice Nov 18-19 and reportedly is tracking toward a Week 11 return at Dallas after missing Weeks 8 and 10. He is still questionable, so check inactives before the 10 AM PT kickoff.",
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 1:47 PM PT Nov 22. Earlier: Tate (shoulder) was limited in practice Nov 18-19 and reportedly is tracking toward a Week 11 return at Dallas after missing Weeks 8 and 10. He is still questionable, so check inactives before the 10 AM PT kickoff.",
       "tag": "injury",
-      "redraftAdj": 0.9,
+      "redraftAdj": 1.0,
       "dynastyAdj": 1.0,
-      "status": "Questionable"
+      "status": null,
+      "auto": true
     },
     {
       "sleeperId": "13380",
       "name": "Brenen Thompson",
-      "note": "Thompson (hamstring) is doubtful for Week 11 vs. the Jets after not practicing early in the week and missing three straight games. A fourth straight absence is likely.",
+      "note": "Sleeper now lists him out (hamstring) as of 1:47 PM PT Nov 22. Earlier: Thompson (hamstring) is doubtful for Week 11 vs. the Jets after not practicing early in the week and missing three straight games. A fourth straight absence is likely.",
       "tag": "injury",
       "redraftAdj": 0.88,
       "dynastyAdj": 1.0,
-      "status": "Doubtful"
+      "status": "Out",
+      "auto": true
     },
     {
       "sleeperId": "8112",
@@ -481,11 +486,12 @@
     {
       "sleeperId": "13311",
       "name": "Chris Bell",
-      "note": "Bell (knee) was off the injury report as of Nov 20 after missing Week 10 and appears set to return Sunday vs. Buffalo.",
-      "tag": "return",
-      "redraftAdj": 1.02,
+      "note": "Sleeper now lists him questionable (chest) as of 1:47 PM PT Nov 22. Earlier: Bell (knee) was off the injury report as of Nov 20 after missing Week 10 and appears set to return Sunday vs. Buffalo.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
       "dynastyAdj": 1.0,
-      "status": ""
+      "status": "Questionable",
+      "auto": true
     },
     {
       "sleeperId": "13296",
@@ -508,11 +514,12 @@
     {
       "sleeperId": "13268",
       "name": "Elijah Sarratt",
-      "note": "Sarratt was a coach's-decision inactive Nov 16 while Ja'Kobi Lane took an 11-target role, so his Week 11 role is in question.",
-      "tag": "role_down",
+      "note": "Sleeper now lists him out (coach's decision) as of 1:47 PM PT Nov 22. Earlier: Sarratt was a coach's-decision inactive Nov 16 while Ja'Kobi Lane took an 11-target role, so his Week 11 role is in question.",
+      "tag": "injury",
       "redraftAdj": 0.9,
       "dynastyAdj": 0.94,
-      "status": ""
+      "status": "Out",
+      "auto": true
     },
     {
       "sleeperId": "13413",
@@ -571,11 +578,12 @@
     {
       "sleeperId": "11635",
       "name": "Ladd McConkey",
-      "note": "McConkey (back) is questionable after three limited practices and is a true game-time decision for Sunday vs. the Jets (Nov 22), coming off two missed games. He carries a real risk of leaving early even if he plays.",
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 1:47 PM PT Nov 22. Earlier: McConkey (back) is questionable after three limited practices and is a true game-time decision for Sunday vs. the Jets (Nov 22), coming off two missed games. He carries a real risk of leaving early even if he plays.",
       "tag": "injury",
-      "redraftAdj": 0.9,
+      "redraftAdj": 1.0,
       "dynastyAdj": 1.0,
-      "status": "Questionable"
+      "status": null,
+      "auto": true
     },
     {
       "sleeperId": "12509",
@@ -706,11 +714,12 @@
     {
       "sleeperId": "11630",
       "name": "Roman Wilson",
-      "note": "Pittsburgh activated Wilson from IR on Saturday, Nov 21, and he will play Sunday at Philadelphia. He had been out since Week 5 with finger fractures. With Pittman held on IR, Wilson steps into a larger role.",
-      "tag": "return",
-      "redraftAdj": 1.1,
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 1:47 PM PT Nov 22. Earlier: Pittsburgh activated Wilson from IR on Saturday, Nov 21, and he will play Sunday at Philadelphia. He had been out since Week 5 with finger fractures. With Pittman held on IR, Wilson steps into a larger role.",
+      "tag": "injury",
+      "redraftAdj": 1.0,
       "dynastyAdj": 1.01,
-      "status": ""
+      "status": null,
+      "auto": true
     },
     {
       "auto": true,
@@ -791,7 +800,97 @@
       "sleeperId": "9486",
       "status": "IR",
       "tag": "injury"
+    },
+    {
+      "sleeperId": "11646",
+      "name": "Jalen Coker",
+      "note": "Sleeper now lists him questionable (undisclosed) as of 1:47 PM PT Nov 22.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
+      "status": "Questionable",
+      "auto": true
+    },
+    {
+      "sleeperId": "13288",
+      "name": "Nicholas Singleton",
+      "note": "Sleeper now lists him out (coach's decision) as of 1:47 PM PT Nov 22.",
+      "tag": "injury",
+      "redraftAdj": 0.9,
+      "dynastyAdj": 1.0,
+      "status": "Out",
+      "auto": true
+    },
+    {
+      "sleeperId": "13289",
+      "name": "Drew Allar",
+      "note": "Sleeper now lists him out (coach's decision) as of 1:47 PM PT Nov 22.",
+      "tag": "injury",
+      "redraftAdj": 0.9,
+      "dynastyAdj": 1.0,
+      "status": "Out",
+      "auto": true
+    },
+    {
+      "sleeperId": "13302",
+      "name": "Adam Randall",
+      "note": "Sleeper now lists him out (coach's decision) as of 1:47 PM PT Nov 22.",
+      "tag": "injury",
+      "redraftAdj": 0.9,
+      "dynastyAdj": 1.0,
+      "status": "Out",
+      "auto": true
+    },
+    {
+      "sleeperId": "13402",
+      "name": "Skyler Bell",
+      "note": "Sleeper now lists him out (coach's decision) as of 1:47 PM PT Nov 22.",
+      "tag": "injury",
+      "redraftAdj": 0.9,
+      "dynastyAdj": 1.0,
+      "status": "Out",
+      "auto": true
+    },
+    {
+      "sleeperId": "3198",
+      "name": "Derrick Henry",
+      "note": "Sleeper now lists him questionable (concussion) as of 1:47 PM PT Nov 22.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
+      "status": "Questionable",
+      "auto": true
+    },
+    {
+      "sleeperId": "4983",
+      "name": "DJ Moore",
+      "note": "Sleeper now lists him questionable (knee) as of 1:47 PM PT Nov 22.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
+      "status": "Questionable",
+      "auto": true
+    },
+    {
+      "sleeperId": "7002",
+      "name": "Juwan Johnson",
+      "note": "Sleeper now lists him questionable (hamstring) as of 1:47 PM PT Nov 22.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
+      "status": "Questionable",
+      "auto": true
+    },
+    {
+      "sleeperId": "9511",
+      "name": "Keaton Mitchell",
+      "note": "Sleeper now lists him questionable (back) as of 1:47 PM PT Nov 22.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
+      "status": "Questionable",
+      "auto": true
     }
   ],
-  "statusChecked": "7:18 AM PT Nov 22"
+  "statusChecked": "1:47 PM PT Nov 22"
 }
