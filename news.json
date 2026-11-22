@@ -40,12 +40,12 @@
     {
       "sleeperId": "13272",
       "name": "Carson Beck",
-      "note": "Sleeper now lists him out (back) as of 3:17 PM PT Nov 21. Earlier: He was limited on Thursday, Nov. 19, with a back injury and is questionable for Week 11 vs. Kansas City. He is starting with Gardner Minshew on IR, and his fantasy floor is low.",
-      "tag": "injury",
-      "redraftAdj": 0.85,
-      "dynastyAdj": 0.98,
+      "tag": "role_down",
+      "redraftAdj": 0.8,
+      "dynastyAdj": 0.95,
       "status": "Out",
-      "auto": true
+      "auto": true,
+      "note": "Sleeper's depth chart now has him as ARI's backup QB as of 10:50 PM PT Nov 21."
     },
     {
       "sleeperId": "11564",
@@ -788,5 +788,5 @@
       "auto": true
     }
   ],
-  "statusChecked": "3:17 PM PT Nov 21"
+  "statusChecked": "10:50 PM PT Nov 21"
 }

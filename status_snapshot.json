@@ -65,6 +65,11 @@
    "qb1": null,
    "t": "DET"
   },
+  "11292": {
+   "i": null,
+   "qb1": false,
+   "t": "NE"
+  },
   "11435": {
    "changed": "2026-11-15T21:03:05.967553+00:00",
    "i": "Out",
@@ -186,16 +191,6 @@
   },
   "11628": {
    "changed": "2026-11-19T02:34:52.153307+00:00",
-   "entry": {
-    "auto": true,
-    "dynastyAdj": 1.0,
-    "name": "Marvin Harrison Jr.",
-    "note": "Sleeper now lists him out (hamstring) as of 6:34 PM PT Nov 18. Earlier: Harrison (hamstring) missed the Nov 15 game vs. Cleveland after not practicing late last week, and Sleeper lists him questionable as of Nov 18. Houston hosts the Colts on Thursday, Nov 19, so the short week makes his availability shaky; no Wednesday practice estimate had been found.",
-    "redraftAdj": 0.85,
-    "sleeperId": "11628",
-    "status": "Out",
-    "tag": "injury"
-   },
    "i": "Out",
    "qb1": null,
    "t": "HOU"
@@ -310,16 +305,6 @@
   },
   "12474": {
    "changed": "2026-11-19T02:34:52.153307+00:00",
-   "entry": {
-    "auto": true,
-    "dynastyAdj": 1.0,
-    "name": "Woody Marks",
-    "note": "Sleeper now lists him out (concussion) as of 6:34 PM PT Nov 18. Earlier: Marks (concussion) did not practice Tuesday, Nov. 17, and Ryans said he is unlikely to play Thursday vs. the Colts. He is listed as doubtful.",
-    "redraftAdj": 0.85,
-    "sleeperId": "12474",
-    "status": "Out",
-    "tag": "injury"
-   },
    "i": "Out",
    "qb1": null,
    "t": "HOU"
@@ -516,16 +501,6 @@
   },
   "12534": {
    "changed": "2026-11-19T02:34:52.153307+00:00",
-   "entry": {
-    "auto": true,
-    "dynastyAdj": 1.0,
-    "name": "Kyle Monangai",
-    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 6:34 PM PT Nov 18. Earlier: Monangai (toe) has been upgraded to questionable on Sleeper (Nov. 18) after Chicago's Week 10 bye. D'Andre Swift remains the lead back.",
-    "redraftAdj": 1.0,
-    "sleeperId": "12534",
-    "status": null,
-    "tag": "injury"
-   },
    "i": null,
    "qb1": null,
    "t": "CHI"
@@ -564,19 +539,19 @@
    "t": "LAR"
   },
   "13272": {
-   "changed": "2026-11-21T23:17:50.915758+00:00",
+   "changed": "2026-11-22T06:50:14.727434+00:00",
    "entry": {
     "auto": true,
-    "dynastyAdj": 0.98,
+    "dynastyAdj": 0.95,
     "name": "Carson Beck",
-    "note": "Sleeper now lists him out (back) as of 3:17 PM PT Nov 21. Earlier: He was limited on Thursday, Nov. 19, with a back injury and is questionable for Week 11 vs. Kansas City. He is starting with Gardner Minshew on IR, and his fantasy floor is low.",
-    "redraftAdj": 0.85,
+    "note": "Sleeper's depth chart now has him as ARI's backup QB as of 10:50 PM PT Nov 21.",
+    "redraftAdj": 0.8,
     "sleeperId": "13272",
     "status": "Out",
-    "tag": "injury"
+    "tag": "role_down"
    },
    "i": "Out",
-   "qb1": true,
+   "qb1": false,
    "t": "ARI"
   },
   "13274": {
@@ -962,13 +937,6 @@
    "qb1": null,
    "t": "CAR"
   },
-  "260": {
-   "changed": null,
-   "entry": null,
-   "i": null,
-   "qb1": false,
-   "t": "ARI"
-  },
   "3163": {
    "changed": "2026-11-12T21:56:55.729955+00:00",
    "i": null,
@@ -1260,13 +1228,6 @@
    "qb1": null,
    "t": "BAL"
   },
-  "6130": {
-   "changed": null,
-   "entry": null,
-   "i": null,
-   "qb1": null,
-   "t": "NYG"
-  },
   "6770": {
    "changed": null,
    "entry": null,
@@ -1366,16 +1327,6 @@
   },
   "7049": {
    "changed": "2026-11-19T02:34:52.153307+00:00",
-   "entry": {
-    "auto": true,
-    "dynastyAdj": 1.0,
-    "name": "Jauan Jennings",
-    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 6:34 PM PT Nov 18. Earlier: Jennings (calf) has missed two straight games, the latest on Nov 15 at Green Bay. Sleeper lists him questionable as of Nov 18, and with Jordan Addison now out after thumb surgery, he is in line for more targets if he returns.",
-    "redraftAdj": 1.0,
-    "sleeperId": "7049",
-    "status": null,
-    "tag": "injury"
-   },
    "i": null,
    "qb1": null,
    "t": "MIN"
@@ -1793,6 +1744,11 @@
    "i": null,
    "qb1": null,
    "t": "KC"
+  },
+  "9501": {
+   "i": null,
+   "qb1": null,
+   "t": "NE"
   },
   "9502": {
    "changed": "2026-11-12T22:57:00.227365+00:00",
