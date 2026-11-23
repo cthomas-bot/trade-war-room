@@ -1,25 +1,52 @@
 {
  "season": "2026",
  "week": 11,
- "updated": "2026-11-22 5:59 PM PT",
+ "updated": "2026-11-23 5:41 AM PT",
  "games": [
   {
-   "id": "401873077",
-   "kickoff": "2026-11-23T01:20Z",
-   "state": "in",
-   "home": "SF",
-   "away": "MIN",
-   "homeScore": "7",
-   "awayScore": "7",
-   "venue": "Estadio Banorte",
-   "tv": "NBC",
+   "id": "401873078",
+   "kickoff": "2026-11-24T01:15Z",
+   "state": "pre",
+   "home": "WAS",
+   "away": "CIN",
+   "homeScore": "0",
+   "awayScore": "0",
+   "venue": "Northwest Stadium",
+   "tv": "ESPN",
+   "details": "CIN -6",
+   "total": 54.5,
+   "fav": "CIN",
+   "spread": 6.0,
+   "homeML": null,
+   "awayML": null,
+   "homeImplied": 24.2,
+   "awayImplied": 30.2,
    "weather": {
     "roof": "open",
-    "temp": 53.0,
-    "precip": 7,
+    "temp": 54.4,
+    "precip": 3,
     "code": 3,
-    "wind": 5.0,
-    "night": false
+    "wind": 11.9,
+    "night": true
+   }
+  },
+  {
+   "id": "401873066",
+   "kickoff": "2026-11-20T01:15Z",
+   "state": "post",
+   "home": "HOU",
+   "away": "IND",
+   "homeScore": "26",
+   "awayScore": "3",
+   "venue": "Reliant Stadium",
+   "tv": "Prime Video",
+   "weather": {
+    "roof": "retract",
+    "temp": 68.0,
+    "precip": 0,
+    "code": 0,
+    "wind": 3.4,
+    "night": true
    }
   },
   {
@@ -203,49 +230,22 @@
    }
   },
   {
-   "id": "401873066",
-   "kickoff": "2026-11-20T01:15Z",
+   "id": "401873077",
+   "kickoff": "2026-11-23T01:20Z",
    "state": "post",
-   "home": "HOU",
-   "away": "IND",
-   "homeScore": "26",
-   "awayScore": "3",
-   "venue": "Reliant Stadium",
-   "tv": "Prime Video",
-   "weather": {
-    "roof": "retract",
-    "temp": 68.0,
-    "precip": 0,
-    "code": 0,
-    "wind": 3.4,
-    "night": true
-   }
-  },
-  {
-   "id": "401873078",
-   "kickoff": "2026-11-24T01:15Z",
-   "state": "pre",
-   "home": "WAS",
-   "away": "CIN",
-   "homeScore": "0",
-   "awayScore": "0",
-   "venue": "Northwest Stadium",
-   "tv": "ESPN",
-   "details": "CIN -6",
-   "total": 54.5,
-   "fav": "CIN",
-   "spread": 6.0,
-   "homeML": null,
-   "awayML": null,
-   "homeImplied": 24.2,
-   "awayImplied": 30.2,
+   "home": "SF",
+   "away": "MIN",
+   "homeScore": "35",
+   "awayScore": "10",
+   "venue": "Estadio Banorte",
+   "tv": "NBC",
    "weather": {
     "roof": "open",
-    "temp": 50.6,
-    "precip": 26,
-    "code": 1,
-    "wind": 10.6,
-    "night": true
+    "temp": 52.8,
+    "precip": 7,
+    "code": 2,
+    "wind": 5.4,
+    "night": false
    }
   }
  ],
@@ -1739,75 +1739,75 @@
    "opp": "ARI"
   },
   "11596": {
-   "half": 0.95,
+   "half": 0.94,
    "ppr": 1.2,
-   "std": 0.7,
+   "std": 0.69,
    "opp": "CIN"
   },
   "11942": {
    "half": 0.62,
-   "ppr": 0.78,
+   "ppr": 0.77,
    "std": 0.46,
    "opp": "CIN"
   },
   "13264": {
-   "half": 2.25,
-   "ppr": 2.73,
-   "std": 1.77,
+   "half": 2.22,
+   "ppr": 2.7,
+   "std": 1.74,
    "opp": "WAS"
   },
   "6001": {
-   "half": 3.75,
-   "ppr": 4.76,
-   "std": 2.74,
+   "half": 3.71,
+   "ppr": 4.71,
+   "std": 2.7,
    "opp": "WAS"
   },
   "6801": {
-   "half": 16.24,
-   "ppr": 18.93,
-   "std": 13.55,
+   "half": 16.04,
+   "ppr": 18.73,
+   "std": 13.36,
    "opp": "WAS"
   },
   "8136": {
-   "half": 7.53,
-   "ppr": 8.71,
-   "std": 6.36,
+   "half": 7.51,
+   "ppr": 8.68,
+   "std": 6.35,
    "opp": "CIN"
   },
   "4663": {
-   "half": 4.19,
-   "ppr": 4.72,
-   "std": 3.67,
+   "half": 4.18,
+   "ppr": 4.71,
+   "std": 3.66,
    "opp": "CIN"
   },
   "7564": {
-   "half": 18.68,
-   "ppr": 21.94,
-   "std": 15.42,
+   "half": 18.46,
+   "ppr": 21.72,
+   "std": 15.21,
    "opp": "WAS"
   },
   "7716": {
-   "half": 1.63,
-   "ppr": 2.1,
-   "std": 1.16,
+   "half": 1.62,
+   "ppr": 2.09,
+   "std": 1.15,
    "opp": "CIN"
   },
   "11566": {
-   "half": 21.75,
-   "ppr": 21.75,
-   "std": 21.75,
+   "half": 21.64,
+   "ppr": 21.64,
+   "std": 21.64,
    "opp": "CIN"
   },
   "12533": {
-   "half": 7.19,
-   "ppr": 7.68,
-   "std": 6.69,
+   "half": 7.18,
+   "ppr": 7.67,
+   "std": 6.68,
    "opp": "CIN"
   },
   "12543": {
    "half": 0.59,
-   "ppr": 0.64,
-   "std": 0.55,
+   "ppr": 0.63,
+   "std": 0.54,
    "opp": "WAS"
   },
   "13418": {
@@ -1817,69 +1817,69 @@
    "opp": "CIN"
   },
   "4993": {
-   "half": 7.76,
-   "ppr": 9.17,
-   "std": 6.36,
+   "half": 7.67,
+   "ppr": 9.08,
+   "std": 6.27,
    "opp": "WAS"
   },
   "6770": {
-   "half": 26.43,
-   "ppr": 26.43,
-   "std": 26.43,
+   "half": 26.1,
+   "ppr": 26.1,
+   "std": 26.1,
    "opp": "WAS"
   },
   "6853": {
-   "half": 2.14,
-   "ppr": 2.58,
-   "std": 1.69,
+   "half": 2.12,
+   "ppr": 2.57,
+   "std": 1.68,
    "opp": "CIN"
   },
   "8135": {
-   "half": 5.95,
-   "ppr": 6.96,
-   "std": 4.95,
+   "half": 5.92,
+   "ppr": 6.92,
+   "std": 4.92,
    "opp": "CIN"
   },
   "9224": {
-   "half": 13.01,
-   "ppr": 15.06,
-   "std": 10.95,
+   "half": 12.89,
+   "ppr": 14.94,
+   "std": 10.84,
    "opp": "WAS"
   },
   "12062": {
    "half": 0.57,
-   "ppr": 0.72,
-   "std": 0.43,
+   "ppr": 0.71,
+   "std": 0.42,
    "opp": "WAS"
   },
   "2449": {
-   "half": 11.27,
-   "ppr": 13.46,
-   "std": 9.07,
+   "half": 11.19,
+   "ppr": 13.38,
+   "std": 9.01,
    "opp": "CIN"
   },
   "4147": {
-   "half": 6.74,
-   "ppr": 7.61,
-   "std": 5.87,
+   "half": 6.68,
+   "ppr": 7.54,
+   "std": 5.82,
    "opp": "WAS"
   },
   "10226": {
-   "half": 4.53,
-   "ppr": 5.39,
-   "std": 3.66,
+   "half": 4.47,
+   "ppr": 5.34,
+   "std": 3.61,
    "opp": "WAS"
   },
   "13301": {
-   "half": 6.71,
-   "ppr": 8.2,
-   "std": 5.21,
+   "half": 6.67,
+   "ppr": 8.16,
+   "std": 5.19,
    "opp": "CIN"
   },
   "8210": {
-   "half": 8.33,
-   "ppr": 10.4,
-   "std": 6.26,
+   "half": 8.28,
+   "ppr": 10.35,
+   "std": 6.22,
    "opp": "CIN"
   }
  }
