@@ -230,11 +230,12 @@
     {
       "sleeperId": "12467",
       "name": "Jordan James",
-      "note": "James (calf) is questionable for Sunday's game vs. Minnesota in Mexico City after limited practices Thursday and Friday (Nov. 19-20). His recent role has been mostly kick returns.",
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 6:45 PM PT Nov 22. Earlier: James (calf) is questionable for Sunday's game vs. Minnesota in Mexico City after limited practices Thursday and Friday (Nov. 19-20). His recent role has been mostly kick returns.",
       "tag": "injury",
-      "redraftAdj": 0.97,
+      "redraftAdj": 1.0,
       "dynastyAdj": 1.0,
-      "status": "Questionable"
+      "status": null,
+      "auto": true
     },
     {
       "sleeperId": "12481",
@@ -687,11 +688,12 @@
     {
       "sleeperId": "2216",
       "name": "Mike Evans",
-      "note": "Evans (Achilles tendinitis) remains questionable for Sunday night's game vs. Minnesota in Mexico City (8:20 PM ET, Nov 22) after two limited practices. San Francisco may not announce his status until about 90 minutes before kickoff, and John Lynch said the team is 'extremely mindful' of his long-term health.",
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 6:45 PM PT Nov 22. Earlier: Evans (Achilles tendinitis) remains questionable for Sunday night's game vs. Minnesota in Mexico City (8:20 PM ET, Nov 22) after two limited practices. San Francisco may not announce his status until about 90 minutes before kickoff, and John Lynch said the team is 'extremely mindful' of his long-term health.",
       "tag": "injury",
-      "redraftAdj": 0.85,
+      "redraftAdj": 1.0,
       "dynastyAdj": 0.99,
-      "status": "Questionable"
+      "status": null,
+      "auto": true
     },
     {
       "sleeperId": "1479",
@@ -890,7 +892,27 @@
       "dynastyAdj": 1.0,
       "status": "Questionable",
       "auto": true
+    },
+    {
+      "sleeperId": "4866",
+      "name": "Saquon Barkley",
+      "note": "Sleeper now lists him questionable (arm) as of 6:45 PM PT Nov 22.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
+      "status": "Questionable",
+      "auto": true
+    },
+    {
+      "sleeperId": "6797",
+      "name": "Justin Herbert",
+      "note": "Sleeper now lists him questionable (concussion) as of 6:45 PM PT Nov 22.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
+      "status": "Questionable",
+      "auto": true
     }
   ],
-  "statusChecked": "1:47 PM PT Nov 22"
+  "statusChecked": "6:45 PM PT Nov 22"
 }

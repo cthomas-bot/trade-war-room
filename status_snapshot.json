@@ -314,18 +314,18 @@
    "t": "NO"
   },
   "12467": {
-   "changed": "2026-11-20T02:19:43.934644+00:00",
+   "changed": "2026-11-23T02:45:44.326672+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 1.0,
     "name": "Jordan James",
-    "note": "Sleeper now lists him questionable (calf) as of 6:19 PM PT Nov 19.",
-    "redraftAdj": 0.98,
+    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 6:45 PM PT Nov 22. Earlier: James (calf) is questionable for Sunday's game vs. Minnesota in Mexico City after limited practices Thursday and Friday (Nov. 19-20). His recent role has been mostly kick returns.",
+    "redraftAdj": 1.0,
     "sleeperId": "12467",
-    "status": "Questionable",
+    "status": null,
     "tag": "injury"
    },
-   "i": "Questionable",
+   "i": null,
    "qb1": null,
    "t": "SF"
   },
@@ -1006,8 +1006,18 @@
    "t": "LAR"
   },
   "2216": {
-   "changed": "2026-11-18T11:44:20.156777+00:00",
-   "i": "Questionable",
+   "changed": "2026-11-23T02:45:44.326672+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 0.99,
+    "name": "Mike Evans",
+    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 6:45 PM PT Nov 22. Earlier: Evans (Achilles tendinitis) remains questionable for Sunday night's game vs. Minnesota in Mexico City (8:20 PM ET, Nov 22) after two limited practices. San Francisco may not announce his status until about 90 minutes before kickoff, and John Lynch said the team is 'extremely mindful' of his long-term health.",
+    "redraftAdj": 1.0,
+    "sleeperId": "2216",
+    "status": null,
+    "tag": "injury"
+   },
+   "i": null,
    "qb1": null,
    "t": "SF"
   },
@@ -1141,8 +1151,18 @@
    "t": "SF"
   },
   "4866": {
-   "changed": "2026-11-06T21:51:30.270478+00:00",
-   "i": null,
+   "changed": "2026-11-23T02:45:44.326672+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Saquon Barkley",
+    "note": "Sleeper now lists him questionable (arm) as of 6:45 PM PT Nov 22.",
+    "redraftAdj": 0.98,
+    "sleeperId": "4866",
+    "status": "Questionable",
+    "tag": "injury"
+   },
+   "i": "Questionable",
    "qb1": null,
    "t": "PHI"
   },
@@ -1374,8 +1394,18 @@
    "t": "MIN"
   },
   "6797": {
-   "changed": "2026-11-12T23:54:14.481144+00:00",
-   "i": null,
+   "changed": "2026-11-23T02:45:44.326672+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Justin Herbert",
+    "note": "Sleeper now lists him questionable (concussion) as of 6:45 PM PT Nov 22.",
+    "redraftAdj": 0.98,
+    "sleeperId": "6797",
+    "status": "Questionable",
+    "tag": "injury"
+   },
+   "i": "Questionable",
    "qb1": true,
    "t": "LAC"
   },
@@ -1461,16 +1491,6 @@
   },
   "7525": {
    "changed": "2026-11-20T02:19:43.934644+00:00",
-   "entry": {
-    "auto": true,
-    "dynastyAdj": 1.0,
-    "name": "DeVonta Smith",
-    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 6:19 PM PT Nov 19. Earlier: Smith (hamstring) was limited in practice on Wednesday, Nov 18, after missing the three games before Philadelphia's bye. He is on track to return in Week 11 vs. Pittsburgh if he gets more work in later this week.",
-    "redraftAdj": 1.0,
-    "sleeperId": "7525",
-    "status": null,
-    "tag": "injury"
-   },
    "i": null,
    "qb1": null,
    "t": "PHI"
