@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T13:59:33+00:00",
+ "updated": "2026-11-23T13:59:18+00:00",
  "leagues": {
   "1349553170841374720": {
    "1131806998242168832": {
@@ -32,13 +32,14 @@
     "rank": 10,
     "stance": "desperate",
     "trades": {
-     "season": 0,
+     "season": 1,
      "last": 1
     },
     "moves": 28,
     "tradeRate": "rare",
     "partners": [
-     "1131806998242168832"
+     "1131806998242168832",
+     "1267967825444614144"
     ],
     "notes": [],
     "rules": {},
@@ -232,12 +233,14 @@
     "rank": 7,
     "stance": "bubble",
     "trades": {
-     "season": 0,
+     "season": 1,
      "last": 0
     },
     "moves": 11,
-    "tradeRate": "never",
-    "partners": [],
+    "tradeRate": "rare",
+    "partners": [
+     "1133579780299030528"
+    ],
     "notes": [],
     "rules": {},
     "rejected": []
@@ -385,7 +388,7 @@
      "season": 5,
      "last": null
     },
-    "moves": 24,
+    "moves": 26,
     "tradeRate": "very active",
     "partners": [
      "1110607628964659200",
@@ -424,7 +427,7 @@
      "last": null
     },
     "moves": 14,
-    "tradeRate": "never",
+    "tradeRate": "rare",
     "partners": [],
     "notes": [],
     "rules": {},
@@ -512,7 +515,7 @@
      "season": 0,
      "last": null
     },
-    "moves": 3,
+    "moves": 4,
     "tradeRate": "never",
     "partners": [],
     "notes": [],
