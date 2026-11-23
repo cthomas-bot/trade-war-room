@@ -1,5 +1,5 @@
 {
-  "updated": "Nov 22, 2026",
+  "updated": "Nov 23, 2026",
   "players": {
     "12522": {
       "name": "Cam Ward",
@@ -33,63 +33,63 @@
     },
     "6797": {
       "name": "Justin Herbert",
-      "headline": "Rushing TD helps Chargers to first win, but passing stays weak",
-      "news": "Herbert completed 12 of 18 passes for 129 yards with no TDs or INTs in Monday night's 23-20 win at Baltimore on Nov. 16, the Chargers' first win of the season (now 1-8). He opened the scoring with a 22-yard TD run and finished with 7 carries for 51 yards, and Sleeper scores the game at 16.26 points. He was sacked twice, down from eight the week before against Houston. The left middle finger injury from Week 9 (X-rays negative) did not keep him out. Baltimore was without Lamar Jackson in the game.",
-      "take": "The fantasy points came almost entirely from his legs, and 129 passing yards is the third straight weak passing week behind a struggling offense. In 12-team 1QB redraft he remains a bench player outside of a bye-week fill-in. In superflex dynasty he's 28 and still a long-term starter, but his trade value is at a low point. A rebuilding team should hold him; selling now would bring back far less than he's likely to be worth once the Chargers fix the line.",
+      "headline": "Three total TDs vs. Jets, but enters concussion protocol",
+      "news": "In the Nov. 22 loss to the Jets, Herbert completed 15 of 21 passes for 131 yards and 2 TDs with no interceptions, and ran 8 times for 32 yards and a TD (22.44 half-PPR, per Sleeper). He was sacked six times and entered the concussion protocol after the game, so his status for the Week 12 game against New England is in doubt. In Week 10 at Baltimore he threw for 129 yards with no TDs and ran for 51 yards and a score. We found no update on his protocol status as of Monday morning.",
+      "take": "The fantasy total was good, but it came from three short touchdowns; 131 passing yards follows 129 the week before, and six sacks show the line is still failing him. He must clear every step of the protocol to play in Week 12, so the 7-2 redraft team should already have a backup QB plan and shouldn't count on him. In superflex dynasty he's 28 and a long-term starter whose value is depressed by the offense around him, so a rebuilding team should hold rather than sell at a low price.",
       "dynasty": "HOLD",
       "redraft": "SIT",
       "points": [
-        "Wk 10 at BAL: 12/18, 129 yds, 0 TD, 0 INT",
-        "7-51-1 rushing (16.26 pts)",
-        "Chargers now 1-8 after first win",
-        "Finger no issue; only 2 sacks"
+        "Wk 11 vs NYJ: 15/21, 131 yds, 2 TD; 8-32-1 rushing",
+        "Concussion protocol; Wk 12 vs NE in doubt",
+        "Sacked six times",
+        "Two straight weeks near 130 pass yds"
       ],
       "handcuff": "",
       "sources": [
         {
+          "title": "Sleeper API: 2026 Week 11 stats",
+          "url": "https://api.sleeper.app/v1/stats/nfl/regular/2026/11"
+        },
+        {
+          "title": "Sleeper API: 2026 Week 10 stats",
+          "url": "https://api.sleeper.app/v1/stats/nfl/regular/2026/10"
+        },
+        {
           "title": "Chargers.com: Game recap, Chargers secure first win over Baltimore",
           "url": "https://www.chargers.com/news/game-recap-ravens-week-10-justin-herbert"
-        },
-        {
-          "title": "Bolts from the Blue: Hampton, takeaways spur Bolts to first win",
-          "url": "https://www.boltsfromtheblue.com/los-angeles-chargers-news/67118/chargers-ravens-game-recap-jim-harbaugh-justin-herbert-jessie-minter"
-        },
-        {
-          "title": "Sleeper API: 2026 Week 10 regular-season stats",
-          "url": "https://api.sleeper.app/v1/stats/nfl/regular/2026/10"
         }
       ],
-      "updated": "Nov 17"
+      "updated": "Nov 23"
     },
     "12533": {
       "name": "Jacory Croskey-Merritt",
-      "headline": "Full practices; slated to come off IR for Monday night",
-      "news": "Croskey-Merritt practiced fully all week and is listed questionable (groin) for Monday night's Nov. 23 game against Cincinnati. CBS's Matt Zenitz reported Nov. 21 that he is slated to be activated from IR in time to play, likely in a split with Rachaad White; Sleeper still showed him on IR as of Nov. 22. Dan Quinn said earlier in the week that he considered him recovered but wanted to see him handle three practices. He has been on IR since Oct. 19, and in five games before the injury he had 67 carries for 239 yards (3.6 per carry) and 2 TDs (Sleeper).",
-      "take": "A return is likely, but a split with White in his first game back caps his upside, and his 3.6 yards per carry before the injury doesn't argue for a big role. In 12-team redraft he's at best a low-end flex on Monday, so a 7-2 team can keep him on the bench this week and see the usage. In dynasty a 25-year-old cheap early-down back fits the rebuild; hold him rather than selling while he's coming off IR.",
+      "headline": "Expected off IR for MNF vs. Bengals; confirm he's active",
+      "news": "Washington designated Croskey-Merritt (groin) to return from IR on Nov. 17. He practiced fully during the week and is expected to play in tonight's Nov. 23 Monday night game against Cincinnati. CBS's Matt Zenitz reported Nov. 21 that he was slated to be activated in time. As of Monday morning, though, Sleeper still listed him on IR, and we found no official activation, so check the inactives about 90 minutes before kickoff. Rachaad White led the backfield during his absence, and a split is expected. In five games before the injury, JCM ran 67 times for 239 yards (3.6 per carry) with 2 TDs.",
+      "take": "Until he's officially activated, he can't be started safely. Even if he plays, a split with White in his first game in more than a month gives him a low ceiling. For the 7-2 redraft team he's a bench player tonight unless you have no other option, and we'll know more about the split after this game. In dynasty, a cheap 25-year-old early-down back is a fine hold for a rebuild. Don't sell him now, when his value is at its lowest coming off IR.",
       "dynasty": "HOLD",
-      "redraft": "HOLD",
+      "redraft": "SIT",
       "points": [
-        "Full practice all week; questionable (groin)",
-        "Zenitz: slated to come off IR for MNF",
+        "Designated to return Nov. 17; full practices",
+        "Still on IR in Sleeper Mon. morning",
         "Likely split with Rachaad White",
-        "2026: 67-239-2 in 5 games"
+        "Pre-injury: 67-239-2 in 5 games"
       ],
-      "handcuff": "Rachaad White has led the backfield during the IR stint and is expected to split work with Croskey-Merritt on his return, so he caps JCM's early workload.",
+      "handcuff": "Rachaad White led the backfield during the IR stint and should split work with Croskey-Merritt on his return. White stays the lead back if JCM isn't activated.",
       "sources": [
         {
-          "title": "Fantasy Footballers: Croskey-Merritt back at practice Thursday",
-          "url": "https://www.thefantasyfootballers.com/news/648654/jacory-croskey-merritt-back-at-practice-thursday/"
+          "title": "Commanders.com: Commanders activate Amos, Magee, McNichols; Croskey-Merritt designated",
+          "url": "https://www.commanders.com/news/commanders-activate-amos-magee-mcnichols-croskey-merritt-jean-baptiste"
+        },
+        {
+          "title": "Fantasy Footballers: Croskey-Merritt cleared to resume practicing",
+          "url": "https://www.thefantasyfootballers.com/news/648327/jacory-croskey-merritt-cleared-to-resume-practicing/"
         },
         {
           "title": "WJLA: Commanders place Croskey-Merritt on IR",
           "url": "https://wjla.com/sports/washington-commanders/washington-commanders-jacory-croskey-merritt-javontae-jean-baptiste-injured-reserve-jeremy-mcnichols-trey-amos-jordan-magee-austin-keys-tj-maguranyanga-san-francisco-49ers-monday-night-football-groin-pectoral-quadriceps-ankle-hamstring-roster-cincinnati"
-        },
-        {
-          "title": "Sleeper API: 2026 Week 10 player stats",
-          "url": "https://api.sleeper.app/v1/stats/nfl/regular/2026/10"
         }
       ],
-      "updated": "Nov 22"
+      "updated": "Nov 23"
     },
     "5967": {
       "name": "Tony Pollard",
@@ -329,33 +329,33 @@
     },
     "13293": {
       "name": "Ja'Kobi Lane",
-      "headline": "11 targets in Brissett debut; caught only three",
-      "news": "With Elijah Sarratt held out as a coach's decision, Lane drew 11 targets in the Nov. 16 Monday night game against the Chargers and caught 3 for 61 yards (7.6 half-PPR), per Sleeper. He also had a red-zone target. That's a sharp change from a scoreless Week 9 against Jacksonville, when he played 32 snaps, and a single target in the game before that against Buffalo. It was Jacoby Brissett's first start for Baltimore. We found no injury designation for Lane.",
-      "take": "Eleven targets, more than Zay Flowers, is the first sign Baltimore wants the rookie involved. But a 3-of-11 catch rate and the fact that Sarratt's benching may not last are reasons not to overreact. In redraft he's a speculative bench stash, not a starter, until he repeats this target share. In dynasty, a 22-year-old rookie just starting to see volume is the kind of cheap buy our 1-8 rebuilding team should make before his price goes up.",
+      "headline": "Shut out in Week 11 a week after 11 targets",
+      "news": "Lane was active for Baltimore's Nov. 22 game but had no catches or targets in the Sleeper box score. We couldn't find a snap count or an explanation. A week earlier, Nov. 16 against the Chargers in Jacoby Brissett's first start, he drew 11 targets and caught 3 for 61 yards (7.6 half-PPR), with Elijah Sarratt held out as a coach's decision. Before that, he was held without a catch in Week 9 against Jacksonville. We found no injury designation for him.",
+      "take": "Going from 11 targets to none in a week means Week 10 was a one-off and not a new role, at least for now. He can't be trusted in 12-team redraft and can be dropped if you need the spot. In dynasty, a 22-year-old rookie who showed he can earn targets is still a reasonable cheap stash for a 1-8 rebuild. The blank game should also lower his trade price, so it's a good time to buy cheaply rather than sell.",
       "dynasty": "BUY",
-      "redraft": "HOLD",
+      "redraft": "SIT",
       "points": [
-        "Week 10 vs. LAC: 3-61 on 11 targets",
-        "Sarratt out as coach's decision",
-        "Week 9: 0 points on 32 snaps",
-        "Cheap dynasty buy for a rebuild"
+        "Wk 11: active, 0 targets (Sleeper)",
+        "Wk 10 vs LAC: 3-61 on 11 targets",
+        "Role very volatile with Brissett at QB",
+        "Cheap dynasty stash only"
       ],
       "handcuff": "",
       "sources": [
         {
-          "title": "BaltimoreRavens.com: 50 words on Brissett, Henry, Flowers before Chargers game",
-          "url": "https://www.baltimoreravens.com/news/jacoby-brissett-leadership-experience-andrew-luck-possible-lineup-changes-derrick-henry-zay-flowers-50-words-ravens-chargers-2026/"
+          "title": "FantasySP: Ravens Week 10 target leaders",
+          "url": "https://www.fantasysp.com/target-touch-leaders/BAL/10"
         },
         {
-          "title": "NBC Sports: Minter says Brissett expected to start vs. Chargers",
-          "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-11-09/minter-brissett-expected-to-start-vs-chargers"
+          "title": "Fantasy Footballers: Lane career-high yardage in loss",
+          "url": "https://www.thefantasyfootballers.com/news/648318/jakobi-lane-career-high-yardage-total-in-loss/"
         },
         {
-          "title": "Sleeper API: 2026 Week 10 stats",
-          "url": "https://api.sleeper.app/v1/stats/nfl/regular/2026/10"
+          "title": "Sleeper API: 2026 Week 11 player stats",
+          "url": "https://api.sleeper.app/v1/stats/nfl/regular/2026/11"
         }
       ],
-      "updated": "Nov 17"
+      "updated": "Nov 23"
     },
     "12519": {
       "name": "Luther Burden III",
@@ -419,29 +419,37 @@
     },
     "12490": {
       "name": "Bhayshul Tuten",
-      "headline": "26 carries and a TD in 40-23 win",
-      "news": "Tuten ran 26 times for 88 yards and a touchdown and caught 3 of 4 targets for 25 yards (18.8 half-PPR, per Sleeper) on 51 of 73 snaps in Jacksonville's 40-23 win at Tennessee on Nov. 15. That followed a 12-29-1 game at Baltimore on Nov. 5, when he played through a foot/ankle injury after missing practice. On the season he has 609 rushing yards and 8 total TDs (Sleeper). We found no new injury designation after Week 10.",
-      "take": "A season-high workload suggests the ankle is no longer limiting him, and he has scored in back-to-back games. He's a solid RB2 start in redraft on a good offense. Yards per carry (about 3.4 in Week 10) is still modest, so his value depends on volume and touchdowns. In dynasty he's a 23-year-old lead back, exactly the type a rebuild wants to keep, so hold.",
+      "headline": "Limps off vs. Giants with ankle/foot injury; questionable",
+      "news": "Tuten limped off in the fourth quarter of Jacksonville's Nov. 22 game against the Giants with a left ankle/foot injury and did not return, finishing with 10 carries for 33 yards and 3 catches for 20 yards (6.8 half-PPR, per Sleeper). He had been playing through a high ankle sprain that dates to Week 8. Before the game he was limited Wednesday and worked off to the side at Thursday's practice. No imaging results have been reported, and Sleeper lists him as questionable.",
+      "take": "This is the same ankle he has been managing for weeks, so a re-aggravation is a real risk to his next few games. When healthy he is the lead back, with 642 rushing yards on 158 carries (4.1 per carry) this season, though his scoring depends on volume and touchdowns. In redraft, hold him and watch Wednesday's practice report; don't start him blind, and add Chris Rodriguez Jr. as cover if you roster Tuten. In dynasty he's a 23-year-old starter on a winning offense, exactly the kind of player a rebuild keeps, so hold through the injury.",
       "dynasty": "HOLD",
-      "redraft": "START",
+      "redraft": "HOLD",
       "points": [
-        "Wk 10 at TEN: 26-88-1, 3-25 rec",
-        "51 of 73 snaps",
-        "8 total TDs in 9 games",
-        "No current injury designation"
+        "Wk 11 at NYG: 10-33, 3-20 rec; left in 4th quarter",
+        "Re-aggravated left ankle/foot; questionable",
+        "No imaging results reported yet",
+        "Season: 158-642 rushing"
       ],
-      "handcuff": "Chris Rodriguez Jr. is the No. 2 back and gets short-yardage work; he would take most early-down carries if Tuten missed time.",
+      "handcuff": "Chris Rodriguez Jr. would lead the backfield if Tuten misses time; he had 4-28 rushing and a 13-yard catch in Week 11 and has handled short-yardage work.",
       "sources": [
         {
-          "title": "Jaguars.com: Game report, Jaguars 40, Titans 23",
-          "url": "https://www.jaguars.com/news/game-report-2026-week-10-jaguars-40-titans-23"
+          "title": "Sleeper API: 2026 Week 11 player stats",
+          "url": "https://api.sleeper.app/v1/stats/nfl/regular/2026/11"
         },
         {
-          "title": "Sleeper API: 2026 Week 10 stats",
-          "url": "https://api.sleeper.app/v1/stats/nfl/regular/2026/10"
+          "title": "CBS Sports: Jaguars' Bhayshul Tuten hurts ankle Sunday",
+          "url": "https://www.cbssports.com/fantasy/football/news/jaguars-bhayshul-tuten-hurts-ankle-sunday"
+        },
+        {
+          "title": "The Fantasy Footballers: Tuten works off to the side at Thursday practice",
+          "url": "https://www.thefantasyfootballers.com/news/648653/bhayshul-tuten-works-off-to-the-side-at-start-of-thursdays-practice/"
+        },
+        {
+          "title": "Giants.com: Injury report statuses for Giants vs. Jaguars, Week 11",
+          "url": "https://www.giants.com/news/injury-report-statuses-for-giants-vs-jaguars-week-11"
         }
       ],
-      "updated": "Nov 17"
+      "updated": "Nov 23"
     },
     "13287": {
       "name": "Jeremiyah Love",
@@ -471,19 +479,23 @@
     },
     "13311": {
       "name": "Chris Bell",
-      "headline": "Back at practice and off injury report; set to return vs. Buffalo",
-      "news": "Bell (knee) was inactive for Miami's 24-22 loss at Indianapolis on Nov. 15 after being listed doubtful; Jeff Hafley said he banged the knee and that it isn't related to his 2025 ACL repair. He returned as a limited practice participant on Nov. 18 and Nov. 19, and he was off Sleeper's injury report as of Nov. 20, so he appears set to play Sunday against Buffalo. The knee has been managed all season, with limited practices in late September and early October. He has 12 catches for 148 yards on 27 targets in eight games (Sleeper), and he had 1 target and no catches in Week 9.",
-      "take": "Being back on the field is good news, but limited practices and a knee that keeps getting managed are reasons to expect a reduced role at first. Even when healthy he hasn't produced much, averaging under 20 receiving yards a game. In 12-team redraft he shouldn't be in a lineup and can stay on waivers. In dynasty he's a rookie third-round pick with low current value, so holding him as a cheap 2027 stash costs the rebuilder nothing.",
+      "headline": "Returns but plays through chest injury; 1 catch on 4 targets",
+      "news": "Bell returned from the knee injury that cost him Week 10 and played Sunday, Nov. 22, against Buffalo, but he played through a chest injury in the game. He caught 1 of 4 targets for 8 yards (1.3 half-PPR, per Sleeper). As of Nov. 23, Sleeper lists him as questionable with the chest injury. He was a limited practice participant Nov. 18-19 because of the knee, and through nine games he has 13 catches for 156 yards on 31 targets.",
+      "take": "A new chest injury on top of a knee that has been managed all season makes his short-term role shaky, and Caleb Douglas clearly gets more targets right now. Bell is averaging under 20 receiving yards a game, so he doesn't belong in a 12-team redraft lineup and can stay on waivers. In dynasty he's a rookie third-round pick with little current value. A 1-8 rebuilder can hold him as a free stash for 2027, but shouldn't trade anything to get him.",
       "dynasty": "HOLD",
       "redraft": "SIT",
       "points": [
-        "Limited Nov. 18-19; off report Nov. 20",
-        "Missed Wk 10 at IND (knee)",
-        "2026: 12-148 on 27 targets",
-        "Knock not tied to ACL repair"
+        "Wk 11 vs BUF: 1-8 on 4 targets",
+        "Questionable (chest) on Sleeper as of Nov. 23",
+        "Missed Wk 10 with knee injury",
+        "2026: 13-156 on 31 targets"
       ],
       "handcuff": "",
       "sources": [
+        {
+          "title": "Sleeper API: 2026 Week 11 stats",
+          "url": "https://api.sleeper.app/v1/stats/nfl/regular/2026/11"
+        },
         {
           "title": "Fantasy Footballers: Chris Bell limited in return to practice",
           "url": "https://www.thefantasyfootballers.com/news/648527/chris-bell-limited-in-return-to-practice/"
@@ -491,13 +503,9 @@
         {
           "title": "Fantasy Footballers: Chris Bell considered day-to-day",
           "url": "https://www.thefantasyfootballers.com/news/648461/chris-bell-considered-day-to-day/"
-        },
-        {
-          "title": "Roundtable: Dolphins inactives Week 10, Bell ruled out",
-          "url": "https://roundtable.io/sports/nfl/dolphins/game-day/dolphins-inactives-week-10-chris-bell-ruled-out"
         }
       ],
-      "updated": "Nov 21"
+      "updated": "Nov 23"
     },
     "7564": {
       "name": "Ja'Marr Chase",
@@ -733,63 +741,63 @@
     },
     "13337": {
       "name": "Emmett Johnson",
-      "headline": "Starts again vs. Arizona with Walker officially out",
-      "news": "Kansas City officially ruled Kenneth Walker III (groin) out for Sunday's Nov. 22 game against Arizona, so Johnson makes his second straight start. In his first start on Nov. 15 at Atlanta he ran 22 times for 101 yards and caught 6 of 7 targets for 70 yards and two TDs (32.1 half-PPR, Sleeper) in a 35-13 win. Reports from Rapoport and Schefter say the Chiefs won't rush Walker, whose most realistic return is Thanksgiving at Buffalo. Arizona will start 40-year-old Josh Johnson at QB with Carson Beck out, which adds to the game-script edge for Kansas City.",
-      "take": "He should again handle most of the backfield work against a struggling Arizona team starting a backup QB, so he's a clear redraft RB1 this week. The two receiving TDs won't repeat often, but 28 touches is the number that matters. Walker could return as soon as Thanksgiving, so his value beyond this week depends on how the work is split afterward. In dynasty, a 23-year-old fifth-round rookie who has proven he can handle a full load is a good fit for a 1-8 rebuild; hold, since contenders won't pay full price for a backup.",
+      "headline": "Second straight big game; 105 yards and a TD vs. Arizona",
+      "news": "With Kenneth Walker III (groin) out, Johnson started again on Nov. 22 against Arizona. He ran 23 times for 105 yards and a TD and caught all 4 targets for 38 yards (22.3 half-PPR, per Sleeper), including six carries in the red zone. A week earlier at Atlanta he had 22 carries for 101 yards and caught 6 passes for 70 yards and two TDs (32.1). Reports during the week said the Chiefs wouldn't rush Walker back, and Thanksgiving at Buffalo has been mentioned as his earliest realistic return. We found no update on Walker after the game.",
+      "take": "Two starts with 100-plus rushing yards each and 55 total touches show Johnson can be a workhorse. It's hard to see Kansas City sending him back to a minor role when Walker returns. If Walker sits again on Thanksgiving, Johnson is an RB1 start. If Walker plays, expect a split that still leaves Johnson as a flex in 12-team leagues. For the 1-8 dynasty rebuild, a 23-year-old rookie who has done this is a core piece to keep. Only sell if a contender pays a first-round-level price.",
       "dynasty": "HOLD",
       "redraft": "START",
       "points": [
-        "Walker (groin) out Wk 11",
-        "Wk 10 at ATL: 22-101, 6-70-2 (32.1)",
-        "Faces ARI with backup QB Josh Johnson",
-        "Walker eyeing Thanksgiving return"
+        "Wk 11 vs ARI: 23-105-1, 4-38 (22.3)",
+        "Wk 10 at ATL: 32.1 half-PPR",
+        "Walker (groin) status for Thanksgiving TBD",
+        "Strong case for a big role in a split"
       ],
-      "handcuff": "Kenneth Walker III is the starter when healthy but is out Week 11 (groin) with Thanksgiving at Buffalo his likeliest return; expect a split once he's back.",
+      "handcuff": "Kenneth Walker III is the starter when healthy but has missed two games with a groin injury. If he's back for Thanksgiving at Buffalo, the work likely gets split rather than Walker taking it all back.",
       "sources": [
         {
           "title": "TSN: Walker misses practice; Johnson in line to start again",
           "url": "https://www.tsn.ca/nfl/article/chiefs-rb-walker-misses-practice-with-groin-injury-johnson-in-line-to-start-again/"
         },
         {
-          "title": "TSN: Chiefs can ill afford to overlook the lowly Cardinals",
-          "url": "https://www.tsn.ca/nfl/article/chiefs-are-flying-high-but-can-ill-afford-to-overlook-the-lowly-cardinals/"
+          "title": "News Tribune: Chiefs not rushing Walker's return from groin injury",
+          "url": "https://www.newstribune.com/news/2026/nov/19/chiefs-not-rushing-walkers-return-from-groin-injury/"
         },
         {
-          "title": "Sleeper API: 2026 Week 10 player stats",
-          "url": "https://api.sleeper.app/v1/stats/nfl/regular/2026/10"
+          "title": "Sleeper API: 2026 Week 11 player stats",
+          "url": "https://api.sleeper.app/v1/stats/nfl/regular/2026/11"
         }
       ],
-      "updated": "Nov 22"
+      "updated": "Nov 23"
     },
     "11604": {
       "name": "Brock Bowers",
-      "headline": "Back at practice Thursday; questionable but trending toward playing",
-      "news": "Bowers (ankle/quad) returned to practice Thursday, Nov. 19, after missing Wednesday's session, and he's listed questionable for Sunday's game at Denver. Reports on Nov. 20 suggest Las Vegas expects him to play, though some still describe it as a game-time decision. Klint Kubiak had said earlier in the week that the injury wasn't as bad as first feared. He left the Nov. 15 loss to Seattle early with 2 catches for 18 yards (Sleeper), a week after a 7-111-1 game at San Francisco.",
-      "take": "Getting back on the practice field Thursday is a real step forward from the earlier game-time-decision talk, and the reporting now points toward him playing. There's still some risk of limited snaps or a setback in-game, since it's a lower-body injury on top of earlier knee and calf issues this season. In redraft, start him if he's active; his target share makes him a TE1 even if he plays a reduced role, but keep a backup tight end ready in case he's a surprise scratch. In dynasty, a 23-year-old elite tight end is someone a rebuilding team holds.",
+      "headline": "Missed Denver loss with ankle/quad; Mayer barely produced",
+      "news": "Bowers (ankle/quad) did not play in the Raiders' 38-24 loss at Denver on Nov. 22, despite returning to practice Nov. 19, so he has no Week 11 stats. Michael Mayer filled in and caught 1 of 4 targets for 4 yards (0.9 half-PPR, per Sleeper). Las Vegas has lost three straight and fell to 4-7. Bowers left the Nov. 15 loss to Seattle early with 2 catches for 18 yards, a week after going 7-111-1 at San Francisco. Sleeper lists him as out, and we found no timeline for his return.",
+      "take": "Missing a game after practicing during the week makes his Week 12 status uncertain, and lower-body injuries on top of earlier knee and calf problems this season are a concern. In redraft, hold him: when he's active, he's a TE1 because of his target share, but keep a backup tight end ready until he practices fully. With the Raiders at 4-7, there's also some chance they're cautious with him. For the 1-8 dynasty rebuild, a 23-year-old elite tight end is someone to keep, not sell at an injury low.",
       "dynasty": "HOLD",
-      "redraft": "START",
+      "redraft": "HOLD",
       "points": [
-        "Returned to practice Thu. Nov. 19",
-        "Questionable at DEN; expected to play",
-        "Wk 10 vs SEA: 2-18 (left early)",
-        "Wk 9 at SF: 7-111-1"
+        "Out Wk 11 at DEN (ankle/quad)",
+        "Mayer: 1-4 on 4 targets in his place",
+        "Wk 10: 2-18 (left early); Wk 9: 7-111-1",
+        "Raiders 4-7, three straight losses"
       ],
       "handcuff": "",
       "sources": [
         {
-          "title": "Las Vegas Review-Journal: Star tight end returns to practice, status uncertain",
-          "url": "https://www.reviewjournal.com/sports/raiders/raiders-report-star-tight-end-returns-to-practice-but-status-uncertain-3448027/amp"
+          "title": "KTNV: Raiders drop third straight game in 38-24 loss to Broncos",
+          "url": "https://www.ktnv.com/sports/raiders/raiders-drop-third-straight-game-in-38-24-loss-to-broncos"
         },
         {
           "title": "ClutchPoints: Bowers' ankle and quad injuries linger before Broncos game",
           "url": "https://clutchpoints.com/nfl/las-vegas-raiders/raiders-news-brock-bowers-broncos-ankle-quad-injuries-linger"
         },
         {
-          "title": "Sleeper API: 2026 Week 10 stats",
-          "url": "https://api.sleeper.app/v1/stats/nfl/regular/2026/10"
+          "title": "Sleeper API: 2026 Week 11 stats",
+          "url": "https://api.sleeper.app/v1/stats/nfl/regular/2026/11"
         }
       ],
-      "updated": "Nov 21"
+      "updated": "Nov 23"
     },
     "10859": {
       "name": "Sam LaPorta",
@@ -1325,33 +1333,33 @@
     },
     "7594": {
       "name": "Chuba Hubbard",
-      "headline": "Stays lead back vs. Ravens with Brooks kept on IR",
-      "news": "Carolina ruled out Jonathon Brooks on Saturday, Nov. 21, and kept him on IR, so Hubbard remains the lead back for Sunday's game vs. Baltimore. He's coming off 27-92-2 rushing and 5-80 receiving in the Nov. 15 win at New Orleans (31.7 half-PPR, per Sleeper), with 32 touches in a close game. In Week 9 vs. Denver he had 16-79 rushing and 4-17 receiving (11.6). Brooks practiced fully all week, so his return could come as soon as Week 12 vs. Tampa Bay on Nov. 30.",
-      "take": "Hubbard's workload is secure for one more week, and his receiving work gives him a solid floor even in a tough matchup against Baltimore. Start him as an RB2 with upside in 12-team redraft. Brooks' full practices suggest the backfield may begin to split slightly from Week 12, though Hubbard should still lead. In dynasty he's in his late 20s and fresh off a big game with his job safe this week, which is the window for a 1-8 rebuild to sell him to a contender for picks or younger players.",
+      "headline": "27-120-2 in win over Ravens; Brooks return could follow",
+      "news": "Hubbard ran 27 times for 120 yards and two TDs, plus a two-point conversion, in Carolina's 35-33 win over Baltimore on Nov. 22 (26.0 half-PPR, per Sleeper). He had no catches in that game. Trevor Etienne got 6 carries for 29 yards. It was Hubbard's third 120-yard game of the season and followed 27-92-2 rushing and 5-80 receiving at New Orleans. Jonathon Brooks is still on IR after practicing fully earlier, so he could be activated as soon as Week 12 vs. Tampa Bay on Nov. 30.",
+      "take": "Fifty-four carries and four rushing TDs in two weeks is as secure a workload as any back has right now, and Carolina's lead in the NFC South keeps game scripts friendly. Start him as an RB1 in redraft while it lasts, but expect a few touches to go to Brooks once he's activated. For the 1-8 dynasty rebuild, a back in his late 20s coming off back-to-back big games is at peak value, so sell to a contender for picks or younger players.",
       "dynasty": "SELL",
       "redraft": "START",
       "points": [
-        "Lead back Wk 11 vs BAL",
-        "Wk 10 at NO: 27-92-2, 5-80 (31.7)",
-        "Brooks out again but practicing fully",
-        "Sell high to a contender in dynasty"
+        "Wk 11 vs BAL: 27-120-2 (26.0)",
+        "54 carries, 4 rush TD in two weeks",
+        "Etienne: 6 carries",
+        "Brooks could return Wk 12"
       ],
-      "handcuff": "Jonathon Brooks: practiced fully this week but stays on IR; he's the likely No. 2 once activated, possibly Week 12. Until then Trevor Etienne and AJ Dillon rotate as backups, with no clear replacement if Hubbard went down.",
+      "handcuff": "Jonathon Brooks is the likely No. 2 once activated from IR, possibly Week 12. Until then Trevor Etienne (6 carries in Week 11) is the backup.",
       "sources": [
         {
-          "title": "Sleeper API: 2026 Week 10 stats",
-          "url": "https://api.sleeper.app/v1/stats/nfl/regular/2026/10"
+          "title": "NBC Sports: Hubbard scores twice in 120-yard outing vs. Ravens",
+          "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-11-22/hubbard-scores-twice-in-120-yard-outing-vs-ravens"
         },
         {
-          "title": "Panthers.com: Hubbard carried his team Sunday",
-          "url": "https://www.panthers.com/news/from-his-pregame-speech-to-all-the-plays-chuba-hubbard-carried-his-team-sunday"
+          "title": "CBS Sports: Hubbard two more TDs in Week 11 win",
+          "url": "https://www.cbssports.com/fantasy/football/news/panthers-chuba-hubbard-two-more-tds-in-week-11-win/"
         },
         {
-          "title": "Fantasy Footballers: Jonathon Brooks won't return for Week 10",
-          "url": "https://www.thefantasyfootballers.com/news/647719/jonathon-brooks-wont-return-for-week-10/"
+          "title": "Sleeper API: 2026 Week 11 stats",
+          "url": "https://api.sleeper.app/v1/stats/nfl/regular/2026/11"
         }
       ],
-      "updated": "Nov 22"
+      "updated": "Nov 23"
     },
     "6813": {
       "name": "Jonathan Taylor",
@@ -1385,33 +1393,33 @@
     },
     "4866": {
       "name": "Saquon Barkley",
-      "headline": "Out of bye with hamstring/back questions and a struggling offense",
-      "news": "Sleeper's Week 9 data has Barkley at 13 carries for 22 yards and a touchdown, with one target, in the Nov 8 loss to the Giants. He played 41 of 70 offensive snaps. Philadelphia (2-7) was on bye in Week 10, so he has no new stat line. Through seven games he has 69 carries for 296 yards (4.3 per carry), three TDs and seven catches. He had been listed as not practicing with a hamstring issue as recently as late October, and this refresh found no post-bye practice report.",
-      "take": "The numbers are poor: 4.3 yards per carry, almost no receiving work, and only about 60% of snaps last time out, on an offense led by a struggling Joe Milton. In 12-team redraft he's a touchdown-dependent RB2/flex, not a locked-in starter. For a 1-8 dynasty rebuild, he's a high-mileage veteran with recurring soft-tissue injuries, so sell him to any contender willing to pay on the name. Check Wednesday's practice report before setting a Week 11 lineup.",
+      "headline": "Left arm injury in win; expects to play Thanksgiving",
+      "news": "Barkley ran 17 times for 75 yards with a 38-yard touchdown in the Nov. 22 win over Pittsburgh (13.5 half-PPR, per Sleeper) on a season-high 17 carries, but left with a left arm injury, and Will Shipley played the final 13 snaps. Barkley said afterward that he expects to play Thursday against Dallas but doesn't think he'll be 100% again this season. He had no catches in the game. Through eight games he has 86 carries for 371 yards (4.3 per carry) and 4 TDs, with only 7 catches.",
+      "take": "The volume and long touchdown were a good sign coming out of the bye, but he's now playing hurt on a short week for a 3-7 team, and he says he won't be fully healthy again this year. He has had almost no role as a receiver all season, so his fantasy scores depend on touchdowns. In 12-team redraft he's a flex for Thanksgiving if he's active, not a locked-in RB2. In dynasty, our 1-8 team should sell this high-mileage 29-year-old to any contender still paying for the name.",
       "dynasty": "SELL",
       "redraft": "HOLD",
       "points": [
-        "Week 9 vs NYG: 13-22-1, 41/70 snaps",
-        "Week 10: bye",
-        "Season: 69-296-3, 4.3 YPC, 7 catches",
-        "Post-bye practice status not yet verified"
+        "Wk 11 vs PIT: 17-75-1 (38-yd TD), 0 catches",
+        "Left arm injury; Shipley took final 13 snaps",
+        "Expects to play Thu. vs DAL, not 100%",
+        "Season: 86-371-4, 7 catches"
       ],
-      "handcuff": "Elijah Mitchell is the likely early-down replacement if Barkley sits (per last week's depth info), with Jaydon Blue as the change-of-pace back; neither has a verified role change this week.",
+      "handcuff": "Will Shipley took over for the final 13 snaps after Barkley got hurt in Week 11 and is the most likely fill-in if Barkley is limited on the short week.",
       "sources": [
         {
-          "title": "Sleeper API: 2026 Week 9 player stats",
-          "url": "https://api.sleeper.app/v1/stats/nfl/regular/2026/9"
+          "title": "Sleeper API: 2026 Week 11 player stats",
+          "url": "https://api.sleeper.app/v1/stats/nfl/regular/2026/11"
         },
         {
-          "title": "Philadelphia Inquirer: Eagles lose to Giants, Milton's first start",
-          "url": "https://www.inquirer.com/eagles/giants-loss-nfl-week-9-losing-streak-joe-milton-20261108.html"
+          "title": "Fox Sports: Steelers vs. Eagles, Nov. 22, 2026 box score",
+          "url": "https://www.foxsports.com/nfl/week-11-pittsburgh-steelers-vs-philadelphia-eagles-nov-22-2026-game-boxscore-11282"
         },
         {
-          "title": "Northeast Times: Eagles injury report before Washington game (Oct 29)",
-          "url": "https://northeasttimes.com/?p=165493"
+          "title": "IBTimes: Barkley left-arm stinger vs. Titans (earlier 2026 arm injury)",
+          "url": "https://www.ibtimes.co.uk/saquon-barkley-left-arm-stinger-eagles-titans-1820780"
         }
       ],
-      "updated": "Nov 17"
+      "updated": "Nov 23"
     },
     "8130": {
       "name": "Trey McBride",
@@ -1613,63 +1621,63 @@
     },
     "5850": {
       "name": "Josh Jacobs",
-      "headline": "Realistic chance to return Nov. 25 at Rams after bye",
-      "news": "Ian Rapoport reported on Nov. 17 that Jacobs (finger) has a realistic chance to return Nov. 25 against the Rams, right after Green Bay's Week 11 bye. Jacobs broke his right ring finger early in the Week 9 game at New England and had surgery on Nov. 13. Rapoport's original estimate was 2-3 weeks. The Packers kept him off IR, which left the Rams game open as a possible return date. He was inactive for the 30-10 loss to Minnesota on Nov. 15, so he has no Week 10 stats. He's played only three games this season (Weeks 7-9): 36 carries for 80 yards, 11 catches and 3 total TDs, with 17.6 and 20.2 half-PPR points in his two full games.",
-      "take": "Coming back after the bye makes him likely to start again for the playoff stretch. He scored well in both of his full games, mostly on catches and touchdowns, even though he averaged just 2.2 yards per carry. In redraft, hold him and start him at the Rams if he practices fully, watching for any limits from the hand. In dynasty, a 28-year-old with few games played this season fits a contender better than a 1-8 rebuild, so sell once he's healthy and playing well.",
+      "headline": "Limited in practice, but LaFleur doesn't expect him Wednesday",
+      "news": "Green Bay listed Jacobs (finger) as limited in practice on Nov. 22 ahead of Wednesday's Nov. 25 game vs. the Rams, but Matt LaFleur said he isn't expected to play, with ball security the main concern. LaFleur said Jacobs would need significant progress before Tuesday to have a chance, and some coverage now points to Week 13 as the more realistic return. Jacobs broke his right ring finger at New England on Nov. 8 and had surgery Nov. 14. Sleeper still lists him as out. The Packers had a Week 11 bye, so he has no new stats; in three games this season he has 36 carries for 80 yards, 11 catches and 3 total TDs.",
+      "take": "The limited practice is progress, but the head coach is preparing everyone for another missed game, so plan on him sitting Wednesday. For the 7-2 redraft team, keep him for the playoff stretch but don't count on him this week. He's averaged just 2.2 yards per carry and has relied on catches and touchdowns, which matters if the hand limits his receiving. For the 1-8 dynasty rebuild, a 28-year-old back fits a contender better; sell once he's back and producing.",
       "dynasty": "SELL",
       "redraft": "HOLD",
       "points": [
-        "No Wk 10 stats (inactive after surgery)",
-        "Rapoport: realistic shot to return Nov 25 at LAR",
-        "GB on bye Week 11",
-        "Sell to a contender once he's back"
+        "Limited Sat (finger); Sleeper: out",
+        "LaFleur: not expected to play Wed vs LAR",
+        "Week 13 looks more realistic",
+        "Only 3 games played this season"
       ],
-      "handcuff": "Kaleb Johnson handles early downs when Jacobs is out, and MarShawn Lloyd takes the passing downs.",
+      "handcuff": "Kaleb Johnson has handled early downs with Jacobs out, and MarShawn Lloyd takes passing downs; Johnson is the better short-term add if Jacobs sits Wednesday.",
       "sources": [
         {
-          "title": "NBC Sports: Rapoport says Jacobs could miss 2-3 weeks",
-          "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-11-11/rapsheet-jacobs-could-miss-2-3-weeks"
+          "title": "Lombardi Ave: Packers Week 12 injury updates",
+          "url": "https://lombardiave.com/packers-week-12-injury-updates-micah-parsons-josh-jacobs-kevin-zeitler-more"
+        },
+        {
+          "title": "Yardbarker: Packers dealt unfortunate news regarding Josh Jacobs",
+          "url": "https://www.yardbarker.com/nfl/articles/packers_dealt_unfortunate_news_regarding_josh_jacobs/s1_17292_44597036"
         },
         {
           "title": "ClutchPoints: Jacobs gets return timeline after finger surgery",
           "url": "https://clutchpoints.com/nfl/green-bay-packers/packers-news-josh-jacobs-gets-official-injury-return-timeline-after-successful-finger-surgery"
-        },
-        {
-          "title": "RotoBaller: Jacobs could return in 2-3 weeks",
-          "url": "https://www.rotoballer.com/?p=1990622"
         }
       ],
-      "updated": "Nov 18"
+      "updated": "Nov 23"
     },
     "7543": {
       "name": "Travis Etienne Jr.",
-      "headline": "Quiet return from IR: 8-14 rushing, 21 snaps in loss",
-      "news": "Etienne played for the first time since going on IR Oct. 1 in the Saints' 20-17 home loss to Carolina on Nov. 15. Sleeper credits him with 8 carries for 14 yards and 3 catches for 20 yards on 5 targets (4.9 half-PPR) on 21 of 63 offensive snaps. Alvin Kamara played only 16 snaps but scored twice (a 3-yard run on his first touch and a receiving TD), and Audric Estime had 7 carries for 6 yards on 27 snaps. No new injury setback was reported after the game.",
-      "take": "A light snap count in the first game back after six weeks was expected, but 1.8 yards per carry and a three-way split are a poor start. Kamara is still getting the scoring touches, which caps Etienne's ceiling until his snaps climb. In 12-team redraft he's a flex-level hold for Week 11, not a must-start, until we see 50%+ snaps. In dynasty he's 27 on a rebuilding 1-8 roster; hold for now and sell to a contender once he strings together a couple of productive games.",
+      "headline": "Leads Saints with 14-76 as Kamara fades",
+      "news": "Etienne led New Orleans' backfield in the Nov. 22 loss to the Bears with 14 carries for 76 yards, including a 46-yard run, and 1 target (7.6 half-PPR, per Sleeper). Alvin Kamara had just 1 carry, though he scored on a 1-yard catch. It was Etienne's second game back from IR after an 8-carry, 14-yard return against Carolina on Nov. 15, when he played 21 of 63 snaps. No new injury was reported after the game.",
+      "take": "The workload jump to 14 carries and a clear edge over Kamara are what we wanted to see in his second game back. The missing piece is receiving work and touchdowns: he had one target, and Kamara is still getting the goal-line catches. In 12-team redraft he's now a usable RB2/flex start on volume. In dynasty he's 27 on our rebuilding roster, so hold for another week or two and sell to a contender if the workload holds.",
       "dynasty": "HOLD",
-      "redraft": "HOLD",
+      "redraft": "START",
       "points": [
-        "Wk 10 vs CAR: 8-14 rush, 3-20 rec (4.9)",
-        "21 of 63 snaps in return from IR",
-        "Kamara 16 snaps, 2 TDs; Estime 27 snaps",
-        "Saints lost 20-17"
+        "Wk 11 vs CHI: 14-76 rushing, 46-yd long (7.6)",
+        "Kamara had only 1 carry",
+        "Second game back from IR",
+        "Needs receiving work and TDs"
       ],
-      "handcuff": "Alvin Kamara: he scored twice on just 16 snaps in Week 10 and keeps the high-value touches; Audric Estime soaks up early-down snaps but was ineffective (7-6).",
+      "handcuff": "Alvin Kamara would pick up most passing-down work if Etienne missed time, with Audric Estime as the early-down option.",
       "sources": [
+        {
+          "title": "Sleeper API: 2026 Week 11 player stats",
+          "url": "https://api.sleeper.app/v1/stats/nfl/regular/2026/11"
+        },
+        {
+          "title": "Saints.com: Bears vs. Saints Week 11 box score",
+          "url": "https://www.neworleanssaints.com/game-day/2026/reg-week11/bears-vs-saints/box-score"
+        },
         {
           "title": "Saints.com: Panthers vs. Saints Week 10 recap",
           "url": "https://www.neworleanssaints.com/news/carolina-panthers-new-orleans-saints-2026-nfl-week-10-game-recap"
-        },
-        {
-          "title": "Saints.com: Panthers at Saints Week 10 box score",
-          "url": "https://www.neworleanssaints.com/game-day/2026/reg-week10/panthers-at-saints/box-score"
-        },
-        {
-          "title": "Sleeper API: 2026 Week 10 regular-season stats",
-          "url": "https://api.sleeper.app/v1/stats/nfl/regular/2026/10"
         }
       ],
-      "updated": "Nov 17"
+      "updated": "Nov 23"
     },
     "9484": {
       "name": "Tucker Kraft",
@@ -1819,37 +1827,33 @@
     },
     "8151": {
       "name": "Kenneth Walker III",
-      "headline": "Ruled out vs. Cardinals; Thanksgiving at Buffalo the target",
-      "news": "Kansas City officially ruled Walker (groin) out for Sunday's Nov. 22 game against Arizona after he missed practice all week; it will be his second straight absence. Ian Rapoport and Adam Schefter both reported there is no rush to bring him back, and the Thanksgiving game at Buffalo looks like the most realistic return date. Andy Reid said earlier in the week the injury is improving. Rookie Emmett Johnson starts again after 22-101 rushing and 6-70-2 receiving in the Nov. 15 win at Atlanta. Walker's last game was Nov. 8 vs. the Jets (18-102-1 rushing, 4-41-2 receiving, 34.3 half-PPR), and per Sleeper he has 872 rushing yards and 11 total TDs in eight games.",
-      "take": "He's out this week, and Thanksgiving is only a target on a four-day turnaround, so be ready for him to miss that game too. For the 7-2 redraft team, keep him: he's an RB1 when healthy with 20-plus points in six of eight games. In 10-team superflex dynasty, a 26-year-old back at his peak is worth the most to contenders; the 1-8 rebuild should sell, but wait until he is back and producing rather than selling at an injury discount.",
+      "headline": "Sits again as Emmett Johnson tops 100; Thanksgiving return expected",
+      "news": "Walker (groin) missed his second straight game on Nov. 22, and Kansas City beat Arizona 34-7 to move to 8-2. Rookie Emmett Johnson started again and ran 23 times for 105 yards and a TD, adding 4 catches for 38 yards (22.3 half-PPR, per Sleeper). Johnson has now gone over 100 rushing yards in both starts. Rotowire reported Nov. 22 that the Chiefs expect Walker back for the Thanksgiving night game at Buffalo. Walker's last game was Nov. 8 vs. the Jets (18-102-1 rushing, 4-41-2 receiving), and he has 872 rushing yards and 11 total TDs in eight games.",
+      "take": "The return news is good, but a Thursday game four days later is a quick turnaround from a groin injury, so his practice reports this week still matter. A bigger concern is that Johnson has produced 314 scrimmage yards in two starts, so Kansas City could split the work rather than give Walker his old full load right away. For the 7-2 redraft team, start Walker if he's active Thursday as a low-end RB1 with some timeshare risk. For the 1-8 dynasty rebuild, a 26-year-old in his prime is worth more to a contender, so sell once he shows his role is intact.",
       "dynasty": "SELL",
-      "redraft": "SIT",
+      "redraft": "HOLD",
       "points": [
-        "Out Wk 11 vs ARI (groin)",
-        "No practice all week",
-        "Return target: Thanksgiving at BUF",
-        "872 rush yds, 11 TD in 8 games"
+        "Out Wk 11 (groin); 2nd straight miss",
+        "Chiefs expect him back Thanksgiving at BUF",
+        "E. Johnson: 23-105-1, 4-38 in his place",
+        "Watch for a split once Walker returns"
       ],
-      "handcuff": "Emmett Johnson starts again with Walker out after 171 scrimmage yards and two TDs at Atlanta; he's the must-start replacement this week.",
+      "handcuff": "Emmett Johnson has two straight 100-yard rushing starts (22.3 half-PPR in Week 11) and could keep a real share of the work even after Walker returns; he's a must-roster.",
       "sources": [
         {
-          "title": "TSN: Walker misses practice; Johnson in line to start again",
-          "url": "https://www.tsn.ca/nfl/article/chiefs-rb-walker-misses-practice-with-groin-injury-johnson-in-line-to-start-again/"
+          "title": "Rotowire: Emmett Johnson eclipses century mark in win",
+          "url": "https://www.rotowire.com/football/headlines/emmett-johnson-news-eclipses-century-mark-in-win-649159"
         },
         {
-          "title": "News Tribune: Chiefs not rushing Walker's return",
-          "url": "https://www.newstribune.com/news/2026/nov/19/chiefs-not-rushing-walkers-return-from-groin-injury/"
+          "title": "NBC Sports/PFT: Chiefs overwhelm Cardinals, move to 8-2",
+          "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/chiefs-overwhelm-cardinals-move-to-8-2-with-34-7-victory"
         },
         {
-          "title": "KCTV5: Groin injury keeps Walker out of practice",
-          "url": "https://www.kctv5.com/2026/11/18/groin-injury-keep-chiefs-kenneth-walker-practicing/?outputType=amp"
-        },
-        {
-          "title": "Sleeper API: 2026 Week 9 player stats",
-          "url": "https://api.sleeper.app/v1/stats/nfl/regular/2026/9"
+          "title": "Sleeper API: 2026 Week 11 stats",
+          "url": "https://api.sleeper.app/v1/stats/nfl/regular/2026/11"
         }
       ],
-      "updated": "Nov 22"
+      "updated": "Nov 23"
     },
     "10229": {
       "name": "Rashee Rice",
@@ -2153,16 +2157,16 @@
     },
     "11564": {
       "name": "Drake Maye",
-      "headline": "Fractured right fibula, no surgery; likely out deep into season",
-      "news": "Schefter and Rapoport reported Nov. 16 that Maye fractured his right ankle on the opening drive of the Nov. 15 loss to Detroit in Munich, an injury that could end his season; he stayed in Germany for more tests to decide whether surgery is needed. A later report of a fractured fibula that would not need surgery could not be confirmed in any source we found (checked Nov. 22). Mike Vrabel said he does not expect Maye back after the Week 11 bye, and Tommy DeVito is in line to start Nov. 29 against the Chargers.",
-      "take": "Until the diagnosis is confirmed, assume the worse version; either way he probably won't help fantasy teams again this season. In superflex dynasty he is a young franchise QB who scored 20-plus half-PPR points in six of nine full games, and a clean fibula fracture shouldn't affect 2027, so the 1-8 rebuilder should try to buy him from contenders who need a QB now.",
+      "headline": "Out long term with broken leg; DeVito starts after bye",
+      "news": "Maye was hurt on the opening drive of the Nov. 15 loss to Detroit in Munich and stayed in Germany for more tests. Schefter and Rapoport reported Nov. 16 that the ankle appeared to be fractured and that he could miss the rest of the season. A Nov. 20 NFL.com roundup reportedly called it a fractured fibula, but the sources we could check (as of Nov. 23) still describe a fractured ankle, the team hasn't confirmed a diagnosis, and we found no word on whether he needs surgery. Mike Vrabel said he doesn't expect Maye back after the Week 11 bye, and Tommy DeVito is set to start Nov. 29 at the Chargers.",
+      "take": "Whether it's the ankle or the fibula, plan on Maye missing most or all of the rest of 2026, so in redraft he's an IR stash at best and a cut if your league has no IR slot. In superflex dynasty, a young franchise QB with a lower-leg fracture that shouldn't affect 2027 is exactly what a 1-8 rebuilder should target. Contenders who need points now may sell him at a discount, so make offers. The one risk to watch is any report that surgery is needed or that ligaments were also damaged.",
       "dynasty": "BUY",
       "redraft": "HOLD",
       "points": [
-        "Fractured right ankle reported (Schefter/Rapoport, Nov. 16)",
-        "Fibula/no-surgery report unconfirmed",
-        "Likely out most or all of 2026",
-        "DeVito starts Nov. 29 vs. Chargers"
+        "Fracture from Nov. 15 in Munich; fibula wording unconfirmed",
+        "Expected out well beyond the bye; season may be over",
+        "DeVito starts Nov. 29 at LAC",
+        "Superflex rebuild buy-low target"
       ],
       "handcuff": "",
       "sources": [
@@ -2171,15 +2175,15 @@
           "url": "https://www.nbcsportsboston.com/nfl/drake-maye-could-miss-the-rest-of-season-with-ankle-injury-report/814113/"
         },
         {
-          "title": "theScore: Maye could miss rest of season with fractured ankle",
-          "url": "https://thescore.com/news/3656720"
+          "title": "Spectrum News 13 (AP): Maye sidelined indefinitely with ankle injury",
+          "url": "https://mynews13.com/fl/orlando/sports/2026/11/17/patriots--drake-maye-will-be-sidelined-indefinitely-with-an-ankle-injury--ap-source-says"
         },
         {
-          "title": "Boston 25: Maye stayed in Germany for tests",
-          "url": "https://www.boston25news.com/news/local/reports-drake-maye-suffered-fractured-ankle-against-lions-stayed-behind-germany-tests/7Q3NZRV2SBCSFPRGKW3GMYTNS4/"
+          "title": "Fantasy Footballers: Maye not expected to be available after bye",
+          "url": "https://www.thefantasyfootballers.com/news/648145/drake-maye-not-expected-to-be-available-after-bye/"
         }
       ],
-      "updated": "Nov 22"
+      "updated": "Nov 23"
     },
     "4199": {
       "name": "Aaron Jones Sr.",
@@ -2239,33 +2243,33 @@
     },
     "8150": {
       "name": "Kyren Williams",
-      "headline": "Limited with sore toe on bye week; even split with Corum",
-      "news": "Williams was limited Saturday, Nov. 21, with a sore toe during the Rams' Week 11 bye, but Sean McVay expects him to play Wednesday vs. Green Bay; our searches did not independently confirm the toe report. In the Week 10 win at Arizona on Nov. 15, he ran 12 times for 23 yards and caught 2 of 5 targets for 9 yards (4.2 half-PPR, per Sleeper), while Blake Corum went 17-100-1 and the two split snaps 39-39. In Week 9 at Washington he had 15-45 rushing and 3-16 receiving (7.6) as Corum scored again. He remains in an even timeshare with Corum.",
-      "take": "The toe isn't a major worry since McVay expects him to play, but the role is: 27 carries for 68 yards over his last two games while Corum has outproduced him and scored twice. In a committee without reliable goal-line work, he's a touchdown-dependent flex, and a 7-2 redraft team should only start him if it's short at RB for the Wednesday game. In dynasty, a 26-year-old back losing ground to a younger teammate is a sell for a 1-8 rebuild, ideally to a contender that still values his name.",
+      "headline": "Limited with toe again; McVay expects him vs. Packers",
+      "news": "Williams (toe) was again limited on the Rams' Nov. 22 injury report ahead of Wednesday's Nov. 25 game vs. Green Bay, and Sleeper lists him as questionable. Sean McVay said the team isn't worried about his availability and expects him to play, though he may be limited in practice. The Rams were on bye in Week 11. In Week 10 at Arizona he had 12 carries for 23 yards and 2 catches for 9 yards on 5 targets (4.2 half-PPR, per Sleeper), while Blake Corum went 17-100-1 and the two split snaps 39-39.",
+      "take": "The toe doesn't look like it will keep him out, but the timeshare is the real issue: he's averaged 2.5 yards per carry over his last two games while Corum has scored in both. As half of an even split without reliable goal-line work, he's a touchdown-dependent flex. A 7-2 redraft team should start him only if it's short at RB. For the 1-8 dynasty rebuild, a 26-year-old losing ground to a younger teammate is a sell to a contender who still values his name.",
       "dynasty": "SELL",
       "redraft": "SIT",
       "points": [
-        "Limited Sat (toe); McVay expects him to play",
-        "Wk 12: Wednesday vs GB after bye",
+        "Limited again Nov 22 (toe); questionable",
+        "McVay expects him to play Wed vs GB",
         "Wk 10: 12-23, 2-9 on 5 targets",
-        "Even 39-39 snap split with Corum"
+        "39-39 snap split with Corum"
       ],
-      "handcuff": "Blake Corum: already the more productive half of the committee (TDs in Weeks 9 and 10, 17-100-1 in Week 10) and would lead the backfield if Williams' toe kept him out; Ronnie Rivers is the third back.",
+      "handcuff": "Blake Corum has been the more productive half of the committee (TDs in Weeks 9 and 10, 17-100-1 in Week 10) and would lead the backfield if the toe kept Williams out.",
       "sources": [
+        {
+          "title": "Yahoo Sports: Rams injury report Week 12, Kyren Williams limited",
+          "url": "https://sports.yahoo.com/articles/rams-injury-report-week-12-004824216.html"
+        },
+        {
+          "title": "Yahoo Sports: Kyren Williams has toe injury, expected ready for Wednesday",
+          "url": "https://sports.yahoo.com/articles/kyren-williams-toe-injury-expected-225425744.html"
+        },
         {
           "title": "Sleeper API: 2026 Week 10 stats",
           "url": "https://api.sleeper.app/v1/stats/nfl/regular/2026/10"
-        },
-        {
-          "title": "Yahoo Sports: Rams winners and losers, Corum shines",
-          "url": "https://sports.yahoo.com/articles/rams-winners-losers-sean-mcvays-025438530.html"
-        },
-        {
-          "title": "ESPN: Rams RBs Williams and Corum splitting carries",
-          "url": "https://www.espn.com/nfl/story/_/id/50020891/los-angeles-rams-blake-corum-kyren-williams-rb-split-carries"
         }
       ],
-      "updated": "Nov 22"
+      "updated": "Nov 23"
     },
     "12517": {
       "name": "Colston Loveland",
@@ -2299,37 +2303,37 @@
     },
     "5859": {
       "name": "A.J. Brown",
-      "headline": "Hamstring still undiagnosed publicly; Week 12 at Chargers in question",
-      "news": "Brown hurt his hamstring in the third quarter of the Nov. 15 loss to Detroit in Munich and didn't return, finishing with 2 catches on 6 targets for 27 yards (Sleeper). As of Nov. 20, no imaging results or timeline had been reported; Mike Vrabel said only that the team would see how he responds. New England is on its Week 11 bye, so the earliest he could return is the Week 12 road game against the Chargers on Nov. 29, and reports say his availability for that game is far from certain. This is his third injury of the season after a high ankle sprain (IR) and a knee problem that cost him Weeks 8 and 9.",
-      "take": "With no diagnosis made public, plan on him missing at least Week 12 until he practices. Even when he's played, he has only 11 catches for 128 yards in four games, so he isn't a must-start when healthy either. In 12-team redraft he's on bye, so bench him and keep him only if you have the roster space. For the 1-8 dynasty rebuild, he's an aging, injury-prone receiver: sell to a contender for any pick once he's back at practice.",
+      "headline": "Still out, no timeline; Week 12 at Chargers doubtful",
+      "news": "Brown hurt his hamstring in the fourth quarter of the Nov. 15 loss to Detroit in Munich and didn't return. He finished with 2 catches on 6 targets for 27 yards (3.7 half-PPR, per Sleeper). As of Nov. 23, Sleeper still lists him as out, and we've seen no MRI results or timeline. ESPN's Jeremy Fowler said he's likely to miss some time, and Mike Vrabel has offered nothing specific. New England had its bye in Week 11, so Brown's earliest possible return is Nov. 29 at the Chargers. It's his third injury of the season, after a high ankle sprain that put him on IR and a knee problem that cost him Weeks 8 and 9.",
+      "take": "Assume he misses Week 12 unless he practices this week. Even when he's played, he has produced little: 11 catches for 128 yards in four games. That makes him a bench player in 12-team redraft even when he's healthy, and he's cuttable if you need the roster spot. For the 1-8 dynasty team, he's an aging receiver who keeps getting hurt. Sell him for any pick once he returns to practice, since his value is unlikely to go up.",
       "dynasty": "SELL",
       "redraft": "SIT",
       "points": [
         "Wk 10 vs DET: 2-27 on 6 targets; hamstring",
-        "No imaging results or timeline as of Nov. 20",
-        "Week 11 bye; Week 12 at LAC in doubt",
-        "Season: 11-128 in 4 games"
+        "No MRI result or timeline as of Nov. 23",
+        "Week 12 at LAC in doubt",
+        "Third injury of 2026"
       ],
       "handcuff": "",
       "sources": [
         {
-          "title": "PrizePicks: A.J. Brown injury update",
-          "url": "https://www.prizepicks.com/playbook-article/a-j-brown-injury-update-how-long-patriots-wr-out"
+          "title": "Boston.com: Patriots injury update on A.J. Brown's hamstring",
+          "url": "https://www.boston.com/sports/new-england-patriots/2026/11/18/new-england-patriots-injury-update-a-j-brown-hamstring-nfl-football/"
         },
         {
           "title": "4for4: Brown's hamstring injury likely to cost him time",
           "url": "https://www.4for4.com/news/aj-brown%E2%80%99s-hamstring-injury-likely-cost-him-time"
         },
         {
-          "title": "Fantasy Footballers: A.J. Brown limping following loss Sunday",
-          "url": "https://www.thefantasyfootballers.com/news/648037/aj-brown-limping-following-loss-sunday/"
+          "title": "PrizePicks: A.J. Brown injury update",
+          "url": "https://www.prizepicks.com/playbook-article/a-j-brown-injury-update-how-long-patriots-wr-out"
         },
         {
           "title": "Sleeper API: 2026 Week 10 player stats",
           "url": "https://api.sleeper.app/v1/stats/nfl/regular/2026/10"
         }
       ],
-      "updated": "Nov 20"
+      "updated": "Nov 23"
     },
     "3163": {
       "name": "Jared Goff",
@@ -2393,33 +2397,33 @@
     },
     "3198": {
       "name": "Derrick Henry",
-      "headline": "Two short TDs save a 10-carry, 10-yard night",
-      "news": "Henry ran 10 times for 10 yards with two touchdowns and caught 5 passes for 10 yards (16.5 half-PPR) in Monday's Nov. 16 game against the Chargers, per Sleeper. Two short scores saved a poor rushing day. A Ravens preview had noted that he'd been held under 60 rushing yards in each of the past four games, and that run is now five. Baltimore told him before the Nov. 10 deadline that he would not be traded. We found no injury news.",
-      "take": "Ten carries in a game where Brissett threw 49 times is a real red flag: Baltimore's offense now runs through the passing game, and Henry's efficiency has been poor for five weeks. Touchdowns drove this week's score, and those are hard to count on. In redraft he's a TD-dependent RB2/flex; start him only against soft run defenses. For our 1-8 dynasty team the case to sell is stronger than ever: he's 32, so take whatever a contender will pay after a two-TD game.",
+      "headline": "Cleared after concussion check; 94 yards and a TD",
+      "news": "Henry ran 13 times for 94 yards with a 15-yard touchdown and caught 4 of 5 targets for 17 yards in Baltimore's Nov. 22 game at Carolina (17.1 half-PPR, per Sleeper), though he also lost a fumble. He was briefly checked for a concussion during the game but was cleared and is not in the protocol, per Pro Football Talk. It was his best rushing game since Week 5, ending a five-game run under 60 rushing yards. On the season he has 198 carries for 793 yards (4.0 per carry).",
+      "take": "Back-to-back strong fantasy games, but carries remain low (10 and 13 in Brissett's two starts) as Baltimore throws more. The efficiency this week is encouraging, but he's still dependent on touchdowns and big plays. In 12-team redraft he's a solid RB2/flex start for a 7-2 team. In dynasty, he's 32 and the 1-8 rebuild should sell now, after two good weeks, to a contender that needs RB help.",
       "dynasty": "SELL",
-      "redraft": "HOLD",
+      "redraft": "START",
       "points": [
-        "Week 10 vs. LAC: 10-10-2, 5-10 receiving",
-        "Under 60 rush yds five straight games",
-        "Only 10 carries as Brissett threw 49 times",
-        "Age 32: sell after the TDs"
+        "Wk 11 at CAR: 13-94-1, 4-17 rec, 1 fumble lost",
+        "Cleared after concussion check; not in protocol",
+        "Only 10-13 carries in Brissett's starts",
+        "Age 32: sell high now"
       ],
-      "handcuff": "Justice Hill (5-34 receiving in Week 10) is the backup and passing-down back, and he would lead a committee if Henry missed time.",
+      "handcuff": "Justice Hill is the backup and passing-down back and would lead a committee if Henry missed time.",
       "sources": [
         {
-          "title": "BaltimoreRavens.com: 50 words on Brissett, Henry, Flowers before Chargers game",
-          "url": "https://www.baltimoreravens.com/news/jacoby-brissett-leadership-experience-andrew-luck-possible-lineup-changes-derrick-henry-zay-flowers-50-words-ravens-chargers-2026/"
+          "title": "Sleeper API: 2026 Week 11 player stats",
+          "url": "https://api.sleeper.app/v1/stats/nfl/regular/2026/11"
         },
         {
-          "title": "Bleacher Report: Henry addresses trade rumors after loss",
-          "url": "https://bleacherreport.com/articles/25529864-derrick-henry-addresses-nfl-trade-rumors-after-ravens-loss-jaguars-tnf"
+          "title": "Panthers.com: Know your foe, Week 11 Ravens",
+          "url": "https://www.panthers.com/news/know-your-foe-week-11-baltimore-ravens-carolina-panthers"
         },
         {
-          "title": "Sleeper API: 2026 Week 10 stats",
-          "url": "https://api.sleeper.app/v1/stats/nfl/regular/2026/10"
+          "title": "BaltimoreRavens.com: Ravens at Panthers matchup history",
+          "url": "https://www.baltimoreravens.com/game-day/2026/reg-week11/ravens-at-panthers/matchup-history"
         }
       ],
-      "updated": "Nov 17"
+      "updated": "Nov 23"
     },
     "12495": {
       "name": "Ollie Gordon II",
@@ -2453,33 +2457,33 @@
     },
     "10236": {
       "name": "Dalton Kincaid",
-      "headline": "Doubtful vs. Dolphins after missing all practice; Knox steps in",
-      "news": "Kincaid (thumb/ankle) did not practice Wednesday, per the Sun Sentinel's David Furones, and was not seen at Thursday's practice, per The Athletic's Joe Buscaglia. He did not practice all week and is doubtful for Sunday's Week 11 game vs. Miami as of Nov. 21. Dawson Knox is expected to lead Buffalo's tight end room if Kincaid sits. Before the injuries, Kincaid had three targets in each of his last two games: 2-58 vs. the Jets on Nov. 15 (6.8 half-PPR) and 3-28 in Week 9 (4.3), per Sleeper.",
-      "take": "With no practice all week and a doubtful tag, plan on him being out and bench him in redraft. Knox is a low-end streaming option in a good offense but not much of an upgrade over most backups. Kincaid's volume was already modest at three targets a game, so even when healthy he's a TE2 for now. In dynasty he's a young tight end whose value is down, and selling at this low point would be a poor move for a rebuild; hold.",
+      "headline": "Missed Week 11 with thumb; Knox had 2-31",
+      "news": "Kincaid (thumb) missed the Bills' Week 11 game on Nov. 22 after not practicing all week, and Sleeper still lists him as out. Dawson Knox led the tight ends and caught 2 of 3 targets for 31 yards (4.1 half-PPR, per Sleeper). We found no report on when Kincaid might return. Before the injury he had three targets in each of his last two games: 2-58 vs. the Jets on Nov. 15 (6.8 half-PPR) and 3-28 in Week 9.",
+      "take": "Until he's back at practice, assume he could miss more time and keep him on the bench in redraft. Knox's 2-31 line shows the replacement isn't much of a streaming option either. Even when healthy, Kincaid's three targets a game make him a TE2. For the 1-8 dynasty rebuild, he's a young tight end at a low point in value, so selling now would get very little; hold.",
       "dynasty": "HOLD",
       "redraft": "SIT",
       "points": [
-        "Doubtful Wk 11 vs MIA (thumb/ankle)",
-        "No practice all week",
-        "Knox expected to lead TE room",
+        "Out Wk 11 (thumb); no practice all week",
+        "Knox: 2-31 on 3 targets",
+        "No return timeline reported",
         "Wk 10: 2-58 on 3 targets"
       ],
       "handcuff": "",
       "sources": [
         {
-          "title": "Sleeper API: 2026 Week 10 stats",
-          "url": "https://api.sleeper.app/v1/stats/nfl/regular/2026/10"
+          "title": "Fantasy Footballers: Kincaid sidelined for Thursday's practice",
+          "url": "https://www.thefantasyfootballers.com/news/648661/dalton-kincaid-sidelined-for-thursdays-practice/"
         },
         {
           "title": "Fantasy Footballers: Kincaid does not practice Wednesday",
           "url": "https://www.thefantasyfootballers.com/news/648515/dalton-kincaid-does-not-practice-wednesday/"
         },
         {
-          "title": "Fantasy Footballers: Kincaid sidelined for Thursday's practice",
-          "url": "https://www.thefantasyfootballers.com/news/648661/dalton-kincaid-sidelined-for-thursdays-practice/"
+          "title": "Sleeper API: 2026 Week 11 stats",
+          "url": "https://api.sleeper.app/v1/stats/nfl/regular/2026/11"
         }
       ],
-      "updated": "Nov 22"
+      "updated": "Nov 23"
     },
     "7547": {
       "name": "Amon-Ra St. Brown",
@@ -2543,33 +2547,33 @@
     },
     "11635": {
       "name": "Ladd McConkey",
-      "headline": "True game-time decision vs. Jets after three limited practices",
-      "news": "McConkey (back) was limited at practice Nov. 18, 19 and 20 and is listed questionable for Sunday's 4:05 p.m. ET home game against the Jets on Nov. 22. As of Sunday morning he is being treated as a true game-time decision; we found no final word on his status in search results. He has missed the last two games (Week 9 with back spasms and the Nov. 16 win at Baltimore), and Tre' Harris had 5 catches for 86 yards in his place in Week 10. He has 17 catches for 286 yards and 1 TD in six games this season (Sleeper), after earlier rib and foot problems.",
-      "take": "Three limited sessions without a full practice, plus a back injury that has already cost two games, make this a real risk even if he is active, because an aggravation could knock him out early. He has also been uneven when healthy, averaging under 50 yards a game. The 7-2 redraft team should sit him unless he is confirmed active and the alternatives are weak, and should have a later-game pivot ready if he starts. In dynasty he is 25 and talented, so the 1-8 rebuilder should hold rather than sell at a low point.",
+      "headline": "Scores twice in return from back injury; Herbert concussion clouds Week 12",
+      "news": "McConkey (back) was limited in practice Nov. 18-20 and was a game-time decision, but he returned Sunday, Nov. 22, against the Jets after missing two games. He played a full-time role and caught 5 of 8 targets for 37 yards and two fourth-quarter touchdowns (18.2 half-PPR, per Sleeper). Justin Herbert entered the concussion protocol after the loss, so the quarterback for the Week 12 game against New England is uncertain. McConkey now has 22 catches for 323 yards and 3 TDs in seven games.",
+      "take": "The two late scores carried the fantasy day; 37 yards on 8 targets shows the passing game is still struggling, with Herbert sacked six times. The good news is that the back held up and his snap share went straight back to full-time. If Herbert misses Week 12, McConkey becomes a low-floor WR3/flex for the 7-2 redraft team, and he's a reasonable start only if Herbert is cleared. In dynasty he's 25 and still the Chargers' best young receiver, so a rebuilder should hold rather than sell after one touchdown spike.",
       "dynasty": "HOLD",
-      "redraft": "SIT",
+      "redraft": "HOLD",
       "points": [
-        "Questionable (back); game-time decision Nov. 22",
-        "Limited all three practices Nov. 18-20",
-        "Missed Wk 9 and Wk 10",
-        "Season: 17-286-1 in six games"
+        "Wk 11 vs NYJ: 5-37-2 on 8 targets (18.2)",
+        "Full-time role in return from back injury",
+        "Herbert in concussion protocol; Wk 12 vs NE",
+        "Season: 22-323-3 in seven games"
       ],
       "handcuff": "",
       "sources": [
         {
-          "title": "FanDuel Research: McConkey limited ahead of Week 11 vs. Jets",
-          "url": "https://www.fanduel.com/research/nfl/player-news/injuries/ladd-mcconkey-limited-in-practice-ahead-of-week-11-against-jets-november-22-2026"
+          "title": "Sleeper API: 2026 Week 11 stats",
+          "url": "https://api.sleeper.app/v1/stats/nfl/regular/2026/11"
         },
         {
-          "title": "CBS Sports: McConkey remains limited Thursday",
-          "url": "https://www.cbssports.com/fantasy/football/news/chargers-ladd-mcconkey-remains-limited-thursday-616735"
+          "title": "FanDuel Research: McConkey limited ahead of Week 11 vs. Jets",
+          "url": "https://www.fanduel.com/research/nfl/player-news/injuries/ladd-mcconkey-limited-in-practice-ahead-of-week-11-against-jets-november-22-2026"
         },
         {
           "title": "SI: McConkey injury update, Chargers Week 11",
           "url": "https://www.si.com/nfl/chargers/onsi/ladd-mcconkey-injury-update-latest-news-reports-chargers-week-11"
         }
       ],
-      "updated": "Nov 22"
+      "updated": "Nov 23"
     },
     "12526": {
       "name": "Tetairoa McMillan",
@@ -3177,29 +3181,33 @@
     },
     "13345": {
       "name": "Jonah Coleman",
-      "headline": "Workhorse RB1 returns from bye vs. Raiders Nov. 22",
-      "news": "Denver had a bye in Week 10, so Coleman didn't play. In the Nov. 8 win at Carolina, Sleeper's box score has him at 17-57-1 rushing plus 4 catches for 31 yards on 4 targets (16.8 half-PPR), on 58 of 75 snaps to J.K. Dobbins' 11. That followed a 104-yard, one-TD game against Kansas City on Nov. 1. RJ Harvey was still on IR in our last check, and we found no new injury news on Coleman. The Broncos (7-2) host Las Vegas on Nov. 22.",
-      "take": "Two straight games with a dominant snap share and a receiving role make him a true lead back on a winning team. Start him as an RB2 with RB1 upside against the Raiders. For a 1-8 dynasty rebuilder, a young lead back like this is a core piece; his price has gone up, but the role is worth paying for. The risks to watch are his high-ankle history and Harvey's eventual return from IR.",
+      "headline": "Three TDs, 111 yards as Broncos rout Raiders",
+      "news": "Coleman ran 24 times for 111 yards and three TDs (from 1, 4 and 7 yards) and caught 4 of 5 targets for 18 yards in the 38-24 win over Las Vegas on Nov. 22 (32.9 half-PPR, per Sleeper). The yards and touchdowns were career highs, and Denver has now won six straight. J.K. Dobbins got just one carry. Coleman also had 17-57-1 and 4-31 at Carolina on Nov. 8 before Denver's Week 10 bye. RJ Harvey remains on IR, per Sleeper.",
+      "take": "This was the heaviest workload of his young career, and the near-total control of the backfield on a winning team is what matters most. He's a weekly RB1 in redraft for as long as Harvey is out. For the 1-8 dynasty rebuild, a 23-year-old lead back is a core piece; his price is now high, so buy only at a fair price rather than chasing a three-TD week. The main risks are his high-ankle history and Harvey's eventual return.",
       "dynasty": "BUY",
       "redraft": "START",
       "points": [
-        "Week 10: bye",
-        "Week 9 at CAR: 17-57-1, 4-31 on 58 of 75 snaps",
-        "Dobbins only 11 snaps",
-        "Hosts Raiders Nov. 22"
+        "Wk 11 vs LV: 24-111-3, 4-18 (32.9)",
+        "Dobbins: 1 carry",
+        "Career highs; DEN has won six straight",
+        "Harvey still on IR"
       ],
-      "handcuff": "J.K. Dobbins is the direct backup (11 snaps in Week 9) and would take early-down work if Coleman missed time while RJ Harvey is on IR.",
+      "handcuff": "J.K. Dobbins is the direct backup (1 carry in Week 11) and would take early downs if Coleman missed time while RJ Harvey is on IR.",
       "sources": [
         {
-          "title": "Sleeper API: 2026 Week 9 stats",
-          "url": "https://api.sleeper.app/v1/stats/nfl/regular/2026/9"
+          "title": "Gazette: Rookie Jonah Coleman makes Broncos rushing history in win over Raiders",
+          "url": "https://gazette.com/2026/11/22/jonah-coleman-broncos-raiders-three-touchdowns/"
         },
         {
-          "title": "Yahoo Sports: Waddle in concussion protocol with bye before Raiders game",
-          "url": "https://sports.yahoo.com/articles/broncos-jaylen-waddle-concussion-protocol-174300665.html"
+          "title": "Yahoo Sports/AP: Coleman powers Broncos past Raiders 38-24",
+          "url": "https://sports.yahoo.com/articles/jonah-coleman-powers-broncos-past-005825100.html"
+        },
+        {
+          "title": "Sleeper API: 2026 Week 11 stats",
+          "url": "https://api.sleeper.app/v1/stats/nfl/regular/2026/11"
         }
       ],
-      "updated": "Nov 17"
+      "updated": "Nov 23"
     },
     "2449": {
       "name": "Stefon Diggs",
@@ -3233,33 +3241,33 @@
     },
     "5844": {
       "name": "T.J. Hockenson",
-      "headline": "Off injury report; returns vs. 49ers with Addison out",
-      "news": "Hockenson (wrist/chest) came off Minnesota's injury report on Friday, Nov. 20, and will play Sunday night against San Francisco in Mexico City after missing the Nov. 15 win at Green Bay. He had been limited at practice on Wednesday, Nov. 18. Jordan Addison had thumb surgery, which Kevin O'Connell said will cost him a few weeks, and that should leave more targets for Hockenson. In his last game, Nov. 9 against Buffalo, he caught 4 of 7 targets for 33 yards (5.3 half-PPR, Sleeper).",
-      "take": "A clean report means no limits are expected, and with Addison out he should see seven or more targets. His efficiency has been modest, so his value depends on volume more than big plays. He is a low-end TE1 start for the 7-2 redraft team this week. In dynasty he is an aging tight end with a long injury history, so a healthy, productive stretch is the time for the 1-8 rebuilder to sell to a contender.",
+      "headline": "Returns with 6-55 on 7 targets vs. 49ers",
+      "news": "Hockenson came back from a wrist/chest injury on Nov. 22 against San Francisco in Mexico City and caught 6 of 7 targets for 55 yards (8.5 half-PPR, per Sleeper), with one red-zone target. He had missed the Nov. 15 win at Green Bay and practiced on a limited basis early in the week before he was cleared. Jordan Addison had surgery on his thumb and avoided IR, but Kevin O'Connell said he'll miss some time, which should keep Hockenson's target share high. In his previous game, Nov. 9 against Buffalo, Hockenson caught 4 of 7 for 33 yards.",
+      "take": "Seven targets in his first game back shows his role is safe. He did little after the catch, though, and he hasn't scored in either of his last two games. That makes him a volume-based low-end TE1 who will rarely win a week for you. Keep starting him in 12-team redraft while Addison is out. For the 1-8 dynasty rebuild he's an aging tight end with a long injury history, so a healthy, productive stretch like this is the time to sell him to a contender for a pick.",
       "dynasty": "SELL",
       "redraft": "START",
       "points": [
-        "Off injury report Fri. Nov. 20",
+        "Wk 11 vs SF: 6-55 on 7 targets (8.5)",
         "Missed Wk 10 (wrist/chest)",
-        "Addison out after thumb surgery",
-        "Wk 9 vs BUF: 4-33 on 7 targets"
+        "Addison out a few weeks after thumb surgery",
+        "Low-end TE1; sell in dynasty"
       ],
       "handcuff": "",
       "sources": [
         {
-          "title": "Fantasy Footballers: Hockenson has chance to return in Week 11",
-          "url": "https://www.thefantasyfootballers.com/news/648491/tj-hockenson-chance-to-return-in-week-11/"
+          "title": "Fantasy Footballers: Hockenson limited in Wednesday's practice",
+          "url": "https://www.thefantasyfootballers.com/news/648526/tj-hockenson-limited-in-wednesdays-practice/"
         },
         {
-          "title": "A to Z Sports: Vikings get healthier before 49ers game",
-          "url": "https://atozsports.com/?p=515240"
+          "title": "Fantasy Footballers: Addison has thumb surgery, avoiding IR",
+          "url": "https://www.thefantasyfootballers.com/news/648484/jordan-addison-has-thumb-surgery-avoiding-ir/"
         },
         {
-          "title": "Sleeper API: 2026 Week 9 stats",
-          "url": "https://api.sleeper.app/v1/stats/nfl/regular/2026/9"
+          "title": "Sleeper API: 2026 Week 11 player stats",
+          "url": "https://api.sleeper.app/v1/stats/nfl/regular/2026/11"
         }
       ],
-      "updated": "Nov 22"
+      "updated": "Nov 23"
     },
     "11563": {
       "name": "Bo Nix",
@@ -3323,33 +3331,29 @@
     },
     "13424": {
       "name": "Seth McGowan",
-      "headline": "Barely used on offense in TNF loss; worked as returner",
-      "news": "McGowan played in the 26-3 TNF loss at Houston on Nov. 19 despite having been listed as out, but on offense he had only 3 carries for 7 yards and 1 catch for 1 yard (1.3 half-PPR, per Sleeper). Most of his work came as a kick returner, with 117 yards on 3 returns. That's a sharp drop from Week 10, when he ran 12 times for 77 yards and a TD on 17 snaps vs. Miami, and Week 9's 6-45-1. For the season he has 58 carries for 292 yards and 2 TDs.",
-      "take": "Thursday shows how fragile his role is: in a blowout with a struggling offense, he barely touched the ball. His fantasy value depends on touchdowns and on Jonathan Taylor's usage, so he's not a redraft start and is only worth holding in 12-team leagues as Taylor's handcuff. For the rebuilding dynasty team he's still a cheap, young back worth a small bid in case Taylor leaves, but this game is a reminder not to overpay.",
-      "dynasty": "BUY",
-      "redraft": "HOLD",
+      "headline": "Listed out with hamstring after 9-snap TNF game",
+      "news": "Sleeper now lists McGowan as out with a hamstring injury. In the 26-3 TNF loss at Houston on Nov. 19 he played 9 of 50 offensive snaps, with 3 carries for 7 yards and 1 catch for 1 yard (1.3 half-PPR, per Sleeper), and returned 3 kicks for 117 yards. Our searches found no team or beat report on the hamstring, so how long he'll be out is unconfirmed. DJ Giddens also saw backup work (7 snaps, 1-5 rushing, 1-11 receiving), and Jonathan Taylor played 34 snaps. In Week 10 McGowan had 12-77-1 vs. Miami.",
+      "take": "A hamstring injury on top of a shrinking offensive role takes him out of redraft consideration, and he isn't worth a roster spot in 12-team leagues unless Taylor gets hurt. If he misses time, Giddens becomes Taylor's handcuff. For the 1-8 dynasty rebuild he's still a cheap young back worth holding, but there's no reason to add or pay for him until the injury and role are clearer.",
+      "dynasty": "HOLD",
+      "redraft": "SIT",
       "points": [
-        "Wk 11 at HOU: 3-7 rush, 1-1 rec",
-        "3 kick returns for 117 yards",
-        "Wk 10 vs MIA: 12-77-1",
-        "Taylor remains the lead back"
+        "Sleeper: out (hamstring); timeline unknown",
+        "Wk 11 at HOU: 9 of 50 snaps, 3-7, 1-1",
+        "Giddens took backup snaps too",
+        "Wk 10 vs MIA: 12-77-1"
       ],
-      "handcuff": "McGowan is Jonathan Taylor's handcuff; DJ Giddens is next and would split work if either missed time.",
+      "handcuff": "McGowan was Jonathan Taylor's handcuff; with the hamstring, DJ Giddens is the next man up and the better short-term Taylor handcuff.",
       "sources": [
         {
-          "title": "Sleeper API: 2026 Week 11 player stats",
+          "title": "Sleeper API: 2026 Week 11 stats",
           "url": "https://api.sleeper.app/v1/stats/nfl/regular/2026/11"
         },
         {
           "title": "Pro Football Reference: Colts at Texans box score, Nov. 19, 2026",
           "url": "https://www.pro-football-reference.com/boxscores/202611190htx.htm"
-        },
-        {
-          "title": "ESPN/AP: Colts beat Dolphins 24-22, snap 5-game skid",
-          "url": "https://africa.espn.com/nfl/recap/_/gameId/401873059"
         }
       ],
-      "updated": "Nov 20"
+      "updated": "Nov 23"
     },
     "13286": {
       "name": "Jadarian Price",
@@ -3469,46 +3473,46 @@
     },
     "3257": {
       "name": "Jacoby Brissett",
-      "headline": "340 yards but no TDs in Ravens debut",
-      "news": "In his first Ravens start, on Monday Night Football Nov. 16 against the Chargers, Brissett completed 33 of 49 passes for 340 yards with no touchdowns and one interception, plus 2 rushes for 2 yards, per Sleeper (12.8 fantasy points). We could not confirm the final score. Baltimore acquired him from Arizona around Nov. 6. He is the starter while Lamar Jackson (thumb) is on IR and Tyler Huntley is out for the season. Before the game, the Ravens were 4-5 on a four-game losing streak, and the Chargers were winless.",
-      "take": "Forty-nine attempts after only about a week in the system is a strong sign of trust, and he spread the ball to Zay Flowers and Ja'Kobi Lane. Without touchdowns or rushing, though, his fantasy ceiling is limited. He's a usable superflex starter and a matchup-based QB2 in 1QB redraft, not someone to start every week. For our 1-8 dynasty team, a 33-year-old bridge QB is worth more to a contender, so sell now after a 340-yard game to a superflex team that's short at QB.",
+      "headline": "276 yards and a TD in Carolina; still Ravens starter",
+      "news": "Brissett completed 24 of 37 passes for 276 yards with a 52-yard touchdown and one interception, plus 2 carries for 7 yards, in Baltimore's Nov. 22 game at Carolina (14.7 points, per Sleeper). It was his second Ravens start after a 340-yard, no-TD debut against the Chargers on Nov. 16, a 23-20 loss. He remains the starter with Lamar Jackson on IR. We could not confirm the final score of the Panthers game.",
+      "take": "Two starts, 616 yards and one TD: the volume is real, but he's averaging under one TD a game and adds almost nothing with his legs. He's a solid superflex starter and a matchup-based streamer in 12-team 1QB redraft; a 7-2 team shouldn't need him outside of bye or injury weeks. For our 1-8 dynasty roster, a 33-year-old bridge QB whose job ends when Jackson returns is worth more to a superflex contender, so sell now while he's posting yardage.",
       "dynasty": "SELL",
       "redraft": "HOLD",
       "points": [
-        "Week 10 vs. LAC: 33/49, 340 yds, 0 TD, 1 INT",
-        "12.8 fantasy points despite volume",
+        "Wk 11 at CAR: 24/37, 276 yds, 1 TD, 1 INT (14.7)",
+        "Two Ravens starts: 616 yds, 1 TD, 2 INT",
         "Starter while Jackson is on IR",
         "Sell to a superflex contender"
       ],
       "handcuff": "",
       "sources": [
         {
-          "title": "BaltimoreRavens.com: Ravens finalize Jacoby Brissett trade with Cardinals",
-          "url": "https://www.baltimoreravens.com/news/jacoby-brissett-ravens-trade-cardinals-finalize-2026"
+          "title": "Sleeper API: 2026 Week 11 player stats",
+          "url": "https://api.sleeper.app/v1/stats/nfl/regular/2026/11"
         },
         {
-          "title": "BaltimoreRavens.com: 50 words on Brissett, Henry, Flowers before Chargers game",
-          "url": "https://www.baltimoreravens.com/news/jacoby-brissett-leadership-experience-andrew-luck-possible-lineup-changes-derrick-henry-zay-flowers-50-words-ravens-chargers-2026/"
+          "title": "Panthers.com: Know your foe, Week 11 Ravens",
+          "url": "https://www.panthers.com/news/know-your-foe-week-11-baltimore-ravens-carolina-panthers"
         },
         {
-          "title": "Sleeper API: 2026 Week 10 stats",
-          "url": "https://api.sleeper.app/v1/stats/nfl/regular/2026/10"
+          "title": "The Fantasy Footballers: Brissett impressive in team debut",
+          "url": "https://www.thefantasyfootballers.com/news/648309/jacoby-brissett-impressive-in-team-debut/"
         }
       ],
-      "updated": "Nov 17"
+      "updated": "Nov 23"
     },
     "6803": {
       "name": "Brandon Aiyuk",
-      "headline": "Still in limbo; 49ers must decide by Nov. 23",
-      "news": "Aiyuk was reinstated from the reserve/left squad list on Nov. 9, and San Francisco received a two-week roster exemption that runs until Nov. 23, after the Week 11 game against Minnesota. As of Nov. 17 we found no report that he had been activated, traded or released; he did not play in the Nov. 15 win at Dallas. Kyle Shanahan has indicated he doesn't expect Aiyuk back with the team, and the 49ers added Keenan Allen on Nov. 10. Some reports have linked the delay to a dispute over forfeited bonus money, but we couldn't confirm the details.",
-      "take": "A release or trade before the exemption ends is still the most likely outcome; keeping him on the 53 would contradict everything the team has said. Wherever he lands, he hasn't played this season and will need weeks to get into game shape, so he has no 12-team redraft value for now. In dynasty, at 28 his 2027 team and role are what matter, so a rebuilding team can hold or add him cheaply but shouldn't pay real assets until he has a new home.",
+      "headline": "49ers' roster exemption ends today; release expected",
+      "news": "The NFL reinstated Aiyuk from the reserve/left squad list on Nov. 9, which gave San Francisco a two-week roster exemption that ends Nov. 23. Reports say the 49ers are expected to release him rather than add him to the 53-man roster. Kyle Shanahan said the reinstatement 'means absolutely nothing to our team.' As of Monday morning we found no report of a release or trade. Sleeper still lists him with San Francisco and shows a past ACL/MCL surgery in his injury notes. He hasn't played a snap in 2026.",
+      "take": "Expect him to be cut within a day or so, which would make him a free agent who can sign anywhere. He'll need weeks to get into game shape on a new team, so he's worth nothing in 12-team redraft right now. At 28, his dynasty value depends on where he lands and whether he's physically back to form. A rebuilding team can hold or add him cheaply but shouldn't pay real assets until he signs somewhere and practices.",
       "dynasty": "HOLD",
       "redraft": "SIT",
       "points": [
-        "No move reported as of Nov. 17",
         "Roster exemption ends Nov. 23",
-        "Shanahan signaled no return to SF",
-        "Hasn't played in 2026"
+        "Release expected; no move reported yet",
+        "Hasn't played in 2026",
+        "Value depends on new team"
       ],
       "handcuff": "",
       "sources": [
@@ -3517,11 +3521,15 @@
           "url": "https://abc7news.com/post/49ers-receiver-brandon-aiyuk-reinstated-nfl/20027767/"
         },
         {
-          "title": "Fantasy Footballers: Aiyuk reinstated, 49ers granted two-week exemption",
-          "url": "https://www.thefantasyfootballers.com/news/646845/brandon-aiyuk-reinstated-49ers-granted-two-week-exemption/"
+          "title": "SF Standard: Aiyuk, Shanahan and the 49ers' reinstatement",
+          "url": "https://sfstandard.com/2026/11/09/brandon-aiyuk-kyle-shanahan-49ers-reinstatement/"
+        },
+        {
+          "title": "ClutchPoints: 49ers given timeline to make roster move on Aiyuk",
+          "url": "https://clutchpoints.com/nfl/san-francisco-49ers/49ers-news-brandon-aiyuk-reinstated-san-francisco-given-timeline-make-roster-move"
         }
       ],
-      "updated": "Nov 17"
+      "updated": "Nov 23"
     },
     "12506": {
       "name": "Harold Fannin Jr.",
@@ -3585,63 +3593,63 @@
     },
     "1166": {
       "name": "Kirk Cousins",
-      "headline": "Efficient Vikings debut; likely starts again vs. 49ers",
-      "news": "In the Nov. 15 30-10 win at Green Bay, Cousins went 21-of-31 for 207 yards with 2 TDs and 1 INT and ran 3 times for 11 yards (16.4 half-PPR, per Sleeper). It was his first game since Minnesota acquired him from Las Vegas before the Nov. 10 deadline; in his last Raiders game (Week 9) he threw for 216 yards, 1 TD and 3 INTs and ran for a score. Kyler Murray (hamstring) is targeting a Week 12 return, so Cousins should start again in Week 11 against San Francisco on Nov. 22. We found no newer Murray update this cycle.",
-      "take": "He was steady rather than explosive, and he leaned heavily on Justin Jefferson with Jordan Addison inactive. He's a reasonable streamer in 12-team 1QB if you need bye or injury cover, but not someone to start over an established QB1, and his job probably lasts only one more week. In superflex dynasty he's 38 and a short-term starter for a contender, so a 1-8 rebuilder should sell him now while a contender might pay for QB depth.",
+      "headline": "No TDs vs. 49ers as Murray nears Week 12 return",
+      "news": "Cousins went 26-of-38 for 235 yards with no TDs and 1 INT against San Francisco on Nov. 22 (8.4 half-PPR, per Sleeper), and Carson Wentz threw 5 passes late in the game; we couldn't confirm why Wentz came in. In his Vikings debut on Nov. 15 at Green Bay, Cousins threw for 207 yards, 2 TDs and 1 INT. Kyler Murray (Grade 2 hamstring strain) has been targeting a Week 12 return against Atlanta on Nov. 29, and we found no newer update on him.",
+      "take": "Cousins has been a steady game manager, but this was a weak fantasy week, and his starting job probably ends once Murray is cleared. He isn't someone to start in 12-team 1QB redraft unless Murray has a setback. In superflex dynasty he's 38 with only a few starts left in Minnesota, so the 1-8 rebuilder should sell him to any contender that needs QB depth for a late-round pick, before Murray's return takes away what value he has left.",
       "dynasty": "SELL",
-      "redraft": "HOLD",
+      "redraft": "SIT",
       "points": [
-        "Wk 10 at GB: 21/31, 207 yds, 2 TD, 1 INT",
-        "Wk 9 (LV): 216 yds, 1 TD, 3 INT, rush TD",
-        "Murray (hamstring) targeting Wk 12",
+        "Wk 11 vs SF: 26/38, 235 yds, 0 TD, 1 INT (8.4)",
+        "Wentz threw 5 late passes",
+        "Murray (hamstring) targeting Wk 12 vs ATL",
         "Sell to a superflex contender now"
       ],
       "handcuff": "",
       "sources": [
         {
+          "title": "Sleeper API: 2026 Week 11 stats",
+          "url": "https://api.sleeper.app/v1/stats/nfl/regular/2026/11"
+        },
+        {
           "title": "Sleeper API: 2026 Week 10 stats",
           "url": "https://api.sleeper.app/v1/stats/nfl/regular/2026/10"
         },
         {
-          "title": "Sleeper API: 2026 Week 9 stats",
-          "url": "https://api.sleeper.app/v1/stats/nfl/regular/2026/9"
-        },
-        {
-          "title": "Legion Report: Vikings vs. 49ers, Week 11",
-          "url": "https://legionreport.com/vikings-vs-49ers/"
+          "title": "Fantasy Footballers: Kyler Murray targeting Week 12 return",
+          "url": "https://www.thefantasyfootballers.com/news/647733/kyler-murray-targeting-week-12-return/"
         }
       ],
-      "updated": "Nov 17"
+      "updated": "Nov 23"
     },
     "12504": {
       "name": "Kaleb Johnson",
-      "headline": "Bye week; Jacobs' likely Nov. 25 return ends fill-in role",
-      "news": "Green Bay is on bye in Week 11. Ian Rapoport reported Nov. 17 that Josh Jacobs (finger) has a realistic chance to return Nov. 25 at the Rams, which would likely end Johnson's short stint as the lead early-down back. As the starter in the 30-10 loss to Minnesota on Nov. 15, Johnson ran 10 times for 42 yards with no catches (4.2 half-PPR, per Sleeper) and played just 14 of 55 snaps, with MarShawn Lloyd taking passing downs. The week before at New England, he had 14 carries for 68 yards and a TD after Jacobs got hurt early. He has 52 carries for 214 yards and a TD this season.",
-      "take": "Even with Jacobs out, he played under a third of the snaps, so his chances of a useful role after the bye are slim. In 12-team redraft he's droppable unless you roster Jacobs and want insurance. In dynasty he's young and runs well enough on early downs (4.1 yards per carry) to hold as a cheap 2027 lottery ticket for a rebuilding team, but don't spend anything to acquire him.",
+      "headline": "Jacobs trending toward return Wednesday; Johnson back to backup",
+      "news": "Green Bay was on bye in Week 11. Ian Rapoport reported that Josh Jacobs (surgically repaired finger) has a realistic chance to return Wednesday, Nov. 25, at the Rams. A Nov. 22 report had Jacobs limited in practice, but we couldn't find a second source to confirm it. In his last game as the starter, the Nov. 15 loss to Minnesota, Johnson ran 10 times for 42 yards with no catches (4.2 half-PPR, per Sleeper) on 14 of 55 snaps, while MarShawn Lloyd handled passing downs. For the season he has 52 carries for 214 yards and a TD.",
+      "take": "Johnson couldn't take control of the backfield even with Jacobs out, and Jacobs' return would push him back to a small early-down role. Don't start him in 12-team redraft. He's only worth holding as insurance if you roster Jacobs and are short on RBs. In dynasty, he's young enough to keep as a cheap 2027 lottery ticket for a rebuilding team. But he hasn't shown enough to cost anything in a trade, and he can be cut if you need the roster spot.",
       "dynasty": "HOLD",
       "redraft": "SIT",
       "points": [
         "Wk 10 vs MIN: 10-42, 0 rec, 14 of 55 snaps",
-        "GB on bye Week 11",
-        "Jacobs could return Nov 25",
-        "Insurance stash only"
+        "Jacobs (finger) eyeing Nov. 25 at LAR",
+        "Lloyd owns passing downs",
+        "Bench or drop in redraft"
       ],
-      "handcuff": "MarShawn Lloyd handles passing downs and would lead the backfield if Johnson missed time; Chris Brooks is the depth back.",
+      "handcuff": "MarShawn Lloyd handles passing downs and would take more work if Johnson or Jacobs missed time; Chris Brooks is the depth back.",
       "sources": [
         {
-          "title": "RotoWire: Kaleb Johnson modest numbers in Week 10 loss",
-          "url": "https://www.rotowire.com/football/headlines/kaleb-johnson-news-modest-numbers-in-week-10-loss-648033"
+          "title": "Fantasy Footballers: Jacobs could be back for Week 12",
+          "url": "https://www.thefantasyfootballers.com/news/648321/josh-jacobs-could-be-back-for-week-12/"
         },
         {
           "title": "NBC Sports: Rapoport says Jacobs could miss 2-3 weeks",
           "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-11-11/rapsheet-jacobs-could-miss-2-3-weeks"
         },
         {
-          "title": "Sleeper API: 2026 Week 10 stats",
+          "title": "Sleeper API: 2026 Week 10 player stats",
           "url": "https://api.sleeper.app/v1/stats/nfl/regular/2026/10"
         }
       ],
-      "updated": "Nov 18"
+      "updated": "Nov 23"
     },
     "12491": {
       "name": "Corey Kiner",
@@ -3901,33 +3909,33 @@
     },
     "12492": {
       "name": "Pat Bryant",
-      "headline": "Waddle returns Sunday, lowering Bryant's target ceiling vs. Raiders",
-      "news": "Jaylen Waddle (concussion) practiced fully coming out of Denver's Week 10 bye and is set to return Sunday, Nov. 22, against Las Vegas, per Nov. 20 reports. Bryant came off IR (ankle) for Week 9 at Carolina and caught 4 of 5 targets for 56 yards and a TD on 51 of 75 snaps (13.6 half-PPR, Sleeper), getting more work after Waddle left that game. He has no Week 10 stats because of the bye. He was a popular Week 11 waiver add, which Yahoo ranked No. 1, back when Waddle's status was still unclear.",
-      "take": "The main reason to pick him up was the chance Waddle would miss time, and that's gone now. With Waddle and Courtland Sutton both healthy, Bryant is likely the No. 3 receiver, with 4-5 targets a game, though the Raiders' weak defense gives him some touchdown upside. In 12-team redraft, keep him on the bench as depth, not in a flex spot. In dynasty he's 23 and played well in Week 9, so a 1-8 rebuilder can still buy him cheaply, especially now that his short-term hype has cooled.",
+      "headline": "Quiet day as Waddle returns; settles into WR3 role",
+      "news": "Jaylen Waddle returned from his concussion Sunday, Nov. 22, against Las Vegas after practicing fully during the week, and drew 6 targets. Bryant slipped to 3 catches for 32 yards on 4 targets (4.7 half-PPR, per Sleeper). Denver had a Week 10 bye, and in Week 9 at Carolina, when he came off IR (ankle) and Waddle left early with the concussion, Bryant caught 4 of 5 targets for 56 yards and a TD. We found no new injury news on Bryant.",
+      "take": "This is about what we expected: with Waddle and Courtland Sutton healthy, Bryant is the No. 3 receiver getting 4-5 targets a game, which isn't enough to start in a 12-team league. Keep him on the redraft bench only if you have room; he's an injury away from a bigger role, but not a flex option now. In dynasty he's 23 and has played well when given snaps, and his short-term hype has cooled, so a 1-8 rebuilder can buy him cheaply as a 2027 piece.",
       "dynasty": "BUY",
       "redraft": "SIT",
       "points": [
-        "Waddle (concussion) full practice, returns Wk 11",
-        "Wk 9 at CAR: 4-56-1 on 5 targets, 51/75 snaps",
-        "Week 10: bye",
-        "Likely WR3 behind Waddle and Sutton"
+        "Wk 11 vs LV: 3-32 on 4 targets (4.7)",
+        "Waddle back from concussion, 6 targets",
+        "Wk 9 at CAR: 4-56-1 off IR",
+        "WR3 behind Waddle and Sutton"
       ],
       "handcuff": "",
       "sources": [
+        {
+          "title": "Sleeper API: 2026 Week 11 stats",
+          "url": "https://api.sleeper.app/v1/stats/nfl/regular/2026/11"
+        },
         {
           "title": "Fantasy Footballers: Waddle practices fully Wednesday",
           "url": "https://www.thefantasyfootballers.com/news/648539/jaylen-waddle-practices-fully-wednesday/"
         },
         {
-          "title": "DraftSharks: Bryant looks sharp coming off IR",
-          "url": "https://www.draftsharks.com/fantasy-football-news/84083/pat-bryant-looks-sharp-coming-off-injured-reserve"
-        },
-        {
-          "title": "Sleeper API: 2026 Week 9 stats",
-          "url": "https://api.sleeper.app/v1/stats/nfl/regular/2026/9"
+          "title": "Heavy: Broncos injury news ahead of Raiders matchup",
+          "url": "https://heavy.com/sports/nfl/denver-broncos/broncos-injury-news-raiders/"
         }
       ],
-      "updated": "Nov 21"
+      "updated": "Nov 23"
     },
     "9480": {
       "name": "Brenton Strange",
@@ -4017,33 +4025,33 @@
     },
     "13296": {
       "name": "Caleb Douglas",
-      "headline": "Shoulder no issue for Bills game, but Bell's return cuts in",
-      "news": "Douglas wore a non-contact jersey on Nov. 18 and was limited in practice Nov. 18 and Nov. 19 with a shoulder injury, but he told the Miami Herald he expects to play Sunday against Buffalo, and he was off Sleeper's injury report as of Nov. 20. With Chris Bell out in Week 10, Douglas played 58 of 69 snaps at Indianapolis and caught 3 of 8 targets for 71 yards (8.6 half-PPR, per Sleeper). He also drew 8 targets in Week 9, catching 6 for 70 yards. Bell was off the injury report as of Nov. 20 as well and appears set to return.",
-      "take": "Douglas is healthy enough to play, but his near-every-down role in Week 10 came partly because Bell was out, so expect his snaps to drop somewhat. Still, eight targets in each of the last two games shows the coaches trust him, and Bell has produced little when healthy. In 12-team redraft he's a bench WR5, not a starter for a 7-2 team against Buffalo. In dynasty he's a rookie earning real playing time, which is exactly what a rebuilding team should be buying cheaply.",
+      "headline": "Plays through shoulder, leads Dolphins with 10 targets vs. Bills",
+      "news": "Douglas was limited in practice Nov. 18-19 with a shoulder injury and wore a non-contact jersey, but he played Sunday, Nov. 22, against Buffalo. He led Miami with 10 targets and caught only 2 of them for 30 yards (4.0 half-PPR, per Sleeper). Chris Bell returned from his knee injury in the same game and drew just 4 targets, so Bell's return did not cut into Douglas' volume. In Week 10 at Indianapolis, with Bell out, Douglas caught 3 of 8 targets for 71 yards.",
+      "take": "The stat line was poor, but the usage is what matters: three straight games with 8 or more targets, and the most targets on the team with Bell back in the lineup. Efficiency has been the issue (5 catches on his last 18 targets), so his weekly floor is low. In 12-team redraft he's a bench WR5 for a 7-2 team, not a starter. In dynasty he's a rookie the coaches clearly trust as a primary target, which is the kind of player a 1-8 rebuilder should be adding while his box scores keep his price low.",
       "dynasty": "BUY",
       "redraft": "HOLD",
       "points": [
-        "Limited Nov. 18-19 (shoulder); expects to play",
-        "Wk 10 at IND: 3-71 on 8 targets",
-        "Wk 9: 6-70 on 8 targets",
-        "Bell's return may trim snaps"
+        "Wk 11 vs BUF: 2-30 on team-high 10 targets",
+        "Played through shoulder injury",
+        "8+ targets in three straight games",
+        "Bell's return didn't cut his share"
       ],
       "handcuff": "",
       "sources": [
         {
-          "title": "Fantasy Footballers: Douglas on track to be available Sunday",
-          "url": "https://www.thefantasyfootballers.com/news/648502/caleb-douglas-on-track-to-be-available-sunday/"
+          "title": "Sleeper API: 2026 Week 11 stats",
+          "url": "https://api.sleeper.app/v1/stats/nfl/regular/2026/11"
         },
         {
-          "title": "Fantasy Footballers: Douglas has another limited practice",
-          "url": "https://www.thefantasyfootballers.com/news/648693/caleb-douglas-another-limited-practice-session/"
+          "title": "Fantasy Footballers: Douglas nursing shoulder injury",
+          "url": "https://www.thefantasyfootballers.com/news/648525/caleb-douglas-nursing-shoulder-injury/"
         },
         {
-          "title": "Sleeper API: 2026 Week 10 stats",
-          "url": "https://api.sleeper.app/v1/stats/nfl/regular/2026/10"
+          "title": "Fantasy Footballers: Douglas still in non-contact jersey",
+          "url": "https://www.thefantasyfootballers.com/news/648655/caleb-douglas-still-in-non-contact-jersey/"
         }
       ],
-      "updated": "Nov 21"
+      "updated": "Nov 23"
     },
     "13303": {
       "name": "Cade Klubnik",
@@ -4175,37 +4183,33 @@
     },
     "12494": {
       "name": "Kyle McCord",
-      "headline": "Solid debut in 24-22 loss; Miami's starter while Willis on IR",
-      "news": "Miami placed Malik Willis on IR on Nov. 10 with a groin injury that turned into a core muscle injury, which keeps him out at least four games. Reports say the injury isn't season-ending, and the team hopes he'll return before the season ends. McCord, acquired from Green Bay before the season, made his first NFL start in the 24-22 loss at Indianapolis on Nov. 15. He went 17 of 32 for 209 yards with a rushing TD and a lost fumble (12.8 half-PPR, per Sleeper), and missed kicks played a part in the loss. Miami is 1-8 and plays at Buffalo in Week 11.",
-      "take": "The debut was respectable but not exciting: he completed barely half his passes, and his fantasy points depended on a short rushing TD. A road game at Buffalo is a tough second start, so he's a sit in 12-team 1QB redraft. In superflex dynasty he should start at least the next three games, which gives a 1-8 rebuilding team a cheap look at a young QB. He's worth a waiver add or a very cheap trade, but expect Willis to take the job back when healthy.",
+      "headline": "Overmatched at Buffalo: 12-of-33, 102 yards, one INT",
+      "news": "In his second NFL start, on Nov. 22 at Buffalo, McCord completed 12 of 33 passes for 102 yards with no TDs and one interception, was sacked twice and ran twice for 9 yards (4.0 half-PPR, per Sleeper). That followed a 17-of-32, 209-yard debut with a rushing TD in the 24-22 loss at Indianapolis on Nov. 15. Malik Willis went on IR Nov. 10 with a core muscle injury, and under the four-game minimum he can't return before Week 14. That leaves McCord as Miami's starter for at least the next two games.",
+      "take": "A 36% completion rate and 3.1 yards per attempt is about as bad as a starting QB can play. His only useful fantasy day came from a short rushing TD. He shouldn't be in any 12-team 1QB lineup. In superflex dynasty he has a guaranteed starting job for a couple more weeks, so he's a bye-week or emergency fill-in for the 1-8 team. But Sunday didn't show anything that suggests he'll be a starter in 2027, and he isn't worth trading anything for.",
       "dynasty": "HOLD",
       "redraft": "SIT",
       "points": [
-        "Wk 10 at IND: 17/32, 209 yds, rush TD, lost fumble",
-        "Willis on IR (min. 4 games) since Nov 10",
-        "Wk 11 at Buffalo",
-        "Cheap superflex stash"
+        "Wk 11 at BUF: 12/33, 102 yds, 0 TD, 1 INT (4.0)",
+        "Wk 10 at IND: 209 yds + rush TD (12.8)",
+        "Willis (IR) out until at least Week 14",
+        "Superflex emergency fill-in only"
       ],
       "handcuff": "",
       "sources": [
         {
-          "title": "CBS12: Colts do just enough to beat McCord, Dolphins 24-22",
-          "url": "https://cbs12.com/sports/content/colts-do-just-enough-to-beat-young-mccord-dolphins-24-22"
+          "title": "TSN: Bills get chance to feast on McCord and Miami",
+          "url": "https://www.tsn.ca/nfl/article/bills-get-chance-to-feast-on-another-backup-qb-with-mccord-dolphins-up-next/"
         },
         {
           "title": "WPTV: Dolphins place Willis on IR, out at least 4 games",
           "url": "https://www.wptv.com/sports/football/dolphins/dolphins-place-qb-malik-willis-on-injured-reserve-sidelining-him-at-least-4-games"
         },
         {
-          "title": "Fantasy Footballers: McCord holds his own in first start",
-          "url": "https://www.thefantasyfootballers.com/news/648058/kyle-mccord-holds-his-own-in-first-start/"
-        },
-        {
-          "title": "Sleeper API: 2026 Week 10 stats",
-          "url": "https://api.sleeper.app/v1/stats/nfl/regular/2026/10"
+          "title": "Sleeper API: 2026 Week 11 player stats",
+          "url": "https://api.sleeper.app/v1/stats/nfl/regular/2026/11"
         }
       ],
-      "updated": "Nov 18"
+      "updated": "Nov 23"
     },
     "9756": {
       "name": "Jordan Addison",
@@ -4479,33 +4483,33 @@
     },
     "5870": {
       "name": "Daniel Jones",
-      "headline": "Released by Colts; on waivers with Richardson now starting",
-      "news": "Indianapolis released Jones on Nov. 20, the day after he was benched for Anthony Richardson late in a 26-3 Thursday night loss at Houston, and Richardson takes over as the starter. Jones is on waivers and becomes a free agent Monday afternoon if no team claims him; Sleeper lists him without a team as of Nov. 22. In that final game he went 12 of 27 for 144 yards with no TDs and an INT, and in Week 10 vs. Miami he was 11 of 22 for 108 yards, 1 TD and 2 INTs (7.2 half-PPR, Sleeper). He finishes his Colts run with 1,974 yards, 7 TDs and 13 INTs in 11 games, and only a week earlier reports said the Colts had told him he would not be traded at the deadline.",
-      "take": "He has no team and no fantasy role right now. A claim by a QB-needy team could make him a backup somewhere, but his 13 interceptions and 15.8-point season high suggest he would not be a useful starter even if he lands a job. Drop him in 12-team 1QB redraft. In superflex dynasty he has almost no trade value for a 1-8 rebuild; hold only if you have an open roster spot and want to see where he lands, otherwise he's a cut.",
+      "headline": "Unclaimed so far; becomes a free agent Monday afternoon",
+      "news": "Indianapolis released Jones on Nov. 20, the day after a 12-of-27, 144-yard, no-TD, one-INT game in a Thursday night loss at Houston (5.1 points, per Sleeper), and Anthony Richardson takes over as the starter. Jones is on waivers and becomes a free agent Monday afternoon, Nov. 23, if no team claims him. As of this refresh we found no report of a claim or of a team showing interest. He leaves the Colts with 1,974 passing yards, 7 TDs and 13 INTs in 11 games (Sleeper).",
+      "take": "He has no team and no role. A claimed or signed Jones would most likely be a backup, and a 7-to-13 TD-to-INT ratio with a 15.8-point season high gives little reason to expect useful fantasy starts even if he gets on the field. Drop him in 12-team 1QB redraft. In superflex dynasty he has almost no trade value for a 1-8 rebuild; cut him unless you have a spare spot and want to see where he lands.",
       "dynasty": "SELL",
       "redraft": "SIT",
       "points": [
-        "Released Nov. 20; on waivers",
-        "Free agent Monday if unclaimed",
-        "Richardson is Colts starter",
-        "Season: 7 TD, 13 INT in 11 games"
+        "Released Nov. 20; free agent Monday if unclaimed",
+        "No claim reported as of Nov. 23",
+        "Final Colts game: 12/27, 144 yds, 1 INT",
+        "Season: 1,974 yds, 7 TD, 13 INT"
       ],
       "handcuff": "",
       "sources": [
         {
-          "title": "Sleeper API: 2026 Week 10 player stats",
-          "url": "https://api.sleeper.app/v1/stats/nfl/regular/2026/10"
+          "title": "Sleeper API: 2026 Week 11 player stats",
+          "url": "https://api.sleeper.app/v1/stats/nfl/regular/2026/11"
         },
         {
-          "title": "Bleacher Report: Daniel Jones trade rumors before 2026 deadline",
-          "url": "https://bleacherreport.com/articles/25530818-new-daniel-jones-trade-rumors-update-colts-qbs-future-ahead-2026-nfl-deadline"
+          "title": "Sleeper API: 2026 Week 10 player stats",
+          "url": "https://api.sleeper.app/v1/stats/nfl/regular/2026/10"
         },
         {
           "title": "Colts.com: 2026 transactions",
           "url": "https://www.colts.com/team/transactions/2026"
         }
       ],
-      "updated": "Nov 22"
+      "updated": "Nov 23"
     },
     "13272": {
       "name": "Carson Beck",
@@ -4539,37 +4543,33 @@
     },
     "8136": {
       "name": "Rachaad White",
-      "headline": "Questionable for Monday with heel; Croskey-Merritt return looms",
-      "news": "White (heel) did not practice Saturday, Nov. 21, and is questionable for Monday night's game vs. Cincinnati on Nov. 23, though NFL Network's Mike Garafolo said he should be good to go. Our own searches did not turn up further detail on the heel injury, so his exact practice history this week is unconfirmed beyond Saturday. He has led Washington's backfield since Jacory Croskey-Merritt went on IR in October, but with modest output: 11-47 rushing and 1-5 receiving in Week 10 (5.7 half-PPR) and 7-28 plus 2-41 in Week 9 (5.9), per Sleeper. Croskey-Merritt is expected back from IR, which points to a split backfield.",
-      "take": "White has not reached 6 half-PPR points in either of his last two games even as the lead back, and his role is about to shrink if Croskey-Merritt is activated. A heel injury, no Saturday practice and a Monday night kickoff make him a risky lineup choice, since you won't know the snap split until it's too late to pivot. For the 7-2 redraft team he's a bench piece at best. In dynasty he's a veteran committee back with minimal value; a 1-8 rebuild should take any small return from a contender or cut him for a younger stash.",
+      "headline": "Questionable for MNF with heel; expected to play",
+      "news": "White (heel) is questionable for tonight's Nov. 23 Monday night game vs. Cincinnati after limited practices, though NFL Network's Mike Garafolo said he should be good to go. Washington designated Jacory Croskey-Merritt (groin) to return from IR, and he could be activated for this game; our searches did not confirm an activation as of Monday morning. White has led the backfield since Croskey-Merritt went down but with modest output: 11-47 rushing and 1-5 receiving in Week 10 (5.7 half-PPR) and 7-28 plus 2-41 in Week 9 (5.9), per Sleeper.",
+      "take": "He hasn't reached 6 half-PPR points in either of his last two games even as the lead back, and a Croskey-Merritt return would likely push him into a passing-down role. With a heel injury and the split unknown until kickoff, he's a risky Monday night start. For the 7-2 redraft team he's a bench piece. For the 1-8 dynasty rebuild, a veteran committee back has little value; take any small return from a contender.",
       "dynasty": "SELL",
       "redraft": "SIT",
       "points": [
-        "Questionable MNF vs CIN (heel); DNP Sat",
+        "Questionable MNF vs CIN (heel)",
         "Garafolo: should be good to go",
         "Wk 10: 11-47, 1-5 (5.7)",
         "JCM return points to a split"
       ],
-      "handcuff": "Jacory Croskey-Merritt: expected back from IR and likely to take early-down work, leaving White as the passing-down or change-of-pace back; he would lead the backfield if White's heel keeps him out.",
+      "handcuff": "Jacory Croskey-Merritt has been designated to return from IR and would likely take early downs once active, leaving White as the passing-down back; he would lead the backfield if White sat.",
       "sources": [
         {
-          "title": "Sleeper API: 2026 Week 10 stats",
-          "url": "https://api.sleeper.app/v1/stats/nfl/regular/2026/10"
-        },
-        {
-          "title": "Sleeper API: 2026 Week 9 stats",
-          "url": "https://api.sleeper.app/v1/stats/nfl/regular/2026/9"
+          "title": "Fantasy Footballers: Croskey-Merritt cleared to resume practicing",
+          "url": "https://www.thefantasyfootballers.com/news/648327/jacory-croskey-merritt-cleared-to-resume-practicing/"
         },
         {
           "title": "Commanders.com: Commanders vs. Bengals Week 11 injury report",
           "url": "https://www.commanders.com/news/commanders-vs-bengals-week-11-injury-report"
         },
         {
-          "title": "Fantasy Footballers: Croskey-Merritt cleared to resume practicing",
-          "url": "https://www.thefantasyfootballers.com/news/648327/jacory-croskey-merritt-cleared-to-resume-practicing/"
+          "title": "Sleeper API: 2026 Week 10 stats",
+          "url": "https://api.sleeper.app/v1/stats/nfl/regular/2026/10"
         }
       ],
-      "updated": "Nov 22"
+      "updated": "Nov 23"
     },
     "8110": {
       "name": "Jake Ferguson",
@@ -4667,21 +4667,21 @@
     },
     "11292": {
       "name": "Tommy DeVito",
-      "headline": "Takes over in New England with Maye sidelined long term",
-      "news": "Drake Maye was hurt on the Patriots' first drive of the Nov. 15 loss to Detroit in Germany with a lower-leg fracture (initially reported as a suspected right ankle fracture), and Mike Vrabel said Nov. 16 that Maye likely won't be available when the team comes out of its bye. DeVito replaced him and went 12 of 24 for 81 yards with 1 TD and 1 INT, plus 4 carries for 19 yards, in the 35-10 loss (8.1 half-PPR, Sleeper). He is now in line to start when New England returns from its Week 11 bye on Nov. 29, with a full week of first-team reps. Before that game he had thrown only eight passes all season.",
-      "take": "DeVito gets a real starting run, but his relief outing was weak (3.4 yards per attempt) and the Patriots are 5-5 without their franchise QB. He's not a starter in 12-team 1QB redraft and isn't worth a roster spot during the bye. In superflex dynasty he's a 28-year-old bridge starter; he could be useful as a cheap QB2 for a contender, which is exactly who a 1-8 rebuilder should sell to if anyone bites. If he plays well after the bye, his value only goes up a little.",
+      "headline": "Set for first Patriots start Nov. 29 with Maye out",
+      "news": "New England was on its Week 11 bye, so there's no new stat line. Drake Maye suffered a lower-leg fracture (the team's initial worry was a fractured ankle) on the first drive of the Nov. 15 loss to Detroit, and Mike Vrabel said he didn't expect Maye to be available after the bye. DeVito went 12-of-24 for 81 yards with 1 TD and 1 INT in relief that day (8.1 half-PPR, per Sleeper) and will make his first start on Nov. 29. The Patriots are 5-5, with rookie Behren Morton as the backup.",
+      "take": "DeVito gets a multi-week starting run, but his relief outing (3.4 yards per attempt) and his career numbers suggest a low-ceiling fill-in. In 12-team 1QB redraft he isn't worth a roster spot. In superflex dynasty, the 1-8 rebuilder should treat him as a short-term asset, and if a contender needs a QB2 for the playoff push, sell him for anything.",
       "dynasty": "SELL",
       "redraft": "SIT",
       "points": [
-        "Starter with Maye out long term",
-        "Wk 10 vs DET: 12/24, 81 yds, 1 TD, 1 INT (8.1)",
-        "Patriots on bye; next game Nov. 29",
-        "Only 8 pass attempts before Week 10"
+        "First start Nov. 29 after Week 11 bye",
+        "Maye out with lower-leg fracture",
+        "Wk 10 relief: 12/24, 81 yds, 1 TD, 1 INT",
+        "Patriots 5-5; Morton is backup"
       ],
       "handcuff": "",
       "sources": [
         {
-          "title": "Sleeper API: 2026 Week 10 player stats",
+          "title": "Sleeper API: 2026 Week 10 stats",
           "url": "https://api.sleeper.app/v1/stats/nfl/regular/2026/10"
         },
         {
@@ -4689,45 +4689,45 @@
           "url": "https://www.tsn.ca/nfl/article/is-the-patriots-season-over-with-maye-injury-can-devito-step-up-n1-50503981/"
         },
         {
-          "title": "Boston Globe: Drake Maye injury",
-          "url": "https://www.bostonglobe.com/2026/11/16/sports/drake-maye-injury"
+          "title": "Boston Globe: Patriots quarterbacks and Tommy DeVito",
+          "url": "https://www.bostonglobe.com/2026/11/17/sports/patriots-quarterbacks-tommy-devito/"
         },
         {
           "title": "Fantasy Footballers: DeVito could continue to fill in for Maye",
           "url": "https://www.thefantasyfootballers.com/news/648148/tommy-devito-could-continue-to-fill-in-for-maye/"
         }
       ],
-      "updated": "Nov 22"
+      "updated": "Nov 23"
     },
     "11557": {
       "name": "Joe Milton",
-      "headline": "Makes second start vs. Steelers with Hurts out for season",
-      "news": "Nick Sirianni confirmed Nov. 18 that Milton remains Philadelphia's starter for Sunday's Nov. 22 home game against Pittsburgh. Jalen Hurts went on IR on Oct. 16 with blood clots and is expected to miss the rest of the 2026 season. Milton, signed Oct. 16, replaced Tanner McKee after three McKee starts and made his first start Nov. 8 in a 19-11 loss to the Giants, going 18 of 34 for 169 yards with no TDs and 9 carries for 64 yards (13.2 half-PPR, Sleeper). Sleeper shows no Week 10 game for him.",
-      "take": "His rushing gave him a usable floor in his debut, but 5.0 yards per pass attempt and no touchdowns in a 19-point offense show the ceiling is limited. He's a low-end streaming option at best in 12-team 1QB redraft and a 7-2 team should not need him. In superflex dynasty he's a 26-year-old big-arm QB who now has a path to starts the rest of the season, which is the kind of cheap upside a 1-8 rebuild can stash. Hold him and see whether the passing improves.",
+      "headline": "141 yards, no TDs in second start; Eagles still beat Steelers",
+      "news": "Milton made his second start on Nov. 22 against Pittsburgh and went 11 of 21 for 141 yards with no touchdowns or interceptions, plus 5 carries for 7 yards and a fumble, per Sleeper (6.3 points). He was sacked three times. Philadelphia won the game anyway. Nick Sirianni had said Nov. 18 that Milton would stay the starter, with Sean Mannion keeping play-calling duties. Jalen Hurts is on IR with blood clots and is expected to miss the rest of the season, and the Eagles play Dallas on Thanksgiving.",
+      "take": "In two starts he has 310 passing yards and no touchdowns, and his rushing fell from 64 yards in his debut to 7 here. Twenty-one pass attempts in a win suggests the coaches are keeping the game plan simple around him. He's not a startable option in 12-team 1QB redraft. In superflex dynasty he's a cheap stash with starts ahead, but the tape so far gives little reason to expect more than that, so hold only if the roster spot costs you nothing.",
       "dynasty": "HOLD",
       "redraft": "SIT",
       "points": [
-        "Second start Wk 11 vs PIT",
-        "Hurts (blood clots) likely out for season",
-        "Wk 9 vs NYG: 169 yds, 9-64 rushing (13.2)",
-        "Rushing gives him a floor"
+        "Wk 11 vs PIT: 11/21, 141 yds, 0 TD, 3 sacks (6.3)",
+        "Two starts: 310 pass yds, 0 TD",
+        "Keeps job with Hurts on IR",
+        "Short week: vs DAL on Thanksgiving"
       ],
       "handcuff": "",
       "sources": [
         {
-          "title": "Yardbarker: Eagles QB Joe Milton to start vs. Steelers",
-          "url": "https://www.yardbarker.com/nfl/articles/eagles_qb_joe_milton_to_start_vs_steelers/s1_17049_44581982"
+          "title": "Sleeper API: 2026 Week 11 player stats",
+          "url": "https://api.sleeper.app/v1/stats/nfl/regular/2026/11"
         },
         {
-          "title": "ClutchPoints: Sirianni confirms Eagles QB for Steelers game",
-          "url": "https://clutchpoints.com/nfl/philadelphia-eagles/eagles-news-nick-sirianni-confirms-philadelphia-qb-steelers-clash"
+          "title": "6abc: Sirianni sticking with Milton as QB1, Mannion as play-caller",
+          "url": "https://6abc.com/post/eagles-sirianni-sticking-milton-qb1-mannion-offensive-playcaller/20052034/"
         },
         {
-          "title": "Sleeper API: 2026 Week 9 player stats",
-          "url": "https://api.sleeper.app/v1/stats/nfl/regular/2026/9"
+          "title": "Fox Sports: Steelers vs. Eagles, Nov. 22, 2026 box score",
+          "url": "https://www.foxsports.com/nfl/week-11-pittsburgh-steelers-vs-philadelphia-eagles-nov-22-2026-game-boxscore-11282"
         }
       ],
-      "updated": "Nov 22"
+      "updated": "Nov 23"
     },
     "11583": {
       "name": "Jonathon Brooks",
@@ -4792,6 +4792,138 @@
         }
       ],
       "updated": "Nov 22"
+    },
+    "11565": {
+      "name": "J.J. McCarthy",
+      "headline": "Giants starter posts 14.2 points; Winston takes goal-line work",
+      "news": "McCarthy went 18-of-38 for 173 yards and 1 TD and ran 7 times for 33 yards on Nov. 22 (14.22 points, per Sleeper). Jameis Winston is handling goal-line snaps and scored a rushing TD in the same game, which takes short scoring chances away from McCarthy. In Week 10 McCarthy threw for 293 yards, 1 TD and 1 INT with 34 rushing yards (18.12 points). He took over from Winston in an Oct. 18 game against New Orleans, and he left the Nov. 8 win at Philadelphia briefly with a hip injury before returning.",
+      "take": "McCarthy is playing every week and adds 30-plus rushing yards a game, but a 47% completion rate on Sunday and losing goal-line work to Winston both cap his fantasy upside. In 12-team 1QB redraft he's a bye-week streamer, not a starter. In superflex dynasty he's 23 and the Giants' starting quarterback, the kind of young QB a 1-8 rebuilder should target. Buy him now while the inconsistent box scores keep his price down.",
+      "dynasty": "BUY",
+      "redraft": "SIT",
+      "points": [
+        "Nov. 22: 18/38, 173 yds, 1 TD; 7-33 rushing",
+        "Wk 10: 293 yds, 1 TD, 1 INT (18.1)",
+        "Winston vultures goal-line TDs",
+        "Age 23, superflex buy for rebuilder"
+      ],
+      "handcuff": "",
+      "sources": [
+        {
+          "title": "Sleeper API: 2026 Week 11 stats",
+          "url": "https://api.sleeper.app/v1/stats/nfl/regular/2026/11"
+        },
+        {
+          "title": "Sleeper API: 2026 Week 10 stats",
+          "url": "https://api.sleeper.app/v1/stats/nfl/regular/2026/10"
+        },
+        {
+          "title": "CBS Sports: Winston benched, McCarthy makes Giants debut",
+          "url": "https://www.cbssports.com/nfl/news/jameis-winston-benched-giants-j-j-mccarthy-makes-debut/"
+        },
+        {
+          "title": "TSN: Winston, McCarthy combine to lead Giants past Eagles",
+          "url": "https://www.tsn.ca/nfl/article/winston-mccarthy-combine-to-lead-giants-to-win-hand-eagles-seventh-straight-loss/"
+        }
+      ],
+      "updated": "Nov 23"
+    },
+    "2306": {
+      "name": "Jameis Winston",
+      "headline": "Goal-line role produces rushing TD, but McCarthy is the starter",
+      "news": "Winston ran 3 times for 5 yards and a TD on Nov. 22 as the Giants' goal-line QB, and threw 1 incomplete pass (6.5 points, per Sleeper). J.J. McCarthy remains the starter. In Week 10 Winston had 2 carries for 1 yard. He has scored this way before; he had a 1-yard TD plunge in an Oct. 25 overtime win at Houston. Earlier in the season he started for New York, including three TD passes in a 36-24 win over Arizona.",
+      "take": "Goal-line snaps make him a touchdown-or-nothing play, and with only 1-3 carries a week that isn't a reliable weekly fantasy role. He doesn't belong in a 12-team 1QB redraft lineup or roster. In deep superflex leagues he's mainly insurance in case McCarthy gets hurt. The 1-8 dynasty rebuilder should move him to a contender for a late pick if possible, or just cut him when roster space is needed, since he's in his 30s and isn't the long-term starter.",
+      "dynasty": "SELL",
+      "redraft": "SIT",
+      "points": [
+        "Nov. 22: 3-5-1 rushing (6.5)",
+        "Goal-line package QB behind McCarthy",
+        "Only 1-3 carries per week",
+        "Insurance value in superflex only"
+      ],
+      "handcuff": "",
+      "sources": [
+        {
+          "title": "Sleeper API: 2026 Week 11 stats",
+          "url": "https://api.sleeper.app/v1/stats/nfl/regular/2026/11"
+        },
+        {
+          "title": "ClutchPoints: Winston vultures TD vs. Texans",
+          "url": "https://clutchpoints.com/nfl/new-york-giants/giants-news-jameis-winston-vultures-td-j-j-mccarthy-renaissance-continues-texans"
+        },
+        {
+          "title": "ESPN: Winston throws 3 TD passes in win over Cardinals",
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401872966"
+        }
+      ],
+      "updated": "Nov 23"
+    },
+    "10219": {
+      "name": "Chris Rodriguez Jr.",
+      "headline": "Next man up if Tuten's ankle costs him time",
+      "news": "Rodriguez had 4 carries for 28 yards and a 13-yard catch on his only target in the Nov. 22 game against the Giants (4.6 half-PPR, per Sleeper). Bhayshul Tuten limped off in the fourth quarter with a re-aggravated left ankle/foot injury and is listed as questionable, with no imaging results reported. Rodriguez was limited in practice earlier this month with a hand injury but has played every game since. On the season he has 63 carries for 261 yards (4.1 per carry) and 5 catches in 10 games (Sleeper), mostly as a short-yardage and change-of-pace back.",
+      "take": "His value depends almost entirely on Tuten's ankle. As a backup he has topped 10 half-PPR points only twice, but if Tuten sits he would likely get early-down and goal-line work on a 7-2 offense, which makes him a flex play. In 12-team redraft he's worth a speculative add now, before Wednesday's practice report clears things up. In dynasty he's a short-term injury fill-in, not a long-term piece for a rebuild, so pick him up only if you have a free spot.",
+      "dynasty": "HOLD",
+      "redraft": "BUY",
+      "points": [
+        "Wk 11 at NYG: 4-28 rush, 1-13 rec (4.6)",
+        "Tuten (ankle/foot) questionable",
+        "Season: 63-261 rushing, 5 catches",
+        "Speculative add before Wednesday practice"
+      ],
+      "handcuff": "Bhayshul Tuten is the starter ahead of him; if both were out, we found no verified third back with a defined role.",
+      "sources": [
+        {
+          "title": "Sleeper API: 2026 Week 11 player stats",
+          "url": "https://api.sleeper.app/v1/stats/nfl/regular/2026/11"
+        },
+        {
+          "title": "NBC Sports: Chris Rodriguez Jr. player news",
+          "url": "https://www.nbcsports.com/nfl/chris-rodriguez-jr/8055/news"
+        },
+        {
+          "title": "The Fantasy Footballers: Rodriguez limited in Thursday's session",
+          "url": "https://www.thefantasyfootballers.com/news/648682/chris-rodriguez-jr-limited-in-thursdays-session/"
+        },
+        {
+          "title": "CBS Sports: Jaguars' Bhayshul Tuten hurts ankle Sunday",
+          "url": "https://www.cbssports.com/fantasy/football/news/jaguars-bhayshul-tuten-hurts-ankle-sunday"
+        }
+      ],
+      "updated": "Nov 23"
+    },
+    "4035": {
+      "name": "Alvin Kamara",
+      "headline": "One carry vs. Bears; TD catch hides shrinking role",
+      "news": "Kamara had 1 carry for 1 yard and 1 catch on 2 targets for a 1-yard touchdown in the Saints' Nov. 22 loss to the Bears (6.7 half-PPR, per Sleeper), while Travis Etienne Jr. handled 14 carries. A week earlier against Carolina on Nov. 15, he scored twice on only 5 touches over 16 snaps. Etienne's return from IR has cut into his work, and he has had 2 or fewer carries in each of the last two games. On the season he has 50 carries for 162 yards (3.2 per carry) and 29 catches in 9 games (Sleeper).",
+      "take": "Three touchdowns on seven touches over two weeks are not repeatable, and the underlying role now looks like a change-of-pace back behind Etienne. At 3.2 yards per carry he has given the Saints little reason to change that. In 12-team redraft he's a touchdown-dependent bench or deep-flex option. In dynasty, he's 31 with little resale value, so sell for whatever a contender will give, even a late pick.",
+      "dynasty": "SELL",
+      "redraft": "SIT",
+      "points": [
+        "Wk 11 vs CHI: 1-1 rush, 1-yd TD catch (6.7)",
+        "Etienne had 14 carries",
+        "3 TDs on 7 touches over last 2 games",
+        "Season: 50-162 rushing (3.2 YPC)"
+      ],
+      "handcuff": "Travis Etienne Jr. is now the lead back and would take over the remaining passing-down work if Kamara missed time.",
+      "sources": [
+        {
+          "title": "Sleeper API: 2026 Week 11 player stats",
+          "url": "https://api.sleeper.app/v1/stats/nfl/regular/2026/11"
+        },
+        {
+          "title": "Sleeper API: 2026 Week 10 player stats",
+          "url": "https://api.sleeper.app/v1/stats/nfl/regular/2026/10"
+        },
+        {
+          "title": "Saints.com: Bears vs. Saints Week 11 box score",
+          "url": "https://www.neworleanssaints.com/game-day/2026/reg-week11/bears-vs-saints/box-score"
+        },
+        {
+          "title": "The Fantasy Footballers: Kamara two TDs despite just five touches",
+          "url": "https://www.thefantasyfootballers.com/news/648056/alvin-kamara-two-tds-despite-just-five-touches/"
+        }
+      ],
+      "updated": "Nov 23"
     }
   }
 }
