@@ -59,9 +59,18 @@
    "t": "BUF"
   },
   "10859": {
-   "changed": null,
-   "entry": null,
-   "i": null,
+   "changed": "2026-11-24T00:51:54.349472+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Sam LaPorta",
+    "note": "Sleeper now lists him questionable (ankle) as of 4:51 PM PT Nov 23.",
+    "redraftAdj": 0.98,
+    "sleeperId": "10859",
+    "status": "Questionable",
+    "tag": "injury"
+   },
+   "i": "Questionable",
    "qb1": null,
    "t": "DET"
   },
@@ -368,18 +377,18 @@
    "t": "DEN"
   },
   "12490": {
-   "changed": "2026-11-21T02:16:51.905620+00:00",
+   "changed": "2026-11-24T00:51:54.349472+00:00",
    "entry": {
     "auto": true,
-    "dynastyAdj": 1.0,
+    "dynastyAdj": 0.99,
     "name": "Bhayshul Tuten",
-    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 6:16 PM PT Nov 20. Earlier: Sleeper has listed Tuten questionable (ankle) since Nov. 18 ahead of Jacksonville's Week 11 game, and no practice update has been found yet. Friday's final designation will decide his availability.",
-    "redraftAdj": 1.0,
+    "note": "Sleeper now lists him questionable (undisclosed) as of 4:51 PM PT Nov 23. Earlier: Tuten (left ankle/foot) limped off in the fourth quarter of the Nov. 22 game vs. the Giants and did not return, after 10 carries for 33 yards and 3 catches for 20. He had been playing through a high ankle sprain, no imaging results have been reported, and Sleeper lists him questionable.",
+    "redraftAdj": 0.82,
     "sleeperId": "12490",
-    "status": null,
+    "status": "Questionable",
     "tag": "injury"
    },
-   "i": null,
+   "i": "Questionable",
    "qb1": null,
    "t": "JAX"
   },
@@ -526,8 +535,18 @@
    "t": "NE"
   },
   "12533": {
-   "changed": "2026-10-19T20:44:37.790261+00:00",
-   "i": "IR",
+   "changed": "2026-11-24T00:51:54.349472+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.01,
+    "name": "Jacory Croskey-Merritt",
+    "note": "Cleared: no longer on Sleeper's injury report (was on injured reserve) as of 4:51 PM PT Nov 23. Earlier: Croskey-Merritt (groin) was designated to return from IR Nov. 17 and is expected back for tonight's Nov. 23 MNF game vs. Cincinnati. Sleeper still showed him on IR Monday morning, so check that he's active; a split with Rachaad White is likely.",
+    "redraftAdj": 0.98,
+    "sleeperId": "12533",
+    "status": null,
+    "tag": "injury"
+   },
+   "i": null,
    "qb1": null,
    "t": "WAS"
   },
@@ -611,16 +630,6 @@
   },
   "13276": {
    "changed": "2026-11-20T20:22:43.759513+00:00",
-   "entry": {
-    "auto": true,
-    "dynastyAdj": 0.99,
-    "name": "Omar Cooper Jr.",
-    "note": "Sleeper now lists him out (ankle) as of 12:22 PM PT Nov 20. Earlier: Cooper (ankle/hip) did not practice Nov 18 after aggravating the ankle Nov 15. No imaging result or Thursday practice status had been reported as of Nov 20, ahead of Sunday vs. the Chargers.",
-    "redraftAdj": 0.8,
-    "sleeperId": "13276",
-    "status": "Out",
-    "tag": "injury"
-   },
    "i": "Out",
    "qb1": null,
    "t": "NYJ"
@@ -649,16 +658,6 @@
   },
   "13281": {
    "changed": "2026-11-20T20:22:43.759513+00:00",
-   "entry": {
-    "auto": true,
-    "dynastyAdj": 1.0,
-    "name": "Jordyn Tyson",
-    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 12:22 PM PT Nov 20. Earlier: Tyson (chest) was limited at practice Nov 18 after an 11-catch game on Nov 15. No Thursday status had been reported as of Nov 20 for Sunday vs. Chicago.",
-    "redraftAdj": 1.0,
-    "sleeperId": "13281",
-    "status": null,
-    "tag": "injury"
-   },
    "i": null,
    "qb1": null,
    "t": "NO"
@@ -1229,8 +1228,18 @@
    "t": "BAL"
   },
   "5022": {
-   "changed": "2026-10-24T20:39:43.488750+00:00",
-   "i": null,
+   "changed": "2026-11-24T00:51:54.349472+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Dallas Goedert",
+    "note": "Sleeper now lists him questionable (shin) as of 4:51 PM PT Nov 23.",
+    "redraftAdj": 0.98,
+    "sleeperId": "5022",
+    "status": "Questionable",
+    "tag": "injury"
+   },
+   "i": "Questionable",
    "qb1": null,
    "t": "PHI"
   },
@@ -1243,16 +1252,6 @@
   },
   "5844": {
    "changed": "2026-11-20T20:22:43.759513+00:00",
-   "entry": {
-    "auto": true,
-    "dynastyAdj": 1.0,
-    "name": "T.J. Hockenson",
-    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 12:22 PM PT Nov 20. Earlier: Hockenson (wrist/chest) was limited Wednesday, Nov 18, after missing Week 10, and remains questionable for Sunday vs. San Francisco in Mexico City. Kevin O'Connell is hopeful he returns, and Jordan Addison's thumb surgery could mean more targets for him.",
-    "redraftAdj": 1.0,
-    "sleeperId": "5844",
-    "status": null,
-    "tag": "injury"
-   },
    "i": null,
    "qb1": null,
    "t": "MIN"
@@ -1645,18 +1644,18 @@
    "t": "BUF"
   },
   "8136": {
-   "changed": "2026-11-21T02:16:51.905620+00:00",
+   "changed": "2026-11-24T00:51:54.349472+00:00",
    "entry": {
     "auto": true,
-    "dynastyAdj": 1.0,
+    "dynastyAdj": 0.98,
     "name": "Rachaad White",
-    "note": "Sleeper now lists him questionable (heel) as of 6:16 PM PT Nov 20.",
-    "redraftAdj": 0.98,
+    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 4:51 PM PT Nov 23. Earlier: White (heel) is questionable for tonight's Nov. 23 MNF game vs. Cincinnati after limited practices, though he's expected to play. Jacory Croskey-Merritt's likely return from IR points to a split backfield.",
+    "redraftAdj": 1.0,
     "sleeperId": "8136",
-    "status": "Questionable",
+    "status": null,
     "tag": "injury"
    },
-   "i": "Questionable",
+   "i": null,
    "qb1": null,
    "t": "WAS"
   },
