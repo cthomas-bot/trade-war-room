@@ -1,932 +1,852 @@
 {
-  "updated": "2026-11-24 6:15 AM PT",
-  "players": [
-    {
-      "sleeperId": "6797",
-      "name": "Justin Herbert",
-      "note": "As of Nov. 23 he was still in the concussion protocol after being sacked six times in the Nov. 22 loss to the Jets. DJ Uiagalelei would likely start Nov. 29 vs. New England if Herbert doesn't clear, and Wednesday's injury report should clarify his status.",
-      "tag": "injury",
-      "redraftAdj": 0.8,
-      "dynastyAdj": 0.99,
-      "status": "Questionable"
-    },
-    {
-      "sleeperId": "11566",
-      "name": "Jayden Daniels",
-      "note": "He hurt his left hand in the third quarter of the Nov. 23 MNF win over Cincinnati (22-20), but he returned after treatment and led the winning drive. He finished with 289 passing yards, 0 TD and 55 rushing yards, and the injury looks minor; watch the Week 12 practice reports.",
-      "tag": "injury",
-      "redraftAdj": 0.97,
-      "dynastyAdj": 1.0,
-      "status": ""
-    },
-    {
-      "sleeperId": "5849",
-      "name": "Kyler Murray",
-      "note": "He missed Week 11 with a Grade 2 hamstring strain. Minnesota is still targeting a Nov. 29 return vs. Atlanta, but that is a target rather than a confirmed date, and there was no new practice news as of Nov. 23.",
-      "tag": "injury",
-      "redraftAdj": 0.8,
-      "dynastyAdj": 0.98,
-      "status": "Out"
-    },
-    {
-      "sleeperId": "1166",
-      "name": "Kirk Cousins",
-      "note": "He went 26-of-38 for 235 yards, 0 TD and 1 INT on Nov. 22 vs. San Francisco. Kyler Murray (hamstring) is targeting a Nov. 29 return, which would likely send Cousins back to the bench.",
-      "tag": "role_down",
-      "redraftAdj": 0.8,
-      "dynastyAdj": 0.98,
-      "status": ""
-    },
-    {
-      "sleeperId": "11564",
-      "name": "Drake Maye",
-      "tag": "role_down",
-      "redraftAdj": 0.8,
-      "dynastyAdj": 0.95,
-      "status": "Out",
-      "auto": true,
-      "note": "Sleeper's depth chart now has him as NE's backup QB as of 1:12 PM PT Nov 24."
-    },
-    {
-      "sleeperId": "11292",
-      "name": "Tommy DeVito",
-      "tag": "role_up",
-      "redraftAdj": 1.2,
-      "dynastyAdj": 1.05,
-      "status": "",
-      "auto": true,
-      "note": "Sleeper's depth chart now has him as NE's starting QB as of 1:12 PM PT Nov 24."
-    },
-    {
-      "sleeperId": "13272",
-      "name": "Carson Beck",
-      "tag": "role_up",
-      "redraftAdj": 1.2,
-      "dynastyAdj": 1.05,
-      "status": "Out",
-      "auto": true,
-      "note": "Sleeper's depth chart now has him as ARI's starting QB as of 1:12 PM PT Nov 24."
-    },
-    {
-      "sleeperId": "5870",
-      "name": "Daniel Jones",
-      "note": "Indianapolis released him Nov. 20, and Anthony Richardson is the waiver add replacing him. As of Nov. 24 no signing had been reported, so he has no starting role.",
-      "tag": "role_down",
-      "redraftAdj": 0.4,
-      "dynastyAdj": 0.9,
-      "status": ""
-    },
-    {
-      "sleeperId": "13269",
-      "name": "Fernando Mendoza",
-      "note": "He threw for 267 yards, 3 TD and 1 INT with 22 rushing yards on Nov. 22 (23.9 PPR points), even without his top receiver. Multiple outlets call him the top breakout QB add for Week 12.",
-      "tag": "role_up",
-      "redraftAdj": 1.15,
-      "dynastyAdj": 1.05,
-      "status": ""
-    },
-    {
-      "sleeperId": "4017",
-      "name": "Deshaun Watson",
-      "note": "Cleveland was on bye in Week 11. He has thrown for 300+ yards in three straight starts, and outlets list him as the consensus Week 12 streamer vs. the Raiders.",
-      "tag": "role_up",
-      "redraftAdj": 1.1,
-      "dynastyAdj": 1.02,
-      "status": ""
-    },
-    {
-      "sleeperId": "12522",
-      "name": "Cam Ward",
-      "note": "He had 248 passing yards, 2 TD and a rushing TD on Nov. 22 (22.2 PPR points), his third straight 20+ point game. He is being touted as a top 1QB streamer for Week 12.",
-      "tag": "role_up",
-      "redraftAdj": 1.1,
-      "dynastyAdj": 1.03,
-      "status": ""
-    },
-    {
-      "sleeperId": "4943",
-      "name": "Sam Darnold",
-      "tag": "role_up",
-      "redraftAdj": 1.2,
-      "dynastyAdj": 1.05,
-      "status": "Out",
-      "auto": true,
-      "note": "Sleeper's depth chart now has him as SEA's starting QB as of 1:12 PM PT Nov 24."
-    },
-    {
-      "sleeperId": "5854",
-      "name": "Drew Lock",
-      "tag": "role_down",
-      "redraftAdj": 0.8,
-      "dynastyAdj": 0.95,
-      "status": "",
-      "auto": true,
-      "note": "Sleeper's depth chart now has him as SEA's backup QB as of 1:12 PM PT Nov 24."
-    },
-    {
-      "sleeperId": "11565",
-      "name": "J.J. McCarthy",
-      "note": "He went 18-of-38 for 173 yards and 1 TD with 33 rushing yards on Nov. 22 (14.2 PPR points). Jameis Winston is taking goal-line snaps, which caps McCarthy's upside.",
-      "tag": "role_down",
-      "redraftAdj": 0.9,
-      "dynastyAdj": 0.99,
-      "status": ""
-    },
-    {
-      "sleeperId": "2306",
-      "name": "Jameis Winston",
-      "note": "He is running the Giants' goal-line package and scored a rushing TD on Nov. 22 (3 carries for 5 yards). He has TD-vulture value only in deep superflex leagues.",
-      "tag": "role_up",
-      "redraftAdj": 1.05,
-      "dynastyAdj": 1.0,
-      "status": ""
-    },
-    {
-      "sleeperId": "12494",
-      "name": "Kyle McCord",
-      "note": "He went 12-of-33 for 102 yards, 0 TD and 1 INT on Nov. 22. He keeps starting only while Malik Willis is on IR (estimated return Dec. 13).",
-      "tag": "role_down",
-      "redraftAdj": 0.8,
-      "dynastyAdj": 0.98,
-      "status": ""
-    },
-    {
-      "sleeperId": "8161",
-      "name": "Malik Willis",
-      "note": "He is on IR (groin/core) with an estimated return of Dec. 13, and Jeff Hafley says surgery isn't expected. Kyle McCord's 102-yard outing on Nov. 22 makes Willis likely to reclaim the job when healthy.",
-      "tag": "injury",
-      "redraftAdj": 0.35,
-      "dynastyAdj": 0.97,
-      "status": "IR"
-    },
-    {
-      "sleeperId": "11557",
-      "name": "Joe Milton",
-      "note": "He went 11-of-21 for 141 yards with no TD on Nov. 22 (6.3 PPR points). He remains the Eagles' starter with Jalen Hurts on IR, and he has a plus Week 12 matchup at Dallas.",
-      "tag": "role_down",
-      "redraftAdj": 0.9,
-      "dynastyAdj": 1.0,
-      "status": ""
-    },
-    {
-      "sleeperId": "3257",
-      "name": "Jacoby Brissett",
-      "note": "He went 24-of-37 for 276 yards, 1 TD and 1 INT on Nov. 22 and remains Baltimore's starter with Lamar Jackson on IR.",
-      "tag": "role_up",
-      "redraftAdj": 1.1,
-      "dynastyAdj": 1.02,
-      "status": ""
-    },
-    {
-      "sleeperId": "4881",
-      "name": "Lamar Jackson",
-      "note": "He remains on IR after surgery on his fractured, dislocated right thumb, with a reported 6-9 week recovery timeline. Jacoby Brissett is starting.",
-      "tag": "injury",
-      "redraftAdj": 0.2,
-      "dynastyAdj": 0.95,
-      "status": "IR"
-    },
-    {
-      "sleeperId": "6904",
-      "name": "Jalen Hurts",
-      "note": "He remains on IR and is expected to miss the rest of 2026. Joe Milton is starting for Philadelphia.",
-      "tag": "injury",
-      "redraftAdj": 0.2,
-      "dynastyAdj": 0.95,
-      "status": "IR"
-    },
-    {
-      "sleeperId": "12508",
-      "name": "Jaxson Dart",
-      "note": "He remains on IR after knee surgery and is expected to miss the rest of the regular season. J.J. McCarthy is starting, and Jameis Winston is handling goal-line snaps.",
-      "tag": "injury",
-      "redraftAdj": 0.1,
-      "dynastyAdj": 0.95,
-      "status": "IR"
-    },
-    {
-      "sleeperId": "12533",
-      "name": "Jacory Croskey-Merritt",
-      "note": "Washington activated Croskey-Merritt (groin) from IR on Nov. 23, and he led the backfield in Monday night's 22-20 win over Cincinnati with 13 carries for 54 yards and a TD plus 2 catches for 23 yards. He looks like the Commanders' lead back again.",
-      "tag": "return",
-      "redraftAdj": 1.15,
-      "dynastyAdj": 1.04,
-      "status": ""
-    },
-    {
-      "sleeperId": "8136",
-      "name": "Rachaad White",
-      "note": "White (heel) was active for Monday's Nov. 23 game vs. Cincinnati, but the Week 11 box score shows no carries or catches for him, while Jacory Croskey-Merritt handled 13 carries and 3 targets. His fantasy role has dried up with Croskey-Merritt back.",
-      "tag": "role_down",
-      "redraftAdj": 0.72,
-      "dynastyAdj": 0.95,
-      "status": ""
-    },
-    {
-      "sleeperId": "9224",
-      "name": "Chase Brown",
-      "note": "Brown managed just 6 carries for 6 yards plus 5 catches for 30 yards in Monday's Nov. 23 loss at Washington. Samaje Perine outplayed him (6-26 rushing, 4-71 receiving), which raises the risk of a committee.",
-      "tag": "role_down",
-      "redraftAdj": 0.88,
-      "dynastyAdj": 0.97,
-      "status": ""
-    },
-    {
-      "sleeperId": "4147",
-      "name": "Samaje Perine",
-      "note": "Perine out-produced Chase Brown in Monday's Nov. 23 loss to Washington, with 6 carries for 26 yards and 4 catches for 71 yards on roughly half the snaps. He has earned a bigger share of Cincinnati's backfield.",
-      "tag": "role_up",
-      "redraftAdj": 1.12,
-      "dynastyAdj": 1.02,
-      "status": ""
-    },
-    {
-      "sleeperId": "8150",
-      "name": "Kyren Williams",
-      "note": "Williams (toe) practiced fully Monday, Nov. 23, after being limited Sunday, so he looks on track for Wednesday's game vs. Green Bay. He is still likely to share work with Blake Corum.",
-      "tag": "injury",
-      "redraftAdj": 0.98,
-      "dynastyAdj": 0.99,
-      "status": "Questionable"
-    },
-    {
-      "sleeperId": "5850",
-      "name": "Josh Jacobs",
-      "note": "Jacobs (finger surgery) was limited again Monday, Nov. 23, and Matt LaFleur said he is unlikely to play Wednesday vs. the Rams.",
-      "tag": "injury",
-      "redraftAdj": 0.88,
-      "dynastyAdj": 0.99,
-      "status": "Out"
-    },
-    {
-      "sleeperId": "12504",
-      "name": "Kaleb Johnson",
-      "note": "Matt LaFleur said Nov. 23 that Josh Jacobs is unlikely to play Wednesday vs. the Rams, so Johnson is expected to lead Green Bay's backfield again, along with MarShawn Lloyd.",
-      "tag": "role_up",
-      "redraftAdj": 1.1,
-      "dynastyAdj": 1.01,
-      "status": ""
-    },
-    {
-      "sleeperId": "12490",
-      "name": "Bhayshul Tuten",
-      "note": "Liam Coen said Nov. 23 that Tuten re-aggravated his ankle Sunday vs. the Giants, but it 'wasn't too bad' and he'll practice as 'business as usual.' His Week 12 status vs. Tennessee will become clearer on Wednesday's injury report.",
-      "tag": "injury",
-      "redraftAdj": 0.92,
-      "dynastyAdj": 0.99,
-      "status": "Questionable"
-    },
-    {
-      "sleeperId": "10219",
-      "name": "Chris Rodriguez Jr.",
-      "note": "He's a popular Week 12 waiver add as Bhayshul Tuten's backup, but Liam Coen said Nov. 23 that Tuten's ankle re-aggravation 'wasn't too bad,' which limits Rodriguez's chances of a bigger role.",
-      "tag": "role_up",
-      "redraftAdj": 1.04,
-      "dynastyAdj": 1.0,
-      "status": ""
-    },
-    {
-      "sleeperId": "4866",
-      "name": "Saquon Barkley",
-      "note": "Philadelphia's estimated Monday (Nov. 23) report listed Barkley as limited with neck and illness designations after he left the Week 11 game with an arm injury; his hamstring listing is gone. He says he expects to play Thursday at Dallas, and Will Shipley would get the work if he can't.",
-      "tag": "injury",
-      "redraftAdj": 0.9,
-      "dynastyAdj": 0.97,
-      "status": "Questionable"
-    },
-    {
-      "sleeperId": "8151",
-      "name": "Kenneth Walker III",
-      "note": "Walker (groin) was listed as a non-participant in Kansas City's Monday, Nov. 23, walkthrough after missing two straight games. Andy Reid is being cautious ahead of Thursday night's game vs. Buffalo.",
-      "tag": "injury",
-      "redraftAdj": 0.8,
-      "dynastyAdj": 0.97,
-      "status": "Out"
-    },
-    {
-      "sleeperId": "13337",
-      "name": "Emmett Johnson",
-      "note": "With Kenneth Walker III (groin) not practicing Nov. 23, Andy Reid said Johnson 'would take the bulk of the carries' Thursday vs. Buffalo. He's coming off 23 carries for 105 yards and a TD plus 4 catches for 38 yards in Week 11.",
-      "tag": "role_up",
-      "redraftAdj": 1.2,
-      "dynastyAdj": 1.08,
-      "status": ""
-    },
-    {
-      "sleeperId": "5995",
-      "name": "Justice Hill",
-      "note": "Hill had his best game of the season Nov. 22 vs. Carolina: 6 carries for 69 yards and a TD plus 4 catches for 27 yards. He has 23 targets over Baltimore's last four games and is a top Week 12 waiver target.",
-      "tag": "role_up",
-      "redraftAdj": 1.08,
-      "dynastyAdj": 1.01,
-      "status": ""
-    },
-    {
-      "sleeperId": "12469",
-      "name": "Dylan Sampson",
-      "note": "Sampson has out-snapped Quinshon Judkins in three straight games, turning Cleveland's backfield into a 50-50 committee, and he is a top Week 12 waiver add per Nov. 24 reports.",
-      "tag": "role_up",
-      "redraftAdj": 1.1,
-      "dynastyAdj": 1.03,
-      "status": ""
-    },
-    {
-      "sleeperId": "12512",
-      "name": "Quinshon Judkins",
-      "note": "Dylan Sampson has out-snapped Judkins in three straight games, so Cleveland's backfield is now roughly a 50-50 committee and Judkins' weekly ceiling is lower.",
-      "tag": "role_down",
-      "redraftAdj": 0.88,
-      "dynastyAdj": 0.97,
-      "status": ""
-    },
-    {
-      "sleeperId": "5892",
-      "name": "David Montgomery",
-      "note": "Montgomery returned from a groin injury in Week 11 vs. Indianapolis with 26 carries for 107 yards plus 3 catches for 17 yards. Woody Marks (concussion) may clear the protocol for Week 12 vs. Baltimore, which could cut into his workload.",
-      "tag": "return",
-      "redraftAdj": 1.08,
-      "dynastyAdj": 1.01,
-      "status": ""
-    },
-    {
-      "sleeperId": "12474",
-      "name": "Woody Marks",
-      "note": "Marks (concussion) missed Week 11, but Houston's Week 12 outlook gives him a good chance to clear the protocol before Sunday's game vs. Baltimore; Wednesday's practice report will tell. David Montgomery returned and took 26 carries in his absence.",
-      "tag": "injury",
-      "redraftAdj": 0.9,
-      "dynastyAdj": 0.99,
-      "status": "Out"
-    },
-    {
-      "sleeperId": "5967",
-      "name": "Tony Pollard",
-      "note": "With Tyjae Spears placed on IR Nov. 21 and Nicholas Singleton inactive, Pollard had 21 carries for 110 yards in Week 11. He's set for a heavy workload.",
-      "tag": "role_up",
-      "redraftAdj": 1.1,
-      "dynastyAdj": 1.0,
-      "status": ""
-    },
-    {
-      "sleeperId": "13287",
-      "name": "Jeremiyah Love",
-      "note": "A Nov. 23 update says Love (right high ankle sprain, IR since Nov. 3) will miss at least one more game; Week 13 is the earliest he could be activated, and some reports point to Dec. 6.",
-      "tag": "injury",
-      "redraftAdj": 0.92,
-      "dynastyAdj": 0.99,
-      "status": "IR"
-    },
-    {
-      "sleeperId": "11583",
-      "name": "Jonathon Brooks",
-      "note": "Brooks returned to practice after being designated to return from IR on Nov. 11, but Chuba Hubbard just took 27 carries for 120 yards and 2 TDs on Nov. 22. Brooks is unlikely to have a big role even once he's activated.",
-      "tag": "return",
-      "redraftAdj": 1.03,
-      "dynastyAdj": 1.01,
-      "status": "IR"
-    },
-    {
-      "sleeperId": "13345",
-      "name": "Jonah Coleman",
-      "note": "Coleman is Denver's clear lead back after 24 carries for 111 yards and 3 TDs plus 4 catches on Nov. 22, while J.K. Dobbins got 1 carry. RJ Harvey (knee, IR) isn't estimated back until around Dec. 6.",
-      "tag": "role_up",
-      "redraftAdj": 1.12,
-      "dynastyAdj": 1.05,
-      "status": ""
-    },
-    {
-      "sleeperId": "6806",
-      "name": "J.K. Dobbins",
-      "note": "Sleeper now lists him out (personal) as of 8:12 PM PT Nov 24. Earlier: Dobbins played 1 snap and got 1 carry on Nov. 22 while Jonah Coleman took 24, so he has no fantasy role right now.",
-      "tag": "injury",
-      "redraftAdj": 0.75,
-      "dynastyAdj": 0.95,
-      "status": "Out",
-      "auto": true
-    },
-    {
-      "sleeperId": "4035",
-      "name": "Alvin Kamara",
-      "note": "Kamara played 8 of 72 snaps on Nov. 22 and had 1 carry, with a 1-yard TD catch saving his day, while Travis Etienne Jr. took 14 carries. He has been reduced to a change-of-pace role.",
-      "tag": "role_down",
-      "redraftAdj": 0.78,
-      "dynastyAdj": 0.94,
-      "status": ""
-    },
-    {
-      "sleeperId": "7543",
-      "name": "Travis Etienne Jr.",
-      "note": "Etienne led New Orleans with 14 carries for 76 yards on Nov. 22, while Alvin Kamara got 1 carry, making him the Saints' early-down back.",
-      "tag": "role_up",
-      "redraftAdj": 1.1,
-      "dynastyAdj": 1.02,
-      "status": ""
-    },
-    {
-      "sleeperId": "11604",
-      "name": "Brock Bowers",
-      "note": "Bowers (ankle) missed the Raiders' Week 11 game on Nov 22 and is still listed out on Sleeper as of Nov 23. Michael Mayer started in his place and caught 1 of 4 targets for 4 yards.",
-      "tag": "injury",
-      "redraftAdj": 0.9,
-      "dynastyAdj": 1.0,
-      "status": "Out"
-    },
-    {
-      "sleeperId": "10236",
-      "name": "Dalton Kincaid",
-      "note": "Kincaid (thumb) missed Week 11 on Nov 22 and was still listed out on Sleeper as of the evening of Nov 23, so his Week 12 status is in doubt.",
-      "tag": "injury",
-      "redraftAdj": 0.85,
-      "dynastyAdj": 0.99,
-      "status": "Out"
-    },
-    {
-      "sleeperId": "7002",
-      "name": "Juwan Johnson",
-      "note": "Johnson played through a hamstring injury in Week 11 on Nov 22 but was on the field for only 27 of 72 offensive snaps, with 1 target and no catches. He is still listed questionable on Sleeper as of Nov 23.",
-      "tag": "injury",
-      "redraftAdj": 0.9,
-      "dynastyAdj": 0.99,
-      "status": "Questionable"
-    },
-    {
-      "sleeperId": "10859",
-      "name": "Sam LaPorta",
-      "note": "LaPorta played 53 of 58 snaps in Week 11 on Nov 22 and caught 3 of 6 targets for 62 yards, but Sleeper added an ankle injury and a questionable tag on Nov 23. Detroit plays on Thanksgiving, so the short week makes his status worth monitoring.",
-      "tag": "injury",
-      "redraftAdj": 0.96,
-      "dynastyAdj": 1.0,
-      "status": "Questionable"
-    },
-    {
-      "sleeperId": "5022",
-      "name": "Dallas Goedert",
-      "note": "Goedert played 47 of 53 snaps in Week 11 on Nov 22 but drew only 1 target, which he caught for 38 yards. Sleeper listed him questionable with a shin injury on Nov 23.",
-      "tag": "injury",
-      "redraftAdj": 0.96,
-      "dynastyAdj": 1.0,
-      "status": "Questionable"
-    },
-    {
-      "sleeperId": "12487",
-      "name": "Terrance Ferguson",
-      "note": "Ferguson (ankle) is still on IR on Sleeper as of Nov 23. Sean McVay said on Nov 14 that he would miss 'another couple weeks', so Week 12 is the earliest he could return.",
-      "tag": "injury",
-      "redraftAdj": 0.85,
-      "dynastyAdj": 0.98,
-      "status": "IR"
-    },
-    {
-      "sleeperId": "3214",
-      "name": "Hunter Henry",
-      "note": "Drake Maye (fractured fibula, per NFL.com on Nov 15) is expected to miss significant time, which leaves Tommy DeVito at QB after the Patriots' Week 11 bye. That lowers Henry's ceiling the rest of the way.",
-      "tag": "role_down",
-      "redraftAdj": 0.9,
-      "dynastyAdj": 0.98,
-      "status": ""
-    },
-    {
-      "sleeperId": "5844",
-      "name": "T.J. Hockenson",
-      "note": "In his Week 11 return on Nov 22, Hockenson caught 6 of 7 targets for 55 yards, but he played only 34 of 67 snaps. Jordan Addison is out after thumb surgery, which should keep his target share strong once his snaps ramp up.",
-      "tag": "return",
-      "redraftAdj": 1.03,
-      "dynastyAdj": 1.0,
-      "status": ""
-    },
-    {
-      "sleeperId": "13301",
-      "name": "Antonio Williams",
-      "note": "Williams led Washington with 11 targets and caught 9 of them for 122 yards vs. Cincinnati on Monday Night Football (Nov 23). That was the most targets of any pass-catcher in the game, and it points to a growing role.",
-      "tag": "role_up",
-      "redraftAdj": 1.08,
-      "dynastyAdj": 1.03,
-      "status": ""
-    },
-    {
-      "sleeperId": "5859",
-      "name": "A.J. Brown",
-      "note": "Brown (hamstring, hurt Nov 15) is still listed out as of Nov 24, and no new timeline has been reported. Mike Vrabel said last week he did not expect Brown to be available coming out of the Week 11 bye, which puts Week 12 at the Chargers in doubt.",
-      "tag": "injury",
-      "redraftAdj": 0.85,
-      "dynastyAdj": 0.99,
-      "status": "Out"
-    },
-    {
-      "sleeperId": "6803",
-      "name": "Brandon Aiyuk",
-      "tag": "rumor",
-      "redraftAdj": 1,
-      "dynastyAdj": 1,
-      "status": "",
-      "auto": true,
-      "note": "Sleeper shows he was released by SF as of 1:12 PM PT Nov 24; check his new role."
-    },
-    {
-      "sleeperId": "13380",
-      "name": "Brenen Thompson",
-      "note": "Thompson (hamstring) has missed four straight games, including Week 11 on Nov 22. He was still listed out as of Nov 24.",
-      "tag": "injury",
-      "redraftAdj": 0.88,
-      "dynastyAdj": 1.0,
-      "status": "Out"
-    },
-    {
-      "sleeperId": "8112",
-      "name": "Drake London",
-      "note": "Sleeper still lists London questionable (head) as of Nov 24, coming out of Atlanta's Week 11 bye. Reports say he was cleared after a concussion check, but watch the practice reports this week ahead of Week 12 at Minnesota.",
-      "tag": "injury",
-      "redraftAdj": 0.95,
-      "dynastyAdj": 1.0,
-      "status": "Questionable"
-    },
-    {
-      "sleeperId": "13274",
-      "name": "Germie Bernard",
-      "note": "Bernard played 67 of 71 snaps at Philadelphia on Nov 22 and caught 6 of 10 targets for 40 yards. DK Metcalf managed only 1 catch for 2 yards in the same game.",
-      "tag": "role_up",
-      "redraftAdj": 1.06,
-      "dynastyAdj": 1.02,
-      "status": ""
-    },
-    {
-      "sleeperId": "5846",
-      "name": "DK Metcalf",
-      "note": "Metcalf played through a questionable tag on Nov 22 but caught just 1 of 4 targets for 2 yards on 44 of 71 snaps. Rookie Germie Bernard drew 10 targets in that game.",
-      "tag": "role_down",
-      "redraftAdj": 0.94,
-      "dynastyAdj": 0.99,
-      "status": ""
-    },
-    {
-      "sleeperId": "13293",
-      "name": "Ja'Kobi Lane",
-      "note": "Lane played 33 of 65 snaps in Week 11 on Nov 22 but did not draw a target. A week earlier he had 11 targets, so his role looks volatile.",
-      "tag": "role_down",
-      "redraftAdj": 0.9,
-      "dynastyAdj": 0.99,
-      "status": ""
-    },
-    {
-      "sleeperId": "13268",
-      "name": "Elijah Sarratt",
-      "note": "Sarratt was a coach's-decision inactive again on Nov 22, his second straight healthy scratch. He has no clear path to playing time without an injury in Baltimore's receiver room.",
-      "tag": "role_down",
-      "redraftAdj": 0.88,
-      "dynastyAdj": 0.95,
-      "status": "Out"
-    },
-    {
-      "sleeperId": "11631",
-      "name": "Brian Thomas Jr.",
-      "note": "Thomas played only 37 of 72 snaps vs. the Giants on Nov 22 and caught 1 of 3 targets for an 18-yard TD. Jakobi Meyers drew 10 targets in the same game.",
-      "tag": "role_down",
-      "redraftAdj": 0.95,
-      "dynastyAdj": 0.99,
-      "status": ""
-    },
-    {
-      "sleeperId": "2133",
-      "name": "Davante Adams",
-      "note": "Adams (hamstring surgery in late October) is still on IR, with no designation to return reported as of Nov 24. McVay had said he expected Adams back at the shorter end of a 6-10 week timeline, which puts a possible return around Weeks 12-13.",
-      "tag": "injury",
-      "redraftAdj": 0.45,
-      "dynastyAdj": 0.92,
-      "status": "IR"
-    },
-    {
-      "sleeperId": "8142",
-      "name": "Alec Pierce",
-      "note": "Pierce (heel) remains on IR and did not play in Week 11. On Nov 11, Shane Steichen said he was unsure whether Pierce will return in 2026.",
-      "tag": "injury",
-      "redraftAdj": 0.5,
-      "dynastyAdj": 0.98,
-      "status": "IR"
-    },
-    {
-      "sleeperId": "13311",
-      "name": "Chris Bell",
-      "note": "Bell played through a chest injury on Nov 22 but caught just 1 of 4 targets for 8 yards. He is still listed questionable (chest) as of Nov 24.",
-      "tag": "injury",
-      "redraftAdj": 0.94,
-      "dynastyAdj": 1.0,
-      "status": "Questionable"
-    },
-    {
-      "sleeperId": "4983",
-      "name": "DJ Moore",
-      "note": "Moore played through a questionable (knee) tag in Week 11 on Nov 22 and caught 8 of 10 targets for 91 yards and a TD. Sleeper still lists him questionable as of Nov 24.",
-      "tag": "injury",
-      "redraftAdj": 0.98,
-      "dynastyAdj": 1.0,
-      "status": "Questionable"
-    },
-    {
-      "sleeperId": "11646",
-      "name": "Jalen Coker",
-      "note": "Coker played 60 of 71 snaps in Week 11 on Nov 22 despite a questionable (undisclosed) tag, catching 4 of 7 targets for 47 yards. He is still listed questionable as of Nov 24.",
-      "tag": "injury",
-      "redraftAdj": 0.98,
-      "dynastyAdj": 1.0,
-      "status": "Questionable"
-    },
-    {
-      "sleeperId": "9756",
-      "name": "Jordan Addison",
-      "note": "Addison (thumb surgery) missed Week 11. Week 12 reports on Nov 24 say he is recovering well but is unlikely to play this week, and Tai Felton has been taking his targets.",
-      "tag": "injury",
-      "redraftAdj": 0.65,
-      "dynastyAdj": 0.99,
-      "status": "Out"
-    },
-    {
-      "sleeperId": "11628",
-      "name": "Marvin Harrison Jr.",
-      "note": "Harrison (hamstring) missed Week 11, and Week 12 injury lists as of Nov 24 still have him out. Yahoo has named him a drop candidate.",
-      "tag": "injury",
-      "redraftAdj": 0.8,
-      "dynastyAdj": 1.0,
-      "status": "Out"
-    },
-    {
-      "sleeperId": "6819",
-      "name": "Michael Pittman Jr.",
-      "note": "Pittman (foot, IR) is trending toward activation. Mike McCarthy said this week he is 'very confident' Pittman returns for Week 12 vs. Denver.",
-      "tag": "return",
-      "redraftAdj": 1.15,
-      "dynastyAdj": 1.0,
-      "status": "IR"
-    },
-    {
-      "sleeperId": "11630",
-      "name": "Roman Wilson",
-      "note": "Wilson played about 48 snaps in his first game back from IR on Nov 22 at Philadelphia, catching 3 of 6 targets for 43 yards. Michael Pittman Jr. is expected back from IR in Week 12, which would likely cut into Wilson's role.",
-      "tag": "role_down",
-      "redraftAdj": 0.95,
-      "dynastyAdj": 1.0,
-      "status": ""
-    },
-    {
-      "sleeperId": "8121",
-      "name": "Romeo Doubs",
-      "note": "Doubs (shoulder, IR) could return to practice this week, per Week 12 reports on Nov 24. A.J. Brown (hamstring) is doubtful, so Doubs could step into a larger role once he is activated.",
-      "tag": "return",
-      "redraftAdj": 1.05,
-      "dynastyAdj": 0.99,
-      "status": "IR"
-    },
-    {
-      "sleeperId": "9493",
-      "name": "Puka Nacua",
-      "note": "Nacua had MCL surgery the week of Nov 17 and is expected to miss the rest of the regular season. He is also serving a three-game suspension.",
-      "tag": "injury",
-      "redraftAdj": 0.1,
-      "dynastyAdj": 0.95,
-      "status": "IR"
-    },
-    {
-      "sleeperId": "10232",
-      "name": "Michael Wilson",
-      "note": "Wilson is out for the season after a back/neck fracture suffered Nov 8 vs. Seattle. Harrison Wallace III led Arizona's wideouts in Week 11.",
-      "tag": "injury",
-      "redraftAdj": 0,
-      "dynastyAdj": 0.95,
-      "status": "IR"
-    },
-    {
-      "sleeperId": "5927",
-      "name": "Terry McLaurin",
-      "note": "McLaurin is out for the 2026 season after tearing his left patellar tendon on Oct 19. Rookie Antonio Williams (9-122 on MNF Nov 23) has emerged as Washington's top receiver.",
-      "tag": "injury",
-      "redraftAdj": 0,
-      "dynastyAdj": 0.85,
-      "status": "IR"
-    },
-    {
-      "sleeperId": "13276",
-      "name": "Omar Cooper Jr.",
-      "note": "Cooper (ankle/hip) missed the Jets' Nov 22 win over the Chargers. It was his third ankle injury this year, and he could miss multiple weeks.",
-      "tag": "injury",
-      "redraftAdj": 0.75,
-      "dynastyAdj": 0.98,
-      "status": "Out"
-    },
-    {
-      "sleeperId": "13320",
-      "name": "Zachariah Branch",
-      "note": "Branch (hamstring, Week 8) had not been reported practicing as of Nov 20. Atlanta's Week 11 bye gave him extra recovery time, and his Week 12 status depends on this week's practices.",
-      "tag": "injury",
-      "redraftAdj": 0.85,
-      "dynastyAdj": 1.0,
-      "status": "Out"
-    },
-    {
-      "sleeperId": "3321",
-      "name": "Tyreek Hill",
-      "note": "As of Nov 24, Hill is still unsigned and has not been medically cleared from his knee injury. Suitors are reportedly waiting for clearance.",
-      "tag": "role_down",
-      "redraftAdj": 0.85,
-      "dynastyAdj": 0.97,
-      "status": ""
-    },
-    {
-      "sleeperId": "11635",
-      "name": "Ladd McConkey",
-      "note": "McConkey returned from a back injury on Nov 22 in a full-time role (5-37-2 on 8 targets vs. the Jets). Justin Herbert's concussion status headlines the Week 12 injury reports and clouds the outlook vs. New England.",
-      "tag": "return",
-      "redraftAdj": 1.03,
-      "dynastyAdj": 1.0,
-      "status": ""
-    },
-    {
-      "sleeperId": "12509",
-      "name": "Tre' Harris",
-      "note": "With McConkey back full-time on Nov 22, Harris fell to 2 catches for 28 yards on 2 targets vs. the Jets. Justin Herbert is also in the concussion protocol.",
-      "tag": "role_down",
-      "redraftAdj": 0.88,
-      "dynastyAdj": 0.99,
-      "status": ""
-    },
-    {
-      "sleeperId": "2216",
-      "name": "Mike Evans",
-      "note": "Evans returned from Achilles tendinitis on Nov 22 after missing three games. He caught 6 of 7 targets for 109 yards and a TD vs. Minnesota on just 23 snaps.",
-      "tag": "return",
-      "redraftAdj": 1.06,
-      "dynastyAdj": 1.0,
-      "status": ""
-    },
-    {
-      "sleeperId": "1479",
-      "name": "Keenan Allen",
-      "note": "With Mike Evans back on Nov 22, Allen was held to 3 catches for 38 yards on 4 targets vs. Minnesota, so his fill-in role is shrinking.",
-      "tag": "role_down",
-      "redraftAdj": 0.92,
-      "dynastyAdj": 0.99,
-      "status": ""
-    },
-    {
-      "sleeperId": "13281",
-      "name": "Jordyn Tyson",
-      "note": "Tyson was held to 1 catch for 6 yards on 2 targets (36 snaps) at Chicago on Nov 22. Kellen Moore blamed personnel sequencing for keeping him off the field, and Chris Olave drew 15 targets.",
-      "tag": "role_down",
-      "redraftAdj": 0.94,
-      "dynastyAdj": 1.0,
-      "status": ""
-    },
-    {
-      "sleeperId": "13294",
-      "name": "Makai Lemon",
-      "note": "With DeVonta Smith back on Nov 22, Lemon managed 1 catch for 3 yards on 3 targets vs. Pittsburgh. His fill-in WR1 volume is gone.",
-      "tag": "role_down",
-      "redraftAdj": 0.85,
-      "dynastyAdj": 0.99,
-      "status": ""
-    },
-    {
-      "sleeperId": "12492",
-      "name": "Pat Bryant",
-      "note": "With Jaylen Waddle back from his concussion on Nov 22, Bryant slipped to 3 catches for 32 yards on 4 targets vs. Las Vegas.",
-      "tag": "role_down",
-      "redraftAdj": 0.92,
-      "dynastyAdj": 1.0,
-      "status": ""
-    },
-    {
-      "sleeperId": "13402",
-      "name": "Skyler Bell",
-      "note": "Bell was a coach's-decision inactive for Week 11 vs. Miami on Nov 22, which leaves him outside Buffalo's receiver rotation for now.",
-      "tag": "role_down",
-      "redraftAdj": 0.85,
-      "dynastyAdj": 0.98,
-      "status": "Out"
-    },
-    {
-      "sleeperId": "9487",
-      "name": "Parker Washington",
-      "note": "Washington drew 17 targets at the Giants on Nov 22, catching 8 for 103 yards, which cements his lead role in Jacksonville's injury-thinned receiver room.",
-      "tag": "role_up",
-      "redraftAdj": 1.08,
-      "dynastyAdj": 1.02,
-      "status": ""
-    },
-    {
-      "sleeperId": "13317",
-      "name": "Ted Hurst III",
-      "note": "Hurst caught 5 of 7 targets for 56 yards and two TDs on Nov 22, out-targeting Emeka Egbuka. He is a popular Week 12 waiver add, and analysts call Tampa Bay's receiver pecking order wide open.",
-      "tag": "role_up",
-      "redraftAdj": 1.06,
-      "dynastyAdj": 1.02,
-      "status": ""
-    },
-    {
-      "sleeperId": "2449",
-      "name": "Stefon Diggs",
-      "note": "Diggs caught 4 of 6 targets for 45 yards in the 22-20 MNF win over Cincinnati on Nov 23. Rookie Antonio Williams (9-122) led Washington's receivers and set up the winning field goal.",
-      "tag": "role_down",
-      "redraftAdj": 0.95,
-      "dynastyAdj": 0.98,
-      "status": ""
-    },
-    {
-      "sleeperId": "13346",
-      "name": "Denzel Boston",
-      "note": "Sleeper now lists him questionable (toe) as of 1:12 PM PT Nov 24.",
-      "tag": "injury",
-      "redraftAdj": 0.98,
-      "dynastyAdj": 1.0,
-      "status": "Questionable",
-      "auto": true
-    },
-    {
-      "auto": true,
-      "dynastyAdj": 1.0,
-      "name": "Jordan James",
-      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 6:45 PM PT Nov 22. Earlier: James (calf) is questionable for Sunday's game vs. Minnesota in Mexico City after limited practices Thursday and Friday (Nov. 19-20). His recent role has been mostly kick returns.",
-      "redraftAdj": 1.0,
-      "sleeperId": "12467",
-      "status": null,
-      "tag": "injury"
-    },
-    {
-      "auto": true,
-      "dynastyAdj": 1.0,
-      "name": "Carnell Tate",
-      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 1:47 PM PT Nov 22. Earlier: Tate (shoulder) was limited in practice Nov 18-19 and reportedly is tracking toward a Week 11 return at Dallas after missing Weeks 8 and 10. He is still questionable, so check inactives before the 10 AM PT kickoff.",
-      "redraftAdj": 1.0,
-      "sleeperId": "13279",
-      "status": null,
-      "tag": "injury"
-    },
-    {
-      "auto": true,
-      "dynastyAdj": 1.0,
-      "name": "Nicholas Singleton",
-      "note": "Sleeper now lists him out (coach's decision) as of 1:47 PM PT Nov 22.",
-      "redraftAdj": 0.9,
-      "sleeperId": "13288",
-      "status": "Out",
-      "tag": "injury"
-    },
-    {
-      "auto": true,
-      "dynastyAdj": 1.0,
-      "name": "Drew Allar",
-      "note": "Sleeper now lists him out (coach's decision) as of 1:47 PM PT Nov 22.",
-      "redraftAdj": 0.9,
-      "sleeperId": "13289",
-      "status": "Out",
-      "tag": "injury"
-    },
-    {
-      "auto": true,
-      "dynastyAdj": 1.0,
-      "name": "Adam Randall",
-      "note": "Sleeper now lists him out (coach's decision) as of 1:47 PM PT Nov 22.",
-      "redraftAdj": 0.9,
-      "sleeperId": "13302",
-      "status": "Out",
-      "tag": "injury"
-    },
-    {
-      "auto": true,
-      "dynastyAdj": 1.0,
-      "name": "Derrick Henry",
-      "note": "Sleeper now lists him questionable (concussion) as of 1:47 PM PT Nov 22.",
-      "redraftAdj": 0.98,
-      "sleeperId": "3198",
-      "status": "Questionable",
-      "tag": "injury"
-    },
-    {
-      "auto": true,
-      "dynastyAdj": 1.0,
-      "name": "Baker Mayfield",
-      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 1:47 PM PT Nov 22. Earlier: He is officially questionable (foot, right thumb) for Sunday's Nov. 22 game at Detroit after limited practices Thursday and Friday. Ian Rapoport reports he will play, and Tom Pelissero says he is good to go barring a setback.",
-      "redraftAdj": 1.0,
-      "sleeperId": "4892",
-      "status": null,
-      "tag": "injury"
-    },
-    {
-      "auto": true,
-      "dynastyAdj": 0.97,
-      "name": "Dontayvion Wicks",
-      "note": "Sleeper now lists him on injured reserve (ankle) as of 3:17 PM PT Nov 21.",
-      "redraftAdj": 0.7,
-      "sleeperId": "9486",
-      "status": "IR",
-      "tag": "injury"
-    },
-    {
-      "auto": true,
-      "dynastyAdj": 1.0,
-      "name": "Keaton Mitchell",
-      "note": "Sleeper now lists him questionable (back) as of 1:47 PM PT Nov 22.",
-      "redraftAdj": 0.98,
-      "sleeperId": "9511",
-      "status": "Questionable",
-      "tag": "injury"
-    }
-  ],
-  "statusChecked": "8:12 PM PT Nov 24"
+ "updated": "2026-11-25 6:15 AM PT",
+ "players": [
+  {
+   "sleeperId": "6797",
+   "name": "Justin Herbert",
+   "note": "As of Nov. 24 he was still in the concussion protocol after the Nov. 22 loss to the Jets, and Jim Harbaugh said he must clear every step before playing. Betting lines suggest he will miss Nov. 29 vs. New England, with DJ Uiagalelei starting, and some reports raise the chance of a season-ending shutdown.",
+   "tag": "injury",
+   "redraftAdj": 0.7,
+   "dynastyAdj": 0.98,
+   "status": "Questionable"
+  },
+  {
+   "sleeperId": "11564",
+   "name": "Drake Maye",
+   "note": "He reportedly has a fibula fracture in his ankle, suffered Nov. 15 in Munich; it doesn't require surgery, but he is out indefinitely and possibly for the season. Tommy DeVito will start Week 12 vs. the Chargers.",
+   "tag": "injury",
+   "redraftAdj": 0.4,
+   "dynastyAdj": 0.96,
+   "status": "Out"
+  },
+  {
+   "sleeperId": "11292",
+   "name": "Tommy DeVito",
+   "note": "New England is sticking with him as its starter for Week 12 vs. the Chargers on Nov. 29 while Drake Maye (fibula fracture) is out. He went 12-of-24 for 81 yards, 1 TD and 1 INT in relief on Nov. 15.",
+   "tag": "role_up",
+   "redraftAdj": 1.2,
+   "dynastyAdj": 1.03,
+   "status": ""
+  },
+  {
+   "sleeperId": "4943",
+   "name": "Sam Darnold",
+   "note": "On Nov. 23 Mike Macdonald said the plan is for Darnold (quad, ribs) to return and start Nov. 29 vs. the 49ers. Watch this week's practice reports.",
+   "tag": "return",
+   "redraftAdj": 1.15,
+   "dynastyAdj": 1.02,
+   "status": "Questionable"
+  },
+  {
+   "sleeperId": "5854",
+   "name": "Drew Lock",
+   "note": "Sam Darnold is expected to return and start Nov. 29 vs. the 49ers, per Mike Macdonald on Nov. 23, which sends Lock back to the bench.",
+   "tag": "role_down",
+   "redraftAdj": 0.75,
+   "dynastyAdj": 0.97,
+   "status": ""
+  },
+  {
+   "sleeperId": "5849",
+   "name": "Kyler Murray",
+   "note": "Minnesota is still targeting a Nov. 29 return vs. Atlanta from his Grade 2 hamstring strain. No Week 12 practice participation had been confirmed as of Nov. 24.",
+   "tag": "injury",
+   "redraftAdj": 0.85,
+   "dynastyAdj": 0.98,
+   "status": "Questionable"
+  },
+  {
+   "sleeperId": "1166",
+   "name": "Kirk Cousins",
+   "note": "He started Week 11 (235 yards, 0 TD, 1 INT on Nov. 22), but Kyler Murray is targeting a Nov. 29 return vs. Atlanta that would send Cousins back to the bench.",
+   "tag": "role_down",
+   "redraftAdj": 0.8,
+   "dynastyAdj": 0.98,
+   "status": ""
+  },
+  {
+   "sleeperId": "3294",
+   "name": "Dak Prescott",
+   "note": "He hurt his left hand in Week 11, when he had 325 yards and 4 passing TD plus a rushing TD. He practiced in full Monday (Nov. 23) and should be fine for Thanksgiving.",
+   "tag": "injury",
+   "redraftAdj": 0.99,
+   "dynastyAdj": 1.0,
+   "status": ""
+  },
+  {
+   "sleeperId": "4892",
+   "name": "Baker Mayfield",
+   "note": "He played through a foot/ankle injury on Nov. 22 and took several big hits but finished the game, scoring 19.1 PPR points. He is expected to play in Week 12; watch the Wednesday practice report.",
+   "tag": "injury",
+   "redraftAdj": 0.97,
+   "dynastyAdj": 1.0,
+   "status": ""
+  },
+  {
+   "sleeperId": "11566",
+   "name": "Jayden Daniels",
+   "note": "He hurt his left hand on Nov. 23 MNF but returned and led the winning drive. No setback had been reported as of Nov. 24; watch the Week 12 practice reports.",
+   "tag": "injury",
+   "redraftAdj": 0.97,
+   "dynastyAdj": 1.0,
+   "status": ""
+  },
+  {
+   "sleeperId": "5870",
+   "name": "Daniel Jones",
+   "note": "Indianapolis released him Nov. 20, and no signing had been reported as of Nov. 24, so he has no starting role.",
+   "tag": "role_down",
+   "redraftAdj": 0.4,
+   "dynastyAdj": 0.9,
+   "status": ""
+  },
+  {
+   "sleeperId": "4881",
+   "name": "Lamar Jackson",
+   "note": "He remains on IR after surgery on his right thumb, with a reported 6-9 week timeline. Jacoby Brissett is starting.",
+   "tag": "injury",
+   "redraftAdj": 0.2,
+   "dynastyAdj": 0.95,
+   "status": "IR"
+  },
+  {
+   "sleeperId": "3257",
+   "name": "Jacoby Brissett",
+   "note": "He remains Baltimore's starter with Lamar Jackson on IR. He threw for 276 yards, 1 TD and 1 INT on Nov. 22.",
+   "tag": "role_up",
+   "redraftAdj": 1.1,
+   "dynastyAdj": 1.02,
+   "status": ""
+  },
+  {
+   "sleeperId": "6904",
+   "name": "Jalen Hurts",
+   "note": "He remains on IR and is expected to miss the rest of 2026. Joe Milton is starting for Philadelphia.",
+   "tag": "injury",
+   "redraftAdj": 0.2,
+   "dynastyAdj": 0.95,
+   "status": "IR"
+  },
+  {
+   "sleeperId": "11557",
+   "name": "Joe Milton",
+   "note": "He remains the Eagles' starter with Jalen Hurts on IR, but he managed only 141 yards and 0 TD on Nov. 22 ahead of the Thanksgiving game at Dallas.",
+   "tag": "role_up",
+   "redraftAdj": 1.0,
+   "dynastyAdj": 1.0,
+   "status": ""
+  },
+  {
+   "sleeperId": "12508",
+   "name": "Jaxson Dart",
+   "note": "He remains on IR after knee surgery and is expected to miss the rest of the regular season.",
+   "tag": "injury",
+   "redraftAdj": 0.1,
+   "dynastyAdj": 0.95,
+   "status": "IR"
+  },
+  {
+   "sleeperId": "11565",
+   "name": "J.J. McCarthy",
+   "note": "He is starting for the Giants with Jaxson Dart on IR, but he had only 173 passing yards on Nov. 22, and Jameis Winston is taking the goal-line snaps.",
+   "tag": "role_down",
+   "redraftAdj": 0.9,
+   "dynastyAdj": 0.99,
+   "status": ""
+  },
+  {
+   "sleeperId": "8161",
+   "name": "Malik Willis",
+   "note": "He is on IR (groin/core) with an estimated return of Dec. 13, and surgery isn't expected. He should reclaim the job from Kyle McCord when healthy.",
+   "tag": "injury",
+   "redraftAdj": 0.35,
+   "dynastyAdj": 0.97,
+   "status": "IR"
+  },
+  {
+   "sleeperId": "12494",
+   "name": "Kyle McCord",
+   "note": "He is starting only while Malik Willis is on IR (estimated return Dec. 13), and he threw for just 102 yards with 0 TD on Nov. 22.",
+   "tag": "role_down",
+   "redraftAdj": 0.8,
+   "dynastyAdj": 0.98,
+   "status": ""
+  },
+  {
+   "sleeperId": "5850",
+   "name": "Josh Jacobs",
+   "note": "Green Bay listed Jacobs (finger) as questionable for tonight's Nov. 25 game at the Rams, but Matt LaFleur said he is not expected to play. Reports say he hasn't progressed past individual conditioning work.",
+   "tag": "injury",
+   "redraftAdj": 0.85,
+   "dynastyAdj": 0.99,
+   "status": "Questionable"
+  },
+  {
+   "sleeperId": "12504",
+   "name": "Kaleb Johnson",
+   "note": "With Josh Jacobs (finger) questionable and not expected to play tonight (Nov. 25) at the Rams, Johnson should lead Green Bay's backfield again, with Pierre Strong Jr. also involved.",
+   "tag": "role_up",
+   "redraftAdj": 1.1,
+   "dynastyAdj": 1.01,
+   "status": ""
+  },
+  {
+   "sleeperId": "8150",
+   "name": "Kyren Williams",
+   "note": "Williams (toe) has no injury designation for tonight's Nov. 25 game vs. Green Bay after practicing fully, so he is set to play. He is still likely to share some work with Blake Corum.",
+   "tag": "injury",
+   "redraftAdj": 1.0,
+   "dynastyAdj": 1.0,
+   "status": ""
+  },
+  {
+   "sleeperId": "4866",
+   "name": "Saquon Barkley",
+   "note": "Barkley (neck/stinger, illness) was upgraded to a full practice Tuesday, Nov. 24, and is expected to play Thursday at Dallas on Thanksgiving.",
+   "tag": "injury",
+   "redraftAdj": 0.98,
+   "dynastyAdj": 0.99,
+   "status": ""
+  },
+  {
+   "sleeperId": "8151",
+   "name": "Kenneth Walker III",
+   "note": "Walker (groin) returned to practice as a limited participant Tuesday, Nov. 24, his first practice since Week 10. Andy Reid wouldn't commit to him playing Thursday vs. Buffalo and said he's 'not anticipating a ton of work.' Game designations come Wednesday.",
+   "tag": "injury",
+   "redraftAdj": 0.85,
+   "dynastyAdj": 0.98,
+   "status": "Questionable"
+  },
+  {
+   "sleeperId": "13337",
+   "name": "Emmett Johnson",
+   "note": "Kenneth Walker III (groin) was only limited Tuesday, Nov. 24, and Andy Reid said he doesn't expect Walker to see a ton of work Thursday vs. Buffalo even if he plays. Johnson should still handle most of the carries after 23 carries for 105 yards and a TD in Week 11.",
+   "tag": "role_up",
+   "redraftAdj": 1.15,
+   "dynastyAdj": 1.07,
+   "status": ""
+  },
+  {
+   "sleeperId": "12474",
+   "name": "Woody Marks",
+   "note": "Reports on Nov. 24 say Marks (concussion) is expected to practice Wednesday and is trending toward playing Sunday vs. Baltimore; DeMeco Ryans is 'hopeful' to have him. He still has to clear the protocol.",
+   "tag": "injury",
+   "redraftAdj": 0.95,
+   "dynastyAdj": 0.99,
+   "status": "Questionable"
+  },
+  {
+   "sleeperId": "3198",
+   "name": "Derrick Henry",
+   "note": "Henry cleared the concussion protocol after the Nov. 22 loss to Carolina, and he's expected to play in Week 12 vs. Houston.",
+   "tag": "return",
+   "redraftAdj": 1.0,
+   "dynastyAdj": 1.0,
+   "status": ""
+  },
+  {
+   "sleeperId": "6806",
+   "name": "J.K. Dobbins",
+   "note": "Denver suspended Dobbins for one game for conduct reasons on Nov. 24, so he'll miss Week 12 vs. Pittsburgh. He had already lost the lead role to Jonah Coleman, with 1 carry on Nov. 22.",
+   "tag": "suspension",
+   "redraftAdj": 0.7,
+   "dynastyAdj": 0.93,
+   "status": "Out"
+  },
+  {
+   "sleeperId": "13345",
+   "name": "Jonah Coleman",
+   "note": "Coleman stays Denver's clear lead back after 24 carries for 111 yards and 3 TDs on Nov. 22, and J.K. Dobbins was suspended one game on Nov. 24. Tyler Badie was activated from IR the same day but is only a depth piece.",
+   "tag": "role_up",
+   "redraftAdj": 1.12,
+   "dynastyAdj": 1.05,
+   "status": ""
+  },
+  {
+   "sleeperId": "12507",
+   "name": "Omarion Hampton",
+   "note": "Hampton has handled 65% and 47% of the Chargers' carries the last two weeks, and backup Keaton Mitchell (knee/back) played two snaps in Week 11 and is uncertain for Week 12 vs. New England. That could push even more work to Hampton.",
+   "tag": "role_up",
+   "redraftAdj": 1.07,
+   "dynastyAdj": 1.01,
+   "status": ""
+  },
+  {
+   "sleeperId": "12495",
+   "name": "Ollie Gordon II",
+   "note": "Gordon is Miami's lead back with De'Von Achane out for the season (ACL). Jeff Hafley said this week that Jaylen Wright aggravated an injury, which leaves Kaytron Allen as the main other back.",
+   "tag": "role_up",
+   "redraftAdj": 1.05,
+   "dynastyAdj": 1.02,
+   "status": ""
+  },
+  {
+   "sleeperId": "12490",
+   "name": "Bhayshul Tuten",
+   "note": "Liam Coen said Nov. 23 that Tuten's ankle re-aggravation 'wasn't too bad,' but reports say Jacksonville may want to protect him for the playoff push. Wednesday's practice report ahead of Sunday's game vs. Tennessee is the key update.",
+   "tag": "injury",
+   "redraftAdj": 0.92,
+   "dynastyAdj": 0.99,
+   "status": "Questionable"
+  },
+  {
+   "sleeperId": "10219",
+   "name": "Chris Rodriguez Jr.",
+   "note": "He's a top Week 12 waiver add as Bhayshul Tuten's (ankle) backup, and he would lead the Jaguars' backfield vs. Tennessee if Tuten sits. Coen called Tuten's re-aggravation 'not too bad' on Nov. 23.",
+   "tag": "role_up",
+   "redraftAdj": 1.05,
+   "dynastyAdj": 1.0,
+   "status": ""
+  },
+  {
+   "sleeperId": "12533",
+   "name": "Jacory Croskey-Merritt",
+   "note": "Washington activated Croskey-Merritt (groin) from IR on Nov. 23, and he led the backfield in that night's win over Cincinnati with 13 carries for 54 yards and a TD plus 2 catches for 23 yards.",
+   "tag": "return",
+   "redraftAdj": 1.15,
+   "dynastyAdj": 1.04,
+   "status": ""
+  },
+  {
+   "sleeperId": "8136",
+   "name": "Rachaad White",
+   "note": "White was active Nov. 23 vs. Cincinnati but had no carries or catches, while Jacory Croskey-Merritt handled 13 carries. His fantasy role has dried up.",
+   "tag": "role_down",
+   "redraftAdj": 0.72,
+   "dynastyAdj": 0.95,
+   "status": ""
+  },
+  {
+   "sleeperId": "9224",
+   "name": "Chase Brown",
+   "note": "Brown had 6 carries for 6 yards and 5 catches for 30 yards in the Nov. 23 loss at Washington, while Samaje Perine was more productive. That raises the risk of a committee.",
+   "tag": "role_down",
+   "redraftAdj": 0.88,
+   "dynastyAdj": 0.97,
+   "status": ""
+  },
+  {
+   "sleeperId": "4147",
+   "name": "Samaje Perine",
+   "note": "Perine out-produced Chase Brown on Nov. 23 with 6 carries for 26 yards and 4 catches for 71 yards on roughly half the snaps.",
+   "tag": "role_up",
+   "redraftAdj": 1.1,
+   "dynastyAdj": 1.02,
+   "status": ""
+  },
+  {
+   "sleeperId": "12469",
+   "name": "Dylan Sampson",
+   "note": "Sampson has out-snapped Quinshon Judkins in three straight games, so Cleveland's backfield is now a 50-50 committee. Raheim Sanders was also activated from IR on Nov. 24, adding depth.",
+   "tag": "role_up",
+   "redraftAdj": 1.08,
+   "dynastyAdj": 1.03,
+   "status": ""
+  },
+  {
+   "sleeperId": "12512",
+   "name": "Quinshon Judkins",
+   "note": "Dylan Sampson has out-snapped Judkins in three straight games, so Cleveland's backfield is roughly a 50-50 committee and Judkins' weekly ceiling is lower.",
+   "tag": "role_down",
+   "redraftAdj": 0.88,
+   "dynastyAdj": 0.97,
+   "status": ""
+  },
+  {
+   "sleeperId": "5892",
+   "name": "David Montgomery",
+   "note": "Montgomery took 26 carries for 107 yards in his Week 11 return, but Woody Marks (concussion) is trending toward playing Week 12 vs. Baltimore per Nov. 24 reports, which would likely cut into his workload.",
+   "tag": "role_down",
+   "redraftAdj": 0.97,
+   "dynastyAdj": 1.0,
+   "status": ""
+  },
+  {
+   "sleeperId": "5967",
+   "name": "Tony Pollard",
+   "note": "With Tyjae Spears on IR since Nov. 21, Pollard had 21 carries for 110 yards in Week 11 and is set for a heavy workload vs. Jacksonville.",
+   "tag": "role_up",
+   "redraftAdj": 1.1,
+   "dynastyAdj": 1.0,
+   "status": ""
+  },
+  {
+   "sleeperId": "4035",
+   "name": "Alvin Kamara",
+   "note": "Kamara played 8 of 72 snaps on Nov. 22 with 1 carry, while Travis Etienne Jr. took 14 carries. He has been reduced to a change-of-pace role.",
+   "tag": "role_down",
+   "redraftAdj": 0.78,
+   "dynastyAdj": 0.94,
+   "status": ""
+  },
+  {
+   "sleeperId": "7543",
+   "name": "Travis Etienne Jr.",
+   "note": "Etienne led New Orleans with 14 carries for 76 yards on Nov. 22, while Alvin Kamara got 1 carry, making him the Saints' early-down back.",
+   "tag": "role_up",
+   "redraftAdj": 1.1,
+   "dynastyAdj": 1.02,
+   "status": ""
+  },
+  {
+   "sleeperId": "5995",
+   "name": "Justice Hill",
+   "note": "Hill had 6 carries for 69 yards and a TD plus 4 catches on Nov. 22 and has 23 targets over Baltimore's last four games. Derrick Henry has cleared the concussion protocol, which caps Hill's rushing upside.",
+   "tag": "role_up",
+   "redraftAdj": 1.05,
+   "dynastyAdj": 1.01,
+   "status": ""
+  },
+  {
+   "sleeperId": "13287",
+   "name": "Jeremiyah Love",
+   "note": "A Nov. 23 update says Love (high ankle sprain, IR since Nov. 3) will miss at least one more game; Week 13 is the earliest he could be activated.",
+   "tag": "injury",
+   "redraftAdj": 0.92,
+   "dynastyAdj": 0.99,
+   "status": "IR"
+  },
+  {
+   "sleeperId": "12487",
+   "name": "Terrance Ferguson",
+   "note": "Sean McVay said on Nov 23 that Ferguson will not be activated from IR as planned. His ankle has not responded, and he needs season-ending surgery. Tyler Higbee, Colby Parkinson, Davis Allen and Max Klare will keep handling the Rams' TE work.",
+   "tag": "injury",
+   "redraftAdj": 0,
+   "dynastyAdj": 0.96,
+   "status": "IR"
+  },
+  {
+   "sleeperId": "10236",
+   "name": "Dalton Kincaid",
+   "note": "Kincaid (thumb) was estimated as limited on Monday and Tuesday ahead of Thursday's Week 12 game against the Chiefs, and reports call him 'most likely' to play. He missed Week 11.",
+   "tag": "injury",
+   "redraftAdj": 0.95,
+   "dynastyAdj": 1.0,
+   "status": "Questionable"
+  },
+  {
+   "sleeperId": "10859",
+   "name": "Sam LaPorta",
+   "note": "LaPorta (ankle) was upgraded from limited to a full practice on Tuesday, Nov 24 (an estimate from a walkthrough). He looks on track to play against the Bears on Thanksgiving.",
+   "tag": "injury",
+   "redraftAdj": 1.0,
+   "dynastyAdj": 1.0,
+   "status": ""
+  },
+  {
+   "sleeperId": "5022",
+   "name": "Dallas Goedert",
+   "note": "Goedert (shin) was upgraded to full on the Eagles' Tuesday, Nov 24 estimated report, and the team expects him to play against the Cowboys on Thanksgiving. He drew only 1 target in Week 11.",
+   "tag": "injury",
+   "redraftAdj": 0.98,
+   "dynastyAdj": 1.0,
+   "status": ""
+  },
+  {
+   "sleeperId": "11604",
+   "name": "Brock Bowers",
+   "note": "Bowers (ankle/quad) missed Week 11. As of Nov 23-24 reports, the Raiders are optimistic he can return in Week 12, but he will need to show he is healthy at practice this week.",
+   "tag": "injury",
+   "redraftAdj": 0.92,
+   "dynastyAdj": 1.0,
+   "status": "Questionable"
+  },
+  {
+   "sleeperId": "7002",
+   "name": "Juwan Johnson",
+   "note": "Johnson's hamstring injury was still under additional evaluation in Nov 23 reports, after he played only 27 of 72 snaps in Week 11 with 1 target. He remains questionable for Week 12.",
+   "tag": "injury",
+   "redraftAdj": 0.9,
+   "dynastyAdj": 0.99,
+   "status": "Questionable"
+  },
+  {
+   "sleeperId": "3214",
+   "name": "Hunter Henry",
+   "note": "Drake Maye (fractured fibula) is expected to miss significant time, so Tommy DeVito starts at QB for the Patriots coming out of their Week 11 bye. That lowers Henry's ceiling.",
+   "tag": "role_down",
+   "redraftAdj": 0.9,
+   "dynastyAdj": 0.98,
+   "status": ""
+  },
+  {
+   "sleeperId": "5844",
+   "name": "T.J. Hockenson",
+   "note": "In his Week 11 return on Nov 22, Hockenson caught 6 of 7 targets for 55 yards on 34 of 67 snaps. With Jordan Addison out after thumb surgery, his target share should stay strong as his snaps ramp up.",
+   "tag": "return",
+   "redraftAdj": 1.03,
+   "dynastyAdj": 1.0,
+   "status": ""
+  },
+  {
+   "sleeperId": "6803",
+   "name": "Brandon Aiyuk",
+   "note": "The 49ers released him and he cleared waivers on Nov 24. He has not signed anywhere yet, but his agent says he visits Washington on Nov 25 and is expected to work out there. He has not played since his October 2024 knee injury, and reports suggest any deal this season could start on a practice squad.",
+   "tag": "role_down",
+   "redraftAdj": 0.85,
+   "dynastyAdj": 0.96,
+   "status": ""
+  },
+  {
+   "sleeperId": "13301",
+   "name": "Antonio Williams",
+   "note": "He had 9 catches for 122 yards on a team-high 11 targets in the Nov 23 MNF win over Cincinnati. Washington hosts free agent Brandon Aiyuk for a visit and workout on Nov 25, so watch whether Aiyuk signs and adds receiver competition.",
+   "tag": "role_up",
+   "redraftAdj": 1.05,
+   "dynastyAdj": 1.02,
+   "status": ""
+  },
+  {
+   "sleeperId": "5859",
+   "name": "A.J. Brown",
+   "note": "Sleeper now lists him doubtful (hamstring) for Week 12 at the Chargers on Nov 29. ESPN's Schefter reported he is expected to miss multiple weeks, and Vrabel said Tommy DeVito will start at QB in Week 12.",
+   "tag": "injury",
+   "redraftAdj": 0.8,
+   "dynastyAdj": 0.99,
+   "status": "Doubtful"
+  },
+  {
+   "sleeperId": "2133",
+   "name": "Davante Adams",
+   "note": "Reports at the start of Week 12 say his practice window has not been opened, so he remains on IR as of Nov 24-25. That makes a Week 12 return unlikely, after McVay had pointed to the short end of a 6-10 week timeline following his late-October hamstring surgery.",
+   "tag": "injury",
+   "redraftAdj": 0.45,
+   "dynastyAdj": 0.92,
+   "status": "IR"
+  },
+  {
+   "sleeperId": "13380",
+   "name": "Brenen Thompson",
+   "note": "Sleeper upgraded him from out to questionable (hamstring) as of Nov 25, after he missed four straight games. That points to a possible return in Week 12 vs. New England, but the week's practice reports will decide it.",
+   "tag": "return",
+   "redraftAdj": 0.95,
+   "dynastyAdj": 1.0,
+   "status": "Questionable"
+  },
+  {
+   "sleeperId": "8112",
+   "name": "Drake London",
+   "note": "Sleeper has dropped his questionable (head) tag as of Nov 25, after reports said he cleared a concussion check during Atlanta's Week 11 bye. He looks on track for Week 12 at Minnesota.",
+   "tag": "return",
+   "redraftAdj": 1.0,
+   "dynastyAdj": 1.0,
+   "status": ""
+  },
+  {
+   "sleeperId": "4983",
+   "name": "DJ Moore",
+   "note": "He was left off Buffalo's first Week 12 injury report (week of Nov 24), so his knee/leg issue no longer looks like a concern. That follows 8 catches for 91 yards and a TD in Week 11.",
+   "tag": "return",
+   "redraftAdj": 1.0,
+   "dynastyAdj": 1.0,
+   "status": ""
+  },
+  {
+   "sleeperId": "13296",
+   "name": "Caleb Douglas",
+   "note": "He drew 10 targets in Week 11 but caught only 2 of them, his third straight game with 8 or more targets. NFL.com listed him among the top Week 12 waiver targets on Nov 24.",
+   "tag": "role_up",
+   "redraftAdj": 1.08,
+   "dynastyAdj": 1.03,
+   "status": ""
+  },
+  {
+   "sleeperId": "11625",
+   "name": "Adonai Mitchell",
+   "note": "Omar Cooper Jr. (ankle) missed Week 11 and his status for Week 12 is in doubt, which leaves Mitchell as the Jets' WR2. Isaiah Williams is also out.",
+   "tag": "role_up",
+   "redraftAdj": 1.05,
+   "dynastyAdj": 1.01,
+   "status": ""
+  },
+  {
+   "sleeperId": "8167",
+   "name": "Christian Watson",
+   "note": "Footballguys lists Jayden Reed (neck) out for Green Bay's Nov 25 game at the Rams. That should mean more targets for Watson.",
+   "tag": "role_up",
+   "redraftAdj": 1.04,
+   "dynastyAdj": 1.0,
+   "status": ""
+  },
+  {
+   "sleeperId": "12483",
+   "name": "Jack Bech",
+   "note": "On Nov 24, NBC Sports recommended stashing him as a pickup in case Brock Bowers' ankle injury keeps Bowers out longer. Bech has been trending up in Las Vegas.",
+   "tag": "role_up",
+   "redraftAdj": 1.04,
+   "dynastyAdj": 1.02,
+   "status": ""
+  },
+  {
+   "sleeperId": "11646",
+   "name": "Jalen Coker",
+   "note": "Sleeper no longer lists him questionable as of Nov 25. NBC Sports noted on Nov 24 that he has been the WR67 in fantasy points per game since Week 3 and faces the toughest remaining schedule among receivers.",
+   "tag": "role_down",
+   "redraftAdj": 0.95,
+   "dynastyAdj": 0.99,
+   "status": ""
+  },
+  {
+   "sleeperId": "13274",
+   "name": "Germie Bernard",
+   "note": "He played 67 of 71 snaps on Nov 22 at Philadelphia and caught 6 of 10 targets for 40 yards, while DK Metcalf had just 1 catch. Bernard's role is growing.",
+   "tag": "role_up",
+   "redraftAdj": 1.06,
+   "dynastyAdj": 1.02,
+   "status": ""
+  },
+  {
+   "sleeperId": "5846",
+   "name": "DK Metcalf",
+   "note": "He caught 1 of 4 targets for 2 yards on 44 of 71 snaps on Nov 22, while rookie Germie Bernard drew 10 targets. Roman Wilson was also activated from IR that day, which adds target competition.",
+   "tag": "role_down",
+   "redraftAdj": 0.93,
+   "dynastyAdj": 0.99,
+   "status": ""
+  },
+  {
+   "sleeperId": "11631",
+   "name": "Brian Thomas Jr.",
+   "note": "He played only 37 of 72 snaps vs. the Giants on Nov 22 and caught 1 of 3 targets for an 18-yard TD. Jakobi Meyers drew 10 targets in the same game.",
+   "tag": "role_down",
+   "redraftAdj": 0.95,
+   "dynastyAdj": 0.99,
+   "status": ""
+  },
+  {
+   "sleeperId": "13268",
+   "name": "Elijah Sarratt",
+   "note": "He was a healthy scratch on Nov 22, his second straight coach's-decision inactive. He has no clear path to playing time in Baltimore without an injury.",
+   "tag": "role_down",
+   "redraftAdj": 0.88,
+   "dynastyAdj": 0.95,
+   "status": ""
+  },
+  {
+   "sleeperId": "8142",
+   "name": "Alec Pierce",
+   "note": "He remains on IR (heel). On Nov 11, Shane Steichen said he was unsure whether Pierce would return in 2026.",
+   "tag": "injury",
+   "redraftAdj": 0.5,
+   "dynastyAdj": 0.98,
+   "status": "IR"
+  },
+  {
+   "sleeperId": "13346",
+   "name": "Denzel Boston",
+   "note": "Sleeper still lists him questionable (toe) as of Nov 25, and the injury first appeared on Nov 24. Watch Cleveland's Week 12 practice reports.",
+   "tag": "injury",
+   "redraftAdj": 0.97,
+   "dynastyAdj": 1.0,
+   "status": "Questionable"
+  },
+  {
+   "sleeperId": "9756",
+   "name": "Jordan Addison",
+   "note": "Addison (thumb surgery) missed Week 11. Week 12 reports on Nov 24 say he is recovering well but is unlikely to play this week, and Tai Felton has been taking his targets.",
+   "tag": "injury",
+   "redraftAdj": 0.65,
+   "dynastyAdj": 0.99,
+   "status": "Out"
+  },
+  {
+   "sleeperId": "6819",
+   "name": "Michael Pittman Jr.",
+   "note": "Pittman (foot, IR) is trending toward activation. Mike McCarthy said this week he is 'very confident' Pittman returns for Week 12 vs. Denver.",
+   "tag": "return",
+   "redraftAdj": 1.15,
+   "dynastyAdj": 1.0,
+   "status": "IR"
+  },
+  {
+   "sleeperId": "11630",
+   "name": "Roman Wilson",
+   "note": "Wilson played about 48 snaps in his first game back from IR on Nov 22 at Philadelphia, catching 3 of 6 targets for 43 yards. Michael Pittman Jr. is expected back from IR in Week 12, which would likely cut into Wilson's role.",
+   "tag": "role_down",
+   "redraftAdj": 0.95,
+   "dynastyAdj": 1.0,
+   "status": ""
+  },
+  {
+   "sleeperId": "8121",
+   "name": "Romeo Doubs",
+   "note": "Doubs (shoulder, IR) could return to practice this week, per Week 12 reports on Nov 24. A.J. Brown (hamstring) is doubtful, so Doubs could step into a larger role once he is activated.",
+   "tag": "return",
+   "redraftAdj": 1.05,
+   "dynastyAdj": 0.99,
+   "status": "IR"
+  },
+  {
+   "sleeperId": "10232",
+   "name": "Michael Wilson",
+   "note": "Wilson is out for the season after a back/neck fracture suffered Nov 8 vs. Seattle. Harrison Wallace III led Arizona's wideouts in Week 11.",
+   "tag": "injury",
+   "redraftAdj": 0,
+   "dynastyAdj": 0.95,
+   "status": "IR"
+  },
+  {
+   "sleeperId": "5927",
+   "name": "Terry McLaurin",
+   "note": "McLaurin is out for the 2026 season after tearing his left patellar tendon on Oct 19. Rookie Antonio Williams (9-122 on MNF Nov 23) has emerged as Washington's top receiver.",
+   "tag": "injury",
+   "redraftAdj": 0,
+   "dynastyAdj": 0.85,
+   "status": "IR"
+  },
+  {
+   "sleeperId": "13276",
+   "name": "Omar Cooper Jr.",
+   "note": "Cooper (ankle/hip) missed the Jets' Nov 22 win over the Chargers. It was his third ankle injury this year, and he could miss multiple weeks.",
+   "tag": "injury",
+   "redraftAdj": 0.75,
+   "dynastyAdj": 0.98,
+   "status": "Out"
+  },
+  {
+   "sleeperId": "11635",
+   "name": "Ladd McConkey",
+   "note": "McConkey returned from a back injury on Nov 22 in a full-time role (5-37-2 on 8 targets vs. the Jets). Justin Herbert's concussion status headlines the Week 12 injury reports and clouds the outlook vs. New England.",
+   "tag": "return",
+   "redraftAdj": 1.03,
+   "dynastyAdj": 1.0,
+   "status": ""
+  },
+  {
+   "sleeperId": "12509",
+   "name": "Tre' Harris",
+   "note": "With McConkey back full-time on Nov 22, Harris fell to 2 catches for 28 yards on 2 targets vs. the Jets. Justin Herbert is also in the concussion protocol.",
+   "tag": "role_down",
+   "redraftAdj": 0.88,
+   "dynastyAdj": 0.99,
+   "status": ""
+  },
+  {
+   "sleeperId": "2216",
+   "name": "Mike Evans",
+   "note": "Evans returned from Achilles tendinitis on Nov 22 after missing three games. He caught 6 of 7 targets for 109 yards and a TD vs. Minnesota on just 23 snaps.",
+   "tag": "return",
+   "redraftAdj": 1.06,
+   "dynastyAdj": 1.0,
+   "status": ""
+  },
+  {
+   "sleeperId": "1479",
+   "name": "Keenan Allen",
+   "note": "With Mike Evans back on Nov 22, Allen was held to 3 catches for 38 yards on 4 targets vs. Minnesota, so his fill-in role is shrinking.",
+   "tag": "role_down",
+   "redraftAdj": 0.92,
+   "dynastyAdj": 0.99,
+   "status": ""
+  },
+  {
+   "sleeperId": "13294",
+   "name": "Makai Lemon",
+   "note": "With DeVonta Smith back on Nov 22, Lemon managed 1 catch for 3 yards on 3 targets vs. Pittsburgh. His fill-in WR1 volume is gone.",
+   "tag": "role_down",
+   "redraftAdj": 0.85,
+   "dynastyAdj": 0.99,
+   "status": ""
+  },
+  {
+   "sleeperId": "12492",
+   "name": "Pat Bryant",
+   "note": "With Jaylen Waddle back from his concussion on Nov 22, Bryant slipped to 3 catches for 32 yards on 4 targets vs. Las Vegas.",
+   "tag": "role_down",
+   "redraftAdj": 0.92,
+   "dynastyAdj": 1.0,
+   "status": ""
+  },
+  {
+   "sleeperId": "13402",
+   "name": "Skyler Bell",
+   "note": "Bell was a coach's-decision inactive for Week 11 vs. Miami on Nov 22, which leaves him outside Buffalo's receiver rotation for now.",
+   "tag": "role_down",
+   "redraftAdj": 0.85,
+   "dynastyAdj": 0.98,
+   "status": "Out"
+  },
+  {
+   "sleeperId": "9487",
+   "name": "Parker Washington",
+   "note": "Washington drew 17 targets at the Giants on Nov 22, catching 8 for 103 yards, which cements his lead role in Jacksonville's injury-thinned receiver room.",
+   "tag": "role_up",
+   "redraftAdj": 1.08,
+   "dynastyAdj": 1.02,
+   "status": ""
+  },
+  {
+   "sleeperId": "13317",
+   "name": "Ted Hurst III",
+   "note": "Hurst caught 5 of 7 targets for 56 yards and two TDs on Nov 22, out-targeting Emeka Egbuka. He is a popular Week 12 waiver add, and analysts call Tampa Bay's receiver pecking order wide open.",
+   "tag": "role_up",
+   "redraftAdj": 1.06,
+   "dynastyAdj": 1.02,
+   "status": ""
+  },
+  {
+   "sleeperId": "2449",
+   "name": "Stefon Diggs",
+   "note": "Diggs caught 4 of 6 targets for 45 yards in the 22-20 MNF win over Cincinnati on Nov 23. Rookie Antonio Williams (9-122) led Washington's receivers and set up the winning field goal.",
+   "tag": "role_down",
+   "redraftAdj": 0.95,
+   "dynastyAdj": 0.98,
+   "status": ""
+  },
+  {
+   "sleeperId": "9493",
+   "name": "Puka Nacua",
+   "note": "Week 12 reports on Nov 24 put Nacua's recovery from MCL surgery at four to five months, and Sean McVay said the Rams should plan as though Nacua will not be available. He is also serving a three-game suspension.",
+   "tag": "injury",
+   "redraftAdj": 0.05,
+   "dynastyAdj": 0.95,
+   "status": "IR"
+  },
+  {
+   "sleeperId": "11628",
+   "name": "Marvin Harrison Jr.",
+   "note": "Harrison (hamstring) missed Week 11, and Week 12 reports as of Nov 24 conflict: Footballguys lists him as questionable while Fantasy Index has him out. Tank Dell would see more work if he sits.",
+   "tag": "injury",
+   "redraftAdj": 0.82,
+   "dynastyAdj": 1.0,
+   "status": "Questionable"
+  },
+  {
+   "sleeperId": "13320",
+   "name": "Zachariah Branch",
+   "note": "Branch (hamstring) missed Weeks 9 and 10. Week 12 injury lists as of Nov 24 still show his status as TBD, and no practice return had been reported.",
+   "tag": "injury",
+   "redraftAdj": 0.85,
+   "dynastyAdj": 1.0,
+   "status": "Questionable"
+  },
+  {
+   "sleeperId": "13281",
+   "name": "Jordyn Tyson",
+   "note": "Tyson had 1 catch for 6 yards on 36 snaps at Chicago on Nov 22, and FantasySP named him a Week 12 drop candidate. Kellen Moore blamed personnel sequencing for his limited snaps.",
+   "tag": "role_down",
+   "redraftAdj": 0.92,
+   "dynastyAdj": 0.99,
+   "status": ""
+  },
+  {
+   "sleeperId": "12718",
+   "name": "Konata Mumpfield",
+   "note": "With Puka Nacua out for the season and Davante Adams (IR) unlikely to play in Week 12, Mumpfield is a top beneficiary in the Rams' thin receiver room and a popular waiver add before Wednesday's game vs. Green Bay (Nov 25).",
+   "tag": "role_up",
+   "redraftAdj": 1.1,
+   "dynastyAdj": 1.02,
+   "status": ""
+  },
+  {
+   "sleeperId": "11638",
+   "name": "Ricky Pearsall",
+   "note": "Week 12 injury roundups as of Nov 24 list Pearsall (IR) as out for the season.",
+   "tag": "injury",
+   "redraftAdj": 0,
+   "dynastyAdj": 0.97,
+   "status": "IR"
+  }
+ ],
+ "statusChecked": "8:12 PM PT Nov 24"
 }
