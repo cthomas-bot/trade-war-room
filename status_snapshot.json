@@ -1426,9 +1426,18 @@
    "t": "GB"
   },
   "6806": {
-   "changed": null,
-   "entry": null,
-   "i": null,
+   "changed": "2026-11-25T04:12:44.208186+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 0.95,
+    "name": "J.K. Dobbins",
+    "note": "Sleeper now lists him out (personal) as of 8:12 PM PT Nov 24. Earlier: Dobbins played 1 snap and got 1 carry on Nov. 22 while Jonah Coleman took 24, so he has no fantasy role right now.",
+    "redraftAdj": 0.75,
+    "sleeperId": "6806",
+    "status": "Out",
+    "tag": "injury"
+   },
+   "i": "Out",
    "qb1": null,
    "t": "DEN"
   },
@@ -1687,16 +1696,6 @@
   },
   "8150": {
    "changed": "2026-11-21T23:17:50.915758+00:00",
-   "entry": {
-    "auto": true,
-    "dynastyAdj": 0.96,
-    "name": "Kyren Williams",
-    "note": "Sleeper now lists him questionable (toe) as of 3:17 PM PT Nov 21. Earlier: Williams managed only 12 carries for 23 yards in Week 10 (Nov. 15), and Blake Corum out-carried him on an even snap split. The Rams look like a committee.",
-    "redraftAdj": 0.87,
-    "sleeperId": "8150",
-    "status": "Questionable",
-    "tag": "injury"
-   },
    "i": "Questionable",
    "qb1": null,
    "t": "LAR"
@@ -1814,16 +1813,6 @@
   },
   "9486": {
    "changed": "2026-11-21T23:17:50.915758+00:00",
-   "entry": {
-    "auto": true,
-    "dynastyAdj": 0.97,
-    "name": "Dontayvion Wicks",
-    "note": "Sleeper now lists him on injured reserve (ankle) as of 3:17 PM PT Nov 21.",
-    "redraftAdj": 0.7,
-    "sleeperId": "9486",
-    "status": "IR",
-    "tag": "injury"
-   },
    "i": "IR",
    "qb1": null,
    "t": "PHI"

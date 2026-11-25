@@ -396,11 +396,12 @@
     {
       "sleeperId": "6806",
       "name": "J.K. Dobbins",
-      "note": "Dobbins played 1 snap and got 1 carry on Nov. 22 while Jonah Coleman took 24, so he has no fantasy role right now.",
-      "tag": "role_down",
+      "note": "Sleeper now lists him out (personal) as of 8:12 PM PT Nov 24. Earlier: Dobbins played 1 snap and got 1 carry on Nov. 22 while Jonah Coleman took 24, so he has no fantasy role right now.",
+      "tag": "injury",
       "redraftAdj": 0.75,
       "dynastyAdj": 0.95,
-      "status": ""
+      "status": "Out",
+      "auto": true
     },
     {
       "sleeperId": "4035",
@@ -927,5 +928,5 @@
       "tag": "injury"
     }
   ],
-  "statusChecked": "1:12 PM PT Nov 24"
+  "statusChecked": "8:12 PM PT Nov 24"
 }
