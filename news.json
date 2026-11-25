@@ -216,11 +216,11 @@
     {
       "sleeperId": "8151",
       "name": "Kenneth Walker III",
-      "note": "Sleeper now lists him questionable (groin) as of 6:25 AM PT Nov 25. Earlier: Walker (groin) returned to practice as a limited participant Tuesday, Nov. 24, his first practice since Week 10. Andy Reid wouldn't commit to him playing Thursday vs. Buffalo and said he's 'not anticipating a ton of work.' Game designations come Wednesday.",
+      "note": "Sleeper now lists him out (groin) as of 3:37 PM PT Nov 25.",
       "tag": "injury",
-      "redraftAdj": 0.98,
+      "redraftAdj": 0.9,
       "dynastyAdj": 1.0,
-      "status": "Questionable",
+      "status": "Out",
       "auto": true
     },
     {
@@ -245,21 +245,22 @@
     {
       "sleeperId": "3198",
       "name": "Derrick Henry",
-      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 6:25 AM PT Nov 25. Earlier: Henry cleared the concussion protocol after the Nov. 22 loss to Carolina, and he's expected to play in Week 12 vs. Houston.",
+      "note": "Sleeper now lists him questionable (concussion) as of 3:37 PM PT Nov 25.",
       "tag": "injury",
-      "redraftAdj": 1.0,
+      "redraftAdj": 0.98,
       "dynastyAdj": 1.0,
-      "status": null,
+      "status": "Questionable",
       "auto": true
     },
     {
       "sleeperId": "6806",
       "name": "J.K. Dobbins",
-      "note": "Denver suspended Dobbins for one game for conduct reasons on Nov. 24, so he'll miss Week 12 vs. Pittsburgh. He had already lost the lead role to Jonah Coleman, with 1 carry on Nov. 22.",
-      "tag": "suspension",
+      "note": "Sleeper now lists him suspended (personal) as of 3:37 PM PT Nov 25. Earlier: Denver suspended Dobbins for one game for conduct reasons on Nov. 24, so he'll miss Week 12 vs. Pittsburgh. He had already lost the lead role to Jonah Coleman, with 1 carry on Nov. 22.",
+      "tag": "injury",
       "redraftAdj": 0.7,
       "dynastyAdj": 0.93,
-      "status": "Out"
+      "status": "Out",
+      "auto": true
     },
     {
       "sleeperId": "13345",
@@ -745,11 +746,12 @@
     {
       "sleeperId": "2216",
       "name": "Mike Evans",
-      "note": "Evans returned from Achilles tendinitis on Nov 22 after missing three games. He caught 6 of 7 targets for 109 yards and a TD vs. Minnesota on just 23 snaps.",
-      "tag": "return",
-      "redraftAdj": 1.06,
+      "note": "Sleeper now lists him questionable (achilles) as of 3:37 PM PT Nov 25. Earlier: Evans returned from Achilles tendinitis on Nov 22 after missing three games. He caught 6 of 7 targets for 109 yards and a TD vs. Minnesota on just 23 snaps.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
       "dynastyAdj": 1.0,
-      "status": ""
+      "status": "Questionable",
+      "auto": true
     },
     {
       "sleeperId": "1479",
@@ -809,11 +811,12 @@
     {
       "sleeperId": "2449",
       "name": "Stefon Diggs",
-      "note": "Diggs caught 4 of 6 targets for 45 yards in the 22-20 MNF win over Cincinnati on Nov 23. Rookie Antonio Williams (9-122) led Washington's receivers and set up the winning field goal.",
-      "tag": "role_down",
+      "note": "Sleeper now lists him questionable (personal) as of 3:37 PM PT Nov 25. Earlier: Diggs caught 4 of 6 targets for 45 yards in the 22-20 MNF win over Cincinnati on Nov 23. Rookie Antonio Williams (9-122) led Washington's receivers and set up the winning field goal.",
+      "tag": "injury",
       "redraftAdj": 0.95,
       "dynastyAdj": 0.98,
-      "status": ""
+      "status": "Questionable",
+      "auto": true
     },
     {
       "sleeperId": "9493",
@@ -964,9 +967,9 @@
     {
       "sleeperId": "8110",
       "name": "Jake Ferguson",
-      "note": "Sleeper now lists him doubtful (knee) as of 6:25 AM PT Nov 25.",
+      "note": "Sleeper now lists him out (knee) as of 3:37 PM PT Nov 25.",
       "tag": "injury",
-      "redraftAdj": 0.93,
+      "redraftAdj": 0.9,
       "dynastyAdj": 1.0,
       "status": "Out",
       "auto": true
@@ -1000,7 +1003,87 @@
       "sleeperId": "9511",
       "status": "Questionable",
       "tag": "injury"
+    },
+    {
+      "sleeperId": "12506",
+      "name": "Harold Fannin Jr.",
+      "note": "Sleeper now lists him questionable (groin) as of 3:37 PM PT Nov 25.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
+      "status": "Questionable",
+      "auto": true
+    },
+    {
+      "sleeperId": "12526",
+      "name": "Tetairoa McMillan",
+      "note": "Sleeper now lists him questionable (foot) as of 3:37 PM PT Nov 25.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
+      "status": "Questionable",
+      "auto": true
+    },
+    {
+      "sleeperId": "4972",
+      "name": "Mason Rudolph",
+      "tag": "role_up",
+      "redraftAdj": 1.2,
+      "dynastyAdj": 1.05,
+      "status": null,
+      "auto": true,
+      "note": "Sleeper's depth chart now has him as PIT's starting QB as of 3:37 PM PT Nov 25."
+    },
+    {
+      "sleeperId": "5947",
+      "name": "Jakobi Meyers",
+      "note": "Sleeper now lists him questionable (ankle) as of 3:37 PM PT Nov 25.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
+      "status": "Questionable",
+      "auto": true
+    },
+    {
+      "sleeperId": "7571",
+      "name": "Rashod Bateman",
+      "note": "Sleeper now lists him questionable (groin) as of 3:37 PM PT Nov 25.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
+      "status": "Questionable",
+      "auto": true
+    },
+    {
+      "sleeperId": "8131",
+      "name": "Isaiah Likely",
+      "note": "Sleeper now lists him questionable (groin) as of 3:37 PM PT Nov 25.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
+      "status": "Questionable",
+      "auto": true
+    },
+    {
+      "sleeperId": "8183",
+      "name": "Brock Purdy",
+      "note": "Sleeper now lists him questionable (ankle) as of 3:37 PM PT Nov 25.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
+      "status": "Questionable",
+      "auto": true
+    },
+    {
+      "sleeperId": "9997",
+      "name": "Zay Flowers",
+      "note": "Sleeper now lists him questionable (ankle) as of 3:37 PM PT Nov 25.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
+      "status": "Questionable",
+      "auto": true
     }
   ],
-  "statusChecked": "6:25 AM PT Nov 25"
+  "statusChecked": "3:37 PM PT Nov 25"
 }
