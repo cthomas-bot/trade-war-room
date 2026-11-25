@@ -33,34 +33,34 @@
    "t": "ARI"
   },
   "10236": {
-   "changed": "2026-11-22T21:47:11.637778+00:00",
-   "entry": {
-    "auto": true,
-    "dynastyAdj": 0.99,
-    "name": "Dalton Kincaid",
-    "note": "Sleeper now lists him out (thumb) as of 1:47 PM PT Nov 22. Earlier: Kincaid (thumb/ankle) did not practice all week and is doubtful for Week 11 as of Nov 21. Dawson Knox is expected to lead the Bills' TE room if Kincaid sits.",
-    "redraftAdj": 0.85,
-    "sleeperId": "10236",
-    "status": "Out",
-    "tag": "injury"
-   },
-   "i": "Out",
-   "qb1": null,
-   "t": "BUF"
-  },
-  "10859": {
-   "changed": "2026-11-24T00:51:54.349472+00:00",
+   "changed": "2026-11-25T14:25:45.783978+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 1.0,
-    "name": "Sam LaPorta",
-    "note": "Sleeper now lists him questionable (ankle) as of 4:51 PM PT Nov 23.",
+    "name": "Dalton Kincaid",
+    "note": "Sleeper now lists him questionable (thumb) as of 6:25 AM PT Nov 25. Earlier: Kincaid (thumb) was estimated as limited on Monday and Tuesday ahead of Thursday's Week 12 game against the Chiefs, and reports call him 'most likely' to play. He missed Week 11.",
     "redraftAdj": 0.98,
-    "sleeperId": "10859",
+    "sleeperId": "10236",
     "status": "Questionable",
     "tag": "injury"
    },
    "i": "Questionable",
+   "qb1": null,
+   "t": "BUF"
+  },
+  "10859": {
+   "changed": "2026-11-25T14:25:45.783978+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Sam LaPorta",
+    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 6:25 AM PT Nov 25. Earlier: LaPorta (ankle) was upgraded from limited to a full practice on Tuesday, Nov 24 (an estimate from a walkthrough). He looks on track to play against the Bears on Thanksgiving.",
+    "redraftAdj": 1.0,
+    "sleeperId": "10859",
+    "status": null,
+    "tag": "injury"
+   },
+   "i": null,
    "qb1": null,
    "t": "DET"
   },
@@ -81,8 +81,18 @@
    "t": "NE"
   },
   "11435": {
-   "changed": "2026-11-15T21:03:05.967553+00:00",
-   "i": "Out",
+   "changed": "2026-11-25T14:25:45.783978+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Emanuel Wilson",
+    "note": "Cleared: no longer on Sleeper's injury report (was out) as of 6:25 AM PT Nov 25.",
+    "redraftAdj": 0.98,
+    "sleeperId": "11435",
+    "status": null,
+    "tag": "injury"
+   },
+   "i": null,
    "qb1": null,
    "t": "SEA"
   },
@@ -172,18 +182,18 @@
    "t": "LAR"
   },
   "11604": {
-   "changed": "2026-11-22T21:47:11.637778+00:00",
+   "changed": "2026-11-25T14:25:45.783978+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 1.0,
     "name": "Brock Bowers",
-    "note": "Sleeper now lists him out (ankle) as of 1:47 PM PT Nov 22. Earlier: Bowers (ankle/quad) is questionable for Sunday's 4:25 PM ET game at Denver after limited practices Thursday and Friday (Nov 19-20). Mike Florio reported he is expected to play, but Bowers and Klint Kubiak would not commit, so check the final inactives.",
-    "redraftAdj": 0.9,
+    "note": "Sleeper now lists him questionable (ankle) as of 6:25 AM PT Nov 25. Earlier: Bowers (ankle/quad) missed Week 11. As of Nov 23-24 reports, the Raiders are optimistic he can return in Week 12, but he will need to show he is healthy at practice this week.",
+    "redraftAdj": 0.98,
     "sleeperId": "11604",
-    "status": "Out",
+    "status": "Questionable",
     "tag": "injury"
    },
-   "i": "Out",
+   "i": "Questionable",
    "qb1": null,
    "t": "LV"
   },
@@ -220,8 +230,18 @@
    "t": "NYJ"
   },
   "11628": {
-   "changed": "2026-11-19T02:34:52.153307+00:00",
-   "i": "Out",
+   "changed": "2026-11-25T14:25:45.783978+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Marvin Harrison Jr.",
+    "note": "Sleeper now lists him questionable (hamstring) as of 6:25 AM PT Nov 25. Earlier: Harrison (hamstring) missed Week 11, and Week 12 reports as of Nov 24 conflict: Footballguys lists him as questionable while Fantasy Index has him out. Tank Dell would see more work if he sits.",
+    "redraftAdj": 0.98,
+    "sleeperId": "11628",
+    "status": "Questionable",
+    "tag": "injury"
+   },
+   "i": "Questionable",
    "qb1": null,
    "t": "HOU"
   },
@@ -290,18 +310,18 @@
    "t": "MIA"
   },
   "11646": {
-   "changed": "2026-11-22T21:47:11.637778+00:00",
+   "changed": "2026-11-25T14:25:45.783978+00:00",
    "entry": {
     "auto": true,
-    "dynastyAdj": 1.0,
+    "dynastyAdj": 0.99,
     "name": "Jalen Coker",
-    "note": "Sleeper now lists him questionable (undisclosed) as of 1:47 PM PT Nov 22.",
-    "redraftAdj": 0.98,
+    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 6:25 AM PT Nov 25. Earlier: Sleeper no longer lists him questionable as of Nov 25. NBC Sports noted on Nov 24 that he has been the WR67 in fantasy points per game since Week 3 and faces the toughest remaining schedule among receivers.",
+    "redraftAdj": 1.0,
     "sleeperId": "11646",
-    "status": "Questionable",
+    "status": null,
     "tag": "injury"
    },
-   "i": "Questionable",
+   "i": null,
    "qb1": null,
    "t": "CAR"
   },
@@ -354,8 +374,18 @@
    "t": "CLE"
   },
   "12474": {
-   "changed": "2026-11-19T02:34:52.153307+00:00",
-   "i": "Out",
+   "changed": "2026-11-25T14:25:45.783978+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Woody Marks",
+    "note": "Sleeper now lists him questionable (concussion) as of 6:25 AM PT Nov 25. Earlier: Reports on Nov. 24 say Marks (concussion) is expected to practice Wednesday and is trending toward playing Sunday vs. Baltimore; DeMeco Ryans is 'hopeful' to have him. He still has to clear the protocol.",
+    "redraftAdj": 0.98,
+    "sleeperId": "12474",
+    "status": "Questionable",
+    "tag": "injury"
+   },
+   "i": "Questionable",
    "qb1": null,
    "t": "HOU"
   },
@@ -364,6 +394,11 @@
    "i": null,
    "qb1": null,
    "t": "NYG"
+  },
+  "12483": {
+   "i": null,
+   "qb1": null,
+   "t": "LV"
   },
   "12484": {
    "changed": null,
@@ -565,13 +600,6 @@
    "qb1": null,
    "t": "CHI"
   },
-  "12540": {
-   "changed": null,
-   "entry": null,
-   "i": null,
-   "qb1": null,
-   "t": "TEN"
-  },
   "12545": {
    "changed": null,
    "entry": null,
@@ -579,19 +607,24 @@
    "qb1": true,
    "t": "NO"
   },
+  "12718": {
+   "i": null,
+   "qb1": null,
+   "t": "LAR"
+  },
   "13268": {
-   "changed": "2026-11-22T21:47:11.637778+00:00",
+   "changed": "2026-11-25T14:25:45.783978+00:00",
    "entry": {
     "auto": true,
-    "dynastyAdj": 0.94,
+    "dynastyAdj": 0.95,
     "name": "Elijah Sarratt",
-    "note": "Sleeper now lists him out (coach's decision) as of 1:47 PM PT Nov 22. Earlier: Sarratt was a coach's-decision inactive Nov 16 while Ja'Kobi Lane took an 11-target role, so his Week 11 role is in question.",
-    "redraftAdj": 0.9,
+    "note": "Cleared: no longer on Sleeper's injury report (was out) as of 6:25 AM PT Nov 25. Earlier: He was a healthy scratch on Nov 22, his second straight coach's-decision inactive. He has no clear path to playing time in Baltimore without an injury.",
+    "redraftAdj": 0.98,
     "sleeperId": "13268",
-    "status": "Out",
+    "status": null,
     "tag": "injury"
    },
-   "i": "Out",
+   "i": null,
    "qb1": null,
    "t": "BAL"
   },
@@ -609,18 +642,18 @@
    "t": "LAR"
   },
   "13272": {
-   "changed": "2026-11-24T21:12:05.310619+00:00",
+   "changed": "2026-11-25T14:25:45.783978+00:00",
    "entry": {
     "auto": true,
-    "dynastyAdj": 1.05,
+    "dynastyAdj": 1.0,
     "name": "Carson Beck",
-    "note": "Sleeper's depth chart now has him as ARI's starting QB as of 1:12 PM PT Nov 24.",
-    "redraftAdj": 1.2,
+    "note": "Sleeper now lists him questionable (back) as of 6:25 AM PT Nov 25.",
+    "redraftAdj": 0.98,
     "sleeperId": "13272",
-    "status": "Out",
-    "tag": "role_up"
+    "status": "Questionable",
+    "tag": "injury"
    },
-   "i": "Out",
+   "i": "Questionable",
    "qb1": true,
    "t": "ARI"
   },
@@ -632,14 +665,34 @@
    "t": "PIT"
   },
   "13275": {
-   "changed": "2026-11-15T21:03:05.967553+00:00",
-   "i": "Out",
+   "changed": "2026-11-25T14:25:45.783978+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Ty Simpson",
+    "note": "Cleared: no longer on Sleeper's injury report (was out) as of 6:25 AM PT Nov 25.",
+    "redraftAdj": 0.98,
+    "sleeperId": "13275",
+    "status": null,
+    "tag": "injury"
+   },
+   "i": null,
    "qb1": false,
    "t": "LAR"
   },
   "13276": {
-   "changed": "2026-11-20T20:22:43.759513+00:00",
-   "i": "Out",
+   "changed": "2026-11-25T14:25:45.783978+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Omar Cooper Jr.",
+    "note": "Sleeper now lists him questionable (ankle) as of 6:25 AM PT Nov 25. Earlier: Cooper (ankle/hip) missed the Jets' Nov 22 win over the Chargers. It was his third ankle injury this year, and he could miss multiple weeks.",
+    "redraftAdj": 0.98,
+    "sleeperId": "13276",
+    "status": "Questionable",
+    "tag": "injury"
+   },
+   "i": "Questionable",
    "qb1": null,
    "t": "NYJ"
   },
@@ -691,34 +744,34 @@
    "t": "ARI"
   },
   "13288": {
-   "changed": "2026-11-22T21:47:11.637778+00:00",
+   "changed": "2026-11-25T14:25:45.783978+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 1.0,
     "name": "Nicholas Singleton",
-    "note": "Sleeper now lists him out (coach's decision) as of 1:47 PM PT Nov 22.",
-    "redraftAdj": 0.9,
+    "note": "Cleared: no longer on Sleeper's injury report (was out) as of 6:25 AM PT Nov 25.",
+    "redraftAdj": 0.98,
     "sleeperId": "13288",
-    "status": "Out",
+    "status": null,
     "tag": "injury"
    },
-   "i": "Out",
+   "i": null,
    "qb1": null,
    "t": "TEN"
   },
   "13289": {
-   "changed": "2026-11-22T21:47:11.637778+00:00",
+   "changed": "2026-11-25T14:25:45.783978+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 1.0,
     "name": "Drew Allar",
-    "note": "Sleeper now lists him out (coach's decision) as of 1:47 PM PT Nov 22.",
-    "redraftAdj": 0.9,
+    "note": "Cleared: no longer on Sleeper's injury report (was out) as of 6:25 AM PT Nov 25.",
+    "redraftAdj": 0.98,
     "sleeperId": "13289",
-    "status": "Out",
+    "status": null,
     "tag": "injury"
    },
-   "i": "Out",
+   "i": null,
    "qb1": false,
    "t": "PIT"
   },
@@ -754,18 +807,18 @@
    "t": "WAS"
   },
   "13302": {
-   "changed": "2026-11-22T21:47:11.637778+00:00",
+   "changed": "2026-11-25T14:25:45.783978+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 1.0,
     "name": "Adam Randall",
-    "note": "Sleeper now lists him out (coach's decision) as of 1:47 PM PT Nov 22.",
-    "redraftAdj": 0.9,
+    "note": "Cleared: no longer on Sleeper's injury report (was out) as of 6:25 AM PT Nov 25.",
+    "redraftAdj": 0.98,
     "sleeperId": "13302",
-    "status": "Out",
+    "status": null,
     "tag": "injury"
    },
-   "i": "Out",
+   "i": null,
    "qb1": null,
    "t": "BAL"
   },
@@ -783,24 +836,34 @@
    "t": "LV"
   },
   "13306": {
-   "changed": "2026-11-15T21:03:05.967553+00:00",
-   "i": "Out",
+   "changed": "2026-11-25T14:25:45.783978+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Taylen Green",
+    "note": "Cleared: no longer on Sleeper's injury report (was out) as of 6:25 AM PT Nov 25.",
+    "redraftAdj": 0.98,
+    "sleeperId": "13306",
+    "status": null,
+    "tag": "injury"
+   },
+   "i": null,
    "qb1": false,
    "t": "CLE"
   },
   "13311": {
-   "changed": "2026-11-22T21:47:11.637778+00:00",
+   "changed": "2026-11-25T14:25:45.783978+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 1.0,
     "name": "Chris Bell",
-    "note": "Sleeper now lists him questionable (chest) as of 1:47 PM PT Nov 22. Earlier: Bell (knee) was off the injury report as of Nov 20 after missing Week 10 and appears set to return Sunday vs. Buffalo.",
-    "redraftAdj": 0.98,
+    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 6:25 AM PT Nov 25.",
+    "redraftAdj": 1.0,
     "sleeperId": "13311",
-    "status": "Questionable",
+    "status": null,
     "tag": "injury"
    },
-   "i": "Questionable",
+   "i": null,
    "qb1": null,
    "t": "MIA"
   },
@@ -812,8 +875,18 @@
    "t": "TB"
   },
   "13320": {
-   "changed": "2026-11-13T20:29:41.047388+00:00",
-   "i": "Out",
+   "changed": "2026-11-25T14:25:45.783978+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Zachariah Branch",
+    "note": "Sleeper now lists him questionable (hamstring) as of 6:25 AM PT Nov 25. Earlier: Branch (hamstring) missed Weeks 9 and 10. Week 12 injury lists as of Nov 24 still show his status as TBD, and no practice return had been reported.",
+    "redraftAdj": 0.98,
+    "sleeperId": "13320",
+    "status": "Questionable",
+    "tag": "injury"
+   },
+   "i": "Questionable",
    "qb1": null,
    "t": "ATL"
   },
@@ -885,34 +958,34 @@
    "t": "PHI"
   },
   "13380": {
-   "changed": "2026-11-22T21:47:11.637778+00:00",
+   "changed": "2026-11-25T14:25:45.783978+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 1.0,
     "name": "Brenen Thompson",
-    "note": "Sleeper now lists him out (hamstring) as of 1:47 PM PT Nov 22. Earlier: Thompson (hamstring) is doubtful for Week 11 vs. the Jets after not practicing early in the week and missing three straight games. A fourth straight absence is likely.",
-    "redraftAdj": 0.88,
+    "note": "Sleeper now lists him questionable (hamstring) as of 6:25 AM PT Nov 25. Earlier: Sleeper upgraded him from out to questionable (hamstring) as of Nov 25, after he missed four straight games. That points to a possible return in Week 12 vs. New England, but the week's practice reports will decide it.",
+    "redraftAdj": 0.98,
     "sleeperId": "13380",
-    "status": "Out",
+    "status": "Questionable",
     "tag": "injury"
    },
-   "i": "Out",
+   "i": "Questionable",
    "qb1": null,
    "t": "LAC"
   },
   "13402": {
-   "changed": "2026-11-22T21:47:11.637778+00:00",
+   "changed": "2026-11-25T14:25:45.783978+00:00",
    "entry": {
     "auto": true,
-    "dynastyAdj": 1.0,
+    "dynastyAdj": 0.98,
     "name": "Skyler Bell",
-    "note": "Sleeper now lists him out (coach's decision) as of 1:47 PM PT Nov 22.",
-    "redraftAdj": 0.9,
+    "note": "Cleared: no longer on Sleeper's injury report (was out) as of 6:25 AM PT Nov 25. Earlier: Bell was a coach's-decision inactive for Week 11 vs. Miami on Nov 22, which leaves him outside Buffalo's receiver rotation for now.",
+    "redraftAdj": 0.98,
     "sleeperId": "13402",
-    "status": "Out",
+    "status": null,
     "tag": "injury"
    },
-   "i": "Out",
+   "i": null,
    "qb1": null,
    "t": "BUF"
   },
@@ -964,8 +1037,18 @@
    "t": "NO"
   },
   "13602": {
-   "changed": "2026-11-15T21:03:05.967553+00:00",
-   "i": "Out",
+   "changed": "2026-11-25T14:25:45.783978+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Jack Strand",
+    "note": "Cleared: no longer on Sleeper's injury report (was out) as of 6:25 AM PT Nov 25.",
+    "redraftAdj": 0.98,
+    "sleeperId": "13602",
+    "status": null,
+    "tag": "injury"
+   },
+   "i": null,
    "qb1": false,
    "t": "ATL"
   },
@@ -1028,18 +1111,18 @@
    "t": "DET"
   },
   "3198": {
-   "changed": "2026-11-22T21:47:11.637778+00:00",
+   "changed": "2026-11-25T14:25:45.783978+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 1.0,
     "name": "Derrick Henry",
-    "note": "Sleeper now lists him questionable (concussion) as of 1:47 PM PT Nov 22.",
-    "redraftAdj": 0.98,
+    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 6:25 AM PT Nov 25. Earlier: Henry cleared the concussion protocol after the Nov. 22 loss to Carolina, and he's expected to play in Week 12 vs. Houston.",
+    "redraftAdj": 1.0,
     "sleeperId": "3198",
-    "status": "Questionable",
+    "status": null,
     "tag": "injury"
    },
-   "i": "Questionable",
+   "i": null,
    "qb1": null,
    "t": "BAL"
   },
@@ -1139,18 +1222,18 @@
    "t": "SF"
   },
   "4866": {
-   "changed": "2026-11-23T02:45:44.326672+00:00",
+   "changed": "2026-11-25T14:25:45.783978+00:00",
    "entry": {
     "auto": true,
-    "dynastyAdj": 1.0,
+    "dynastyAdj": 0.99,
     "name": "Saquon Barkley",
-    "note": "Sleeper now lists him questionable (arm) as of 6:45 PM PT Nov 22.",
-    "redraftAdj": 0.98,
+    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 6:25 AM PT Nov 25. Earlier: Barkley (neck/stinger, illness) was upgraded to a full practice Tuesday, Nov. 24, and is expected to play Thursday at Dallas on Thanksgiving.",
+    "redraftAdj": 1.0,
     "sleeperId": "4866",
-    "status": "Questionable",
+    "status": null,
     "tag": "injury"
    },
-   "i": "Questionable",
+   "i": null,
    "qb1": null,
    "t": "PHI"
   },
@@ -1177,34 +1260,39 @@
    "t": "TB"
   },
   "4943": {
-   "changed": "2026-11-24T21:12:05.310619+00:00",
-   "entry": {
-    "auto": true,
-    "dynastyAdj": 1.05,
-    "name": "Sam Darnold",
-    "note": "Sleeper's depth chart now has him as SEA's starting QB as of 1:12 PM PT Nov 24.",
-    "redraftAdj": 1.2,
-    "sleeperId": "4943",
-    "status": "Out",
-    "tag": "role_up"
-   },
-   "i": "Out",
-   "qb1": true,
-   "t": "SEA"
-  },
-  "4983": {
-   "changed": "2026-11-22T21:47:11.637778+00:00",
+   "changed": "2026-11-25T14:25:45.783978+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 1.0,
-    "name": "DJ Moore",
-    "note": "Sleeper now lists him questionable (knee) as of 1:47 PM PT Nov 22.",
+    "name": "Sam Darnold",
+    "note": "Sleeper now lists him questionable (quadriceps) as of 6:25 AM PT Nov 25. Earlier: On Nov. 23 Mike Macdonald said the plan is for Darnold (quad, ribs) to return and start Nov. 29 vs. the 49ers. Watch this week's practice reports.",
     "redraftAdj": 0.98,
-    "sleeperId": "4983",
+    "sleeperId": "4943",
     "status": "Questionable",
     "tag": "injury"
    },
    "i": "Questionable",
+   "qb1": true,
+   "t": "SEA"
+  },
+  "4972": {
+   "i": null,
+   "qb1": false,
+   "t": "PIT"
+  },
+  "4983": {
+   "changed": "2026-11-25T14:25:45.783978+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "DJ Moore",
+    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 6:25 AM PT Nov 25. Earlier: He was left off Buffalo's first Week 12 injury report (week of Nov 24), so his knee/leg issue no longer looks like a concern. That follows 8 catches for 91 yards and a TD in Week 11.",
+    "redraftAdj": 1.0,
+    "sleeperId": "4983",
+    "status": null,
+    "tag": "injury"
+   },
+   "i": null,
    "qb1": null,
    "t": "BUF"
   },
@@ -1237,18 +1325,18 @@
    "t": "BAL"
   },
   "5022": {
-   "changed": "2026-11-24T00:51:54.349472+00:00",
+   "changed": "2026-11-25T14:25:45.783978+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 1.0,
     "name": "Dallas Goedert",
-    "note": "Sleeper now lists him questionable (shin) as of 4:51 PM PT Nov 23.",
-    "redraftAdj": 0.98,
+    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 6:25 AM PT Nov 25. Earlier: Goedert (shin) was upgraded to full on the Eagles' Tuesday, Nov 24 estimated report, and the team expects him to play against the Cowboys on Thanksgiving. He drew only 1 target in Week 11.",
+    "redraftAdj": 1.0,
     "sleeperId": "5022",
-    "status": "Questionable",
+    "status": null,
     "tag": "injury"
    },
-   "i": "Questionable",
+   "i": null,
    "qb1": null,
    "t": "PHI"
   },
@@ -1272,14 +1360,34 @@
    "t": "PIT"
   },
   "5849": {
-   "changed": "2026-11-14T01:27:19.760674+00:00",
-   "i": "Out",
+   "changed": "2026-11-25T14:25:45.783978+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Kyler Murray",
+    "note": "Sleeper now lists him questionable (hamstring) as of 6:25 AM PT Nov 25. Earlier: Minnesota is still targeting a Nov. 29 return vs. Atlanta from his Grade 2 hamstring strain. No Week 12 practice participation had been confirmed as of Nov. 24.",
+    "redraftAdj": 0.98,
+    "sleeperId": "5849",
+    "status": "Questionable",
+    "tag": "injury"
+   },
+   "i": "Questionable",
    "qb1": false,
    "t": "MIN"
   },
   "5850": {
-   "changed": "2026-11-09T21:56:50.246842+00:00",
-   "i": "Out",
+   "changed": "2026-11-25T14:25:45.783978+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Josh Jacobs",
+    "note": "Sleeper now lists him questionable (finger) as of 6:25 AM PT Nov 25. Earlier: Green Bay listed Jacobs (finger) as questionable for tonight's Nov. 25 game at the Rams, but Matt LaFleur said he is not expected to play. Reports say he hasn't progressed past individual conditioning work.",
+    "redraftAdj": 0.98,
+    "sleeperId": "5850",
+    "status": "Questionable",
+    "tag": "injury"
+   },
+   "i": "Questionable",
    "qb1": null,
    "t": "GB"
   },
@@ -1300,8 +1408,18 @@
    "t": "SEA"
   },
   "5859": {
-   "changed": "2026-11-15T21:03:05.967553+00:00",
-   "i": "Out",
+   "changed": "2026-11-25T14:25:45.783978+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "A.J. Brown",
+    "note": "Sleeper now lists him doubtful (hamstring) as of 6:25 AM PT Nov 25. Earlier: Sleeper now lists him doubtful (hamstring) for Week 12 at the Chargers on Nov 29. ESPN's Schefter reported he is expected to miss multiple weeks, and Vrabel said Tommy DeVito will start at QB in Week 12.",
+    "redraftAdj": 0.93,
+    "sleeperId": "5859",
+    "status": "Out",
+    "tag": "injury"
+   },
+   "i": "Doubtful",
    "qb1": null,
    "t": "NE"
   },
@@ -1404,18 +1522,18 @@
    "t": "CIN"
   },
   "6803": {
-   "changed": "2026-11-24T21:12:05.310619+00:00",
+   "changed": "2026-11-25T14:25:45.783978+00:00",
    "entry": {
     "auto": true,
-    "dynastyAdj": 1,
+    "dynastyAdj": 0.96,
     "name": "Brandon Aiyuk",
-    "note": "Sleeper shows he was released by SF as of 1:12 PM PT Nov 24; check his new role.",
-    "redraftAdj": 1,
+    "note": "Cleared: no longer on Sleeper's injury report (was out (did not report)) as of 6:25 AM PT Nov 25. Earlier: The 49ers released him and he cleared waivers on Nov 24. He has not signed anywhere yet, but his agent says he visits Washington on Nov 25 and is expected to work out there. He has not played since his October 2024 knee injury, and reports suggest any deal this season could start on a practice squad.",
+    "redraftAdj": 0.98,
     "sleeperId": "6803",
-    "status": "",
-    "tag": "rumor"
+    "status": null,
+    "tag": "injury"
    },
-   "i": "DNR",
+   "i": null,
    "qb1": null,
    "t": null
   },
@@ -1532,13 +1650,6 @@
    "qb1": null,
    "t": "ATL"
   },
-  "7562": {
-   "changed": null,
-   "entry": null,
-   "i": null,
-   "qb1": null,
-   "t": "LAR"
-  },
   "7564": {
    "changed": "2026-10-29T20:54:49.159155+00:00",
    "i": null,
@@ -1591,14 +1702,34 @@
    "t": "NE"
   },
   "8110": {
-   "changed": "2026-11-09T22:55:51.717456+00:00",
-   "i": "Out",
+   "changed": "2026-11-25T14:25:45.783978+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Jake Ferguson",
+    "note": "Sleeper now lists him doubtful (knee) as of 6:25 AM PT Nov 25.",
+    "redraftAdj": 0.93,
+    "sleeperId": "8110",
+    "status": "Out",
+    "tag": "injury"
+   },
+   "i": "Doubtful",
    "qb1": null,
    "t": "DAL"
   },
   "8112": {
-   "changed": "2026-11-16T01:03:15.914551+00:00",
-   "i": "Questionable",
+   "changed": "2026-11-25T14:25:45.783978+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Drake London",
+    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 6:25 AM PT Nov 25. Earlier: Sleeper has dropped his questionable (head) tag as of Nov 25, after reports said he cleared a concussion check during Atlanta's Week 11 bye. He looks on track for Week 12 at Minnesota.",
+    "redraftAdj": 1.0,
+    "sleeperId": "8112",
+    "status": null,
+    "tag": "injury"
+   },
+   "i": null,
    "qb1": null,
    "t": "ATL"
   },
@@ -1695,14 +1826,34 @@
    "t": "DET"
   },
   "8150": {
-   "changed": "2026-11-21T23:17:50.915758+00:00",
-   "i": "Questionable",
+   "changed": "2026-11-25T14:25:45.783978+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Kyren Williams",
+    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 6:25 AM PT Nov 25. Earlier: Williams (toe) has no injury designation for tonight's Nov. 25 game vs. Green Bay after practicing fully, so he is set to play. He is still likely to share some work with Blake Corum.",
+    "redraftAdj": 1.0,
+    "sleeperId": "8150",
+    "status": null,
+    "tag": "injury"
+   },
+   "i": null,
    "qb1": null,
    "t": "LAR"
   },
   "8151": {
-   "changed": "2026-11-21T02:16:51.905620+00:00",
-   "i": "Out",
+   "changed": "2026-11-25T14:25:45.783978+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Kenneth Walker III",
+    "note": "Sleeper now lists him questionable (groin) as of 6:25 AM PT Nov 25. Earlier: Walker (groin) returned to practice as a limited participant Tuesday, Nov. 24, his first practice since Week 10. Andy Reid wouldn't commit to him playing Thursday vs. Buffalo and said he's 'not anticipating a ton of work.' Game designations come Wednesday.",
+    "redraftAdj": 0.98,
+    "sleeperId": "8151",
+    "status": "Questionable",
+    "tag": "injury"
+   },
+   "i": "Questionable",
    "qb1": null,
    "t": "KC"
   },
@@ -1790,6 +1941,11 @@
    "qb1": true,
    "t": "CAR"
   },
+  "9229": {
+   "i": null,
+   "qb1": true,
+   "t": "IND"
+  },
   "9480": {
    "changed": null,
    "entry": null,
@@ -1842,13 +1998,6 @@
    "qb1": null,
    "t": "KC"
   },
-  "9501": {
-   "changed": null,
-   "entry": null,
-   "i": null,
-   "qb1": null,
-   "t": "NE"
-  },
   "9502": {
    "changed": "2026-11-12T22:57:00.227365+00:00",
    "i": null,
@@ -1892,8 +2041,18 @@
    "t": "SEA"
   },
   "9756": {
-   "changed": "2026-11-15T21:03:05.967553+00:00",
-   "i": "Out",
+   "changed": "2026-11-25T14:25:45.783978+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Jordan Addison",
+    "note": "Sleeper now lists him doubtful (thumb) as of 6:25 AM PT Nov 25. Earlier: Addison (thumb surgery) missed Week 11. Week 12 reports on Nov 24 say he is recovering well but is unlikely to play this week, and Tai Felton has been taking his targets.",
+    "redraftAdj": 0.93,
+    "sleeperId": "9756",
+    "status": "Out",
+    "tag": "injury"
+   },
+   "i": "Doubtful",
    "qb1": null,
    "t": "MIN"
   },
