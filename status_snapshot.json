@@ -333,16 +333,6 @@
   },
   "12467": {
    "changed": "2026-11-23T02:45:44.326672+00:00",
-   "entry": {
-    "auto": true,
-    "dynastyAdj": 1.0,
-    "name": "Jordan James",
-    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 6:45 PM PT Nov 22. Earlier: James (calf) is questionable for Sunday's game vs. Minnesota in Mexico City after limited practices Thursday and Friday (Nov. 19-20). His recent role has been mostly kick returns.",
-    "redraftAdj": 1.0,
-    "sleeperId": "12467",
-    "status": null,
-    "tag": "injury"
-   },
    "i": null,
    "qb1": null,
    "t": "SF"
@@ -508,8 +498,18 @@
    "t": "LAC"
   },
   "12510": {
-   "changed": "2026-10-21T07:53:53.206089+00:00",
-   "i": null,
+   "changed": "2026-11-26T08:20:03.162473+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Jalen Milroe",
+    "note": "Sleeper now lists him questionable (illness) as of 12:20 AM PT Nov 26.",
+    "redraftAdj": 0.98,
+    "sleeperId": "12510",
+    "status": "Questionable",
+    "tag": "injury"
+   },
+   "i": "Questionable",
    "qb1": false,
    "t": "SEA"
   },
@@ -668,18 +668,18 @@
    "t": "PIT"
   },
   "13275": {
-   "changed": "2026-11-25T14:25:45.783978+00:00",
+   "changed": "2026-11-26T08:20:03.162473+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 1.0,
     "name": "Ty Simpson",
-    "note": "Cleared: no longer on Sleeper's injury report (was out) as of 6:25 AM PT Nov 25.",
-    "redraftAdj": 0.98,
+    "note": "Sleeper now lists him out (coach's decision) as of 12:20 AM PT Nov 26.",
+    "redraftAdj": 0.9,
     "sleeperId": "13275",
-    "status": null,
+    "status": "Out",
     "tag": "injury"
    },
-   "i": null,
+   "i": "Out",
    "qb1": false,
    "t": "LAR"
   },
@@ -1142,8 +1142,18 @@
    "t": "BAL"
   },
   "3271": {
-   "changed": "2026-11-14T01:27:19.760674+00:00",
-   "i": null,
+   "changed": "2026-11-26T08:20:03.162473+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Tyler Higbee",
+    "note": "Sleeper now lists him out (chest) as of 12:20 AM PT Nov 26.",
+    "redraftAdj": 0.9,
+    "sleeperId": "3271",
+    "status": "Out",
+    "tag": "injury"
+   },
+   "i": "Out",
    "qb1": null,
    "t": "LAR"
   },
@@ -1253,18 +1263,18 @@
    "t": "TB"
   },
   "4943": {
-   "changed": "2026-11-25T14:25:45.783978+00:00",
+   "changed": "2026-11-26T08:20:03.162473+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 1.0,
     "name": "Sam Darnold",
-    "note": "Sleeper now lists him questionable (quadriceps) as of 6:25 AM PT Nov 25. Earlier: On Nov. 23 Mike Macdonald said the plan is for Darnold (quad, ribs) to return and start Nov. 29 vs. the 49ers. Watch this week's practice reports.",
-    "redraftAdj": 0.98,
+    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 12:20 AM PT Nov 26.",
+    "redraftAdj": 1.0,
     "sleeperId": "4943",
-    "status": "Questionable",
+    "status": null,
     "tag": "injury"
    },
-   "i": "Questionable",
+   "i": null,
    "qb1": true,
    "t": "SEA"
   },
@@ -1380,34 +1390,34 @@
    "t": "MIN"
   },
   "5850": {
-   "changed": "2026-11-25T14:25:45.783978+00:00",
+   "changed": "2026-11-26T08:20:03.162473+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 1.0,
     "name": "Josh Jacobs",
-    "note": "Sleeper now lists him questionable (finger) as of 6:25 AM PT Nov 25. Earlier: Green Bay listed Jacobs (finger) as questionable for tonight's Nov. 25 game at the Rams, but Matt LaFleur said he is not expected to play. Reports say he hasn't progressed past individual conditioning work.",
-    "redraftAdj": 0.98,
+    "note": "Sleeper now lists him out (finger) as of 12:20 AM PT Nov 26.",
+    "redraftAdj": 0.9,
     "sleeperId": "5850",
-    "status": "Questionable",
+    "status": "Out",
     "tag": "injury"
    },
-   "i": "Questionable",
+   "i": "Out",
    "qb1": null,
    "t": "GB"
   },
   "5854": {
-   "changed": "2026-11-24T21:12:05.310619+00:00",
+   "changed": "2026-11-26T08:20:03.162473+00:00",
    "entry": {
     "auto": true,
-    "dynastyAdj": 0.95,
+    "dynastyAdj": 0.97,
     "name": "Drew Lock",
-    "note": "Sleeper's depth chart now has him as SEA's backup QB as of 1:12 PM PT Nov 24.",
-    "redraftAdj": 0.8,
+    "note": "Sleeper now lists him questionable (elbow) as of 12:20 AM PT Nov 26. Earlier: Sam Darnold is expected to return and start Nov. 29 vs. the 49ers, per Mike Macdonald on Nov. 23, which sends Lock back to the bench.",
+    "redraftAdj": 0.75,
     "sleeperId": "5854",
-    "status": "",
-    "tag": "role_down"
+    "status": "Questionable",
+    "tag": "injury"
    },
-   "i": null,
+   "i": "Questionable",
    "qb1": false,
    "t": "SEA"
   },
@@ -1515,16 +1525,6 @@
   },
   "6797": {
    "changed": "2026-11-23T02:45:44.326672+00:00",
-   "entry": {
-    "auto": true,
-    "dynastyAdj": 1.0,
-    "name": "Justin Herbert",
-    "note": "Sleeper now lists him questionable (concussion) as of 6:45 PM PT Nov 22.",
-    "redraftAdj": 0.98,
-    "sleeperId": "6797",
-    "status": "Questionable",
-    "tag": "injury"
-   },
    "i": "Questionable",
    "qb1": true,
    "t": "LAC"
@@ -1900,8 +1900,18 @@
    "t": "MIA"
   },
   "8167": {
-   "changed": "2026-11-06T20:55:44.714709+00:00",
-   "i": null,
+   "changed": "2026-11-26T08:20:03.162473+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Christian Watson",
+    "note": "Sleeper now lists him out (concussion) as of 12:20 AM PT Nov 26. Earlier: Footballguys lists Jayden Reed (neck) out for Green Bay's Nov 25 game at the Rams. That should mean more targets for Watson.",
+    "redraftAdj": 0.9,
+    "sleeperId": "8167",
+    "status": "Out",
+    "tag": "injury"
+   },
+   "i": "Out",
    "qb1": null,
    "t": "GB"
   },
@@ -2016,8 +2026,18 @@
    "t": "JAX"
   },
   "9488": {
-   "changed": "2026-10-14T23:38:38.292011+00:00",
-   "i": null,
+   "changed": "2026-11-26T08:20:03.162473+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Jaxon Smith-Njigba",
+    "note": "Sleeper now lists him questionable (ankle) as of 12:20 AM PT Nov 26.",
+    "redraftAdj": 0.98,
+    "sleeperId": "9488",
+    "status": "Questionable",
+    "tag": "injury"
+   },
+   "i": "Questionable",
    "qb1": null,
    "t": "SEA"
   },

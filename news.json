@@ -31,21 +31,22 @@
     {
       "sleeperId": "4943",
       "name": "Sam Darnold",
-      "note": "Sleeper now lists him questionable (quadriceps) as of 6:25 AM PT Nov 25. Earlier: On Nov. 23 Mike Macdonald said the plan is for Darnold (quad, ribs) to return and start Nov. 29 vs. the 49ers. Watch this week's practice reports.",
+      "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 12:20 AM PT Nov 26.",
       "tag": "injury",
-      "redraftAdj": 0.98,
+      "redraftAdj": 1.0,
       "dynastyAdj": 1.0,
-      "status": "Questionable",
+      "status": null,
       "auto": true
     },
     {
       "sleeperId": "5854",
       "name": "Drew Lock",
-      "note": "Sam Darnold is expected to return and start Nov. 29 vs. the 49ers, per Mike Macdonald on Nov. 23, which sends Lock back to the bench.",
-      "tag": "role_down",
+      "note": "Sleeper now lists him questionable (elbow) as of 12:20 AM PT Nov 26. Earlier: Sam Darnold is expected to return and start Nov. 29 vs. the 49ers, per Mike Macdonald on Nov. 23, which sends Lock back to the bench.",
+      "tag": "injury",
       "redraftAdj": 0.75,
       "dynastyAdj": 0.97,
-      "status": ""
+      "status": "Questionable",
+      "auto": true
     },
     {
       "sleeperId": "5849",
@@ -177,11 +178,11 @@
     {
       "sleeperId": "5850",
       "name": "Josh Jacobs",
-      "note": "Sleeper now lists him questionable (finger) as of 6:25 AM PT Nov 25. Earlier: Green Bay listed Jacobs (finger) as questionable for tonight's Nov. 25 game at the Rams, but Matt LaFleur said he is not expected to play. Reports say he hasn't progressed past individual conditioning work.",
+      "note": "Sleeper now lists him out (finger) as of 12:20 AM PT Nov 26.",
       "tag": "injury",
-      "redraftAdj": 0.98,
+      "redraftAdj": 0.9,
       "dynastyAdj": 1.0,
-      "status": "Questionable",
+      "status": "Out",
       "auto": true
     },
     {
@@ -580,11 +581,12 @@
     {
       "sleeperId": "8167",
       "name": "Christian Watson",
-      "note": "Footballguys lists Jayden Reed (neck) out for Green Bay's Nov 25 game at the Rams. That should mean more targets for Watson.",
-      "tag": "role_up",
-      "redraftAdj": 1.04,
+      "note": "Sleeper now lists him out (concussion) as of 12:20 AM PT Nov 26. Earlier: Footballguys lists Jayden Reed (neck) out for Green Bay's Nov 25 game at the Rams. That should mean more targets for Watson.",
+      "tag": "injury",
+      "redraftAdj": 0.9,
       "dynastyAdj": 1.0,
-      "status": ""
+      "status": "Out",
+      "auto": true
     },
     {
       "sleeperId": "12483",
@@ -897,11 +899,11 @@
     {
       "sleeperId": "13275",
       "name": "Ty Simpson",
-      "note": "Cleared: no longer on Sleeper's injury report (was out) as of 6:25 AM PT Nov 25.",
+      "note": "Sleeper now lists him out (coach's decision) as of 12:20 AM PT Nov 26.",
       "tag": "injury",
-      "redraftAdj": 0.98,
+      "redraftAdj": 0.9,
       "dynastyAdj": 1.0,
-      "status": null,
+      "status": "Out",
       "auto": true
     },
     {
@@ -1083,7 +1085,37 @@
       "dynastyAdj": 1.0,
       "status": "Questionable",
       "auto": true
+    },
+    {
+      "sleeperId": "12510",
+      "name": "Jalen Milroe",
+      "note": "Sleeper now lists him questionable (illness) as of 12:20 AM PT Nov 26.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
+      "status": "Questionable",
+      "auto": true
+    },
+    {
+      "sleeperId": "3271",
+      "name": "Tyler Higbee",
+      "note": "Sleeper now lists him out (chest) as of 12:20 AM PT Nov 26.",
+      "tag": "injury",
+      "redraftAdj": 0.9,
+      "dynastyAdj": 1.0,
+      "status": "Out",
+      "auto": true
+    },
+    {
+      "sleeperId": "9488",
+      "name": "Jaxon Smith-Njigba",
+      "note": "Sleeper now lists him questionable (ankle) as of 12:20 AM PT Nov 26.",
+      "tag": "injury",
+      "redraftAdj": 0.98,
+      "dynastyAdj": 1.0,
+      "status": "Questionable",
+      "auto": true
     }
   ],
-  "statusChecked": "3:37 PM PT Nov 25"
+  "statusChecked": "12:20 AM PT Nov 26"
 }
