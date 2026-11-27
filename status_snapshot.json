@@ -33,18 +33,18 @@
    "t": "ARI"
   },
   "10236": {
-   "changed": "2026-11-25T14:25:45.783978+00:00",
+   "changed": "2026-11-27T02:11:04.120406+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 1.0,
     "name": "Dalton Kincaid",
-    "note": "Sleeper now lists him questionable (thumb) as of 6:25 AM PT Nov 25. Earlier: Kincaid (thumb) was estimated as limited on Monday and Tuesday ahead of Thursday's Week 12 game against the Chiefs, and reports call him 'most likely' to play. He missed Week 11.",
-    "redraftAdj": 0.98,
+    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 6:11 PM PT Nov 26. Earlier: Kincaid (thumb) is questionable for the Bills' Thanksgiving game against the Chiefs on Nov 26. He was limited on the Monday and Tuesday estimated reports and is considered likely to play after missing Week 11.",
+    "redraftAdj": 1.0,
     "sleeperId": "10236",
-    "status": "Questionable",
+    "status": null,
     "tag": "injury"
    },
-   "i": "Questionable",
+   "i": null,
    "qb1": null,
    "t": "BUF"
   },
@@ -109,8 +109,18 @@
    "t": "ATL"
   },
   "11560": {
-   "changed": "2026-10-18T16:41:56.765540+00:00",
-   "i": null,
+   "changed": "2026-11-27T02:11:04.120406+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Caleb Williams",
+    "note": "Sleeper now lists him questionable (undisclosed) as of 6:11 PM PT Nov 26.",
+    "redraftAdj": 0.98,
+    "sleeperId": "11560",
+    "status": "Questionable",
+    "tag": "injury"
+   },
+   "i": "Questionable",
    "qb1": true,
    "t": "CHI"
   },
@@ -230,18 +240,18 @@
    "t": "NYJ"
   },
   "11628": {
-   "changed": "2026-11-25T14:25:45.783978+00:00",
+   "changed": "2026-11-27T02:11:04.120406+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 1.0,
     "name": "Marvin Harrison Jr.",
-    "note": "Sleeper now lists him questionable (hamstring) as of 6:25 AM PT Nov 25. Earlier: Harrison (hamstring) missed Week 11, and Week 12 reports as of Nov 24 conflict: Footballguys lists him as questionable while Fantasy Index has him out. Tank Dell would see more work if he sits.",
-    "redraftAdj": 0.98,
+    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 6:11 PM PT Nov 26. Earlier: Harrison (hamstring strain) is listed questionable for Week 12 on Sleeper as of Nov 25 after missing Week 11. Tank Dell would see more work if he sits.",
+    "redraftAdj": 1.0,
     "sleeperId": "11628",
-    "status": "Questionable",
+    "status": null,
     "tag": "injury"
    },
-   "i": "Questionable",
+   "i": null,
    "qb1": null,
    "t": "HOU"
   },
@@ -394,16 +404,6 @@
   },
   "12490": {
    "changed": "2026-11-24T00:51:54.349472+00:00",
-   "entry": {
-    "auto": true,
-    "dynastyAdj": 0.99,
-    "name": "Bhayshul Tuten",
-    "note": "Sleeper now lists him questionable (undisclosed) as of 4:51 PM PT Nov 23. Earlier: Tuten (left ankle/foot) limped off in the fourth quarter of the Nov. 22 game vs. the Giants and did not return, after 10 carries for 33 yards and 3 catches for 20. He had been playing through a high ankle sprain, no imaging results have been reported, and Sleeper lists him questionable.",
-    "redraftAdj": 0.82,
-    "sleeperId": "12490",
-    "status": "Questionable",
-    "tag": "injury"
-   },
    "i": "Questionable",
    "qb1": null,
    "t": "JAX"
@@ -463,18 +463,18 @@
    "t": "GB"
   },
   "12506": {
-   "changed": "2026-11-25T23:37:44.114959+00:00",
+   "changed": "2026-11-27T02:11:04.120406+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 1.0,
     "name": "Harold Fannin Jr.",
-    "note": "Sleeper now lists him questionable (groin) as of 3:37 PM PT Nov 25.",
-    "redraftAdj": 0.98,
+    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 6:11 PM PT Nov 26. Earlier: Fannin (groin) was limited at Wednesday's Week 12 practice and is listed questionable, but reports do not consider his availability in serious doubt.",
+    "redraftAdj": 1.0,
     "sleeperId": "12506",
-    "status": "Questionable",
+    "status": null,
     "tag": "injury"
    },
-   "i": "Questionable",
+   "i": null,
    "qb1": null,
    "t": "CLE"
   },
@@ -591,16 +591,6 @@
   },
   "12533": {
    "changed": "2026-11-24T00:51:54.349472+00:00",
-   "entry": {
-    "auto": true,
-    "dynastyAdj": 1.01,
-    "name": "Jacory Croskey-Merritt",
-    "note": "Cleared: no longer on Sleeper's injury report (was on injured reserve) as of 4:51 PM PT Nov 23. Earlier: Croskey-Merritt (groin) was designated to return from IR Nov. 17 and is expected back for tonight's Nov. 23 MNF game vs. Cincinnati. Sleeper still showed him on IR Monday morning, so check that he's active; a split with Rachaad White is likely.",
-    "redraftAdj": 0.98,
-    "sleeperId": "12533",
-    "status": null,
-    "tag": "injury"
-   },
    "i": null,
    "qb1": null,
    "t": "WAS"
@@ -977,18 +967,18 @@
    "t": "LAC"
   },
   "13402": {
-   "changed": "2026-11-25T14:25:45.783978+00:00",
+   "changed": "2026-11-27T02:11:04.120406+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 0.98,
     "name": "Skyler Bell",
-    "note": "Cleared: no longer on Sleeper's injury report (was out) as of 6:25 AM PT Nov 25. Earlier: Bell was a coach's-decision inactive for Week 11 vs. Miami on Nov 22, which leaves him outside Buffalo's receiver rotation for now.",
-    "redraftAdj": 0.98,
+    "note": "Sleeper now lists him out (coach's decision) as of 6:11 PM PT Nov 26.",
+    "redraftAdj": 0.9,
     "sleeperId": "13402",
-    "status": null,
+    "status": "Out",
     "tag": "injury"
    },
-   "i": null,
+   "i": "Out",
    "qb1": null,
    "t": "BUF"
   },
@@ -1102,18 +1092,18 @@
    "t": "NYG"
   },
   "2449": {
-   "changed": "2026-11-25T23:37:44.114959+00:00",
+   "changed": "2026-11-27T02:11:04.120406+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 0.98,
     "name": "Stefon Diggs",
-    "note": "Sleeper now lists him questionable (personal) as of 3:37 PM PT Nov 25. Earlier: Diggs caught 4 of 6 targets for 45 yards in the 22-20 MNF win over Cincinnati on Nov 23. Rookie Antonio Williams (9-122) led Washington's receivers and set up the winning field goal.",
-    "redraftAdj": 0.95,
+    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 6:11 PM PT Nov 26. Earlier: Diggs is listed questionable for Week 12 (personal) as of Nov 25. Rookie Antonio Williams (9-122 on Nov 23) has overtaken him as Washington's lead receiver.",
+    "redraftAdj": 1.0,
     "sleeperId": "2449",
-    "status": "Questionable",
+    "status": null,
     "tag": "injury"
    },
-   "i": "Questionable",
+   "i": null,
    "qb1": null,
    "t": "WAS"
   },
@@ -1245,18 +1235,18 @@
    "t": "SF"
   },
   "4866": {
-   "changed": "2026-11-25T14:25:45.783978+00:00",
+   "changed": "2026-11-27T02:11:04.120406+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 0.99,
     "name": "Saquon Barkley",
-    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 6:25 AM PT Nov 25. Earlier: Barkley (neck/stinger, illness) was upgraded to a full practice Tuesday, Nov. 24, and is expected to play Thursday at Dallas on Thanksgiving.",
-    "redraftAdj": 1.0,
+    "note": "Sleeper now lists him questionable (neck) as of 6:11 PM PT Nov 26.",
+    "redraftAdj": 0.98,
     "sleeperId": "4866",
-    "status": null,
+    "status": "Questionable",
     "tag": "injury"
    },
-   "i": null,
+   "i": "Questionable",
    "qb1": null,
    "t": "PHI"
   },
@@ -1335,9 +1325,18 @@
    "t": "CIN"
   },
   "5001": {
-   "changed": null,
-   "entry": null,
-   "i": null,
+   "changed": "2026-11-27T02:11:04.120406+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Dalton Schultz",
+    "note": "Sleeper now lists him questionable (illness) as of 6:11 PM PT Nov 26.",
+    "redraftAdj": 0.98,
+    "sleeperId": "5001",
+    "status": "Questionable",
+    "tag": "injury"
+   },
+   "i": "Questionable",
    "qb1": null,
    "t": "HOU"
   },
@@ -1349,18 +1348,18 @@
    "t": "BAL"
   },
   "5022": {
-   "changed": "2026-11-25T14:25:45.783978+00:00",
+   "changed": "2026-11-27T02:11:04.120406+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 1.0,
     "name": "Dallas Goedert",
-    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 6:25 AM PT Nov 25. Earlier: Goedert (shin) was upgraded to full on the Eagles' Tuesday, Nov 24 estimated report, and the team expects him to play against the Cowboys on Thanksgiving. He drew only 1 target in Week 11.",
-    "redraftAdj": 1.0,
+    "note": "Sleeper now lists him out (shoulder) as of 6:11 PM PT Nov 26.",
+    "redraftAdj": 0.9,
     "sleeperId": "5022",
-    "status": null,
+    "status": "Out",
     "tag": "injury"
    },
-   "i": null,
+   "i": "Out",
    "qb1": null,
    "t": "PHI"
   },
@@ -1591,8 +1590,18 @@
    "t": "IND"
   },
   "6819": {
-   "changed": "2026-10-14T03:27:13.405269+00:00",
-   "i": "IR",
+   "changed": "2026-11-27T02:11:04.120406+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Michael Pittman Jr.",
+    "note": "Cleared: no longer on Sleeper's injury report (was on injured reserve) as of 6:11 PM PT Nov 26. Earlier: Pittman (foot) remained on IR on Sleeper as of Nov 25, though Mike McCarthy has said he is 'very confident' Pittman returns for Week 12 vs. Denver. Watch for an activation before kickoff.",
+    "redraftAdj": 0.98,
+    "sleeperId": "6819",
+    "status": null,
+    "tag": "injury"
+   },
+   "i": null,
    "qb1": null,
    "t": "PIT"
   },
@@ -1684,18 +1693,18 @@
    "t": "HOU"
   },
   "7571": {
-   "changed": "2026-11-25T23:37:44.114959+00:00",
+   "changed": "2026-11-27T02:11:04.120406+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 1.0,
     "name": "Rashod Bateman",
-    "note": "Sleeper now lists him questionable (groin) as of 3:37 PM PT Nov 25.",
-    "redraftAdj": 0.98,
+    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 6:11 PM PT Nov 26.",
+    "redraftAdj": 1.0,
     "sleeperId": "7571",
-    "status": "Questionable",
+    "status": null,
     "tag": "injury"
    },
-   "i": "Questionable",
+   "i": null,
    "qb1": null,
    "t": "BAL"
   },
@@ -1807,16 +1816,6 @@
   },
   "8136": {
    "changed": "2026-11-24T00:51:54.349472+00:00",
-   "entry": {
-    "auto": true,
-    "dynastyAdj": 0.98,
-    "name": "Rachaad White",
-    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 4:51 PM PT Nov 23. Earlier: White (heel) is questionable for tonight's Nov. 23 MNF game vs. Cincinnati after limited practices, though he's expected to play. Jacory Croskey-Merritt's likely return from IR points to a split backfield.",
-    "redraftAdj": 1.0,
-    "sleeperId": "8136",
-    "status": null,
-    "tag": "injury"
-   },
    "i": null,
    "qb1": null,
    "t": "WAS"
@@ -2029,9 +2028,18 @@
    "t": "PHI"
   },
   "9487": {
-   "changed": null,
-   "entry": null,
-   "i": null,
+   "changed": "2026-11-27T02:11:04.120406+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 1.0,
+    "name": "Parker Washington",
+    "note": "Sleeper now lists him questionable (shoulder) as of 6:11 PM PT Nov 26. Earlier: Washington drew 17 targets on Nov 22 (8-103), cementing his lead role in Jacksonville's injury-thinned receiver room.",
+    "redraftAdj": 0.98,
+    "sleeperId": "9487",
+    "status": "Questionable",
+    "tag": "injury"
+   },
+   "i": "Questionable",
    "qb1": null,
    "t": "JAX"
   },
@@ -2118,18 +2126,18 @@
    "t": "HOU"
   },
   "9997": {
-   "changed": "2026-11-25T23:37:44.114959+00:00",
+   "changed": "2026-11-27T02:11:04.120406+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 1.0,
     "name": "Zay Flowers",
-    "note": "Sleeper now lists him questionable (ankle) as of 3:37 PM PT Nov 25.",
-    "redraftAdj": 0.98,
+    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 6:11 PM PT Nov 26. Earlier: Flowers (ankle) is listed questionable for Week 12 on Sleeper as of Nov 25.",
+    "redraftAdj": 1.0,
     "sleeperId": "9997",
-    "status": "Questionable",
+    "status": null,
     "tag": "injury"
    },
-   "i": "Questionable",
+   "i": null,
    "qb1": null,
    "t": "BAL"
   }
