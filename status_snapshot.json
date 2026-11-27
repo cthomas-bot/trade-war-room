@@ -428,13 +428,6 @@
    "qb1": null,
    "t": "MIA"
   },
-  "12499": {
-   "changed": null,
-   "entry": null,
-   "i": null,
-   "qb1": null,
-   "t": "TEN"
-  },
   "12500": {
    "changed": null,
    "entry": null,
@@ -645,18 +638,18 @@
    "t": "LAR"
   },
   "13272": {
-   "changed": "2026-11-25T14:25:45.783978+00:00",
+   "changed": "2026-11-27T19:57:45.660552+00:00",
    "entry": {
     "auto": true,
-    "dynastyAdj": 1.0,
+    "dynastyAdj": 0.99,
     "name": "Carson Beck",
-    "note": "Sleeper now lists him questionable (back) as of 6:25 AM PT Nov 25.",
-    "redraftAdj": 0.98,
+    "note": "Sleeper now lists him out (back) as of 11:57 AM PT Nov 27. Earlier: He missed his second straight practice on Thursday, Nov. 26 with back spasms, which puts his Week 12 start in doubt.",
+    "redraftAdj": 0.75,
     "sleeperId": "13272",
-    "status": "Questionable",
+    "status": "Out",
     "tag": "injury"
    },
-   "i": "Questionable",
+   "i": "Out",
    "qb1": true,
    "t": "ARI"
   },
@@ -684,18 +677,18 @@
    "t": "LAR"
   },
   "13276": {
-   "changed": "2026-11-25T14:25:45.783978+00:00",
+   "changed": "2026-11-27T19:57:45.660552+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 1.0,
     "name": "Omar Cooper Jr.",
-    "note": "Sleeper now lists him questionable (ankle) as of 6:25 AM PT Nov 25. Earlier: Cooper (ankle/hip) missed the Jets' Nov 22 win over the Chargers. It was his third ankle injury this year, and he could miss multiple weeks.",
-    "redraftAdj": 0.98,
+    "note": "Sleeper now lists him out (ankle) as of 11:57 AM PT Nov 27. Earlier: Cooper (ankle, his third ankle injury this year) remains questionable for Week 12 on Sleeper as of Nov 27 after missing the Jets' Nov 22 game.",
+    "redraftAdj": 0.9,
     "sleeperId": "13276",
-    "status": "Questionable",
+    "status": "Out",
     "tag": "injury"
    },
-   "i": "Questionable",
+   "i": "Out",
    "qb1": null,
    "t": "NYJ"
   },
@@ -753,18 +746,18 @@
    "t": "TEN"
   },
   "13289": {
-   "changed": "2026-11-25T14:25:45.783978+00:00",
+   "changed": "2026-11-27T19:57:45.660552+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 1.0,
     "name": "Drew Allar",
-    "note": "Cleared: no longer on Sleeper's injury report (was out) as of 6:25 AM PT Nov 25.",
-    "redraftAdj": 0.98,
+    "note": "Sleeper now lists him out (coach's decision) as of 11:57 AM PT Nov 27.",
+    "redraftAdj": 0.9,
     "sleeperId": "13289",
-    "status": null,
+    "status": "Out",
     "tag": "injury"
    },
-   "i": null,
+   "i": "Out",
    "qb1": false,
    "t": "PIT"
   },
@@ -868,18 +861,18 @@
    "t": "TB"
   },
   "13320": {
-   "changed": "2026-11-25T14:25:45.783978+00:00",
+   "changed": "2026-11-27T19:57:45.660552+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 1.0,
     "name": "Zachariah Branch",
-    "note": "Sleeper now lists him questionable (hamstring) as of 6:25 AM PT Nov 25. Earlier: Branch (hamstring) missed Weeks 9 and 10. Week 12 injury lists as of Nov 24 still show his status as TBD, and no practice return had been reported.",
-    "redraftAdj": 0.98,
+    "note": "Sleeper now lists him out (hamstring) as of 11:57 AM PT Nov 27. Earlier: Branch (hamstring) remains questionable for Week 12 on Sleeper as of Nov 27 after missing Weeks 9-11.",
+    "redraftAdj": 0.9,
     "sleeperId": "13320",
-    "status": "Questionable",
+    "status": "Out",
     "tag": "injury"
    },
-   "i": "Questionable",
+   "i": "Out",
    "qb1": null,
    "t": "ATL"
   },
@@ -965,6 +958,11 @@
    "i": "Questionable",
    "qb1": null,
    "t": "LAC"
+  },
+  "13394": {
+   "i": null,
+   "qb1": null,
+   "t": "JAX"
   },
   "13402": {
    "changed": "2026-11-27T02:11:04.120406+00:00",
@@ -1140,22 +1138,6 @@
    "i": null,
    "qb1": true,
    "t": "BAL"
-  },
-  "3271": {
-   "changed": "2026-11-26T08:20:03.162473+00:00",
-   "entry": {
-    "auto": true,
-    "dynastyAdj": 1.0,
-    "name": "Tyler Higbee",
-    "note": "Sleeper now lists him out (chest) as of 12:20 AM PT Nov 26.",
-    "redraftAdj": 0.9,
-    "sleeperId": "3271",
-    "status": "Out",
-    "tag": "injury"
-   },
-   "i": "Out",
-   "qb1": null,
-   "t": "LAR"
   },
   "3294": {
    "changed": null,
@@ -1431,18 +1413,18 @@
    "t": "SEA"
   },
   "5859": {
-   "changed": "2026-11-25T14:25:45.783978+00:00",
+   "changed": "2026-11-27T19:57:45.660552+00:00",
    "entry": {
     "auto": true,
-    "dynastyAdj": 1.0,
+    "dynastyAdj": 0.99,
     "name": "A.J. Brown",
-    "note": "Sleeper now lists him doubtful (hamstring) as of 6:25 AM PT Nov 25. Earlier: Sleeper now lists him doubtful (hamstring) for Week 12 at the Chargers on Nov 29. ESPN's Schefter reported he is expected to miss multiple weeks, and Vrabel said Tommy DeVito will start at QB in Week 12.",
-    "redraftAdj": 0.93,
+    "note": "Sleeper now lists him out (hamstring) as of 11:57 AM PT Nov 27. Earlier: He did not practice Nov 25 (hamstring), and Mike Vrabel told WEEI he would not expect Brown to play Week 12 at the Chargers. Reports say he is expected to miss multiple weeks, including Week 13 vs. Buffalo.",
+    "redraftAdj": 0.85,
     "sleeperId": "5859",
     "status": "Out",
     "tag": "injury"
    },
-   "i": "Doubtful",
+   "i": "Out",
    "qb1": null,
    "t": "NE"
   },
@@ -1612,8 +1594,18 @@
    "t": "PHI"
   },
   "7002": {
-   "changed": "2026-11-22T21:47:11.637778+00:00",
-   "i": "Questionable",
+   "changed": "2026-11-27T19:57:45.660552+00:00",
+   "entry": {
+    "auto": true,
+    "dynastyAdj": 0.99,
+    "name": "Juwan Johnson",
+    "note": "Sleeper now lists him out (hamstring) as of 11:57 AM PT Nov 27. Earlier: Johnson (hamstring/wrist) missed practice again on Thursday, Nov 26, his second straight DNP, and Kellen Moore calls him day-to-day ahead of Sunday's game at Cincinnati. Noah Fant would take on more work if he sits.",
+    "redraftAdj": 0.7,
+    "sleeperId": "7002",
+    "status": "Out",
+    "tag": "injury"
+   },
+   "i": "Out",
    "qb1": null,
    "t": "NO"
   },
@@ -2038,18 +2030,18 @@
    "t": "PHI"
   },
   "9487": {
-   "changed": "2026-11-27T02:11:04.120406+00:00",
+   "changed": "2026-11-27T19:57:45.660552+00:00",
    "entry": {
     "auto": true,
     "dynastyAdj": 1.0,
     "name": "Parker Washington",
-    "note": "Sleeper now lists him questionable (shoulder) as of 6:11 PM PT Nov 26. Earlier: Washington drew 17 targets on Nov 22 (8-103), cementing his lead role in Jacksonville's injury-thinned receiver room.",
-    "redraftAdj": 0.98,
+    "note": "Sleeper now lists him out (shoulder) as of 11:57 AM PT Nov 27. Earlier: Washington is listed questionable with a shoulder injury on Sleeper as of Nov 27, a new designation after he drew 17 targets (8-103) on Nov 22.",
+    "redraftAdj": 0.9,
     "sleeperId": "9487",
-    "status": "Questionable",
+    "status": "Out",
     "tag": "injury"
    },
-   "i": "Questionable",
+   "i": "Out",
    "qb1": null,
    "t": "JAX"
   },
