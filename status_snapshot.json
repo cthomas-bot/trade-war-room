@@ -599,6 +599,8 @@
    "t": "LAR"
   },
   "12773": {
+   "changed": null,
+   "entry": null,
    "i": null,
    "qb1": true,
    "t": "LAC"
@@ -1383,22 +1385,6 @@
    "qb1": null,
    "t": "GB"
   },
-  "5854": {
-   "changed": "2026-11-28T02:41:35.898291+00:00",
-   "entry": {
-    "auto": true,
-    "dynastyAdj": 0.97,
-    "name": "Drew Lock",
-    "note": "Cleared: no longer on Sleeper's injury report (was questionable) as of 6:41 PM PT Nov 27. Earlier: With Sam Darnold returning as Seattle's starter for Nov. 29 vs. San Francisco, Lock goes back to the bench. Sleeper also lists him questionable (elbow).",
-    "redraftAdj": 1.0,
-    "sleeperId": "5854",
-    "status": null,
-    "tag": "injury"
-   },
-   "i": null,
-   "qb1": false,
-   "t": "SEA"
-  },
   "5859": {
    "changed": "2026-11-27T19:57:45.660552+00:00",
    "entry": {
@@ -1656,6 +1642,11 @@
    "i": null,
    "qb1": null,
    "t": "DEN"
+  },
+  "7527": {
+   "i": null,
+   "qb1": true,
+   "t": "SF"
   },
   "7528": {
    "changed": "2026-10-20T16:45:05.219350+00:00",
